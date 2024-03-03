@@ -1,13 +1,13 @@
-# venteng.github.io
-Huei-Wen Teng's webpage
-
+# Huei-Wen Teng 鄧惠文 webpage
 
 ## About me 
 
-I am currently an Associate Professor at National Yang Ming Chiao Tung University. I am interested in financial data analytics, statistics, Monte Carlo methods, and interdisciplinary applications. 
+I am currently an Associate Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University. I am interested in data analytics, FinTech, financial engineering, statistical models, machine learning, and Monte Carlo methods. 
 
 Google Scholar: [HDPf0-IAAAAJ](https://scholar.google.com/citations?user=HDPf0-IAAAAJ&hl=en)
+
 SSRN: [378952](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3789459)
+
 GitHUB: [venteng](https://venteng.github.io)
 
 
@@ -35,17 +35,6 @@ GitHUB: [venteng](https://venteng.github.io)
     - Thesis: On pricing rainbow options
  - *[National Taiwan University](https://www.ntu.edu.tw/)*
      - BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
-
-
-<!---
-## Teaching 
- [Metaverse! 前進元宇宙](https://hackmd.io/RyNu7V3nToaT6Qb2WQujjw?both)-- Statistics
-- Mathematical Statistics
-- Machine Learning & FinTech
--->
-
-<!-- - Bayesian Modeling and Markov Chain Monte Carlo Simulation 
--->
 
 
 ## Research interests
