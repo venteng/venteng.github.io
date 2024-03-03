@@ -50,13 +50,14 @@ GitHUB: [venteng](https://venteng.github.io)
 
 ## Research interests
 
-- Financial analytics 
+- Data analytics
+- FinTech 
 - Financial engineering
 - Monte Carlo methods
+- Statistical methods
+- Machine Learning
 
 ## More...
 
-- [Curriculum Vitae](https://drive.google.com/file/d/1bZhXIwuKa2TTpIlQ9C8TGSL_nsBvVQjy/view?usp=drive_link)
-- [Bio](https://hackmd.io/QxqSyPUZT-uew0HsfHp3Hg)
 - [Academic Advisees 導生分享](https://hackmd.io/nf4uLb40TUW2axK_jCLQLA)
 
