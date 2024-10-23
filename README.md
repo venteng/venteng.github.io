@@ -61,10 +61,6 @@
  [Metaverse! 前進元宇宙](https://hackmd.io/RyNu7V3nToaT6Qb2WQujjw?both)-- Statistics
 - Mathematical Statistics
 - Machine Learning & FinTech
--->
-
-<!-- - Bayesian Modeling and Markov Chain Monte Carlo Simulation 
--->
 
 ## 觀點分享 (Thoughts & Insights)
 
@@ -74,6 +70,10 @@
 - [鄧惠文/碩士生可能會想知道的?](https://hackmd.io/7XA3UFoCRjqT1kW6E4HZbw)
 - [鄧惠文/導生分享](https://hackmd.io/nf4uLb40TUW2axK_jCLQLA)
 
+-->
+
+
 ## Additional Resources
 
 - [第四屆玉山會議 The Fourth Yushan Conference](https://yushan-conference.notion.site/4th-Yushan-Conference-9e9d4beb98e64e5c928e5e0680c80d67)
+- [觀點分享Thoughts & Insights]()
