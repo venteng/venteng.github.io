@@ -54,18 +54,17 @@
 
 ### [The Pennsylvania State University](https://www.psu.edu/)
 
-#### Ph.D. [Statistics](https://science.psu.edu/stat), 2010
+- Ph.D. [Statistics](https://science.psu.edu/stat), 2010
 - Adviser: [Prof. John Liechty](http://www.personal.psu.edu/faculty/j/c/jcl12/)
 - Dissertation: Bayesian nonparametric approaches for financial option pricing
 
 
 ### [National Taiwan University](https://www.ntu.edu.tw/)
 
-#### MBA [Finance](https://management.ntu.edu.tw/Fin), 2004
+- MBA [Finance](https://management.ntu.edu.tw/Fin), 2004
 - Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)
 - Thesis: On pricing rainbow options
-
-#### BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
+- BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
 
 
 <!---
