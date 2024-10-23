@@ -32,7 +32,7 @@
     </ul>
   </div>  
   <div style="width: 28%; text-align: right;">
-    <img src="https://github.com/user-attachments/assets/a38b8893-c895-4fbe-bd08-57e2c4268258" alt="NYCU Logo" style="width: 28%; max-width: 150px;"/>
+    <img src="https://github.com/user-attachments/assets/a38b8893-c895-4fbe-bd08-57e2c4268258" alt="NYCU Logo" style="width: 100%; max-width: 150px;"/>
   </div>
 </div>
 
