@@ -53,17 +53,37 @@
 
 ## Education 
 
-### [The Pennsylvania State University](https://www.psu.edu/)
-- Ph.D. [Statistics](https://science.psu.edu/stat), 2010
-<!--- - Adviser: [Prof. John Liechty](http://www.personal.psu.edu/faculty/j/c/jcl12/)
-- Dissertation: Bayesian nonparametric approaches for financial option pricing --->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
+  <div style="width: 62%;">
+    <h3><a href="https://www.psu.edu/">The Pennsylvania State University</a></h3>    
+      <h4><a href="https://science.psu.edu/stat">Statistics</a>, Ph.D. 2010</h4>
+    <ul>
+      <li>Adviser: <a href="http://www.personal.psu.edu/faculty/j/c/jcl12/">Prof. John Liechty</a></li>
+      <li>Dissertation: Bayesian nonparametric approaches for financial option pricing</li>
+    </ul>
+  </div>  
+  <div style="width: 38%; text-align: right;">
+    <img src="https://github.com/user-attachments/assets/b8720259-643c-4662-836e-21cb1b220682" alt="PSU Logo" style="width: 100%; max-width: 150px;"/>
+  </div>
+</div>
 
-### [National Taiwan University](https://www.ntu.edu.tw/)
 
-- MBA [Finance](https://management.ntu.edu.tw/Fin), 2004
-<!--- Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)
-- Thesis: On pricing rainbow options --->
-- BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
+  <div style="width: 62%;">
+    <h3><a href="https://www.ntu.edu.tw/">National Taiwan University</a></h3>    
+    <h4><a href="https://management.ntu.edu.tw/Fin">Finance</a>, MBA 2004</h4>
+    <ul>
+      <li>Adviser: <a href="https://www.csie.ntu.edu.tw/~lyuu/">Prof. Yuh-Dauh Lyuu</a></li>
+      <li>Thesis: On pricing rainbow options</li>
+    </ul>    
+    <h4><a href="http://www.math.ntu.edu.tw/">Mathematics</a>, BS 2001</h4>
+  </div>
+  
+  <div style="width: 38%; text-align: right;">
+    <img src="https://github.com/user-attachments/assets/a2cdde62-09e2-485e-a64c-5f63b023994b" alt="NTU Logo" style="width: 100%; max-width: 150px;"/>
+  </div>
+</div>
 
 
 ## Additional Resources
