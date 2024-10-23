@@ -17,15 +17,25 @@
 
 ## Academic Positions
 
-### [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)
 
-#### [Department of Information Management and Finance](https://imf.nctu.edu.tw)
-- Professor,  8/2024--Present
-- Associate Professor, 2/2017--7/2024
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
+  <div style="width: 72%;">
+    <h3><a href="https://www.nycu.edu.tw/">National Yang Ming Chiao Tung University</a></h3>    
+    <h4><a href="https://imf.nctu.edu.tw/">Department of Information Management and Finance</a></h4>
+    <ul>
+      <li>Professor, 8/2024--Present</li>
+      <li>Associate Professor, 2/2017--7/2024</li>
+    </ul>    
+    <h4><a href="https://stat.nycu.edu.tw/">Institute of Statistics</a></h4>
+    <ul>
+      <li>Joint appointment, 9/2017--Present</li>
+    </ul>
+  </div>  
+  <div style="width: 28%; text-align: right;">
+    <img src="https://github.com/user-attachments/assets/a38b8893-c895-4fbe-bd08-57e2c4268258" alt="NYCU Logo" style="width: 28%; max-width: 150px;"/>
+  </div>
+</div>
 
-#### [Institute of Statistics](https://stat.nycu.edu.tw/)
-
-- Joint appointment, 9/2017--Present
 
 ### [IDA, Institute of Digital Assets](https://ida.ase.ro)
 
@@ -56,6 +66,18 @@
 - Thesis: On pricing rainbow options
 - BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
 
+
+
+## Additional Resources
+
+- [第四屆玉山會議 The Fourth Yushan Conference](https://yushan-conference.notion.site/4th-Yushan-Conference-9e9d4beb98e64e5c928e5e0680c80d67)
+- [觀點分享Thoughts & Insights]()
+
+
+
+
+
+
 <!---
 ## Teaching 
  [Metaverse! 前進元宇宙](https://hackmd.io/RyNu7V3nToaT6Qb2WQujjw?both)-- Statistics
@@ -69,11 +91,5 @@
 - [鄧惠文/資財系大一新鮮人可能會想知道的？](https://hackmd.io/7XkdaE4yRAKAs2FIiEG5Lw)
 - [鄧惠文/碩士生可能會想知道的?](https://hackmd.io/7XA3UFoCRjqT1kW6E4HZbw)
 - [鄧惠文/導生分享](https://hackmd.io/nf4uLb40TUW2axK_jCLQLA)
-
 -->
 
-
-## Additional Resources
-
-- [第四屆玉山會議 The Fourth Yushan Conference](https://yushan-conference.notion.site/4th-Yushan-Conference-9e9d4beb98e64e5c928e5e0680c80d67)
-- [觀點分享Thoughts & Insights]()
