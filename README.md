@@ -51,6 +51,8 @@
 - Joint Appointment, 8/2016--1/2017
 
 
+
+<!---
 ## Education 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
@@ -67,8 +69,6 @@
   </div>
 </div>
 
-
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 62%;">
     <h3><a href="https://www.ntu.edu.tw/">National Taiwan University</a></h3>    
@@ -83,6 +83,7 @@
     <img src="https://github.com/user-attachments/assets/a2cdde62-09e2-485e-a64c-5f63b023994b" alt="NTU Logo" style="width: 100%; max-width: 150px;"/>
   </div>
 </div>
+--->
 
 
 ## Additional Resources
