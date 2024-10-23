@@ -17,33 +17,44 @@
 
 ## Academic Positions
 
-[National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)
-- Professor, [Department of Information Management and Finance](https://imf.nctu.edu.tw), 8/2024--Present
-- Associate Professor, [Department of Information Management and Finance](https://imf.nctu.edu.tw), 2/2017--Present
-- Joint appointment, [Institute of Statistics](https://stat.nycu.edu.tw/), 9/2017--Present
+### [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)
 
-[IDA, Institute of Digital Assets](https://ida.ase.ro)
+#### [Department of Information Management and Finance](https://imf.nctu.edu.tw)
+- Professor,  8/2024--Present
+- Associate Professor, 2/2017--Present
+
+#### [Institute of Statistics](https://stat.nycu.edu.tw/)
+
+- Joint appointment, 9/2017--Present
+
+### [IDA, Institute of Digital Assets](https://ida.ase.ro)
+
 - Experienced Researcher, 4/2024--Present
 
-[National Central University](https://www.ncu.edu.tw)
-- Associate Professor, [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/), 8/2016--1/2017
-- Assistant Professor, [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/), 8/2010--7/2016
-- Joint Appointment, [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW), 8/2016--1/2017
+### [National Central University](https://www.ncu.edu.tw)
+
+####  [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/)
+
+- Associate Professor, 8/2016--1/2017
+- Assistant Professor, 8/2010--7/2016
+
+#### [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW)
+- Joint Appointment, 8/2016--1/2017
 
 
 ## Education 
 
-[The Pennsylvania State University](https://www.psu.edu/)
+### [The Pennsylvania State University](https://www.psu.edu/)
 - Ph.D. [Statistics](https://science.psu.edu/stat), 2010
 - Adviser: [Prof. John Liechty](http://www.personal.psu.edu/faculty/j/c/jcl12/)
 - Dissertation: Bayesian nonparametric approaches for financial option pricing
 
-[National Taiwan University](https://www.ntu.edu.tw/)
+### [National Taiwan University](https://www.ntu.edu.tw/)
+
 - MBA [Finance](https://management.ntu.edu.tw/Fin), 2004
 - Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)
 - Thesis: On pricing rainbow options
 - BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
-
 
 <!---
 ## Teaching 
