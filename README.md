@@ -1,6 +1,6 @@
 # Huei-Wen Teng 鄧惠文
 
-## About  
+## Biography  
 
 <div style="display: flex; align-items: center;">
   <img src="https://i.imgur.com/K3qUn90.jpg" style="width: 38%; margin-right: 20px;"/>
@@ -10,11 +10,13 @@
     SSRN: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3789459">378952</a><br>  
     GitHub: <a href="https://github.com/venteng">venteng</a><br>  
     Email: venteng@gmail.com  
+    [Bio](https://hackmd.io/QxqSyPUZT-uew0HsfHp3Hg)
+
   </div>
 </div>
 
 
-## Academic positions
+## Academic Positions
 
 [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)
 - Professor, [Department of Information Management and Finance](https://imf.nctu.edu.tw), 8/2024--Present
@@ -54,7 +56,7 @@
 <!-- - Bayesian Modeling and Markov Chain Monte Carlo Simulation 
 -->
 
-## 觀點分享
+## 觀點分享 (Thoughts & Insights)
 
 - [鄧惠文/台灣精算師職涯發展與前景 (Oct 19, 2024)](https://hackmd.io/@hwteng/BkDmb-xlkl)
 - [鄧惠文/我怎麼轉換跑道，從數學系變成財金所的呢？](https://hackmd.io/7XkdaE4yRAKAs2FIiEG5Lw)
@@ -62,6 +64,6 @@
 - [鄧惠文/碩士生可能會想知道的?](https://hackmd.io/7XA3UFoCRjqT1kW6E4HZbw)
 - [鄧惠文/導生分享](https://hackmd.io/nf4uLb40TUW2axK_jCLQLA)
 
-## More...
-- [Bio](https://hackmd.io/QxqSyPUZT-uew0HsfHp3Hg)
+## Additional Resources
+
 - [第四屆玉山會議 The Fourth Yushan Conference](https://yushan-conference.notion.site/4th-Yushan-Conference-9e9d4beb98e64e5c928e5e0680c80d67)
