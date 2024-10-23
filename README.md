@@ -17,7 +17,6 @@
 
 ## Academic Positions
 
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 62%;">
     <h3><a href="https://www.nycu.edu.tw/">National Yang Ming Chiao Tung University</a></h3>    
@@ -56,16 +55,15 @@
 
 ### [The Pennsylvania State University](https://www.psu.edu/)
 - Ph.D. [Statistics](https://science.psu.edu/stat), 2010
-- Adviser: [Prof. John Liechty](http://www.personal.psu.edu/faculty/j/c/jcl12/)
-- Dissertation: Bayesian nonparametric approaches for financial option pricing
+<!--- - Adviser: [Prof. John Liechty](http://www.personal.psu.edu/faculty/j/c/jcl12/)
+- Dissertation: Bayesian nonparametric approaches for financial option pricing --->
 
 ### [National Taiwan University](https://www.ntu.edu.tw/)
 
 - MBA [Finance](https://management.ntu.edu.tw/Fin), 2004
-- Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)
-- Thesis: On pricing rainbow options
+<!--- Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)
+- Thesis: On pricing rainbow options --->
 - BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
-
 
 
 ## Additional Resources
