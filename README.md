@@ -19,7 +19,7 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
-  <div style="width: 72%;">
+  <div style="width: 62%;">
     <h3><a href="https://www.nycu.edu.tw/">National Yang Ming Chiao Tung University</a></h3>    
     <h4><a href="https://imf.nctu.edu.tw/">Department of Information Management and Finance</a></h4>
     <ul>
@@ -31,7 +31,7 @@
       <li>Joint appointment, 9/2017--Present</li>
     </ul>
   </div>  
-  <div style="width: 28%; text-align: right;">
+  <div style="width: 38%; text-align: right;">
     <img src="https://github.com/user-attachments/assets/a38b8893-c895-4fbe-bd08-57e2c4268258" alt="NYCU Logo" style="width: 100%; max-width: 150px;"/>
   </div>
 </div>
