@@ -78,8 +78,7 @@
       <li>Thesis: On pricing rainbow options</li>
     </ul>    
     <h4><a href="http://www.math.ntu.edu.tw/">Mathematics</a>, BS 2001</h4>
-  </div>
-  
+  </div>  
   <div style="width: 38%; text-align: right;">
     <img src="https://github.com/user-attachments/assets/a2cdde62-09e2-485e-a64c-5f63b023994b" alt="NTU Logo" style="width: 100%; max-width: 150px;"/>
   </div>
