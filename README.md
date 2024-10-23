@@ -21,7 +21,7 @@
 
 #### [Department of Information Management and Finance](https://imf.nctu.edu.tw)
 - Professor,  8/2024--Present
-- Associate Professor, 2/2017--Present
+- Associate Professor, 2/2017--7/2024
 
 #### [Institute of Statistics](https://stat.nycu.edu.tw/)
 
