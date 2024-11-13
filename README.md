@@ -66,6 +66,8 @@
 - Thesis: On pricing rainbow options
 - BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
 
+### [Johannanes Kepler University, Austria](https://www.google.com/search?client=safari&rls=en&q=johannes+kepler+universit%C3%A4t+linz&ie=UTF-8&oe=UTF-8)
+- Exchange student, Aug 1999 to Jan 2000
 
 <!---
 ## Education 
