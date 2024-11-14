@@ -1,4 +1,9 @@
-# LAB recruitments
+---
+layout: default
+title: thoughts README
+—
+
+# LAB Recruitment
 
 
 ## Aims: TOGETHER, WE GO FAR! 
@@ -9,23 +14,18 @@ Our research topics now focus on quantitative methods (statistical methods, mach
 - Digital assets
 - ESG
 - Credit scoring
-- Weath and risk management
+- Trading and portfolio management 
+- Financial risk management
 
 ## Procedures in training students: Master student in the regular treck 
 
 Paste the table. 
 
-
 ## Previous students and their achievements
 
 
 
-
-
-
-
 ## PhD/Job/Intern offers
-
 
 ### 20240907 
 
