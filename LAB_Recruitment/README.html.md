@@ -1,7 +1,7 @@
 ---
 layout: default
-title: thoughts README
-—--
+title: Actuary Thoughts
+---
 
 # LAB Recruitment
 
