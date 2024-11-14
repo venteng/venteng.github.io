@@ -102,12 +102,13 @@
 </div>
 --->
 
-
-## Additional Resources
+## Upcoming Events
 
 - [The Fourth Yushan Conference (Dec 5-6, 2024) 第四屆玉山會議 ](https://yushan-conference.notion.site/4th-Yushan-Conference-9e9d4beb98e64e5c928e5e0680c80d67)
-- Lab Recruitment
-- Teaching
+
+## Additional Resources
+- Lab Recruitment 實驗室夥伴招募
+- Teaching 教學
 - [Thoughts & Insights 觀點分享](https://github.com/venteng/venteng.github.io/blob/main/more.md)
 
 <!---
