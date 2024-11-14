@@ -8,9 +8,7 @@ title: Actuary Thoughts
 
 ## Aims: TOGETHER, WE GO FAR! 
 
-Our lab seeks students of passion of knowledge and concense the importance of transpency and reproducibility of scientic research.
-
-Our research topics now focus on quantitative methods (statistical methods, machine learning, AI) to solve real-life problems. Particularly, we are focusing on the following topics: 
+Our lab seeks students of passion of knowledge, concense the importance of transpency and reproducibility of scientic research, and with personality of resielence and optimism. Our research topics now focus on quantitative methods (statistical methods, machine learning, AI) to solve real-life problems. Particularly, we are focusing on the following topics: 
 - Digital Assets
 - ESG
 - Credit Scoring
@@ -19,7 +17,28 @@ Our research topics now focus on quantitative methods (statistical methods, mach
 
 ## Procedures in training students: Master student in the regular treck 
 
-Paste the table. 
+| **Year** | **Month** | **Task**          |
+|----------|-----------|-------------------|
+| T        | 1         |                   |
+|          | 2         |                   |
+|          | 3         |                   |
+|          | 4         |                   |
+|          | 5         |                   |
+|          | 6         |                   |
+|          | 7         |                   |
+|          | 8         |                   |
+|          | 9         | ORSTW             |
+|          | 10        | ORSTW             |
+|          | 11        | ORSTW             |
+|          | 12        |                   |
+| T + 1    | 1         | PROPOSAL          |
+|          | 2         |                   |
+|          | 3         |                   |
+|          | 4         | SSC               |
+|          | 5         | SSC               |
+|          | 6         | ORAL EXAM         |
+|          | 7         | SSRN, THESE AWARDS|
+
 
 
 ## Previous students and their achievements
