@@ -109,7 +109,7 @@
 ## Additional Resources
 - Lab Recruitment 實驗室夥伴招募
 - Teaching 教學
-- [Thoughts & Insights 觀點分享](https://github.com/venteng/venteng.github.io/blob/main/more.md)
+- [Thoughts & Insights 觀點分享](https://venteng.github.io/thoughts/README.html)
 
 <!---
 
