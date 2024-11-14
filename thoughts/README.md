@@ -1,6 +1,11 @@
+---
+layout: default
+title: Actuary Thoughts
+theme: minima
+---
+
+
 # 觀點分享 (Thoughts & Insights)
-
-
 
 - [鄧惠文/台灣精算師職涯發展與前景 (Oct 19, 2024)](https://venteng.github.io/thoughts/20241019actuary.html)
 - [鄧惠文/我怎麼轉換跑道，從數學系變成財金所呢？](https://hackmd.io/7XkdaE4yRAKAs2FIiEG5Lw)
