@@ -154,9 +154,6 @@ Our lab seeks students of passion of knowledge, concense the importance of trans
 - **吳嘉洋** &nbsp;&nbsp;&nbsp;&nbsp; 6/2011  
   **Jia-Yang Wu**, Copula-Based Time Series with Applications to Unemployment Rates Modeling
 
-
-
-
 ### Undergraduate Projects
 
 - **鄭有朋, 王鳴謙, 李語涵, 吳珮慈, 許晉** &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
@@ -174,11 +171,7 @@ Our lab seeks students of passion of knowledge, concense the importance of trans
   Time Series Forecasting in Credit Scoring Model  
   ⭐ 林睿瑜榮獲 109 年度科技部大專生計畫，Time Series Forecasting in Credit Scoring Model，計畫編號：MOS109-2813-C-009-069-H。
 
-
-
-
-
-## PhD/Job/Intern offers
+## Other Opportunities
 
 ### 20240907 
 
@@ -187,14 +180,10 @@ Our lab seeks students of passion of knowledge, concense the importance of trans
 Dear COST network
 
 I hope you’re all doing well. On behalf of Charles Martinez, G-Research, I wanted to share that G-Research, an associate partner in our MSCA Industrial Doctoral Network on Digital Finance, has just launched internship applications for the following positions:
-Internship in Quantitative Research
-
-Machine Learning Research Internship
-
-Additionally, their Spring Week applications  are now open.
-
+[Internship in Quantitative Research](https://www.gresearch.com/vacancy/R2736-Internship-in-Quantitative-Research/)
+[Machine Learning Research Internship](https://www.gresearch.com/vacancy/R2737-Machine-Learning-Research-Internship/)
+Additionally, their [Spring Week](https://share-eu1.hsforms.com/1_TvOLOfQQcW8jS2rJmG8hg2b8apt) applications  are now open.
 It would be greatly appreciated if you could share these opportunities with your students or anyone in your network who might be interested.
-
 Many thanks in advance for your support!
 
 Best regards
