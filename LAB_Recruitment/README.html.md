@@ -32,7 +32,6 @@ We strongly encourage our students to showcase their research at conferences and
 - 崇越論文大賞
 - 台灣銀行碩士論文獎
 
-
 | Year | Month | Task          |
 |----------|-----------|-------------------|
 | T        | 1         |                   |
@@ -57,12 +56,10 @@ We strongly encourage our students to showcase their research at conferences and
 
 ## Previous students and their achievements
 
-⭐: Indicates rewards or publications derived from thesis work.
+⭐ Indicates rewards or publications derived from thesis work.
 
 ### National Yang Ming Chiao Tung University
-
 #### Department of Information Management and Finance
-
 - 陳彥廷 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Yen-Ting Chen, Exploring Multifaceted Drivers for Bitcoin Return Analysis  
 - 鄭翔澧, 臺灣高市值產業的金融風險指標 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
@@ -72,10 +69,26 @@ We strongly encourage our students to showcase their research at conferences and
 - 潘俞綺, 估計比特幣選擇權之定價核：新冠疫情前後分析 &nbsp;&nbsp;&nbsp;&nbsp; 8/2023  
   Yu-Ci Pan, On BTC Option Pricing Kernels: Pre- and Post-Pandemic Analysis  
 - 呂映葇, 台灣期交所黃金選擇權的實證分析 &nbsp;&nbsp;&nbsp;&nbsp; 8/2022  
-  Ying-Rou Lu, Empirical Analysis for Gold Options in Taiwan Futures Exchange  
+  Ying-Rou Lu, Empirical Analysis for Gold Options in Taiwan Futures Exchange
+- 李育賢, 傳統方法與機器學習在資產定價上的實證比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
+  Yu-Hsien Bill Li, An Empirical Comparison between Traditional Methods and Machine Learning in Asset Pricing Models  
+  ⭐ \citet*{teng2020machine}; \citet*{teng2023can}  
+  *Department of Information Management and Finance*
+- 吳哲杭, 多元 GARCH 模型與投資組合管理在上海證交所 A 股的實證比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
+  Zhe-Hang Jeff Wu, An Empirical Comparison of Multivariate GARCH Models with a Portfolio Management Application for the A-Share in Shanghai Stock Exchange  
+  *Department of Information Management and Finance*
+- 林益嘉, 基於深度學習之時間序列因子於信用評級模型 &nbsp;&nbsp;&nbsp;&nbsp; 6/2019  
+  Yi-Chia Kelly Lin, Deep Time-Series Feature Extraction in Credit Scoring Models  
+  *Department of Information Management and Finance*
+- 許至妤, 基於巴塞爾協議在金融風險管理中 VaR 估計的實證研究 &nbsp;&nbsp;&nbsp;&nbsp; 6/2019  
+  Chih-Yu Emma Hsu, An Empirical Investigation on Estimations of VaR in Financial Risk Management Based on Basel Accords  
+  *Department of Information Management and Finance*
+- 陳奕翔, 機器學習中的 Boosting 方法及其在信用風險管理違約預測中的應用 &nbsp;&nbsp;&nbsp;&nbsp; 7/2019  
+  Yi-Xiang Arikson Chen, On Boosting Methods in Machine Learning with Applications in Delinquency Prediction for Credit Risk Management  
+  *Department of Information Management and Finance*
+
 
 #### Institute of Data Science and Engineering, co-advised with Prof. Chu-Lan Kao
-
 - 李亦涵, 分群後分類方法於二元分類不平衡問題: 應用於信用評分模型 &nbsp;&nbsp;&nbsp;&nbsp; 8/2022  
   I-Han Lee, Cluster-then-Predict for Binary Classification with Imbalance Problem: Applications of Credit Scoring Models  
   *Institute of Data Science and Engineering, co-advised with Prof. Chu-Lan Kao*  
@@ -90,10 +103,13 @@ We strongly encourage our students to showcase their research at conferences and
 - 張尚文, $L$-各向同性多維常態分佈之最大概似估計與其應用 &nbsp;&nbsp;&nbsp;&nbsp; 8/2021  
   Shang-Wen Chang, Maximum Likelihood Estimate of $L$-Isotropic Multivariate Normal Distributions and Its Applications  
   ⭐ \citet*{teng2020machine}
-
-
+- 趙祥安, Heston 隨機波動率模型與 NGARCH 選擇權定價模型在匯率連動選擇權上之實證比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
+  Xiang-An Zhao, An Empirical Comparison between the Heston Stochastic Volatility Model and the NGARCH Model in Pricing Quanto Options  
+  ⭐ \citet*{teng2021pricing}  
+- 黃春僖, 分群技術在大型資產配置的應用 &nbsp;&nbsp;&nbsp;&nbsp; 6/2019  
+  Chun-Xi Simon Huang, Large Portfolio Management with Clustering Techniques  
+  
 ### Graduate Institute of Statistics, National Central University
-
 - 葉惠瑄 &nbsp;&nbsp;&nbsp;&nbsp; 6/2017  
   Huei-Hsuan Yeh, A Multivariate Markov Switching Model for Portfolio Optimization
 - 應劭玄, 在馬可夫轉換模型下的資產配置 &nbsp;&nbsp;&nbsp;&nbsp; 6/2017  
