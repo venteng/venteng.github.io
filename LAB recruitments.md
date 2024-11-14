@@ -1,10 +1,22 @@
 # LAB recruitments
 
 
-## Aims
+## Aims: TOGETHER, WE GO FAR! 
+
+Our lab seeks students of passion of knowledge and concense the importance of transpency and reproducibility of scientic research.
+
+Our research topics now focus on quantitative methods (statistical methods, machine learning, AI) to solve real-life problems. Particularly, we are focusing on the following topics: 
+- Digital assets
+- ESG
+- Credit scoring
+- Weath and risk management
+
+## Procedures in training students: Master student in the regular treck 
+
+Paste the table. 
 
 
-My lab seeks students of passion of knowledge and concense the 
+## Previous students and their achievements
 
 
 
