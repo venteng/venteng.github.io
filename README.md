@@ -107,7 +107,7 @@
 - [The Fourth Yushan Conference (Dec 5-6, 2024) 第四屆玉山會議 ](https://yushan-conference.notion.site/4th-Yushan-Conference-9e9d4beb98e64e5c928e5e0680c80d67)
 
 ## Additional Resources
-- Lab Recruitment 實驗室夥伴招募
+- [Lab Recruitment 實驗室夥伴招募](https://venteng.github.io/LAB_Recruitment/README.html)
 - Teaching 教學
 - [Thoughts & Insights 觀點分享](https://venteng.github.io/thoughts/README.html)
 
