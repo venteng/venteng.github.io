@@ -27,6 +27,13 @@ We strongly encourage our students to showcase their research at conferences and
 - 崇越論文大賞
 - 台灣銀行碩士論文獎
 
+
+|Year/Month| T / 1  | T / 2  | T / 3  | T / 4  | T / 5  | T / 6  | T / 7  | T / 8  | T / 9  | T / 10 | T / 11 | T / 12 | T + 1 / 1  | T + 1 / 2  | T + 1 / 3  | T + 1 / 4  | T + 1 / 5  | T + 1 / 6  | 
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|------------|------------|------------|------------|------------|------------|------------|
+| Tasks  |        |        |        |        |        |        |        | ORSTW  | ORSTW  | ORSTW  |        | PROPOSAL   |            |            | SSC        | SSC        | DDL for ORAL EXAM  | 
+
+
+
 ## Previous Students
 
 ## Other Opportunities
