@@ -4,9 +4,9 @@ title: Actuary Thoughts
 ---
 # LAB Recruitment
 
-## TOGETHER, WE GO FAR!
-
 Our lab is looking for students who are passionate about knowledge, value transparency and reproducibility in scientific research, and demonstrate resilience and a positive outlook. We focus on using cutting-edge quantitative methods — including statistical techniques, machine learning, and AI — to tackle real-world challenges.
+
+## TOGETHER, WE GO FAR!
 
 If you’re driven by curiosity and eager to make a difference, join us as we explore these exciting topics together! Current Research Areas
 - Digital Assets
