@@ -29,6 +29,11 @@
     <ul>
       <li>Joint appointment, 9/2017--Present</li>
     </ul>
+    <h4><a href="https://www.math.nycu.edu.tw/">Department of Applied Mathematics</a></h4>
+    <ul>
+      <li>Joint appointment, 8/2024--Present</li>
+    </ul>
+
   </div>  
   <div style="width: 38%; text-align: right;">
     <img src="https://github.com/user-attachments/assets/a38b8893-c895-4fbe-bd08-57e2c4268258" alt="NYCU Logo" style="width: 100%; max-width: 150px;"/>
