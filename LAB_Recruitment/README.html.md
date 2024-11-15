@@ -43,7 +43,7 @@ To complete your master degrees, you need to pass
 
 ## Previous Students
 
-## Other Opportunities
+## Opportunities
 
 ### 20240907 
 
