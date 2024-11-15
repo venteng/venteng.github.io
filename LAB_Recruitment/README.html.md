@@ -37,7 +37,7 @@ To complete your master degrees, you need to pass
 | ORSTW  |        |        |        |        |        |        |        | ✅  | ✅  | ✅  |        |    |            |            |      |      | | 
 | PROPOSAL  |        |        |        |        |        |        |        |   |   |   |        | ✅   |            |            |         |        |  | 
 | SSC  |        |        |        |        |        |        |        |   |   |   |        |    |            |            | ✅      | ✅       |  | 
-| ORAL  |        |        |        |        |        |        |        |   |   |   |        |    |            |            |    |         | ✅| 
+| ORAL  |        |        |        |        |        |        |        |   |   |   |        |    |            |            |    |       |  | ✅| 
 
 
 
