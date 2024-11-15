@@ -10,7 +10,7 @@
     SSRN: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3789459">378952</a><br>  
     GitHub: <a href="https://github.com/venteng">venteng</a><br>  
     Email: venteng@gmail.com<br>  
-    <a href="https://hackmd.io/QxqSyPUZT-uew0HsfHp3Hg">Bio</a>
+    <a href="https://venteng.github.io/bio.html">Bio</a>
   </div>
 </div>
 
