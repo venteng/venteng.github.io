@@ -12,8 +12,7 @@ If you’re driven by curiosity and eager to make a difference, join us as we ex
 - Digital Assets
 - ESG (Environmental, Social, and Governance)
 - Credit Scoring
-- Trading and Portfolio Management
-- Financial Risk Management
+- Financial Risk and Wealth Management
 - LLM
 
 Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to gain valuable insights and skills for our research projects — while it’s not mandatory, it’s highly recommended!
