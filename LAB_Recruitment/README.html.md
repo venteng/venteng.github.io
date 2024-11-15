@@ -2,27 +2,22 @@
 layout: default
 title: Actuary Thoughts
 ---
-
 # LAB Recruitment
+
+## TOGETHER, WE GO FAR!
 
 Our lab is looking for students who are passionate about knowledge, value transparency and reproducibility in scientific research, and demonstrate resilience and a positive outlook. We focus on using cutting-edge quantitative methods — including statistical techniques, machine learning, and AI — to tackle real-world challenges.
 
-TOGETHER, WE GO FAR!
-
-Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to gain valuable insights and skills for our research projects — while it’s not mandatory, it’s highly recommended!
-
-If you’re driven by curiosity and eager to make a difference, join us as we explore these exciting topics together!
-
-
-### Current Research Areas
-
+If you’re driven by curiosity and eager to make a difference, join us as we explore these exciting topics together! Current Research Areas
 - Digital Assets
 - ESG (Environmental, Social, and Governance)
 - Credit Scoring
 - Trading and Portfolio Management
 - Financial Risk Management
+- 
+Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to gain valuable insights and skills for our research projects — while it’s not mandatory, it’s highly recommended!
 
-## Time Line for Master Students 
+## Time Line for Master Students
 
 We strongly encourage our students to showcase their research at conferences and take part in thesis competitions. It’s a fantastic opportunity to share your ideas, gain recognition, and build valuable connections in the community.
 - [ORSTW台灣作業研究學會](http://www.orstw.org.tw)
@@ -32,35 +27,11 @@ We strongly encourage our students to showcase their research at conferences and
 - 崇越論文大賞
 - 台灣銀行碩士論文獎
 
-| Year | Month | Task          |
-|----------|-----------|-------------------|
-| T        | 1         |                   |
-|          | 2         |                   |
-|          | 3         |                   |
-|          | 4         |                   |
-|          | 5         |                   |
-|          | 6         |                   |
-|          | 7         |                   |
-|          | 8         |                   |
-|          | 9         | ORSTW             |
-|          | 10        | ORSTW             |
-|          | 11        | ORSTW             |
-|          | 12        |                   |
-| T + 1    | 1         | PROPOSAL          |
-|          | 2         |                   |
-|          | 3         |                   |
-|          | 4         | SSC               |
-|          | 5         | SSC               |
-|          | 6         | ORAL EXAM         |
-|          | 7         | SSRN, THESE AWARDS|
-
-## Previous students and their achievements
+## Previous Students
 
 ## Other Opportunities
 
 ### 20240907 
-
-'Joerg Osterrieder' via EU COST Action CA19130 Fintech and AI in Finance <fintech-and-ai-in-finance@googlegroups.com> 於 2024年9月7日 下午6:15 寫道：
 
 Dear COST network
 
@@ -78,13 +49,17 @@ Joerg
 ### 20240327
 
 Dear Huei-Wen,
+
 I'm reaching out to highlight an exceptional opportunity for students interested in digital finance. The DIGITAL network, a consortium comprising leading European universities and key industry players, is offering five PhD positions. These roles are not just academic appointments; they are gateways to pioneering research in digital finance, backed by an international collaboration of academic and industry experts.
 Our PhD candidates benefit from a hands-on research environment, mentorship by experts, and opportunities for professional growth through industry engagements and international workshops.
 We kindly ask for your assistance in disseminating this information to potential candidates within your network who are seeking to advance their careers through high-impact research.
+
 For a detailed overview of the positions and application process, please visit our website:
 - Our Network: https://www.digital-finance-msca.com/
 - Job Offers: https://www.digital-finance-msca.com/open-phd-positions
 We look forward to potentially welcoming your students into our program and contributing significantly to their academic and professional journey.
+
 Kind regards,
+
 Gabin TAIBI
 
