@@ -20,12 +20,16 @@ Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/
 ## Time Line for Master Students
 
 We strongly encourage our students to showcase their research at conferences and take part in thesis competitions. It’s a fantastic opportunity to share your ideas, gain recognition, and build valuable connections in the community.
-- [ORSTW台灣作業研究學會](http://www.orstw.org.tw)
-- [SSC南區統計研討會](https://www-math.nsysu.edu.tw/conference/stsc33/)
+- ORSTW [台灣作業研究學會](http://www.orstw.org.tw)
+- SSC [南區統計研討會](https://www-math.nsysu.edu.tw/conference/stsc33/)
 - TFA 碩士論文
 - 富邦論文獎
 - 崇越論文大賞
 - 台灣銀行碩士論文獎
+
+To complete your master degrees, you need to pass
+- PROPSOAL: Proposal exam
+- ORAL: Oral exam
 
 
 |Month|  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  13  |  14  |  15  |  16  |  17  |  18  | 
