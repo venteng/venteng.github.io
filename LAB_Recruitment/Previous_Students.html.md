@@ -23,7 +23,7 @@ title: Previous Students
   Ying-Rou Lu, Empirical Analysis for Gold Options in Taiwan Futures Exchange
 - 李育賢, 傳統方法與機器學習在資產定價上的實證比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
   Yu-Hsien Bill Li, An Empirical Comparison between Traditional Methods and Machine Learning in Asset Pricing Models  
-  ⭐ \citet*{teng2020machine}; \citet*{teng2023can}  
+  ⭐  Teng, Li, Chang, (2020), Teng, Li, (2023)  
   *Department of Information Management and Finance*
 - 吳哲杭, 多元 GARCH 模型與投資組合管理在上海證交所 A 股的實證比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
   Zhe-Hang Jeff Wu, An Empirical Comparison of Multivariate GARCH Models with a Portfolio Management Application for the A-Share in Shanghai Stock Exchange  
@@ -43,20 +43,20 @@ title: Previous Students
 - 李亦涵, 分群後分類方法於二元分類不平衡問題: 應用於信用評分模型 &nbsp;&nbsp;&nbsp;&nbsp; 8/2022  
   I-Han Lee, Cluster-then-Predict for Binary Classification with Imbalance Problem: Applications of Credit Scoring Models  
   *Institute of Data Science and Engineering, co-advised with Prof. Chu-Lan Kao*  
-  ⭐ \citet*{teng2024bridging}
+  ⭐ Teng, Kang, Lee, Bai (2024)
 
 #### Department of Applied Mathematics, co-advised with Prof. Ming-Hsuan Kang
 - 張詠淇, 利用 Heston 隨機波動率模型進行比特幣倒數型選擇權的定價與避險 &nbsp;&nbsp;&nbsp;&nbsp; 8/2022  
   Yung-Chi Chang, Pricing and Hedging Inverse BTC Options with Heston's Stochastic Volatility Model  
-  ⭐ 榮獲 2022 New Futures 期貨學術與實務交流研討會論文金質獎, \citet*{chang2023stochastic}
+  ⭐ 榮獲 2022 New Futures 期貨學術與實務交流研討會論文金質獎, (Chang, Teng, and Härdle, 2023)
 - 陳律翔, 全球資產管理利用 Black-Litterman 模型於臺灣美國股票市場 &nbsp;&nbsp;&nbsp;&nbsp; 8/2022  
   Lu-Xiang Chen, Global Portfolio Management with the Black-Litterman Model Using Stocks in Taiwan and the US Markets  
 - 張尚文, $L$-各向同性多維常態分佈之最大概似估計與其應用 &nbsp;&nbsp;&nbsp;&nbsp; 8/2021  
   Shang-Wen Chang, Maximum Likelihood Estimate of $L$-Isotropic Multivariate Normal Distributions and Its Applications  
-  ⭐ \citet*{teng2020machine}
+  ⭐ Teng, Lee, Chang (2020)
 - 趙祥安, Heston 隨機波動率模型與 NGARCH 選擇權定價模型在匯率連動選擇權上之實證比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
   Xiang-An Zhao, An Empirical Comparison between the Heston Stochastic Volatility Model and the NGARCH Model in Pricing Quanto Options  
-  ⭐ \citet*{teng2021pricing}  
+  ⭐ Teng and Zhao (2021)
 - 黃春僖, 分群技術在大型資產配置的應用 &nbsp;&nbsp;&nbsp;&nbsp; 6/2019  
   Chun-Xi Simon Huang, Large Portfolio Management with Clustering Techniques  
   
@@ -73,20 +73,20 @@ title: Previous Students
   Arron Chiang, An Empirical Comparison of Various Approaches in Calculating Value at Risk
 - 林煒紘 &nbsp;&nbsp;&nbsp;&nbsp; 6/2015  
   Wei-Hung Lin, Asset Allocation Based on the Black-Litterman and GARCH Models  
-  ⭐ \citet*{lin2020heteroskedastic}
+  ⭐ Lin, Teng, Yang (2020)
 - 沈睿謙, 在 Black-Scholes 模型下運用選擇權資料進行動態避險之比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2015  
   Rui-Qian Shen, Comparisons of Dynamic Hedging of Financial Options Using Different Volatility Estimators under the Black-Scholes Model
 - 楊舒媛 &nbsp;&nbsp;&nbsp;&nbsp; 6/2015  
   Shu Yuang Yang, Modelling the VIX Index and Hedging the S&P 500 Futures Using VIX Options
 - 王聖翔 &nbsp;&nbsp;&nbsp;&nbsp; 6/2014  
   Sheng-Xiang Wang, A Direct Method for Calculating Greeks under Some Lévy Processes  
-  ⭐ \citet*{lyuu2019systematic}
+  ⭐ Lyuu, Teng, Tseng, Wang (2019)
 - 曾耀德 &nbsp;&nbsp;&nbsp;&nbsp; 6/2014  
   Yao-Te Tseng, Sensitivity Analysis of Credit Derivatives  
-  ⭐ \citet*{lyuu2019systematic}
+  ⭐  Lyuu, Teng, Tseng, Wang (2019)
 - 李宥萱 &nbsp;&nbsp;&nbsp;&nbsp; 6/2014  
   Yu-Hsuan Lee, Improved Mortality Forecasting Using Augmented Data  
-  ⭐ \citet*{LuoTengLee2016}
+  ⭐  Luo, Teng, Lee (2016)
 - 陳彥勳 &nbsp;&nbsp;&nbsp;&nbsp; 6/2013  
   Yen-Hsun Chen, Structure Learning for Hierarchical Archimedean Copulas
 - 沈志泰 &nbsp;&nbsp;&nbsp;&nbsp; 6/2013  
@@ -95,12 +95,12 @@ title: Previous Students
   Yu-Hsin Wu, Calibrating the State Price Densities Using TAIEX Options
 - 陳醇潔 &nbsp;&nbsp;&nbsp;&nbsp; 6/2012  
   Chun-Chieh Chen, Efficient Option Pricing with Importance Sampling  
-  ⭐ 榮獲 100 學年度中國統計學社論文獎優等; \citet*{TengFuhChen2016}
+  ⭐ 榮獲 100 學年度中國統計學社論文獎優等; Teng, Fuh, Chen (2016)
 - 劉家齊 &nbsp;&nbsp;&nbsp;&nbsp; 6/2012  
   Chia-Chi Liu, On Pricing Credit Default Swaps
 - 趙彥茹 &nbsp;&nbsp;&nbsp;&nbsp; 6/2012  
   Yen-ju Chao, Bayesian Imputation with an Application to Mass-Period Functions of Extrasolar Planets  
-  ⭐ \citet*{TengHungChao2015}
+  ⭐ Teng, Hung, Chao (2015)
 - 陳彥鈞 &nbsp;&nbsp;&nbsp;&nbsp; 6/2012  
   Yen-Chun Chen, Copula-Based Weather Data Forecasting
 - 劉佑聖 &nbsp;&nbsp;&nbsp;&nbsp; 6/2011  
