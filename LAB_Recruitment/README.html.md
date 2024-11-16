@@ -2,6 +2,8 @@
 layout: default
 title: Actuary Thoughts
 ---
+
+
 # LAB Recruitment
 
 Our lab is looking for students who are passionate about knowledge, value transparency and reproducibility in scientific research, and demonstrate resilience and a positive outlook. We focus on using cutting-edge quantitative methods — including statistical techniques, machine learning, and AI — to tackle real-world challenges.
