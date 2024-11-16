@@ -113,7 +113,8 @@
 
 ## Upcoming Events
 
-- [The Fourth Yushan Conference (Dec 5-6, 2024) 第四屆玉山會議 ](https://yushan-conference.notion.site/4th-Yushan-Conference-9e9d4beb98e64e5c928e5e0680c80d67)
+- Dec 5-6, 2024 [The Fourth Yushan Conference 第四屆玉山會議 ](https://yushan-conference.notion.site/4th-Yushan-Conference-9e9d4beb98e64e5c928e5e0680c80d67)
+- Dec 10, 2024 研究領域說明會 12:30 - 13:00 管理一館417教室 
 
 ## Additional Resources
 - [Lab Recruitment 實驗室夥伴招募](https://venteng.github.io/LAB_Recruitment/README.html)
