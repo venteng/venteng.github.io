@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Actuary Thoughts
+title: LAB Recruitment
 ---
 
 
