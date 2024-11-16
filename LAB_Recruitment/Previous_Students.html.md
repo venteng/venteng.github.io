@@ -5,6 +5,8 @@ title: Previous Students
 
 # Previous Students 
 
+## Master Thesis
+
 ⭐ Indicates rewards or publications derived from thesis work.
 
 ### National Yang Ming Chiao Tung University
@@ -106,7 +108,7 @@ title: Previous Students
 - 吳嘉洋 &nbsp;&nbsp;&nbsp;&nbsp; 6/2011  
   Jia-Yang Wu, Copula-Based Time Series with Applications to Unemployment Rates Modeling
 
-### Undergraduate Projects
+## Undergraduate Projects
 
 - 鄭有朋, 王鳴謙, 李語涵, 吳珮慈, 許晉 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
   探索比特幣回報分析的多面向驅動因素  
