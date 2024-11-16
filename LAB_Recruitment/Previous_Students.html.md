@@ -23,7 +23,7 @@ title: Previous Students
   Ying-Rou Lu, Empirical Analysis for Gold Options in Taiwan Futures Exchange
 - 李育賢, 傳統方法與機器學習在資產定價上的實證比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
   Yu-Hsien Bill Li, An Empirical Comparison between Traditional Methods and Machine Learning in Asset Pricing Models  
-  ⭐  Teng, Li, Chang, (2020), Teng, Li, (2023)  
+  ⭐  Teng, Li, Chang, (2020), Teng and Li, (2023)  
   *Department of Information Management and Finance*
 - 吳哲杭, 多元 GARCH 模型與投資組合管理在上海證交所 A 股的實證比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
   Zhe-Hang Jeff Wu, An Empirical Comparison of Multivariate GARCH Models with a Portfolio Management Application for the A-Share in Shanghai Stock Exchange  
