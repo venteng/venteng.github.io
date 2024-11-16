@@ -18,7 +18,9 @@ If you’re driven by curiosity and eager to make a difference, join us as we ex
 
 Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to gain valuable insights and skills for our research projects — while it’s not mandatory, it’s highly recommended!
 
-## Time Line for Master Students
+## Time Line 
+
+### Master Thesis
 
 We strongly encourage our students to showcase their research at conferences and take part in thesis competitions. It’s a fantastic opportunity to share your ideas, gain recognition, and build valuable connections in the community.
 - ORSTW [台灣作業研究學會](http://www.orstw.org.tw)
@@ -39,6 +41,17 @@ To complete your master degrees, you need to pass
 | PROPOSAL  |        |        |        |        |        |        |        |   |   |   |        || ✅   |            |            |         |        |  
 | SSC  |        |        |        |        |        |        |        |   |   |   |        |    |            |            | ✅      | ✅       |  | 
 | ORAL  |        |        |        |        |        |        |        |   |   |   |        |    |            |            |    |       |  | ✅| 
+
+
+### Undergraduate Projects
+
+
+- DIF 國立陽明交通大學智慧創新跨域潛力人才競賽
+
+|Month|   2  |  3  | 4  |  5 |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  1  | 
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|------------|
+| DIF  |        |        |        |        |        |        |        | |   |  | ✅  |  |   
+
 
 
 
