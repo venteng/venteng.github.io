@@ -118,6 +118,6 @@ title: Previous Students
   ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等
 - 陳品蓁, 宋佩芩 &nbsp;&nbsp;&nbsp;&nbsp; 8/2021-7/2022  
   Statistical Modeling for the Exchange Rate between NTD and USD
-- 林睿瑜, 陸恭葦 &nbsp;&nbsp;&nbsp;&nbsp; 8/2019-7/2020  
+- 范凱翔, 林睿瑜, 陸恭葦 &nbsp;&nbsp;&nbsp;&nbsp; 8/2019-7/2020  
   Time Series Forecasting in Credit Scoring Model  
   ⭐ 林睿瑜榮獲 109 年度科技部大專生計畫，Time Series Forecasting in Credit Scoring Model
