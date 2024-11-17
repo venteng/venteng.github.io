@@ -1,9 +1,20 @@
 --- 
 layout: default 
-title: Previous Students
+title: Students
 --
 
-# Previous Students 
+# Students 
+
+## Current Students
+
+- 黃馨霈 Assessing Value of Risk for Cryptocurrencies
+- 施昱全 LLM for Taiwan's Financial Statement Analysis and Future Earning Predictions
+- 吳柏賢 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation
+- 陳怡仁 Enhancing Model Accuracy and Interpretability in FinTech
+- 陳諾恆 Utilizing Graphical Models to Measure Systemic Risk in Taiwan
+- 江文煌 TBD
+- 范艾雯 TBD
+- 蘇家灝 TBD
 
 ## Master Thesis
 
@@ -120,4 +131,4 @@ title: Previous Students
   Statistical Modeling for the Exchange Rate between NTD and USD
 - 范凱翔, 林睿瑜, 陸恭葦 &nbsp;&nbsp;&nbsp;&nbsp; 8/2019-7/2020  
   Time Series Forecasting in Credit Scoring Model  
-  ⭐ 林睿瑜榮獲 109 年度科技部大專生計畫，Time Series Forecasting in Credit Scoring Model
+  ⭐ 范凱翔, 林睿瑜榮獲 109 年度科技部大專生計畫
