@@ -19,7 +19,7 @@ title: Students
 
 ## Master Thesis
 
-⭐ Indicates rewards or publications derived from thesis work.
+⭐ Indicates rewards or publications derived from research work
 
 ### National Yang Ming Chiao Tung University
 #### Department of Information Management and Finance
