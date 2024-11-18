@@ -36,19 +36,14 @@ title: Students
 - 李育賢, 傳統方法與機器學習在資產定價上的實證比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
   Yu-Hsien Bill Li, An Empirical Comparison between Traditional Methods and Machine Learning in Asset Pricing Models  
   ⭐  Teng, Li, Chang, (2020), Teng and Li, (2023)  
-  *Department of Information Management and Finance*
 - 吳哲杭, 多元 GARCH 模型與投資組合管理在上海證交所 A 股的實證比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
   Zhe-Hang Jeff Wu, An Empirical Comparison of Multivariate GARCH Models with a Portfolio Management Application for the A-Share in Shanghai Stock Exchange  
-  *Department of Information Management and Finance*
 - 林益嘉, 基於深度學習之時間序列因子於信用評級模型 &nbsp;&nbsp;&nbsp;&nbsp; 6/2019  
   Yi-Chia Kelly Lin, Deep Time-Series Feature Extraction in Credit Scoring Models  
-  *Department of Information Management and Finance*
 - 許至妤, 基於巴塞爾協議在金融風險管理中 VaR 估計的實證研究 &nbsp;&nbsp;&nbsp;&nbsp; 6/2019  
   Chih-Yu Emma Hsu, An Empirical Investigation on Estimations of VaR in Financial Risk Management Based on Basel Accords  
-  *Department of Information Management and Finance*
 - 陳奕翔, 機器學習中的 Boosting 方法及其在信用風險管理違約預測中的應用 &nbsp;&nbsp;&nbsp;&nbsp; 7/2019  
   Yi-Xiang Arikson Chen, On Boosting Methods in Machine Learning with Applications in Delinquency Prediction for Credit Risk Management  
-  *Department of Information Management and Finance*
 
 
 #### Institute of Data Science and Engineering, co-advised with Prof. Chu-Lan Kao
