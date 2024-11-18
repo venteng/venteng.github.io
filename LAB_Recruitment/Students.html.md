@@ -7,6 +7,7 @@ title: Students
 
 ## Current Students
 
+- 李彥璋 Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance
 - 黃馨霈 Assessing Value of Risk for Cryptocurrencies
 - 施昱全 LLM for Taiwan's Financial Statement Analysis and Future Earning Predictions
 - 吳柏賢 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation
