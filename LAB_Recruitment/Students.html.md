@@ -53,8 +53,7 @@ title: Students
 
 #### Institute of Data Science and Engineering, co-advised with Prof. Chu-Lan Kao
 - 李亦涵, 分群後分類方法於二元分類不平衡問題: 應用於信用評分模型 &nbsp;&nbsp;&nbsp;&nbsp; 8/2022  
-  I-Han Lee, Cluster-then-Predict for Binary Classification with Imbalance Problem: Applications of Credit Scoring Models  
-  *Institute of Data Science and Engineering, co-advised with Prof. Chu-Lan Kao*  
+  I-Han Lee, Cluster-then-Predict for Binary Classification with Imbalance Problem: Applications of Credit Scoring Models
   ⭐ Teng, Kang, Lee, Bai (2024)
 
 #### Department of Applied Mathematics, co-advised with Prof. Ming-Hsuan Kang
