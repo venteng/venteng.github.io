@@ -87,8 +87,9 @@ Our PhD candidates benefit from a hands-on research environment, mentorship by e
 We kindly ask for your assistance in disseminating this information to potential candidates within your network who are seeking to advance their careers through high-impact research.
 
 For a detailed overview of the positions and application process, please visit our website:
-- Our Network: https://www.digital-finance-msca.com/
-- Job Offers: https://www.digital-finance-msca.com/open-phd-positions
+- [Our Network](https://www.digital-finance-msca.com/)
+- [Job Offers](https://www.digital-finance-msca.com/open-phd-positions)
+
 We look forward to potentially welcoming your students into our program and contributing significantly to their academic and professional journey.
 
 Kind regards,
