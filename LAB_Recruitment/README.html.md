@@ -11,7 +11,7 @@ Our lab is looking for students who are passionate about knowledge, value transp
 ## TOGETHER, WE GO FAR!
 
 If you’re driven by curiosity and eager to make a difference, join us as we explore these exciting topics together! Current Research Areas
-- Digital Assets
+- Digital Assets, BTC options pricing and hedging
 - ESG (Environmental, Social, and Governance)
 - Credit Scoring
 - AI in Finance
