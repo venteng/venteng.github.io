@@ -46,7 +46,7 @@ To complete your master degrees, you need to pass
 | PROPOSAL  |        |        |        |        |        |        |        |   |   |   |        || ✅   |            |            |         |        |  
 | SSC  |        |        |        |        |        |        |        |   |   |   |        |    |            |         |   | ✅      | ✅       |✅  
 | ORAL  |        |        |        |        |        |        |        |   |   |   |        |    |            |            |    |       |  | ✅| 
-| SSRN  |        |        |        |        |        |        |        |   |   |   |        |    |    ✅        |            |    |       |  | ✅| 
+| SSRN  |        |        |        |        |        |        |        |   |   |   |        |    |         |   ✅            |    |       |  | ✅| 
 
 
 ### Undergraduate Projects
