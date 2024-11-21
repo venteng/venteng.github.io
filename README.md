@@ -117,15 +117,13 @@
 - Dec 10, 2024 研究領域說明會 12:30 - 13:00 管理一館417教室 
 
 ## Additional Resources
-- [Lab Recruitment 實驗室夥伴招募](https://venteng.github.io/LAB_Recruitment/README.html)
 - Teaching 教學
+- [Lab Recruitment 實驗室夥伴招募](https://venteng.github.io/LAB_Recruitment/README.html)
 - [Thoughts & Insights 觀點分享](https://venteng.github.io/thoughts/README.html)
+- [Other Opportunties](https://github.com/venteng/venteng.github.io/tree/main)
 
 <!---
-
-
 Prism Financial Analystics
-
 
 ## Teaching 
  [鄧惠文／Metaverse! 前進元宇宙](https://hackmd.io/RyNu7V3nToaT6Qb2WQujjw?both)-- Statistics
