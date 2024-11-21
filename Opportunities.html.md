@@ -3,7 +3,7 @@ layout: default
 title: title
 --- 
 
-# Opportunities
+# Network-Shared Job Offers
 
 ### 20240907 
 
