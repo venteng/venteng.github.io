@@ -120,7 +120,7 @@
 - Teaching 教學
 - [Lab Recruitment 實驗室夥伴招募](https://venteng.github.io/LAB_Recruitment/README.html)
 - [Thoughts & Insights 觀點分享](https://venteng.github.io/thoughts/README.html)
-- [Other Opportunties](https://venteng.github.io/Oppurtunties.html)
+- [Job Offers](https://venteng.github.io/Oppurtunties.html)
 
 <!---
 Prism Financial Analystics
