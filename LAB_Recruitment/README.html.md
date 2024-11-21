@@ -37,16 +37,12 @@ We strongly encourage our students to showcase their research at conferences and
 To complete your master degrees, you need to pass
 - PROPSOAL: Proposal exam
 - ORAL: Oral exam
-- [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3789459): Manuscript
-
 
 |Month| 1  |  2  |  3  | 4  |  5 |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  1  |  2 |  3  |  4  |  5  |  6  | 
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|------------|------------|------------|------------|------------|------------|------------|
 | ORSTW  |        |        |        |        |        |        |        | | ✅  | ✅  | ✅  |        |    |            |            |      |      | |
-| PROPOSAL  |        |        |        |        |        |        |        |   |   |   |        || ✅   |            |            |         |        |  
 | SSC  |        |        |        |        |        |        |        |   |   |   |        |    |            |         |   | ✅      | ✅       |✅  
-| ORAL  |        |        |        |        |        |        |        |   |   |   |        |    |            |            |    |       |  | ✅| 
-| SSRN  |        |        |        |        |        |        |        |   |   |   |        |    |         |   ✅            |    |       |  | ✅| 
+| PROPOSAL/ORAL  |        |        |        |        |        |        |        |   |   |   |        || ✅   |            |            |         |       ✅ |  
 
 
 ### Undergraduate Projects
