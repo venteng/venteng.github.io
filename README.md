@@ -117,8 +117,10 @@
 - Dec 10, 2024 研究領域說明會 12:30 - 13:00 管理一館417教室 
 
 ## Additional Resources
-- Teaching 教學
+- Publication
 - [Lab Recruitment 實驗室夥伴招募](https://venteng.github.io/LAB_Recruitment/README.html)
+- [Students](https://venteng.github.io/LAB_Recruitment/Students.html)
+- Teaching 教學
 - [Thoughts & Insights 觀點分享](https://venteng.github.io/thoughts/README.html)
 - [Network-Shared Job Offers](https://venteng.github.io/Opportunities.html)
 
