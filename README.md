@@ -31,7 +31,7 @@
     </ul>
     <h4><a href="https://www.math.nycu.edu.tw/">Department of Applied Mathematics</a></h4>
     <ul>
-      <li>Joint appointment, 8/2024--Present</li>
+      <li>Joint appointment, 10/2024--Present</li>
     </ul>
 
   </div>  
@@ -44,10 +44,6 @@
 ### [IDA, Institute of Digital Assets](https://ida.ase.ro)
 
 - Experienced Researcher, 4/2024--Present
-
-### [MSCA Digital Finance](https://www.digital-finance-msca.com)
-
-- Researcher, 12/2023--Present 
 
 ### [National Central University](https://www.ncu.edu.tw)
 
