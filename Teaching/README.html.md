@@ -8,10 +8,11 @@ title: Teaching
 
 ## Statistics
 
+
 GitHUB Repos
-- 202309 https://github.com/HWTeng-Teaching/202309-Statistics.git
-- 202402 https://github.com/HWTeng-Teaching/202402-Statistics.git
-- 202409 https://github.com/HWTeng-Teaching/202409-Stat.git
+- 202309 [GitHUB](https://github.com/HWTeng-Teaching/202309-Statistics.git)
+- 202402 [GitHUB](https://github.com/HWTeng-Teaching/202402-Statistics.git)
+- 202409 [GitHUB](https://github.com/HWTeng-Teaching/202409-Stat.git)
 
 | Index | Topic                              | Duration | Link                                       |
 |-------|------------------------------------|----------|--------------------------------------------|
