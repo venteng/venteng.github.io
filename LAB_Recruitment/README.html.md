@@ -20,7 +20,11 @@ If you’re driven by curiosity and eager to make a difference, join us as we ex
 
 Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to gain valuable insights and skills for our research projects — while it’s not mandatory, it’s highly recommended!
 
-See a list of achievements by [students](https://venteng.github.io/LAB_Recruitment/Students.html)! 
+See a list of achievements by [Students](https://venteng.github.io/LAB_Recruitment/Students.html)! 
+
+Provide me your information so that we can integrate our research results in the lab.  https://forms.gle/UQSsDkt4Csvg9UU59
+
+
 
 ## Time Line 
 
