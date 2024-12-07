@@ -25,7 +25,7 @@ title: Publication
 14. Sanford Luo, Huei-Wen Teng, and Yu-Hsuan Lee. Forecasting mortality using imputed data: The case of Taiwan. Asia-Pacific Journal of Risk and Insurance, 10(1):1–20, 2016
 15. Huei-Wen Teng Ming-Hsuan Kang and Cheng-Der Fuh. On spherical Monte Carlo simulations for multivariate normal probabilities. Advances in Applied Probability, 47(3):817–836, 2015. (SCIE IF=1.2, RF:79/125=63.2%)
 16. Wolfgang Karl Härdle, Brenda López-Cabrera, and Huei-Wen Teng. State price densities implied from weather derivatives. Insurance: Mathematics and Economics, 64:106–125, 2015. (SCIE IF=1.9, RF:51/107=47.6%, 國科會財會學門保險精算子領域A Tier-2級期刊)
-17. Huei-WenTeng,Wen-LiangHung,andYen-JuChao.BayesianMarkovchainMonteCarloimputation for the transiting exoplanets with an application in clustering analysis. Journal of Applied Statistics, 42(5):1120–132, 2015. (SCIE IF=1.5, RF:60/125= 48.0%)
+17. Huei-WenTeng, Wen-LiangHung,and Yen-JuChao. Bayesian Markov chain Monte Carlo imputation for the transiting exoplanets with an application in clustering analysis. Journal of Applied Statistics, 42(5):1120–132, 2015. (SCIE IF=1.5, RF:60/125= 48.0%)
 18. Cheng-Der Fuh and Huei-Wen Teng. Discussion of “multiscale change point inference" by Frick, Munk and Sieling. Journal of the Royal Statistical Society: Series B, 76(3):554–555, 2014. (SCIE IF=5.8, RF:3/125=2.4%)
 19. Chun-Cheih Chen, Cheng-Der Fuh, and Huei-Wen Teng. Efficient option pricing with importance sampling. Journal of the Chinese Statistical Association, 51(3):253–273, 2013. (EconLit)
 20. Yuh-Dauh Lyuu and Huei-Wen Teng. Unbiased and efficient Greeks of financial options. Finance and Stochastics, 15(1):141–181, 2011. (SCIE IF= 1.7, RF:51/125=40.8%, 國科會財會學門財務領域A Tier-2 級 期刊)
