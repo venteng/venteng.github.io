@@ -22,7 +22,9 @@ Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/
 
 See a list of achievements by [Students](https://venteng.github.io/LAB_Recruitment/Students.html)! 
 
-Provide me your information so that we can integrate our research results in the lab.  https://forms.gle/UQSsDkt4Csvg9UU59
+If you are interested in joining our lab: 
+1) Email me your transcripts and a short statement of purpose (less than 150 words)
+2) Provide me your information through [Google Forms](https://forms.gle/UQSsDkt4Csvg9UU59).
 
 
 
