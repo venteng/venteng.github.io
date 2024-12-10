@@ -22,7 +22,7 @@ Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/
 
 See a list of achievements by [Students](https://venteng.github.io/LAB_Recruitment/Students.html)! 
 
-If you are interested in joining our lab, please submit the following by Jan 15, 2025. A decision will be made roughly around Jan 20, 2025.  
+If you are interested in joining our lab, please submit the following by Jan 15, 2025. A decision will be made around Jan 20, 2025.  
 - Email me your transcripts and a short statement of purpose (less than 150 words)
 - Provide me your information through [Google Forms](https://forms.gle/UQSsDkt4Csvg9UU59).
 
