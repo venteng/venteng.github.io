@@ -15,6 +15,14 @@
 </div>
 
 
+## Research Interests
+
+- Financial Statistical Methods
+- Machine Learning and Artificial Intelligence
+- Credit Rating
+- Derivative Financial Instruments
+- Wealth and Risk Management
+
 ## Academic Positions
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
@@ -43,7 +51,7 @@
 
 ### [IDA, Institute of Digital Assets](https://ida.ase.ro)
 
-- Experienced Researcher, 4/2024--Present
+- Experienced Researcher, 4/2024--12/2024
 
 ### [National Central University](https://www.ncu.edu.tw)
 
