@@ -19,7 +19,7 @@
 
 - Financial Statistical Methods 財務統計方法
 - Machine Learning and Artificial Intelligence 機器學習與人工智慧
-- Credit Scoring 信用評等
+- Credit Scoring 信用評分
 - Financial Derivatives 衍生性金融商品
 - Wealth and Risk Management 財富與風險管理
 
