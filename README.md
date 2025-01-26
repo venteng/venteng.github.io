@@ -19,8 +19,8 @@
 
 - Financial Statistical Methods
 - Machine Learning and Artificial Intelligence
-- Credit Rating
-- Derivative Financial Instruments
+- Credit Scoring
+- Financial Derivatives
 - Wealth and Risk Management
 
 ## Academic Positions
