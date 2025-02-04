@@ -10,6 +10,7 @@ From Math to Quantitative Finance: My Journey of Discovery
 
 In this talk, I will share my journey from being an uncertain mathematics undergraduate to becoming a professional researcher in quantitative finance. I will recount the pivotal moments in my academic path and discuss how I transitioned into the field of finance. Additionally, I will introduce my research areas, including Bayesian statistics, statistical computing (with applications such as Greeks calculation, importance sampling, and spherical Monte Carlo methods), machine learning, and FinTech. By bridging financial applications and statistical methodologies, I aim to provide insights into how mathematics can be a powerful foundation for a career in finance. This talk is designed to inspire and guide math students who are curious about pursuing opportunities in the finance industry.
 
+文字稿, 投影片, YouTube 
 
 ### April 22, 2025 成大經濟系 Colloquium
 
