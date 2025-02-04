@@ -4,6 +4,13 @@
 ## 2025
 
 
+### Feb 25, 2025 陽明交通大學應用數學系 Colloquium
+
+Mathematics in Modern Finance: Applications in FinTech, Derivatives, and Risk Management
+
+Many students hesitate when choosing a university major—I was no exception. During my undergraduate years, I faced significant academic challenges, which led me to question my path. In my master’s studies, I shifted towards applied fields and discovered new opportunities. This transition eventually led me to pursue a Ph.D. in statistics, deepening my expertise before joining academia. I have since taught at the Institute of Statistics at National Central University and currently at the Department of Information Management and Finance at NYCU. My research now focuses on financial statistics, machine learning, credit scoring, financial derivatives, and wealth and risk management. These areas illustrate how mathematics is deeply embedded in modern finance and AI applications. In this talk, I will share my academic journey, key turning points, and how mathematical concepts translate into real-world financial innovations. Through this discussion, I hope to demonstrate that mathematics is not just abstract theory—it is a powerful tool shaping the future of finance.
+
+
 ### May 15, 2025 新竹高中數理資優班 
 
 數學的奇幻旅程：從大學課堂到金融 AI 應用
