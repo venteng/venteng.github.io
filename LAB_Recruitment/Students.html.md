@@ -34,7 +34,7 @@ title: Students
 
 ### National Yang Ming Chiao Tung University
 #### Department of Information Management and Finance
-- 陳彥廷[(中信銀行, Chinatrust)[https://www.ctbcbank.com/twrbo/zh_tw/index.html]] &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
+- 陳彥廷[[中信銀行, Chinatrust](https://www.ctbcbank.com/twrbo/zh_tw/index.html)] &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Yen-Ting Chen, Exploring Multifaceted Drivers for Bitcoin Return Analysis  
 - 鄭翔澧[MSCA Industrial PhD Program, Bucharest University of Economic Studies, Romania], 臺灣高市值產業的金融風險指標 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Siang-Li Jheng, Financial Risk Meters in Taiwan's High-Cap Sectors  
