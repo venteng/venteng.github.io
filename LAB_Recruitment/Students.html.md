@@ -36,7 +36,8 @@ title: Students
 #### Department of Information Management and Finance
 - 陳彥廷 [[中信銀行, Chinatrust](https://www.ctbcbank.com/twrbo/zh_tw/index.html)] &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Yen-Ting Chen, Exploring Multifaceted Drivers for Bitcoin Return Analysis  
-- 鄭翔澧 [[MSCA Industrial PhD Program, Bucharest University of Economic Studies, Romania](https://ida.ase.ro)], 臺灣高市值產業的金融風險指標 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
+- 鄭翔澧 [[MSCA Industrial PhD Program, Bucharest University of Economic Studies, Romania](https://ida.ase.ro)]
+  臺灣高市值產業的金融風險指標 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Siang-Li Jheng, Financial Risk Meters in Taiwan's High-Cap Sectors  
 - 吳旻修, 應用強化學習於台灣股票市場與比特幣交易 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Min-Hsiu Wu, Applying Reinforcement Learning for Trading in the Taiwan Stock Market and Bitcoin  
@@ -127,14 +128,32 @@ title: Students
 
 ## Undergraduate Projects
 
-- 鄭有朋, 王鳴謙, 李語涵, 吳珮慈, 許晉 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
+### Quintet
+- 鄭有朋,  &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
+- 王鳴謙 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
+- 李語涵 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
+- 吳珮慈 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
+- 許晉 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
   探索比特幣回報分析的多面向驅動因素  
   ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等
-- 陳之怡, 唐君亞, 蔡昕妤 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
+
+### Three besties 
+
+- 陳之怡&nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
+- 唐君亞 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
+- 蔡昕妤 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
+
   台灣高市值電子與金融行業的金融風險計量指標  
   ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等
-- 陳品蓁, 宋佩芩 &nbsp;&nbsp;&nbsp;&nbsp; 8/2021-7/2022  
+
+- 陳品蓁 &nbsp;&nbsp;&nbsp;&nbsp; 8/2021-7/2022  
+- 宋佩芩 &nbsp;&nbsp;&nbsp;&nbsp; 8/2021-7/2022  
+
   Statistical Modeling for the Exchange Rate between NTD and USD
-- 范凱翔, 林睿瑜, 陸恭葦 &nbsp;&nbsp;&nbsp;&nbsp; 8/2019-7/2020  
+
+
+- 范凱翔 [PhD in Stat, Ohio Stat, USA]&nbsp;&nbsp;&nbsp;&nbsp; 8/2019-7/2020  
+- 林睿瑜 &nbsp;&nbsp;&nbsp;&nbsp; 8/2019-7/2020  
+- 陸恭葦  [[中信銀行, Chinatrust](https://www.ctbcbank.com/twrbo/zh_tw/index.html)] &nbsp;&nbsp;&nbsp;&nbsp; 8/2019-7/2020  
   Time Series Forecasting in Credit Scoring Model  
   ⭐ 范凱翔, 林睿瑜榮獲 109 年度科技部大專生計畫
