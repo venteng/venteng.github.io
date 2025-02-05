@@ -36,7 +36,7 @@ title: Students
 #### Department of Information Management and Finance
 - 陳彥廷 [[中信銀行, Chinatrust](https://www.ctbcbank.com/twrbo/zh_tw/index.html)] &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Yen-Ting Chen, Exploring Multifaceted Drivers for Bitcoin Return Analysis  
-- 鄭翔澧[MSCA Industrial PhD Program, Bucharest University of Economic Studies, Romania], 臺灣高市值產業的金融風險指標 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
+- 鄭翔澧 [[MSCA Industrial PhD Program, Bucharest University of Economic Studies, Romania](https://ida.ase.ro)], 臺灣高市值產業的金融風險指標 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Siang-Li Jheng, Financial Risk Meters in Taiwan's High-Cap Sectors  
 - 吳旻修, 應用強化學習於台灣股票市場與比特幣交易 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Min-Hsiu Wu, Applying Reinforcement Learning for Trading in the Taiwan Stock Market and Bitcoin  
