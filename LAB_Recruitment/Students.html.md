@@ -28,7 +28,7 @@ title: Students
 ### 大專生 
 - 黃以樂(應數大三）
 
-## Master Thesis
+## Past Students
 
 ⭐ Indicates rewards or publications derived from research work
 
