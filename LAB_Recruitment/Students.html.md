@@ -8,15 +8,25 @@ title: Students
 
 ## Current Students
 
+### 博士
+
 - 李彥璋 Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance
+
+### 碩專班
+- 江文煌 TBD
+- 范艾雯 TBD
+
+### 碩士
+
 - 黃馨霈 Assessing Value of Risk for Cryptocurrencies
 - 施昱全 LLM for Taiwan's Financial Statement Analysis and Future Earning Predictions
 - 吳柏賢 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation
 - 陳怡仁 Enhancing Model Accuracy and Interpretability in FinTech
 - 陳諾恆 Utilizing Graphical Models to Measure Systemic Risk in Taiwan
-- 江文煌 TBD
-- 范艾雯 TBD
 - 蘇家灝 TBD
+
+### 大專生 
+- 黃以樂(應數大三）
 
 ## Master Thesis
 
@@ -24,9 +34,9 @@ title: Students
 
 ### National Yang Ming Chiao Tung University
 #### Department of Information Management and Finance
-- 陳彥廷 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
+- 陳彥廷[中信銀行] &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Yen-Ting Chen, Exploring Multifaceted Drivers for Bitcoin Return Analysis  
-- 鄭翔澧, 臺灣高市值產業的金融風險指標 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
+- 鄭翔澧[MSCA Industrial PhD Program, Bucharest University of Economic Studies, Romania], 臺灣高市值產業的金融風險指標 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Siang-Li Jheng, Financial Risk Meters in Taiwan's High-Cap Sectors  
 - 吳旻修, 應用強化學習於台灣股票市場與比特幣交易 &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Min-Hsiu Wu, Applying Reinforcement Learning for Trading in the Taiwan Stock Market and Bitcoin  
