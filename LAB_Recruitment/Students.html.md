@@ -18,16 +18,19 @@ title: Students
 
 ### 碩士
 
-- 黃馨霈 Assessing Value of Risk for Cryptocurrencies
-- 施昱全 LLM for Taiwan's Financial Statement Analysis and Future Earning Predictions
-- 吳柏賢 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation
-- 陳怡仁 Enhancing Model Accuracy and Interpretability in FinTech
-- 陳諾恆 Utilizing Graphical Models to Measure Systemic Risk in Taiwan
+- 黃馨霈 Assessing Value of Risk for Cryptocurrencies (政治大學應數系2022,陽明交通大學財金所202?) 
+- 施昱全 LLM for Taiwan's Financial Statement Analysis and Future Earning Predictions (國立清華大學計量財務系, 陽明交通大學財金所)
+- 吳柏賢 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (國立高雄大學財金系,陽明交通大學財金所)
+- 陳怡仁 Enhancing Model Accuracy and Interpretability in FinTech (台北商業大學財金系, 陽明交通大學財金所)
+- 陳諾恆 Utilizing Graphical Models to Measure Systemic Risk in Taiwan (香港恆生大學, 陽明交通大學財金所)
 - 蘇家灝 TBD
 
 ### 大專生 
-- 黃以樂(應數大三）
+- 黃以樂 (陽明交通大學應數系大三）
+- 吳冠霖 (陽明交通大學應數系大三）
+- 許柏堯 (陽明交通大學資財系大三）
 
+  
 ## Past Students
 
 ⭐ Indicates rewards or publications derived from research work
@@ -128,32 +131,16 @@ title: Students
 
 ## Undergraduate Projects
 
-### Quintet
-- 鄭有朋,  &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
-- 王鳴謙 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
-- 李語涵 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
-- 吳珮慈 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
-- 許晉 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
-  探索比特幣回報分析的多面向驅動因素  
-  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等
-
-### Three besties 
-
-- 陳之怡&nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
-- 唐君亞 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
-- 蔡昕妤 &nbsp;&nbsp;&nbsp;&nbsp; Spring 2023 - Fall 2023  
-
-  台灣高市值電子與金融行業的金融風險計量指標  
-  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等
-
-- 陳品蓁 &nbsp;&nbsp;&nbsp;&nbsp; 8/2021-7/2022  
-- 宋佩芩 &nbsp;&nbsp;&nbsp;&nbsp; 8/2021-7/2022  
-
-  Statistical Modeling for the Exchange Rate between NTD and USD
-
-
-- 范凱翔 [PhD in Stat, Ohio Stat, USA]&nbsp;&nbsp;&nbsp;&nbsp; 8/2019-7/2020  
-- 林睿瑜 &nbsp;&nbsp;&nbsp;&nbsp; 8/2019-7/2020  
-- 陸恭葦  [[中信銀行, Chinatrust](https://www.ctbcbank.com/twrbo/zh_tw/index.html)] &nbsp;&nbsp;&nbsp;&nbsp; 8/2019-7/2020  
-  Time Series Forecasting in Credit Scoring Model  
-  ⭐ 范凱翔, 林睿瑜榮獲 109 年度科技部大專生計畫
+- 鄭有朋, 探索比特幣回報分析的多面向驅動因素  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
+- 王鳴謙, 探索比特幣回報分析的多面向驅動因素  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
+- 李語涵, 探索比特幣回報分析的多面向驅動因素  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
+- 吳珮慈, 探索比特幣回報分析的多面向驅動因素  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
+- 許晉, 探索比特幣回報分析的多面向驅動因素   ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
+- 陳之怡, 台灣高市值電子與金融行業的金融風險計量指標  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等 Spring 2023 - Fall 2023  
+- 唐君亞, 台灣高市值電子與金融行業的金融風險計量指標  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等 Spring 2023 - Fall 2023  
+- 蔡昕妤, 台灣高市值電子與金融行業的金融風險計量指標  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
+- 陳品蓁, Statistical Modeling for the Exchange Rate between NTD and USD 8/2021-7/2022  
+- 宋佩芩, Statistical Modeling for the Exchange Rate between NTD and USD 8/2021-7/2022  
+- 范凱翔 [PhD program in Stat, Ohio Stat, USA] Credit Scoring Model. ⭐ 榮獲 109 年度科技部大專生計畫 8/2019-7/2020  
+- 林睿瑜 Credit Scoring Model 8/2019-7/2020   ⭐ 榮獲 109 年度科技部大專生計畫
+- 陸恭葦 Credit Scoring Model  [[中信銀行, Chinatrust](https://www.ctbcbank.com/twrbo/zh_tw/index.html)]  8/2019-7/2020  
