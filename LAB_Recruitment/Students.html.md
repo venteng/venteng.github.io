@@ -63,7 +63,7 @@ title: Students
 
 #### Institute of Data Science and Engineering, co-advised with Prof. Chu-Lan Kao
 - 李亦涵, 分群後分類方法於二元分類不平衡問題: 應用於信用評分模型 &nbsp;&nbsp;&nbsp;&nbsp; 8/2022  
-  I-Han Lee, Cluster-then-Predict for Binary Classification with Imbalance Problem: Applications of Credit Scoring Models
+  I-Han Lee, Cluster-then-Predict for Binary Classification with Imbalance Problem: Applications of Credit Scoring Models, [台積電 TSMC]
   ⭐ Teng, Kang, Lee, Bai (2024)
 
 #### Department of Applied Mathematics, co-advised with Prof. Ming-Hsuan Kang
@@ -77,7 +77,7 @@ title: Students
   ⭐ Teng, Lee, Chang (2020)
 - 趙祥安, Heston 隨機波動率模型與 NGARCH 選擇權定價模型在匯率連動選擇權上之實證比較 &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
   Xiang-An Zhao, An Empirical Comparison between the Heston Stochastic Volatility Model and the NGARCH Model in Pricing Quanto Options  
-  ⭐ Teng and Zhao (2021)
+  ⭐ Teng and Zhao (2021)  [台積電 TSMC]
 - 黃春僖, 分群技術在大型資產配置的應用 &nbsp;&nbsp;&nbsp;&nbsp; 6/2019  
   Chun-Xi Simon Huang, Large Portfolio Management with Clustering Techniques  
   
