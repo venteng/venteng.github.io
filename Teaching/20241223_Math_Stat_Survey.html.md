@@ -1,8 +1,15 @@
+--- 
+layout: default 
+title: Teaching
+--- 
+
 # 20241223_Math_Stat_Survey
 
 以下是2024年9月份英文授課“數理統計”課程的學生期末心得分享。和各位同學分享！
 
 ## I am still thinking if this course should be tought in English. Please provide me roughly 200 words (both English or Chinese are okay) explaining why it should be tought in Enligh. 
+
+
 
 "After taking EMI Math Statistics courses, I think I have improved my skills in both math statistics and English presentation.The course being taught in English offers a valuable opportunity for us to improve our ability to express mathematical concepts and logic in an international language. In our current education, we rarely have chances to present mathematical ideas or formulas in English, which is a crucial skill for future academic and professional development. This class would help bridge the gap by encouraging us to think about how to explain math-related content clearly and accurately in English.
 
