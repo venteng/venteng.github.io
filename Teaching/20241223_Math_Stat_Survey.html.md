@@ -7,7 +7,10 @@ title: Teaching
 
 *Summmarized by Huei-Wen Teng on 20250210*
 
-以下是2024年9月份以全英文授課“數理統計”課程的學生期末心得真實分享。和各位同學分享！以下使用假名馬賽克和各位同學分享！
+因為陽明交大鼓勵英語教學，且英文在金融業扮演十分重要的角色。因此，接下來我會在管院統計學(II)以及碩士班的計量財務都採取英文EMI教學方式。我也理解大學生可能會很擔心無法跟上紀錄，因此，感謝202409的數理統計課程的學生，願意和我們真實分享修了全英文的數理統計課程的心得。以下使用假名馬賽克和各位同學分享。有任何想要和我分享的歡迎透過以下[連結留言](https://forms.gle/BT42KdhMLJQqptxb9)!
+
+
+
 
 ## I am still thinking if this course should be tought in English. Please provide me roughly 200 words (both English or Chinese are okay) explaining why it should be tought in Enligh. 
 
