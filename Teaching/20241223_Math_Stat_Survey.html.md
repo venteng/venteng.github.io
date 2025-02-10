@@ -5,7 +5,9 @@ title: Teaching
 
 # 20241223_Math_Stat_Survey
 
-以下是2024年9月份英文授課“數理統計”課程的學生期末心得分享。和各位同學分享！
+*Summmarized by Huei-Wen Teng on 20250210*
+
+以下是2024年9月份以全英文授課“數理統計”課程的學生期末心得分享。和各位同學分享！以下使用假名。
 
 ## I am still thinking if this course should be tought in English. Please provide me roughly 200 words (both English or Chinese are okay) explaining why it should be tought in Enligh. 
 
