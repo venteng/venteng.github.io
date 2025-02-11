@@ -5,7 +5,7 @@
 <div style="display: flex; align-items: center;">
   <img src="https://i.imgur.com/K3qUn90.jpg" style="width: 38%; margin-right: 20px;"/>
   <div>
-    I am a Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University. My research focuses on FinTech, data analytics, xAI, Financial engineering, and Monte Carlo methods. <br><br> 
+    I am a Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University. My research interests include Financial Statistical Methods, Machine Learning and Artificial Intelligence, Credit Scoring, Financial Derivatives, and Wealth and Risk Management. <br><br> 
       Google Scholar: <a href="https://scholar.google.com/citations?user=HDPf0-IAAAAJ&hl=en">HDPf0-IAAAAJ</a><br>  
     SSRN: <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3789459">378952</a><br>  
     GitHub: <a href="https://github.com/venteng">venteng</a><br>  
@@ -15,13 +15,13 @@
 </div>
 
 
-## Research Interests
 
-- Financial Statistical Methods 財務統計方法
-- Machine Learning and Artificial Intelligence 機器學習與人工智慧
-- Credit Scoring 信用評分
-- Financial Derivatives 衍生性金融商品
-- Wealth and Risk Management 財富與風險管理
+## COMING SOON
+
+- ESG Financing
+- Backtesting VaR and ES under Basel III
+- Crypto options in Deribit
+- xAI in credit scoring
 
 ## Academic Positions
 
@@ -101,6 +101,15 @@
 
 
 <!---
+
+## Research Interests
+
+- Financial Statistical Methods 財務統計方法
+- Machine Learning and Artificial Intelligence 機器學習與人工智慧
+- Credit Scoring 信用評分
+-  衍生性金融商品
+- 財富與風險管理
+
 Prism Financial Analystics
 
 ## Teaching 
