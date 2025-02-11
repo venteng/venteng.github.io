@@ -33,9 +33,9 @@
   -  [Institute of Statistics](https://stat.nycu.edu.tw/), Joint Appointment, Oct 2024 - Present
 - [IDA, Institute of Digital Assets](https://ida.ase.ro), Experienced Researcher, Apr 2024 - Dec 2024
 -  [National Central University](https://www.ncu.edu.tw)
-  - [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/)
-    - Associate Professor, Aug 2016 - Jan 2017
-    - Assistant Professor, Aug 2010 - Jul 2016
+  -  [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/)
+         -  Associate Professor, Aug 2016 - Jan 2017
+        - Assistant Professor, Aug 2010 - Jul 2016
   - [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW), Joint Appointment, Aug 2016 - Jan 2017
 
 ## Education
@@ -49,8 +49,7 @@
   - Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)
   - Thesis: On pricing rainbow options
   - BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
-- [Johannanes Kepler University, Austria](https://www.jku.at)
-  - Exchange student, Aug 1999 to Jan 2000
+- [Johannanes Kepler University, Austria](https://www.jku.at), Exchange Student, Aug 1999 to Jan 2000
 
 <!---
 ## Education 
