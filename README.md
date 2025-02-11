@@ -127,7 +127,7 @@
 - [Lab Recruitment 實驗室夥伴招募](https://venteng.github.io/LAB_Recruitment/README.html)
 - [Students](https://venteng.github.io/LAB_Recruitment/Students.html)
 - [Teaching](https://venteng.github.io/Teaching/README.html)
-- [Thoughts & Insights](https://venteng.github.io/thoughts/README.html.md)
+- [Thoughts & Insights](https://venteng.github.io/thoughts/README.html)
 - [Network-Shared Job Offers](https://venteng.github.io/Opportunities.html)
 
 
