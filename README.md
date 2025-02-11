@@ -26,7 +26,7 @@
 ## Academic Positions
 
 - [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)
-  - [Department of Information Management](https://imf.nctu.edu.tw/)
+  - [Department of Information Management and Finance](https://imf.nctu.edu.tw/)
     - Professor, Aug 2024 - Present
     - Associate Professor, Feb 2017 - July 2024
   -  [Department of Applied Mathematics](https://www.math.nycu.edu.tw/), Joint Appointment, Sep 2017 - Present
@@ -34,7 +34,7 @@
 - [IDA, Institute of Digital Assets](https://ida.ase.ro), Experienced Researcher, Apr 2024 - Dec 2024
 -  [National Central University](https://www.ncu.edu.tw)
   -  [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/)
-         -  Associate Professor, Aug 2016 - Jan 2017
+        -  Associate Professor, Aug 2016 - Jan 2017
         - Assistant Professor, Aug 2010 - Jul 2016
   - [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW), Joint Appointment, Aug 2016 - Jan 2017
 
