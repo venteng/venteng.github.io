@@ -25,62 +25,37 @@
 
 ## Academic Positions
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
-  <div style="width: 62%;">
-    <h3><a href="https://www.nycu.edu.tw/">National Yang Ming Chiao Tung University</a></h3>    
-    <h4><a href="https://imf.nctu.edu.tw/">Department of Information Management and Finance</a></h4>
-    <ul>
-      <li>Professor, 8/2024--Present</li>
-      <li>Associate Professor, 2/2017--7/2024</li>
-    </ul>    
-    <h4><a href="https://stat.nycu.edu.tw/">Institute of Statistics</a></h4>
-    <ul>
-      <li>Joint appointment, 9/2017--Present</li>
-    </ul>
-    <h4><a href="https://www.math.nycu.edu.tw/">Department of Applied Mathematics</a></h4>
-    <ul>
-      <li>Joint appointment, 10/2024--Present</li>
-    </ul>
+- [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)
+  - [Department of Information Management](https://imf.nctu.edu.tw/)
+    - Professor, Aug 2024 - Present
+    - Associate Professor, Feb 2017 - July 2024
+  -  [Department of Applied Mathematics](https://www.math.nycu.edu.tw/)
+    - Joint Appointment, Sep 2017 - Present
+  -  [Institute of Statistics](https://stat.nycu.edu.tw/)
+    - Joint Appointment, Oct 2024 - Present
 
-  </div>  
-  <div style="width: 38%; text-align: right;">
-    <img src="https://github.com/user-attachments/assets/a38b8893-c895-4fbe-bd08-57e2c4268258" alt="NYCU Logo" style="width: 100%; max-width: 150px;"/>
-  </div>
-</div>
-
-
-### [IDA, Institute of Digital Assets](https://ida.ase.ro)
-
-- Experienced Researcher, 4/2024--12/2024
-
-### [National Central University](https://www.ncu.edu.tw)
-
-####  [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/)
-
-- Associate Professor, 8/2016--1/2017
-- Assistant Professor, 8/2010--7/2016
-
-#### [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW)
-- Joint Appointment, 8/2016--1/2017
+- [IDA, Institute of Digital Assets](https://ida.ase.ro)
+  - Experienced Researcher, 4/2024--12/2024
+-  [National Central University](https://www.ncu.edu.tw)
+  - [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/)
+    - Associate Professor, 8/2016--1/2017
+    - Assistant Professor, 8/2010--7/2016
+  - [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW)
+    - Joint Appointment, 8/2016--1/2017
 
 ## Education
 
-### [The Pennsylvania State University](https://www.psu.edu/)
-
-- Ph.D. [Statistics](https://science.psu.edu/stat), 2010
-- Adviser: [Prof. John Liechty](http://www.personal.psu.edu/faculty/j/c/jcl12/)
-- Dissertation: Bayesian nonparametric approaches for financial option pricing
-
-
-### [National Taiwan University](https://www.ntu.edu.tw/)
-
-- MBA [Finance](https://management.ntu.edu.tw/Fin), 2004
-- Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)
-- Thesis: On pricing rainbow options
-- BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
-
-### [Johannanes Kepler University, Austria](https://www.jku.at)
-- Exchange student, Aug 1999 to Jan 2000
+- [The Pennsylvania State University](https://www.psu.edu/)
+  - Ph.D. [Statistics](https://science.psu.edu/stat), 2010
+  - Adviser: [Prof. John Liechty](http://www.personal.psu.edu/faculty/j/c/jcl12/)
+  - Dissertation: Bayesian nonparametric approaches for financial option pricing
+- [National Taiwan University](https://www.ntu.edu.tw/)
+  - MBA [Finance](https://management.ntu.edu.tw/Fin), 2004
+  - Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)
+  - Thesis: On pricing rainbow options
+  - BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
+- [Johannanes Kepler University, Austria](https://www.jku.at)
+  - Exchange student, Aug 1999 to Jan 2000
 
 <!---
 ## Education 
