@@ -44,7 +44,7 @@ Second, using English helps students become familiar with technical terms and ph
 Teaching this course in English is highly beneficial for several reasons. First, English is the global language of academia and business, and using it ensures that students are equipped with the skills they need to succeed internationally. It opens up access to a wealth of academic resources, including textbooks, research articles, and online platforms, most of which are predominantly in English. This makes it easier for students to stay up-to-date with the latest developments in their field. Second, English proficiency is increasingly valued in the job market. In many industries, particularly in multinational corporations, English is the common language used for communication, making it essential for students to be able to read, write, and speak in English. By teaching the course in English, students will gain the confidence to participate in global discussions, attend international conferences, and collaborate with peers and professionals worldwide.
 Finally, teaching in English encourages cognitive flexibility and cultural awareness. Students will not only learn the subject matter but also develop their language skills and cross-cultural communication abilities. This will prepare them for a variety of global opportunities, enhancing both their academic and professional futures."
 
-### APPLE0
+### Jake
 我認為數理統計用英文授課雖然會增加一點理解上的問題，但是也能訓練到英文聽跟說的能力。這門課我覺得可以訓練到英文口說的機會，每周的上台講解作業就是蠻好的方式強迫每個人都要準備一小段presentation ，而有時上課隨機抽問回答也或多或少可以鍛鍊口說能力，不過因為這種方式沒辦法事前準備，可能導致沒辦法立刻將答案組織成完整的語句來回答，更多是在訓練臨場的英文對答方面。
 
 
@@ -82,7 +82,7 @@ Not recommended for students that haven't finished Calculus course.
 ### Iris
 If you're considering this course in the next semester, be prepared for an engaging yet challenging experience. The course content is well-structured and incorporates real-life applications, especially in finance and time series analysis. Be sure to keep up with the homework and use the additional resources, such as YouTube videos and the AI platform, which will be very helpful for understanding core concepts. The pace might be fast, so actively participate in class activities and don't hesitate to ask for clarification if needed. Also, make sure to review the proprietary terms and definitions, as they can be tricky. Overall, it's a rewarding course, and with consistent effort, you'll find it very valuable!
 
-### APPLE0
+### Jake
 
 我覺得這是一門蠻紮實的課，雖然課程中的部分內容我在之前修課時也有碰到過，但是這門課我還是修的稍微有些吃力。我覺得上課中簡報內的例題算是最重要的部分，它們大多是用來說明某一條公式或概念的應用，所以理解的例題也就能大概明白這段內容的重點，而且部分作業和考試也蠻有可能會從裡面出。
 
@@ -122,6 +122,6 @@ I think the usage of E3 and GitHub should be clearly differentiated: E3 should b
 ### Iris
 I appreciate the effort you put into making the course engaging and comprehensive. The added use of YouTube videos and AI platforms will greatly enhance our understanding. It would be helpful if we could have more practice opportunities before exams to solidify key concepts. Additionally, a bit more time for clarification of core concepts during lectures would be beneficial. Looking forward to the upcoming semester!
 
-### APPLE0
+### Jake
 
 我覺得三堂課有其中一堂完全用來報告對我來說可能有點太多了，我覺得可能頻率可能可以降低一些。另外我覺得同學上台講解題目我有時比較不能夠聽懂解法，我覺得像是老師在期末考前臨時錄的那題講解就解釋的相當清楚，可能可以考慮把作業裡面困難的題目由老師講解或是可能可以把這些題目放在講義裡面當作上課的例題，我覺得這樣我會更容易吸收到習題內容。
