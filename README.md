@@ -18,37 +18,31 @@
 
 ## COMING SOON
 
-- ESG Financing
+- ESG Financing: Citizen Power Plant 全民電廠
 - Backtesting VaR and ES under Basel III
 - Crypto options in Deribit
 - xAI in credit scoring
 
 ## Academic Positions
 
-- [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)
-  - [Department of Information Management and Finance](https://imf.nctu.edu.tw/)
-    - Professor, Aug 2024 - Present
-    - Associate Professor, Feb 2017 - July 2024
-  -  [Department of Applied Mathematics](https://www.math.nycu.edu.tw/), Joint Appointment, Sep 2017 - Present
-  -  [Institute of Statistics](https://stat.nycu.edu.tw/), Joint Appointment, Oct 2024 - Present
+- [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/), [Department of Information Management and Finance](https://imf.nctu.edu.tw/), Professor, Aug 2024 - Present
+- [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/), [Department of Information Management and Finance](https://imf.nctu.edu.tw/), Associate Professor, Feb 2017 - July 2024
+- [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/), [Department of Applied Mathematics](https://www.math.nycu.edu.tw/), Joint Appointment, Sep 2017 - Present
+- [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/), [Institute of Statistics](https://stat.nycu.edu.tw/), Joint Appointment, Oct 2024 - Present
 - [IDA, Institute of Digital Assets](https://ida.ase.ro), Experienced Researcher, Apr 2024 - Dec 2024
--  [National Central University](https://www.ncu.edu.tw)
-    -  Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/)
-        -  Associate Professor, Aug 2016 - Jan 2017
-        - Assistant Professor, Aug 2010 - Jul 2016
-  - [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW), Joint Appointment, Aug 2016 - Jan 2017
+-  [National Central University](https://www.ncu.edu.tw), [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/), Associate Professor, Aug 2016 - Jan 2017
+-  [National Central University](https://www.ncu.edu.tw), [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/), Assistant Professor, Aug 2010 - Jul 2016
+-  [National Central University](https://www.ncu.edu.tw), [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW), Joint Appointment, Aug 2016 - Jan 2017
 
 ## Education
 
-- [The Pennsylvania State University](https://www.psu.edu/)
-  - Ph.D. [Statistics](https://science.psu.edu/stat), 2010
+- [The Pennsylvania State University](https://www.psu.edu/), Ph.D. [Statistics](https://science.psu.edu/stat), 2010
   - Adviser: [Prof. John Liechty](http://www.personal.psu.edu/faculty/j/c/jcl12/)
   - Dissertation: Bayesian nonparametric approaches for financial option pricing
-- [National Taiwan University](https://www.ntu.edu.tw/)
-  - MBA [Finance](https://management.ntu.edu.tw/Fin), 2004
+- [National Taiwan University](https://www.ntu.edu.tw/), MBA [Finance](https://management.ntu.edu.tw/Fin), 2004
   - Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)
   - Thesis: On pricing rainbow options
-  - BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
+- [National Taiwan University](https://www.ntu.edu.tw/), BS [Mathematics](http://www.math.ntu.edu.tw/),  2001
 - [Johannanes Kepler University, Austria](https://www.jku.at), Exchange Student, Aug 1999 to Jan 2000
 
 <!---
