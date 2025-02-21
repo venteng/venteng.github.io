@@ -9,8 +9,8 @@
 I was born in Taoyuan city, a beautiful countyside in the northern part of Taiwan. 
 I went to Taipei since senior high school, and was an exchange student in Austria during undergraduate study. 
 I then seek Ph.D. in Statitics at Penn State, USA. 
-I was very blassed to have my first job at National Central University, which is near to my grandparents' home. 
-Now, I am a Professor at National Yang Ming Chiao Tung University, located in Hsinchu, the mega of the semiconductor industry. 
+I was very blassed to have my first job at National Central University. 
+Now, I am a Professor at National Yang Ming Chiao Tung University, Hsinchu. 
 
 ## Food
 
