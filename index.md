@@ -2,7 +2,7 @@
 title: "Huei-Wen Teng 鄧惠文"
 author: "Huei-Wen Teng"
 description: "Professor at National Yang Ming Chiao Tung University"
-theme: jekyll-theme-Cayman  # Change theme if needed
+theme: jekyll-theme-cayman  # Change theme if needed
 ---
 
 # Huei-Wen Teng 鄧惠文
