@@ -55,15 +55,21 @@ I am a Professor in the Department of Information Management and Finance at Nati
 ---
 
 ## 🎓 Education
-- Ph.D. in Statistics, [The Pennsylvania State University](https://www.psu.edu/) (2010)  
+
+### The Pennsylvania State University ([PSU](https://www.psu.edu/))
+
+- Ph.D. in Statistics (2010)  
   - Adviser: [Prof. John Liechty](http://www.personal.psu.edu/faculty/j/c/jcl12/)  
   - Dissertation: *Bayesian Nonparametric Approaches for Financial Option Pricing*
 
-- MBA in Finance, [National Taiwan University](https://www.ntu.edu.tw/) (2004)  
+### National Taiwan University ([NTU](https://www.ntu.edu.tw/))
+- MBA in Finance (2004)  
   - Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)  
   - Thesis: *On Pricing Rainbow Options*
+- BS in Mathematics (2001)
 
-- BS in Mathematics, [National Taiwan University](https://www.ntu.edu.tw/) (2001)
+### Other Institutions
+
 - Exchange Student, [Johannes Kepler University, Austria](https://www.jku.at) (Aug 1999 - Jan 2000)
 
 ---
