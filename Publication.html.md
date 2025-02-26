@@ -9,7 +9,7 @@ title: Publication
 ## Articles in Refereed Journals
 
 1. Huei-Wen Teng, Ming-Hsuan Kang, I-Han Lee, and Le-Chi Bai. Bridging accuracy and interpretability: A rescaled cluster-then-predict approach for enhanced credit scoring. International Review of Financial Analysis, 91:103005, January 2024b. (SSCI IF = 8.2, RF: 4/111=3.6%) [GitHub](https://github.com/venteng/teng2024bridging)
-2. Huei-Wen Teng. Importance sampling for calculating the value-at-risk and expected shortfall of the quadratic portfolio with t-distributed risk factors. Computational Economics, 62(3):1125–1154, October 2023. (SCIE IF=2.0, RF: 47/107=43.9%, 國科會經濟學門B級期刊)
+2. Huei-Wen Teng. Importance sampling for calculating the value-at-risk and expected shortfall of the quadratic portfolio with t-distributed risk factors. Computational Economics, 62(3):1125–1154, October 2023. (SCIE IF=2.0, RF: 47/107=43.9%, 國科會經濟學門B級期刊) 
 3. Yung-Chi Chang, Huei-Wen Teng, and Wolfgang Härdle. Stochastic volatility dynamic hedging of the inverse BTC option. Journal of Futures and Options, 16(2):1–48, August 2023. (TSSCI)
 4. Le Quoc Tuan, Chih-Yung Lin, and Huei-Wen Teng. Machine learning methods for predicting failures of US commercial bank. Applied Economics Letters, pages 1–7, May 2023. (SSCI IF=1.287, RF: 236/380=62.1%)
 5. Huei-Wen Teng and Yu-Hsien Li. Can deep neural networks outperform Fama-Macbeth regression and other supervised learning approaches in stock returns prediction with asset-pricing factors? Digital Finance, 5(1):149–182, March 2023
@@ -47,7 +47,7 @@ title: Publication
 ## Submitted Papers
 
 1. Huei-Wen Teng, Wolfgang K Härdle, Jörg Osterrieder, and et al. Mitigating digital asset risks. 2024a. Revised and resubmitted to Financial Innovation, doi = 10.2139/ssrn.4594467
-2. Huei-Wen Teng and Wolfgang K Härdle. Financial analytics of inverse BTC options in a stochastic volatility world. January 2024b. Under revision at Journal of Financial Econometrics
+2. Huei-Wen Teng and Wolfgang K Härdle. Financial analytics of inverse BTC options in a stochastic volatility world. January 2024b. Under revision at Journal of Financial Econometrics, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238213), [GitHub](https://github.com/venteng/Deribit_inverse_BTC_options)
 3. Huei-Wen Teng and Yenchang Lee. Integrating explainable ai with polynomial analytics to enhance credit scoring model compliance. February 2024. Submitted to International Review of Economics & Finance
 4. Huei-Wen Teng, Meng-Jou Lu, Matúš Horváth, and Wolfgang Karl Härdle. Which risk do crypto index investments have? Submitted to Global Finance Journal, 2024c
 5. Yen-Ting Chen, Yenchang Lee, and Huei-Wen Teng. Unveiling key drivers of bitcoin returns: A machine learning approach with dynamic variable selection. Manuscript In Progress, 2024
