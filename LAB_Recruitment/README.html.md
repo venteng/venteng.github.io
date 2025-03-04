@@ -35,6 +35,7 @@ If you are interested in joining our lab, please submit the following by Jan 15,
 We strongly encourage our students to showcase their research at conferences and take part in thesis competitions. It’s a fantastic opportunity to share your ideas, gain recognition, and build valuable connections in the community.
 - ORSTW [台灣作業研究學會](http://www.orstw.org.tw)
 - SSC [南區統計研討會](https://www-math.nsysu.edu.tw/conference/stsc33/)
+- 2025 [台灣財務工程學會年會暨國際學術研討會](https://deptfin.ccu.edu.tw/p/412-1118-3680.php?Lang=zh-tw)
 - TFA 碩士論文
 - 富邦論文獎
 - 崇越論文大賞
@@ -48,6 +49,7 @@ To complete your master degrees, you need to pass
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|------------|------------|------------|------------|------------|------------|------------|
 | ORSTW  |        |        |        |        |        |        |        | | ✅  | ✅  | ✅  |        |    |            |            |      |      | |
 | SSC  |        |        |        |        |        |        |        |   |   |   |        |    |            |         |   | ✅      | ✅       |✅  
+| FeAT  |        |        |        |        |        |        |        |   |   |   |        |    |            |         |   | ✅      | ✅       |✅  
 | PROPOSAL/ORAL  |        |        |        |        |        |        |        |   |   |   |        || ✅   |            |            |         |       ✅ |  
 
 
