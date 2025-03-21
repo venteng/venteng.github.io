@@ -20,9 +20,10 @@
 
 - ESG Financing: Citizen Power Plant 全民電廠
 - Backtesting VaR and ES under Basel III
-- Financial Derivatives 
 - xAI in credit scoring
-- Network-Based systemic risk of Taiwan
+- Portfolio management under the Black-Litterman model
+- Trading with AI, Network-Based risk of financial markets
+- Financial Derivatives 
 
 ## Academic Positions
 
