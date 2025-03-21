@@ -23,11 +23,11 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## 📌 Research Highlights (Coming Soon)
 
-- ESG Financing: Citizen Power Plant 全民電廠
+- ESG Financing: Citizen Power Plant 全民電廠, financial derivatives 
 - Backtesting VaR and ES under Basel III
-- Financial Derivatives
-- xAI in Credit Scoring
-- Network-Based Systemic Risk of Taiwan
+- xAI in credit scoring
+- Portfolio management under the Black-Litterman model
+- Trading with AI, network-based risk measures of financial markets
 
 ---
 
