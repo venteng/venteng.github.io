@@ -18,12 +18,11 @@
 
 ## COMING SOON
 
-- ESG Financing: Citizen Power Plant 全民電廠
+- ESG Financing: Citizen Power Plant 全民電廠, financial derivatives 
 - Backtesting VaR and ES under Basel III
 - xAI in credit scoring
 - Portfolio management under the Black-Litterman model
 - Trading with AI, Network-Based risk of financial markets
-- Financial Derivatives 
 
 ## Academic Positions
 
