@@ -1,4 +1,4 @@
-# 鄧惠文 Huei-Wen Teng 
+d# 鄧惠文 Huei-Wen Teng 
 
 ## Biography  
 
@@ -22,7 +22,7 @@
 - Backtesting VaR and ES under Basel III
 - xAI in credit scoring
 - Portfolio management under the Black-Litterman model
-- Trading with AI, Network-Based risk of financial markets
+- Trading with AI, network-based risk measures of financial markets
 
 ## Academic Positions
 
