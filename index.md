@@ -27,7 +27,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 - VaR and ES, Basel III
 - xAI, credit scoring
 - ETFs, portfolio, the Black-Litterman model
-- Trading, AI, cryptocurrencies, network-based risk measures
+- Trading, AI, network-based risk measures
 
 ---
 
