@@ -45,7 +45,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 - Joint Appointment, [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW) (Aug 2016 - Jan 2017)
 
 ### Other Institutions
-- Experienced Researcher, [IDA Institute of Digital Assets](https://ida.ase.ro) (Apr 2024 - Dec 2024)
+- Experienced Researcher, [IDA Institute of Digital Assets](https://ida.ase.ro) (2024)
 - Visiting Scholar, [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en), Germany (2011, 2012, 2023)
 
 ---
