@@ -12,9 +12,8 @@ Our lab is looking for students who are passionate about knowledge, value transp
 
 - If you’re driven by curiosity and eager to make a difference, join us as we explore these exciting topics together! 
 - See a list of achievements of [Students](https://venteng.github.io/LAB_Recruitment/Students.html)! 
-- If you are interested in joining our lab, please submit your transcripts and a short statement of purpose (less than 150 words) by Dec 15, 2025. A decision will be made around Dec 25, 2025.  
+- If you are interested in joining our lab, please email me your transcripts and a short statement of purpose (less than 150 words).
 - Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to gain valuable insights and skills for our research projects — while it’s not mandatory, it’s highly recommended!
-
 
 <!-- - Provide me your information through [Google Forms](https://forms.gle/UQSsDkt4Csvg9UU59). --->
 
