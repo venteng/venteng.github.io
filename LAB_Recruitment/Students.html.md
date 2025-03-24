@@ -12,25 +12,36 @@ title: Students
 
 - 李彥璋 Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance
 
-### 碩專班
-- 江文煌 TBD
-- 范艾雯 TBD
+### 碩二
 
-### 碩士
+- 黃馨霈 Wendy, Assessing Value of Risk for Cryptocurrencies (政治大學應數系,陽明交通大學財金所) [LinkedIn](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/), [GitHub](https://hsin456.github.io/)
+- 施昱全 James, LLM for Taiwan's Financial Statement Analysis and Future Earning Predictions (國立清華大學計量財務系, 陽明交通大學財金所) [LinkedIn](http://linkedin.com/in/昱全-施-735a5620b), [GitHub](https://shih95286.github.io/)
+- 吳柏賢 Howard, Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (國立高雄大學財金系,陽明交通大學財金所) [LinkedIn](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/), [GitHub](https://howardwuwu.github.io/io/IO.html)
+- 陳怡仁 Paul, Enhancing Model Accuracy and Interpretability in FinTech (台北商業大學財金系, 陽明交通大學財金所) [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile), [GitHub](https://pauljkk.github.io/)
+- 陳諾恆 Jason, Utilizing Graphical Models to Measure Systemic Risk in Taiwan (香港恆生大學, 陽明交通大學財金所)
+[LinkedIn](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/), [GitHub](https://channokhang.github.io/)
 
-- 黃馨霈 Assessing Value of Risk for Cryptocurrencies (政治大學應數系2022,陽明交通大學財金所202?) 
-- 施昱全 LLM for Taiwan's Financial Statement Analysis and Future Earning Predictions (國立清華大學計量財務系, 陽明交通大學財金所)
-- 吳柏賢 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (國立高雄大學財金系,陽明交通大學財金所)
-- 陳怡仁 Enhancing Model Accuracy and Interpretability in FinTech (台北商業大學財金系, 陽明交通大學財金所)
-- 陳諾恆 Utilizing Graphical Models to Measure Systemic Risk in Taiwan (香港恆生大學, 陽明交通大學財金所)
-- 蘇家灝 TBD
+### 碩一
 
-### 大專生 
-- 黃以樂 (陽明交通大學應數系大三）
-- 吳冠霖 (陽明交通大學應數系大三）
-- 許柏堯 (陽明交通大學資財系大三）
+- 蘇家灝 Ben, [LinkedIn](https://www.linkedin.com/in/ben--soo/), [GitHub](https://ben-soo.github.io/BenSoo/)
+- 邱瀚奕 Elvis, [LinkedIn](https://pse.is/78kyba), [GitHub](https://elvis0910607.github.io/personalwebsite/self.html)
+- 鄭凱鴻 Allen, [LinkedIn](https://www.linkedin.com/in/kaihong-zheng-66a105355/), [GitHub](https://kaihongzheng.github.io/)
+- 鄭詠融 Martin, [LinkedIn](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/), [GitHub](https://wdianrdk.github.io/)
+- 王惠芯 Chrissy, [LinkedIn](https://www.linkedin.com/in/chrissywangxiv/), [GitHub](https://chrissyxiv.github.io/)
+- 余柔柔 Mabel, [LinkedIn](https://www.linkedin.com/in/mabelrryu/), [GitHub](https://yurourou1998.github.io/mabel.github.io/)
 
-  
+### 專班
+
+- 江文煌 Ares, [LinkedIn](https://www.linkedin.com/in/ares-jiang-2a3816354/), [GitHub](https://jiang-wen-hwang.github.io/)
+- 范艾雯 Eva, [LinkedIn](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/), [GitHub](https://evan7352.github.io/)
+- 黃德榮 Deron
+
+### 大專生
+- 許柏堯 Frank (陽明交通大學資財系大三）, [LinkedIn](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/), [GitHub](https://frankhsu-imf.github.io/)
+- 黃以樂 Yile (陽明交通大學應數系大三）, [LinkedIn](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/), [GitHub](https://yile0130.github.io/)
+- 吳冠霖 Guan-Lin (陽明交通大學應數系大三, [LinkedIn](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/), [GitHub](https://guanlinwu1126.github.io/GuanLinWU.github.io/)
+
+
 ## Past Students
 
 ⭐ Indicates rewards or publications derived from research work
