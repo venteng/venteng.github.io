@@ -23,11 +23,12 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## 📌 Research Highlights (Coming Soon)
 
-- ESG Financing, citizen power plant, financial derivatives 
-- VaR and ES, Basel III
-- xAI, credit scoring
-- ETFs, portfolio, the Black-Litterman model
-- Trading, AI, network-based risk measures
+- ESG Financing, financial derivatives 
+- VaR and ES, Basel III accord
+- Credit scoring
+- ETFs, portfolio management
+- Trading
+- Motality model
 
 ---
 
