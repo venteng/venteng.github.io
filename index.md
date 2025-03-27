@@ -63,7 +63,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 - MBA in Finance (2004)  
 <!--
   - Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)  
-  - Thesis: *On Pricing Rainbow Options*--->
+  - Thesis: *On Pricing Rainbow Options* --->
 - BS in Mathematics (2001)
 
 ### Other Institutions
