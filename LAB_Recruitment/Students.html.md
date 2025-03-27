@@ -30,13 +30,14 @@ title: Students
 - 王惠芯 Chrissy, [LinkedIn](https://www.linkedin.com/in/chrissywangxiv/), [GitHub](https://chrissyxiv.github.io/)
 - 余柔柔 Mabel, [LinkedIn](https://www.linkedin.com/in/mabelrryu/), [GitHub](https://yurourou1998.github.io/mabel.github.io/)
 
-### 專班
+### 專班碩士
 
 - 江文煌 Ares, [LinkedIn](https://www.linkedin.com/in/ares-jiang-2a3816354/), [GitHub](https://jiang-wen-hwang.github.io/)
 - 范艾雯 Eva, [LinkedIn](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/), [GitHub](https://evan7352.github.io/)
 - 黃德榮 Deron
 
-### 大專生
+### 專題生
+
 - 許柏堯 Frank (陽明交通大學資財系大三）, [LinkedIn](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/), [GitHub](https://frankhsu-imf.github.io/)
 - 黃以樂 Yile (陽明交通大學應數系大三）, [LinkedIn](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/), [GitHub](https://yile0130.github.io/)
 - 吳冠霖 Guan-Lin (陽明交通大學應數系大三, [LinkedIn](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/), [GitHub](https://guanlinwu1126.github.io/GuanLinWU.github.io/)
@@ -47,7 +48,9 @@ title: Students
 ⭐ Indicates rewards or publications derived from research work
 
 ### National Yang Ming Chiao Tung University
+
 #### Department of Information Management and Finance
+
 - 陳彥廷 [[中信銀行, Chinatrust](https://www.ctbcbank.com/twrbo/zh_tw/index.html)] &nbsp;&nbsp;&nbsp;&nbsp; 8/2024  
   Yen-Ting Chen, Exploring Multifaceted Drivers for Bitcoin Return Analysis  
 - 鄭翔澧 [[MSCA Industrial PhD Program, Bucharest University of Economic Studies, Romania](https://ida.ase.ro)]
@@ -141,6 +144,8 @@ title: Students
   Jia-Yang Wu, Copula-Based Time Series with Applications to Unemployment Rates Modeling
 
 ## Undergraduate Projects
+
+### 
 
 - 鄭有朋, 探索比特幣回報分析的多面向驅動因素  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
 - 王鳴謙, 探索比特幣回報分析的多面向驅動因素  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
