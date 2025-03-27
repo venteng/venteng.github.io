@@ -28,7 +28,6 @@ I am a Professor in the Department of Information Management and Finance at Nati
 - Credit scoring
 - ETFs, portfolio management
 - Trading
-- Motality model
 
 ---
 
@@ -56,13 +55,15 @@ I am a Professor in the Department of Information Management and Finance at Nati
 ### The Pennsylvania State University ([PSU](https://www.psu.edu/))
 
 - Ph.D. in Statistics (2010)  
+<!--_
   - Adviser: [Prof. John Liechty](http://www.personal.psu.edu/faculty/j/c/jcl12/)  
   - Dissertation: *Bayesian Nonparametric Approaches for Financial Option Pricing*
-
+--->
 ### National Taiwan University ([NTU](https://www.ntu.edu.tw/))
 - MBA in Finance (2004)  
+<!--
   - Adviser: [Prof. Yuh-Dauh Lyuu](https://www.csie.ntu.edu.tw/~lyuu/)  
-  - Thesis: *On Pricing Rainbow Options*
+  - Thesis: *On Pricing Rainbow Options*--->
 - BS in Mathematics (2001)
 
 ### Other Institutions
