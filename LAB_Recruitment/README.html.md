@@ -4,16 +4,18 @@ title: LAB Recruitment
 ---
 
 
-# LAB Recruitment
+# TOGETHER, WE GO FAR!
 
-Our lab is looking for students who are passionate about knowledge, value transparency and reproducibility in scientific research, and demonstrate resilience and a positive outlook. We focus on using cutting-edge quantitative methods — including statistical techniques, machine learning, and AI — to tackle real-world challenges.
+## Join Our Lab!
 
-## TOGETHER, WE GO FAR!
+We are seeking motivated students who are passionate about knowledge, value transparency and reproducibility in scientific research, and exhibit resilience and a positive attitude. Our lab applies advanced quantitative methods — including statistical techniques, machine learning, and AI — to address real-world challenges.
 
-- If you’re driven by curiosity and eager to make a difference, join us as we explore these exciting topics together! 
-- See a list of achievements of [Students](https://venteng.github.io/LAB_Recruitment/Students.html)! 
-- If you are interested in joining our lab, please email me your transcripts and a short statement of purpose (less than 150 words).
-- Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to gain valuable insights and skills for our research projects — while it’s not mandatory, it’s highly recommended!
+- **Curious and driven?** Join us in exploring these exciting topics!  
+- **Check out** the [achievements of our students](https://venteng.github.io/LAB_Recruitment/Students.html)!  
+- **Interested in joining?** Email me your CV, transcripts, and a short statement of purpose (150 words max).  
+- **Want to prepare?** Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
+
+Let’s make an impact together!
 
 <!-- - Provide me your information through [Google Forms](https://forms.gle/UQSsDkt4Csvg9UU59). --->
 
@@ -24,11 +26,6 @@ Our lab is looking for students who are passionate about knowledge, value transp
 We strongly encourage our students to showcase their research at conferences and take part in thesis competitions. It’s a fantastic opportunity to share your ideas, gain recognition, and build valuable connections in the community.
 - ORSTW [台灣作業研究學會](http://www.orstw.org.tw)
 - SSC [南區統計研討會](https://www-math.nsysu.edu.tw/conference/stsc33/)
-- 2025 [台灣財務工程學會年會暨國際學術研討會](https://deptfin.ccu.edu.tw/p/412-1118-3680.php?Lang=zh-tw)
-- TFA 碩士論文
-- 富邦論文獎
-- 崇越論文大賞
-- 台灣銀行碩士論文獎
 
 To complete your master degrees, you need to pass
 - PROPSOAL: Proposal exam
