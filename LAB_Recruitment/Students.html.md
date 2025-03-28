@@ -14,11 +14,11 @@ title: Students
 
 ### 碩二
 
-- 黃馨霈 Wendy, Assessing Value of Risk for Cryptocurrencies (政治大學應數系,陽明交通大學財金所) [LinkedIn](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/), [more](https://hsin456.github.io/)
-- 施昱全 James, LLM for Taiwan's Financial Statement Analysis and Future Earning Predictions (國立清華大學計量財務系, 陽明交通大學財金所) [LinkedIn](http://linkedin.com/in/昱全-施-735a5620b), [more](https://shih95286.github.io/)
-- 吳柏賢 Howard, Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (國立高雄大學財金系,陽明交通大學財金所) [LinkedIn](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/), [more](https://howardwuwu.github.io/io/IO.html)
-- 陳怡仁 Paul, Enhancing Model Accuracy and Interpretability in FinTech (台北商業大學財金系, 陽明交通大學財金所) [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile), [more](https://pauljkk.github.io/)
-- 陳諾恆 Jason, Utilizing Graphical Models to Measure Systemic Risk in Taiwan (香港恆生大學, 陽明交通大學財金所)
+- 黃馨霈 Wendy, Assessing Value of Risk for Cryptocurrencies [LinkedIn](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/), [more](https://hsin456.github.io/)
+- 施昱全 James, LLM for Taiwan's Financial Statement Analysis and Future Earning Predictions [LinkedIn](http://linkedin.com/in/昱全-施-735a5620b), [more](https://shih95286.github.io/)
+- 吳柏賢 Howard, Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation [LinkedIn](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/), [more](https://howardwuwu.github.io/io/IO.html)
+- 陳怡仁 Paul, Enhancing Model Accuracy and Interpretability in FinTech [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile), [more](https://pauljkk.github.io/)
+- 陳諾恆 Jason, Utilizing Graphical Models to Measure Systemic Risk in Taiwan 
 [LinkedIn](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/), [more](https://channokhang.github.io/)
 
 ### 碩一
