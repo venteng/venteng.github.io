@@ -1,4 +1,5 @@
 --- 
+layout: default
 title: Publication
 --- 
 
@@ -19,7 +20,6 @@ title: Publication
 10. Yuh-Dauh Lyuu, Huei-Wen Teng, Yao-Te Tseng, and Sheng-Xiang Wang. A systematic and efficient simulation scheme for the Greeks of financial derivatives. Quantitative Finance, 19(7):1199–1219, January 2019. (SSCI IF = 1.3, RF:150/376=39.9%, 國科會財會學門財務領域A Tier-2 級期刊)
 11. Cheng-Der Fuh, Huei-Wen Teng, and Ren-Her Wang. Efficient simulation of value-at-risk under a jump diffusion model: A new method for moderate deviation events. Computational Economics, 51(4): 973–990, April 2018. (SCIE IF=2.0, RF: 47/107=43.9%, 國科會經濟學門B級期刊)
 12. Huei-Wen Teng. A spherical Monte Carlo approach for calculating value-at-risk and expected shortfall in financial risk management. In 2017 Winter Simulation Conference (WSC), pages 469–480. IEEE, January 2018
-
 13. Huei-Wen Teng, Cheng-Der Fuh, and Chun-Chieh Chen. On an automatic and optimal importance sampling approach with applications in finance. Quantitative Finance, 16(8):1259–1271, 2016. (SSCI IF = 1.3, RF:150/376=39.9%, 國科會財會學門財務領域A Tier-2 級期刊)
 14. Sanford Luo, Huei-Wen Teng, and Yu-Hsuan Lee. Forecasting mortality using imputed data: The case of Taiwan. Asia-Pacific Journal of Risk and Insurance, 10(1):1–20, 2016
 15. Huei-Wen Teng Ming-Hsuan Kang and Cheng-Der Fuh. On spherical Monte Carlo simulations for multivariate normal probabilities. Advances in Applied Probability, 47(3):817–836, 2015. (SCIE IF=1.2, RF:79/125=63.2%)
