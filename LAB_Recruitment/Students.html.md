@@ -46,7 +46,7 @@ title: Students
 
 ---
 
-### 專班碩士 (Executive Master’s Students)
+### Executive Master’s Students
 
 - **江文煌** Chiang, Ares  
   [LinkedIn](https://www.linkedin.com/in/ares-jiang-2a3816354/), [More](https://jiang-wen-hwang.github.io/)  
@@ -56,7 +56,7 @@ title: Students
 
 ---
 
-### 專題生 (Research Assistants)
+### Undergraduate Students
 
 - **許柏堯** Hsu, Frank *(陽明交通大學資財系大三)*  
   [LinkedIn](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/), [More](https://frankhsu-imf.github.io/)  
