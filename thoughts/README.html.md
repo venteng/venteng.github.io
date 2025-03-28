@@ -1,8 +1,7 @@
 ---
 layout: default
-title: thoughts README
+title: Thoughts & Insight
 ---
-
 
 # 觀點分享 (Thoughts & Insights)
 
