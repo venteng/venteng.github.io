@@ -19,31 +19,34 @@ Let’s make an impact together!
 
 <!-- - Provide me your information through [Google Forms](https://forms.gle/UQSsDkt4Csvg9UU59). --->
 
-## Time Line 
+## Timeline
 
-### Master Thesis
+### Master’s Thesis
 
-We strongly encourage our students to showcase their research at conferences and take part in thesis competitions. It’s a fantastic opportunity to share your ideas, gain recognition, and build valuable connections in the community.
-- ORSTW [台灣作業研究學會](http://www.orstw.org.tw)
-- SSC [南區統計研討會](https://www-math.nsysu.edu.tw/conference/stsc33/)
+We strongly encourage our students to present their research at conferences and participate in thesis competitions. These opportunities allow you to share ideas, gain recognition, and build valuable connections within the academic community.
 
-To complete your master degrees, you need to pass
-- PROPSOAL: Proposal exam
-- ORAL: Oral exam
+- **ORSTW:** [台灣作業研究學會](http://www.orstw.org.tw)  
+- **SSC:** [南區統計研討會](https://www-math.nsysu.edu.tw/conference/stsc33/)  
 
-|Month| 1  |  2  |  3  | 4  |  5 |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  1  |  2 |  3  |  4  |  5  |  6  | 
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|------------|------------|------------|------------|------------|------------|------------|
-| ORSTW  |        |        |        |        |        |        |        | | ✅  | ✅  | ✅  |        |    |            |            |      |      | |
-| SSC  |        |        |        |        |        |        |        |   |   |   |        |    |            |         |   | ✅      | ✅       |✅  
-| PROPOSAL/ORAL  |        |        |        |        |        |        |        |   |   |   |        || ✅   |            |            |         |       ✅ |  
+To complete your master’s degree, you need to pass:
+- **PROPOSAL:** Proposal exam  
+- **ORAL:** Oral defense  
+
+| Month      | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 1  | 2  | 3  | 4  | 5  | 6  |
+|------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| **ORSTW**  |    |    |    |    |    |    |    |    | ✅ | ✅ | ✅ |    |    |    |    |    |    |    |
+| **SSC**    |    |    |    |    |    |    |    |    |    |    |    | ✅ |    |    |    | ✅ | ✅ | ✅ |
+| **PROPOSAL/ORAL** |    |    |    |    |    |    |    |    |    |    |    |    | ✅ |    |    |    | ✅ |    |
+
+---
 
 ### Undergraduate Projects
 
-- DIF 國立陽明交通大學智慧創新跨域潛力人才競賽
+- **DIF:** 國立陽明交通大學智慧創新跨域潛力人才競賽  
 
-|Month|   2  |  3  | 4  |  5 |  6  |  7  |  8  |  9  |  10 |  11 |  12 |  1  | 
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|------------|
-| DIF  |        |        |        |        |        |        |        | |   |  | ✅  |  |   
+| Month      | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 1  |
+|------------|----|----|----|----|----|----|----|----|----|----|----|----|
+| **DIF**    |    |    |    |    |    |    |    |    |    | ✅ |    |    |
 
 
 
