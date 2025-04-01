@@ -23,10 +23,10 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## 📌 Research Highlights (Coming Soon)
 
-- ESG Financing, financial derivatives 
-- VaR and ES, Basel III accord
+- ESG Financing
+- Value-at-Risk and Expected Shortfall
 - Credit scoring
-- ETFs, portfolio management
+- ETFs and portfolio management
 - Trading
 
 ---
