@@ -21,7 +21,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ---
 
-## 📌 Research Highlights (Coming Soon)
+## 📌 Research Highlights
 
 - ESG Financing
 - Value-at-Risk and Expected Shortfall
