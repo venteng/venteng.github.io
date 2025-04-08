@@ -56,5 +56,7 @@ For each topic:
 - Repeat the process using different AI tools, transit from Soft AI to Hard AI. 
 - Refine until your review is comprehensive and well-structured
 
+---
+
 ![AI-1](https://github.com/user-attachments/assets/a3a33e0f-2bad-4f31-bb19-05e8497d6cd6)
 
