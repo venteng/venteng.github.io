@@ -3,8 +3,9 @@ layout: default
 title: A Practical Guide to AI-Assisted Research in Section 1 Writing
 ---
 
-
 # A Practical Guide to AI-Assisted Research in Section 1 Writing
+
+💬 *“AI is not replacing researchers — it’s empowering them to think deeper, move faster, and communicate better.”*
 
 ## AI Tools for Academic Research
 
@@ -17,7 +18,7 @@ title: A Practical Guide to AI-Assisted Research in Section 1 Writing
 
 ---
 
-## Objectives of Section 1
+## Objectives of Section 1: Introduction
 
 Section 1 should include:
 
@@ -45,6 +46,7 @@ For each topic:
 - Use Google Scholar or publisher sites to fact-check and validate each paper
 
 #### 3. Tabulate & Structure the Findings
+
 - Summarize findings in a clear table or matrix
 - Structure the information into presentation-ready slides for communicating to a general audience
 
@@ -53,15 +55,6 @@ For each topic:
 - Upload to Overleaf for easy reference management
 
 #### 5. Iterate with Other AI Tools
-- Repeat the process using different AI tools
+- Repeat the process using different AI tools, transit from Soft AI to Hard AI. 
 - Refine until your review is comprehensive and well-structured
 
----
-
-## Visual Aid
-
-![Section 1 Literature Review Flowchart](A_flowchart_titled_"Section_1:_Literature_Review_w.png)
-
----
-
-> 💬 “AI is not replacing researchers — it’s empowering them to think deeper, move faster, and communicate better.”
