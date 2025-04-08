@@ -36,23 +36,25 @@ Before proposing your research objectives, explore the broader context thoroughl
 ### 1. Identify Key Topics
 Select 3 to 5 core themes relevant to your research area.
 
-### 2. Use AI for Article Discovery
+### 2. Use one AI for Discovery
 For each topic:
 
 - Ask your favorite AI (e.g., ChatGPT or Claude) to generate a list of relevant academic papers
 - Request BibTeX citations from the AI
 - Use Google Scholar or publisher sites to fact-check and validate each paper
 
-### 3. Tabulate & Structure the Findings
+### 3. Structure Findings in Slides
 
 - Summarize findings in a clear table or matrix
 - Structure the information into presentation-ready slides for communicating to a general audience
 
-### 4. Manage Citations
+### 4. Manage Writing in Overleaf
 - Compile sources into a BibTeX file
 - Upload to Overleaf for easy reference management
 
 ### 5. Iterate with Other AI Tools
 - Repeat the process using different AI tools, transit from Soft AI to Hard AI. 
 - Refine until your review is comprehensive and well-structured
+
+![AI-1](https://github.com/user-attachments/assets/a3a33e0f-2bad-4f31-bb19-05e8497d6cd6)
 
