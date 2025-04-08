@@ -12,10 +12,12 @@ title: Thoughts & Insight
 
 ## More
 
-- [20250224 How do I create a gitHUB webpage?](https://chatgpt.com/share/67bc10df-5884-800c-b4d4-9441899c6b98)
-- [20250408 A Practical Guide to AI-Assisted Research in Section 1 Writing](https://venteng.github.io/blob/main/thoughts/20250408_AI_Research_1.html)
+
+- [20250408 A Practical Guide to AI-Assisted Research in Section 1 Writing](https://venteng.github.io/thoughts/20250408_AI_Research_1.html)
 
 <!---
+
+- [20250224 How do I create a gitHUB webpage?](https://chatgpt.com/share/67bc10df-5884-800c-b4d4-9441899c6b98)
 - [鄧惠文/我怎麼轉換跑道，從數學系變成財金所呢？](https://hackmd.io/7XkdaE4yRAKAs2FIiEG5Lw)
 - [鄧惠文/碩士生可能會想知道的?](https://hackmd.io/7XA3UFoCRjqT1kW6E4HZbw)
 - [鄧惠文/導生分享](https://hackmd.io/nf4uLb40TUW2axK_jCLQLA)
