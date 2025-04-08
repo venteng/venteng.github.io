@@ -1,9 +1,9 @@
 ---
 layout: default
-title: A Practical Guide to AI-Assisted Research in Section 1 Writing
+title: A Practical Guide to AI-Assisted Research
 ---
 
-# A Practical Guide to AI-Assisted Research in Section 1 Writing
+# Section 1 Writing
 
 💬 *“AI is not replacing researchers — it’s empowering them to think deeper, move faster, and communicate better.”*
 
@@ -31,30 +31,28 @@ Before proposing your research objectives, explore the broader context thoroughl
 
 ---
 
-## Literature Review Workflow
+##  📌 Literature Review Workflow Step-by-Step Process
 
-### 📌 Step-by-Step Process
-
-#### 1. Identify Key Topics
+### 1. Identify Key Topics
 Select 3 to 5 core themes relevant to your research area.
 
-#### 2. Use AI for Article Discovery
+### 2. Use AI for Article Discovery
 For each topic:
 
 - Ask your favorite AI (e.g., ChatGPT or Claude) to generate a list of relevant academic papers
 - Request BibTeX citations from the AI
 - Use Google Scholar or publisher sites to fact-check and validate each paper
 
-#### 3. Tabulate & Structure the Findings
+### 3. Tabulate & Structure the Findings
 
 - Summarize findings in a clear table or matrix
 - Structure the information into presentation-ready slides for communicating to a general audience
 
-#### 4. Manage Citations
+### 4. Manage Citations
 - Compile sources into a BibTeX file
 - Upload to Overleaf for easy reference management
 
-#### 5. Iterate with Other AI Tools
+### 5. Iterate with Other AI Tools
 - Repeat the process using different AI tools, transit from Soft AI to Hard AI. 
 - Refine until your review is comprehensive and well-structured
 
