@@ -13,7 +13,7 @@ title: Thoughts & Insight
 ## My recent chatting with AI
 
 - [20250224 How do I create a gitHUB webpage?](https://chatgpt.com/share/67bc10df-5884-800c-b4d4-9441899c6b98)
-- [20250408 A Practical Guide to AI-Assisted Research in Section 1 Writing](https://github.com/venteng/venteng.github.io/blob/main/thoughts/20250408_AI_Research_1.html)
+- [20250408 A Practical Guide to AI-Assisted Research in Section 1 Writing](https://venteng.github.io/blob/main/thoughts/20250408_AI_Research_1.html)
 
 <!---
 - [鄧惠文/我怎麼轉換跑道，從數學系變成財金所呢？](https://hackmd.io/7XkdaE4yRAKAs2FIiEG5Lw)
