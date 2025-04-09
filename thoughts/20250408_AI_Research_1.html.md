@@ -60,3 +60,34 @@ For each topic:
 
 ![AI-1](https://github.com/user-attachments/assets/a3a33e0f-2bad-4f31-bb19-05e8497d6cd6)
 
+
+## Bibtex
+
+
+1. bibkeys have to be of a consistant format: firstauthor+yyyy+first word, all in lowercase.
+2.  In 'title', use \textsc{xxx} to make it uppper case.
+3.  Don't cite a master thesis. (It is a hurt to cite a master thesis in your paper. No offense, but this is a fact.)
+4.  Need to double check every information with google scholar. Add a note, ex: "% confirmed by Teng on 20250409" 
+
+% A wrong format
+@mastersthesis{btcHeston,
+  author    = {Chang, Yung-Chi},
+  title     = {Pricing and Hedging Inverse BTC Options with Heston’s Stochastic Volatility Model},
+  school    = {National Yang Ming Chiao Tung University},
+  year      = {2022},
+  note      = {Master's thesis}
+}
+
+% Correct one
+% confirmed by Teng on 20250409
+@article{chang2023stochastic,
+	author = {Yung-Chi Chang and Huei-Wen Teng and Wolfgang H{\"{a}}rdle},
+	title = {Stochastic volatility dynamic hedging of the inverse \textsc{BTC} option},
+	volume = {16},
+	number = {2},
+	pages = {1--48},
+	month = {August},
+	year = {2023},
+	journal = {Journal of Futures and Options},	
+	note = {(TSSCI)},
+	}
