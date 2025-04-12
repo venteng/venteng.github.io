@@ -24,7 +24,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 ## 📌 Research Highlights
 
 - ESG Financing
-- Financial risk
+- Financial tail risk and connectivity
 - Credit scoring
 - ETFs and portfolio management
 - Trading
