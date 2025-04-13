@@ -3,7 +3,7 @@ layout: default
 title: A Practical Guide to AI-Assisted Research
 ---
 
-# Section 1 Writing
+# Preparing your manuscript in an overleaf project
 
 💬 *“AI is not replacing researchers — it’s empowering them to think deeper, move faster, and communicate better.”*
 
