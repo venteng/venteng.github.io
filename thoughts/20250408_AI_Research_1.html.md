@@ -9,13 +9,19 @@ title: A Practical Guide to AI-Assisted Research
 
 ## AI Tools for Academic Research
 
-- Soft AI (自然語言與生成型 AI)  
-  ChatGPT, GROK, Claude, Gemini, Perplexity
+### Soft AI (自然語言與生成型 AI)  
+- ChatGPT
+- GROK
+- Claude
+- Gemini
+- Perplexity
 
-- Hard AI（資料庫導向、學術支援型 AI）  
-  參考 NYCU 圖書館的 AI 研究助理平台，包括 ALMA、WOS、Scite.AI  
-  👉 [NYCU AI 工具入口網站](https://www.lib.nycu.edu.tw/?lang=zh-TW)
-
+### Hard AI（資料庫導向、學術支援型 AI）  
+  
+參考 [NYCU 圖書館的 AI 研究助理平台](https://www.lib.nycu.edu.tw/?lang=zh-TW)
+- ALMA
+- WOS
+- Scite.AI
 ---
 
 ## Step 1
