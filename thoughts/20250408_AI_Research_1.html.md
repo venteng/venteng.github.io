@@ -7,28 +7,10 @@ title: A Practical Guide to AI-Assisted Research
 
 💬 *“AI is not replacing researchers — it’s empowering them to think deeper, move faster, and communicate better.”*
 
-## AI Tools for Academic Research
-
-### Soft AI (自然語言與生成型 AI)  
-- ChatGPT
-- GROK
-- Claude
-- Gemini
-- Perplexity
-
-### Hard AI（資料庫導向、學術支援型 AI）  
-  
-參考 [NYCU 圖書館的 AI 研究助理平台](https://www.lib.nycu.edu.tw/?lang=zh-TW)
-- ALMA
-- WOS
-- Scite.AI
----
-
-## Step 1
+## Step 1: To start 
 
 1. Start with a tentatitve title
 2. Correct and identify authors in alphabetic orders at the moment. 
-
 
 ## Step 2: Introduction
 
@@ -41,17 +23,34 @@ The goal is to convince your readers why your research matters — not only in a
 
 Before proposing your research objectives, explore the broader context thoroughly with the help of both traditional methods and AI tools.
 
+
+
 ---
 
 ##  📌 Literature Review Workflow Step-by-Step Process
+
+
 
 ### 1. Identify Key Topics
 Select 3 to 5 core themes relevant to your research area.
 
 ### 2. Use one AI for Discovery
-For each topic:
 
-- Ask your favorite AI (e.g., ChatGPT or Claude) to generate a list of relevant academic papers
+We have Soft AI (自然語言與生成型 AI), that may provide you fake literature, but still useful to some extent. 
+- ChatGPT
+- GROK
+- Claude
+- Gemini
+- Perplexity
+
+
+We have hard AI（資料庫導向、學術支援型 AI), usually expensive and would be paid by our university, [NYCU 圖書館的 AI 研究助理平台](https://www.lib.nycu.edu.tw/?lang=zh-TW)
+- ALMA
+- WOS
+- Scite.AI
+
+For each topic:
+- Ask your favorite AI (e.g., ChatGPT or Claude or hard AI) to generate a list of relevant academic papers
 - Request BibTeX citations from the AI
 - Use Google Scholar or publisher sites to fact-check and validate each paper
 
@@ -71,6 +70,9 @@ For each topic:
 ---
 
 ![AI-1](https://github.com/user-attachments/assets/a3a33e0f-2bad-4f31-bb19-05e8497d6cd6)
+
+
+
 
 
 ## Step 3: Building literature using bibtex format 
