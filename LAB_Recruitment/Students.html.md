@@ -25,7 +25,7 @@ title: Students
 | 余柔柔 Yu, Mabel | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/mabelrryu/), [[Website]](https://yurourou1998.github.io/mabel.github.io/) |
 | 江文煌 Chiang, Ares | E.M.S. student, since 2024/09 | [[LinkedIn]](https://www.linkedin.com/in/ares-jiang-2a3816354/), [[Website]](https://jiang-wen-hwang.github.io/) |
 | 范艾雯 Fan, Eva | E.M.S. student, since 2024/09 | [[LinkedIn]](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/), [[Website]](https://evan7352.github.io/) |
-| 黃德榮 Huang, Deron | E.M.S. student, since 2025/02 | – |
+| 黃德榮 Huang, Deron | E.M.S. student, since 2025/02 |  |
 | 許柏堯 Hsu, Frank | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/), [[Website]](https://frankhsu-imf.github.io/) |
 | 黃以樂 Huang, Yile | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/), [[Website]](https://yile0130.github.io/) |
 | 吳冠霖 Wu, Guan-Lin | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/), [[Website]](https://guanlinwu1126.github.io/GuanLinWU.github.io/) |
