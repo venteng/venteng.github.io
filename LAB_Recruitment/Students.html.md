@@ -111,20 +111,12 @@ title: Students
 
 | Name | Degree     | More| 
 |----|------|----|
-| 鄭有朋 | <ul><li>B.S., 2024/07</li><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li><li>Exploring Multifaceted Drivers for Bitcoin Return Analysis</li></ul> |  |
+| 鄭有朋 |B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
+| 王鳴謙 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
+| 李語涵 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
+| 陳品蓁 | B.S., 2022/07  |  |
+| 范凱翔 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li><li>Research period: 08/2019 – 07/2020</li></ul> |  |
+| 林睿瑜 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li><li>Research period: 08/2019 – 07/2020</li></ul> |  |
+| 陸恭葦 | B.S., 2020/07  |  |
 
-- **鄭有朋** — *Exploring Multifaceted Drivers for Bitcoin Return Analysis*  
-  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
-- **王鳴謙** — *Exploring Multifaceted Drivers for Bitcoin Return Analysis*  
-  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
-- **李語涵** — *Exploring Multifaceted Drivers for Bitcoin Return Analysis*  
-  ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
-- **陳品蓁** — *Statistical Modeling for the Exchange Rate between NTD and USD*  
-  &nbsp;&nbsp;&nbsp;&nbsp; 8/2021 - 7/2022  
-- **范凱翔** — *Credit Scoring Model*  
-  [PhD program in Stat, Ohio State, USA]  
-  ⭐ 榮獲 109 年度科技部大專生計畫; 8/2019 - 7/2020  
-- **陸恭葦** — *Credit Scoring Model*  
-  [中信銀行, Chinatrust](https://www.ctbcbank.com/twrbo/zh_tw/index.html)  
-  &nbsp;&nbsp;&nbsp;&nbsp; 8/2019 - 7/2020  
 
