@@ -75,6 +75,7 @@ title: Students
 | 陳律翔 Chen, Lu-Xiang | M.S., 2022/08 | |
 | 張尚文 Chang, Shang-Wen | M.S., 2021/08 <ul><li>Teng, Lee, Chang (2020) </li></ul>| |
 | 趙祥安 Zhao, Xiang-An | M.S., 2020/06 <ul><li>Teng and Zhao (2021)   </li></ul> | |
+|黃春僖 Huang, Simon | M.S., 2019/06 ||
 
 
 ### Graduate Institute of Statistics, National Central University
