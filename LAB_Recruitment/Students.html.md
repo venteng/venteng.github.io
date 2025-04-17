@@ -80,19 +80,29 @@ title: Students
 
 ### Graduate Institute of Statistics, National Central University
 
-- **葉惠瑄** Huei-Hsuan Yeh — *A Multivariate Markov Switching Model for Portfolio Optimization*  
-  &nbsp;&nbsp;&nbsp;&nbsp; 6/2017  
-- **應劭玄** Shao-Hsuan Jason Yin — *Portfolio Allocation with Regime Switching Models*  
-  &nbsp;&nbsp;&nbsp;&nbsp; 6/2017  
-- **李宛柔** Wan-Zoe Cora Lee — *A Dynamic Rebalancing Strategy for Portfolio Allocation*  
-  &nbsp;&nbsp;&nbsp;&nbsp; 6/2017  
-- **吳柏辰** Po-Chen Wu — *Simulating Average Run Lengths of a Copula-Based Control Chart with the Use of Control Variates*  
-  &nbsp;&nbsp;&nbsp;&nbsp; 7/2016  
-- **江厚德** Arron Chiang — *An Empirical Comparison of Various Approaches in Calculating Value at Risk*  
-  &nbsp;&nbsp;&nbsp;&nbsp; 7/2016  
-- **林煒紘** Wei-Hung Lin — *Asset Allocation Based on the Black-Litterman and GARCH Models*  
-  ⭐ Lin, Teng, Yang (2020)  
-  &nbsp;&nbsp;&nbsp;&nbsp; 6/2015  
+
+| Name | Degree | More |
+|---|---|---|
+| 葉惠瑄 Yeh, Huei-Hsuan | M.S., 2017/06 | |
+| 應劭玄 Yin, Shao-Hsuan (Jason) | M.S., 2017/06 | |
+| 李宛柔 Lee, Wan-Zoe (Cora) | M.S., 2017/06 | |
+| 吳柏辰 Wu, Po-Chen | M.S., 2016/07 | |
+| 江厚德 Chiang, Arron | M.S., 2016/07 | |
+| 林煒紘 Lin, Wei-Hung | M.S., 2015/06 <ul><li>Lin, Teng, and Yang (2020)</li></ul> | |
+| 沈睿謙 Shen, Rui-Qian | M.S., 2015/06 | |
+| 楊舒媛 Yang, Shu-Yuang | M.S., 2015/06 | |
+| 王聖翔 Wang, Sheng-Xiang | M.S., 2014/06 <ul><li>Lyuu, Teng, Tseng, and Wang (2019)</li></ul> | |
+| 曾耀德 Tseng, Yao-Te | M.S., 2014/06 <ul><li>Lyuu, Teng, Tseng, and Wang (2019)</li></ul> | |
+| 李宥萱 Lee, Yu-Hsuan | M.S., 2014/06 <ul><li>Luo, Teng, and Lee (2016)</li></ul> | |
+| 陳彥勳 Chen, Yen-Hsun | M.S., 2013/06 | |
+| 沈志泰 Shen, Chih-Tai | M.S., 2013/06 | |
+| 吳諭昕 Wu, Yu-Hsin | M.S., 2013/06 | |
+| 陳醇潔 Chen, Chun-Chieh | M.S., 2012/06 <ul><li>優等獎，100學年度中國統計學社論文獎</li><li>Teng, Fuh, and Chen (2016)</li></ul> | |
+| 劉家齊 Liu, Chia-Chi | M.S., 2012/06 | |
+| 趙彥茹 Chao, Yen-Ju | M.S., 2012/06 <ul><li>Teng, Hung, and Chao (2015)</li></ul> | |
+| 陳彥鈞 Chen, Yen-Chun | M.S., 2012/06 | |
+| 劉佑聖 Liu, You-Sheng | M.S., 2011/06 | |
+| 吳嘉洋 Wu, Jia-Yang | M.S., 2011/06 | |
 
 
 
@@ -113,5 +123,3 @@ title: Students
 | 范凱翔 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li></ul> |  |
 | 林睿瑜 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li></ul> |  |
 | 陸恭葦 | B.S., 2020/07  |  |
-
-
