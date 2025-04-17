@@ -51,6 +51,7 @@ title: Students
 | 蔡昕妤  | B.S., 2024/07 <ul><li>NYCU第一屆智慧創新跨域潛力人才競賽金融科技組優等</li></ul> |  |
 | 潘俞綺 Pan, Yu-Ci | M.S., 2023/08 | |
 | 呂映葇 Lu, Ying-Rou | M.S., 2022/08 | |
+| 李亦涵 Lee, I-Han | M.S., 2022/08 <ul><li>[Teng, Kang, Lee, Bai (2024)](https://doi.org/10.1016/j.irfa.2023.103005)</li></ul> | |
 | 張詠淇 Chang, Yung-Chi | M.S., 2022/08 <ul><li>2022 New Futures 期貨學術與實務交流研討會論文金質獎</li><li>Chang, Teng, and Härdle (2023) </li></ul>  | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳律翔 Chen, Lu-Xiang | M.S., 2022/08 | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 | B.S., 2022/07  |  |
