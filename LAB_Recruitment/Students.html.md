@@ -17,41 +17,33 @@ title: Students
 ### 2nd Year Master Students
 
 - **陳諾恆** Chan, Jason — *Utilizing Graphical Models to Measure Systemic Risk in Taiwan*  
-  [LinkedIn](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/), [More](https://channokhang.github.io/)  
+  [[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/), [[More]](https://channokhang.github.io/)  
 - **陳怡仁** Chen, Paul — *Enhancing Model Accuracy and Interpretability in FinTech*  
-  [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile), [More](https://pauljkk.github.io/)  
+  [[LinkedIn]](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile), [[More]](https://pauljkk.github.io/)  
 - **黃馨霈** Huang, Wendy — *Assessing Value of Risk for Cryptocurrencies*  
-  [LinkedIn](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/), [More](https://hsin456.github.io/)  
+  [[LinkedIn]](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/), [[More]](https://hsin456.github.io/)  
 - **施昱全** Shih, James — *LLM for Taiwan's Financial Statement Analysis and Future Earning Predictions*  
-  [LinkedIn](http://linkedin.com/in/昱全-施-735a5620b), [More](https://shih95286.github.io/)  
+  [[LinkedIn]](http://linkedin.com/in/昱全-施-735a5620b), [[More]](https://shih95286.github.io/)  
 - **吳柏賢** Wu, Howard — *Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation*  
-  [LinkedIn](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/), [More](https://howardwuwu.github.io/io/IO.html)  
+  [[LinkedIn]](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/), [[More]](https://howardwuwu.github.io/io/IO.html)  
 
 ---
 
 ### 1st Year Master Students
 
-- **鄭凱鴻** Cheng, Allen  
-  [LinkedIn](https://www.linkedin.com/in/kaihong-zheng-66a105355/), [More](https://kaihongzheng.github.io/)  
-- **鄭詠融** Cheng, Martin  
-  [LinkedIn](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/), [More](https://wdianrdk.github.io/)  
-- **邱瀚奕** Chiou, Elvis  
-  [LinkedIn](https://pse.is/78kyba), [More](https://elvis0910607.github.io/personalwebsite/self.html)  
-- **蘇家灝** Su, Ben  
-  [LinkedIn](https://www.linkedin.com/in/ben--soo/), [More](https://ben-soo.github.io/BenSoo/)  
-- **王惠芯** Wang, Chrissy  
-  [LinkedIn](https://www.linkedin.com/in/chrissywangxiv/), [More](https://chrissyxiv.github.io/)  
-- **余柔柔** Yu, Mabel  
-  [LinkedIn](https://www.linkedin.com/in/mabelrryu/), [More](https://yurourou1998.github.io/mabel.github.io/)  
+- **鄭凱鴻** Cheng, Allen, [LinkedIn](https://www.linkedin.com/in/kaihong-zheng-66a105355/), [More](https://kaihongzheng.github.io/)  
+- **鄭詠融** Cheng, Martin, [LinkedIn](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/), [More](https://wdianrdk.github.io/)  
+- **邱瀚奕** Chiou, Elvis, [LinkedIn](https://pse.is/78kyba), [More](https://elvis0910607.github.io/personalwebsite/self.html)  
+- **蘇家灝** Su, Ben, [LinkedIn](https://www.linkedin.com/in/ben--soo/), [More](https://ben-soo.github.io/BenSoo/)  
+- **王惠芯** Wang, Chrissy, [LinkedIn](https://www.linkedin.com/in/chrissywangxiv/), [More](https://chrissyxiv.github.io/)  
+- **余柔柔** Yu, Mabel,  [LinkedIn](https://www.linkedin.com/in/mabelrryu/), [More](https://yurourou1998.github.io/mabel.github.io/)  
 
 ---
 
 ### Executive Master’s Students
 
-- **江文煌** Chiang, Ares  
-  [LinkedIn](https://www.linkedin.com/in/ares-jiang-2a3816354/), [More](https://jiang-wen-hwang.github.io/)  
-- **范艾雯** Fan, Eva  
-  [LinkedIn](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/), [More](https://evan7352.github.io/)  
+- **江文煌** Chiang, Ares  [[LinkedIn]](https://www.linkedin.com/in/ares-jiang-2a3816354/), [[More]](https://jiang-wen-hwang.github.io/)  
+- **范艾雯** Fan, Eva    [[LinkedIn]](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/), [[More]](https://evan7352.github.io/)  
 - **黃德榮** Huang, Deron  
 
 ---
@@ -59,7 +51,7 @@ title: Students
 ### Undergraduate Students
 
 - **許柏堯** Hsu, Frank *(陽明交通大學資財系大三)*  
-  [LinkedIn](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/), [More](https://frankhsu-imf.github.io/)  
+  [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/), [[More]](https://frankhsu-imf.github.io/)  
 - **黃以樂** Huang, Yile *(陽明交通大學應數系大三)*  
   [LinkedIn](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/), [More](https://yile0130.github.io/)  
 - **吳冠霖** Wu, Guan-Lin *(陽明交通大學應數系大三)*  
