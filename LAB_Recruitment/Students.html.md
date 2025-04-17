@@ -51,21 +51,21 @@ title: Students
 | 蔡昕妤  | B.S., 2024/07 <ul><li>NYCU第一屆智慧創新跨域潛力人才競賽金融科技組優等</li></ul> |  |
 | 潘俞綺 Pan, Yu-Ci | M.S., 2023/08 | |
 | 呂映葇 Lu, Ying-Rou | M.S., 2022/08 | |
-| 張詠淇 Chang, Yung-Chi | M.S., 2022/08 <ul><li>2022 New Futures 期貨學術與實務交流研討會論文金質獎</li><li>Chang, Teng, and Härdle (2023) </li></ul>  | Co-advised with Prof. Ming-Hsuan Kang|
-| 陳律翔 Chen, Lu-Xiang | M.S., 2022/08 | Co-advised with Prof. Ming-Hsuan Kang|
+| 張詠淇 Chang, Yung-Chi | M.S., 2022/08 <ul><li>2022 New Futures 期貨學術與實務交流研討會論文金質獎</li><li>Chang, Teng, and Härdle (2023) </li></ul>  | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
+| 陳律翔 Chen, Lu-Xiang | M.S., 2022/08 | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 | B.S., 2022/07  |  |
 | 宋佩芩 | B.S., 2022/07  |  |
 | 李育賢 Li, Yu-Hsien (Bill) | M.S., 2020/07 | |
 | 吳哲杭 Wu, Zhe-Hang (Jeff) | M.S., 2020/07 | |
-| 范凱翔 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li></ul> |  |
+| 范凱翔 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li></ul> | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | 林睿瑜 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li></ul> |  |
 | 陸恭葦 | B.S., 2020/07  |  |
 | 林益嘉 Lin, Yi-Chia (Kelly) | M.S., 2019/06 | |
 | 許至妤 Hsu, Chih-Yu (Emma) | M.S., 2019/06 | |
 | 陳奕翔 Chen, Yi-Xiang (Arikson) | M.S., 2019/07 | |
-| 張尚文 Chang, Shang-Wen | M.S., 2021/08 <ul><li>Teng, Lee, Chang (2020) </li></ul>| Co-advised with Prof. Ming-Hsuan Kang|
-| 趙祥安 Zhao, Xiang-An | M.S., 2020/06 <ul><li>Teng and Zhao (2021)   </li></ul> |Co-advised with Prof. Ming-Hsuan Kang |
-|黃春僖 Huang, Simon | M.S., 2019/06 |Co-advised with Prof. Ming-Hsuan Kang|
+| 張尚文 Chang, Shang-Wen | M.S., 2021/08 <ul><li>Teng, Lee, Chang (2020) </li></ul>| Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
+| 趙祥安 Zhao, Xiang-An | M.S., 2020/06 <ul><li>Teng and Zhao (2021)   </li></ul> |Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
+| 黃春僖 Huang, Simon | M.S., 2019/06 |Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 葉惠瑄 Yeh, Huei-Hsuan | M.S., 2017/06 | |
 | 應劭玄 Yin, Shao-Hsuan (Jason) | M.S., 2017/06 | |
 | 李宛柔 Lee, Wan-Zoe (Cora) | M.S., 2017/06 | |
