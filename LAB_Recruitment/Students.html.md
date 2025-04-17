@@ -50,7 +50,7 @@ title: Students
 
 ### Department of Industrial Engineering and Management, NYCU
 
-*Co-advised with Prof. Chun-Cheng Lin*
+*Co-advised with [Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)*
 
 | Name| Degree| More|
 |---|----|---|
@@ -65,21 +65,16 @@ title: Students
 | 李亦涵 Lee, I-Han | M.S., 2022/08 <ul><li>[Teng, Kang, Lee, Bai (2024)](https://www.sciencedirect.com/science/article/abs/pii/S1057521923005215?casa_token=XPPQfoUyp4kAAAAA:nl0OO69h3bzq7OK7a8TRaujaGSlhG0h3tRQWCWww3W_rMbvDjvZT8NK91EoMBV0vJSDPy5kbJ8I)</li></ul> | |
 
 
-
 ### Department of Applied Mathematics, NYCU
+
 *Co-advised with Prof. Ming-Hsuan Kang*
 
-- **張詠淇** Yung-Chi Chang — *Pricing and Hedging Inverse BTC Options with Heston's Stochastic Volatility Model*  
-  ⭐ 榮獲 2022 New Futures 期貨學術與實務交流研討會論文金質獎, (Chang, Teng, and Härdle, 2023)  
-  &nbsp;&nbsp;&nbsp;&nbsp; 8/2022  
-- **陳律翔** Lu-Xiang Chen — *Global Portfolio Management with the Black-Litterman Model Using Stocks in Taiwan and the US Markets*  
-  &nbsp;&nbsp;&nbsp;&nbsp; 8/2022  
-- **張尚文** Shang-Wen Chang — *Maximum Likelihood Estimate of $L$-Isotropic Multivariate Normal Distributions and Its Applications*  
-  ⭐ Teng, Lee, Chang (2020)  
-  &nbsp;&nbsp;&nbsp;&nbsp; 8/2021  
-- **趙祥安** Xiang-An Zhao — *An Empirical Comparison between the Heston Stochastic Volatility Model and the NGARCH Model in Pricing Quanto Options*  
-  [台積電 TSMC] &nbsp;&nbsp;&nbsp;&nbsp; 6/2020  
-  ⭐ Teng and Zhao (2021)  
+| Name| Degree| More|
+|---|----|---|
+| 張詠淇 Chang, Yung-Chi | M.S., 2022/08 <ul><li>2022 New Futures 期貨學術與實務交流研討會論文金質獎</li><li>Chang, Teng, and Härdle (2023) </li></ul>  | |
+| 陳律翔 Chen, Lu-Xiang | M.S., 2022/08 | |
+| 張尚文 Chang, Shang-Wen | M.S., 2021/08 <ul><li>Teng, Lee, Chang (2020) </li></ul>| |
+| 趙祥安 Zhao, Xiang-An | M.S., 2020/06 <ul><li>Teng and Zhao (2021)   </li></ul> | |
 
 
 ### Graduate Institute of Statistics, National Central University
@@ -98,10 +93,9 @@ title: Students
   ⭐ Lin, Teng, Yang (2020)  
   &nbsp;&nbsp;&nbsp;&nbsp; 6/2015  
 
----
+
 
 ## Former B.S. Members
-
 
 | Name | Degree     | More| 
 |----|--------|----|
