@@ -37,52 +37,35 @@ title: Students
 
 | Name | Degree     | More| 
 |----|------|----|
-| 陳彥廷 Chen, Yen-Ting |M.S., 2024/08 ||
-| 鄭翔澧 Jheng, Siang-Li | M.S., 2024/08 | |
-| 吳旻修 Wu, Min-Hsiu | M.S., 2024/08 | |
+| 林威承 |M.S., 2024/12|Co-advised with [Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|| 李亦涵 Lee, I-Han | M.S., 2022/08 <ul><li>[Teng, Kang, Lee, Bai (2024)](https://www.sciencedirect.com/science/article/abs/pii/S1057521923005215?casa_token=XPPQfoUyp4kAAAAA:nl0OO69h3bzq7OK7a8TRaujaGSlhG0h3tRQWCWww3W_rMbvDjvZT8NK91EoMBV0vJSDPy5kbJ8I)</li></ul> | Co-advised with Prof. Chu-Lan Kao |
+| 陳彥廷 Chen, Yen-Ting |M.S., 2024/07 ||
+| 鄭翔澧 Jheng, Siang-Li | M.S., 2024/07 | |
+| 吳旻修 Wu, Min-Hsiu | M.S., 2024/07 | |
+| 鄭有朋 |B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
+| 王鳴謙 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
+| 李語涵 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
+| 吳珮慈 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
+| 許晉 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
+| 陳之怡 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
+| 唐君亞 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
+| 蔡昕妤  | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
 | 潘俞綺 Pan, Yu-Ci | M.S., 2023/08 | |
 | 呂映葇 Lu, Ying-Rou | M.S., 2022/08 | |
-| 李育賢 Li, Yu-Hsien (Bill) | M.S., 2020/06 | |
-| 吳哲杭 Wu, Zhe-Hang (Jeff) | M.S., 2020/06 | |
+| 張詠淇 Chang, Yung-Chi | M.S., 2022/08 <ul><li>2022 New Futures 期貨學術與實務交流研討會論文金質獎</li><li>Chang, Teng, and Härdle (2023) </li></ul>  | Co-advised with Prof. Ming-Hsuan Kang|
+| 陳律翔 Chen, Lu-Xiang | M.S., 2022/08 | Co-advised with Prof. Ming-Hsuan Kang|
+| 陳品蓁 | B.S., 2022/07  |  |
+| 宋佩芩 | B.S., 2022/07  |  |
+| 李育賢 Li, Yu-Hsien (Bill) | M.S., 2020/07 | |
+| 吳哲杭 Wu, Zhe-Hang (Jeff) | M.S., 2020/07 | |
+| 范凱翔 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li></ul> |  |
+| 林睿瑜 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li></ul> |  |
+| 陸恭葦 | B.S., 2020/07  |  |
 | 林益嘉 Lin, Yi-Chia (Kelly) | M.S., 2019/06 | |
 | 許至妤 Hsu, Chih-Yu (Emma) | M.S., 2019/06 | |
 | 陳奕翔 Chen, Yi-Xiang (Arikson) | M.S., 2019/07 | |
-
-### Department of Industrial Engineering and Management, NYCU
-
-*Co-advised with [Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)*
-
-| Name| Degree| More|
-|---|----|---|
-| 林威承 |M.S., 2024/12|Co-advised with [Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
-
-
-### Institute of Data Science and Engineering, NYCU
-*Co-advised with Prof. Chu-Lan Kao*
-
-| Name| Degree| More|
-|---|----|---|
-| 李亦涵 Lee, I-Han | M.S., 2022/08 <ul><li>[Teng, Kang, Lee, Bai (2024)](https://www.sciencedirect.com/science/article/abs/pii/S1057521923005215?casa_token=XPPQfoUyp4kAAAAA:nl0OO69h3bzq7OK7a8TRaujaGSlhG0h3tRQWCWww3W_rMbvDjvZT8NK91EoMBV0vJSDPy5kbJ8I)</li></ul> | |
-
-
-### Department of Applied Mathematics, NYCU
-
-*Co-advised with Prof. Ming-Hsuan Kang*
-
-| Name| Degree| More|
-|---|----|---|
-| 張詠淇 Chang, Yung-Chi | M.S., 2022/08 <ul><li>2022 New Futures 期貨學術與實務交流研討會論文金質獎</li><li>Chang, Teng, and Härdle (2023) </li></ul>  | |
-| 陳律翔 Chen, Lu-Xiang | M.S., 2022/08 | |
-| 張尚文 Chang, Shang-Wen | M.S., 2021/08 <ul><li>Teng, Lee, Chang (2020) </li></ul>| |
-| 趙祥安 Zhao, Xiang-An | M.S., 2020/06 <ul><li>Teng and Zhao (2021)   </li></ul> | |
-|黃春僖 Huang, Simon | M.S., 2019/06 ||
-
-
-### Graduate Institute of Statistics, National Central University
-
-
-| Name | Degree | More |
-|---|---|---|
+| 張尚文 Chang, Shang-Wen | M.S., 2021/08 <ul><li>Teng, Lee, Chang (2020) </li></ul>| Co-advised with Prof. Ming-Hsuan Kang|
+| 趙祥安 Zhao, Xiang-An | M.S., 2020/06 <ul><li>Teng and Zhao (2021)   </li></ul> |Co-advised with Prof. Ming-Hsuan Kang |
+|黃春僖 Huang, Simon | M.S., 2019/06 |Co-advised with Prof. Ming-Hsuan Kang|
 | 葉惠瑄 Yeh, Huei-Hsuan | M.S., 2017/06 | |
 | 應劭玄 Yin, Shao-Hsuan (Jason) | M.S., 2017/06 | |
 | 李宛柔 Lee, Wan-Zoe (Cora) | M.S., 2017/06 | |
@@ -103,23 +86,3 @@ title: Students
 | 陳彥鈞 Chen, Yen-Chun | M.S., 2012/06 | |
 | 劉佑聖 Liu, You-Sheng | M.S., 2011/06 | |
 | 吳嘉洋 Wu, Jia-Yang | M.S., 2011/06 | |
-
-
-
-## Former B.S. Members
-
-| Name | Degree     | More| 
-|----|--------|----|
-| 鄭有朋 |B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
-| 王鳴謙 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
-| 李語涵 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
-| 吳珮慈 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
-| 許晉 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
-| 陳之怡 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
-| 唐君亞 | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
-| 蔡昕妤  | B.S., 2024/07 <ul><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li></ul> |  |
-| 陳品蓁 | B.S., 2022/07  |  |
-| 宋佩芩 | B.S., 2022/07  |  |
-| 范凱翔 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li></ul> |  |
-| 林睿瑜 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li></ul> |  |
-| 陸恭葦 | B.S., 2020/07  |  |
