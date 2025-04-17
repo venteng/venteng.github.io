@@ -42,6 +42,8 @@ title: Publication
 3. **Huei-Wen Teng** and Michael Lee. Alternative machine learning methods for credit card default forecasting. In John Lee, Jow-Ran Chang, Lie-Jane Kao, and Cheng Few Lee, editors, Essentials of Excel VBA, Python, and R Volume II: Financial Derivatives, Risk Management and Machine Learning, volume 2, chapter 14, pages 285–298. Springer, Switzerland, 2 edition, 2023
 
 
+<!-- This is my comment 
+
 ## Submitted Papers
 
 1. **Huei-Wen Teng**, Wolfgang K Härdle, Jörg Osterrieder, and et al. Mitigating digital asset risks. 2024a. Revised and resubmitted to Financial Innovation, doi = 10.2139/ssrn.4594467
@@ -49,3 +51,7 @@ title: Publication
 3. **Huei-Wen Teng** and Yenchang Lee. Integrating explainable ai with polynomial analytics to enhance credit scoring model compliance. February 2024. Submitted to International Review of Economics & Finance
 4. **Huei-Wen Teng**, Meng-Jou Lu, Matúš Horváth, and Wolfgang Karl Härdle. Which risk do crypto index investments have? Submitted to Global Finance Journal, 2024c
 5. Yen-Ting Chen, Yenchang Lee, and **Huei-Wen Teng**. Unveiling key drivers of bitcoin returns: A machine learning approach with dynamic variable selection. Manuscript In Progress, 2024
+
+
+-->
+
