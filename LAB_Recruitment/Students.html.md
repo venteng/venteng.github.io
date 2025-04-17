@@ -23,34 +23,16 @@ title: Students
 | 蘇家灝 Su, Ben | M.S. student, since 2024/08 | [[LinkedIn]](https://www.linkedin.com/in/ben--soo/), [[Website]](https://ben-soo.github.io/BenSoo/) |
 | 王惠芯 Wang, Chrissy | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/chrissywangxiv/), [[Website]](https://chrissyxiv.github.io/) |
 | 余柔柔 Yu, Mabel | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/mabelrryu/), [[Website]](https://yurourou1998.github.io/mabel.github.io/) |
-
----
-
-### Executive Master’s Students
-
-- **江文煌** Chiang, Ares  [[LinkedIn]](https://www.linkedin.com/in/ares-jiang-2a3816354/), [[Website]](https://jiang-wen-hwang.github.io/)  
-- **范艾雯** Fan, Eva    [[LinkedIn]](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/), [[Website]](https://evan7352.github.io/)  
-- **黃德榮** Huang, Deron  
-
----
-
-### Undergraduate Students
-
-- **許柏堯** Hsu, Frank *(陽明交通大學資財系大三)*  
-  [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/), [[Website]](https://frankhsu-imf.github.io/)  
-- **黃以樂** Huang, Yile *(陽明交通大學應數系大三)*  
-  [[LinkedIn]](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/), [[Website]](https://yile0130.github.io/)  
-- **吳冠霖** Wu, Guan-Lin *(陽明交通大學應數系大三)*  
-  [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/), [[Website]](https://guanlinwu1126.github.io/GuanLinWU.github.io/)  
-
----
+| 江文煌 Chiang, Ares | E.M.S. student, since 2024/09 | [[LinkedIn]](https://www.linkedin.com/in/ares-jiang-2a3816354/), [[Website]](https://jiang-wen-hwang.github.io/) |
+| 范艾雯 Fan, Eva | E.M.S. student, since 2024/09 | [[LinkedIn]](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/), [[Website]](https://evan7352.github.io/) |
+| 黃德榮 Huang, Deron | E.M.S. student, since 2025/02 | – |
+| 許柏堯 Hsu, Frank | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/), [[Website]](https://frankhsu-imf.github.io/) |
+| 黃以樂 Huang, Yile | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/), [[Website]](https://yile0130.github.io/) |
+| 吳冠霖 Wu, Guan-Lin | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/), [[Website]](https://guanlinwu1126.github.io/GuanLinWU.github.io/) |
 
 
-## Former Students
+## Former Master Students
 
-⭐ Indicates awards or publications derived from research work
-
----
 
 ### National Yang Ming Chiao Tung University
 
