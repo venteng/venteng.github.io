@@ -37,7 +37,7 @@ title: Students
 
 | Name | Degree     | More| 
 |----|------|----|
-| 林威承 |M.S., 2024/12|Co-advised with [Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|| 李亦涵 Lee, I-Han | M.S., 2022/08 <ul><li>[Teng, Kang, Lee, Bai (2024)](https://www.sciencedirect.com/science/article/abs/pii/S1057521923005215?casa_token=XPPQfoUyp4kAAAAA:nl0OO69h3bzq7OK7a8TRaujaGSlhG0h3tRQWCWww3W_rMbvDjvZT8NK91EoMBV0vJSDPy5kbJ8I)</li></ul> | Co-advised with Prof. Chu-Lan Kao |
+| 林威承 |M.S., 2024/12|Co-advised with [Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
 | 陳彥廷 Chen, Yen-Ting |M.S., 2024/07 ||
 | 鄭翔澧 Jheng, Siang-Li | M.S., 2024/07 | |
 | 吳旻修 Wu, Min-Hsiu | M.S., 2024/07 | |
@@ -51,7 +51,7 @@ title: Students
 | 蔡昕妤  | B.S., 2024/07 <ul><li>NYCU第一屆智慧創新跨域潛力人才競賽金融科技組優等</li></ul> |  |
 | 潘俞綺 Pan, Yu-Ci | M.S., 2023/08 | |
 | 呂映葇 Lu, Ying-Rou | M.S., 2022/08 | |
-| 李亦涵 Lee, I-Han | M.S., 2022/08 <ul><li>[Teng, Kang, Lee, Bai (2024)](https://doi.org/10.1016/j.irfa.2023.103005)</li></ul> | |
+| 李亦涵 Lee, I-Han | M.S., 2022/08 <ul><li>[Teng, Kang, Lee, Bai (2024)](https://doi.org/10.1016/j.irfa.2023.103005)</li></ul> |Co-advised with Prof. Chu-Lan Kao |
 | 張詠淇 Chang, Yung-Chi | M.S., 2022/08 <ul><li>2022 New Futures 期貨學術與實務交流研討會論文金質獎</li><li>Chang, Teng, and Härdle (2023) </li></ul>  | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳律翔 Chen, Lu-Xiang | M.S., 2022/08 | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 | B.S., 2022/07  |  |
