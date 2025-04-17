@@ -9,10 +9,10 @@ title: Students
 ## Current Members
 
 
-| Name | Position | More|
+| Name | Position | MORE|
 |----|-------|---|
 |李彥璋| Ph.D. student, since 2022/7 ||
-| 陳諾恆 Chan, Jason|M.S. student, since 2024/01 |[[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/), [[More]](https://channokhang.github.io/) |
+| 陳諾恆 Chan, Jason|M.S. student, since 2024/01 |[[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/), [[MORE]](https://channokhang.github.io/) |
 
 
 
