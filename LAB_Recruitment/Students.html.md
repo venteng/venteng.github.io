@@ -4,20 +4,22 @@ title: Students
 ---
 
 
-# Students 
+# Members
 
-## Current Students
+## Current Members
 
-### 博士
 
-- **李彥璋** Lee, Yenchang — *Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance*
+| Name | Position | More|
+|----|-------|---|
+|李彥璋| Ph.D. student, since 2022/7 ||
+| 陳諾恆 Chan, Jason|M.S. student, since 2024/01 |[[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/), [[More]](https://channokhang.github.io/) |
 
----
+
 
 ### 2nd Year Master Students
 
-- **陳諾恆** Chan, Jason — *Utilizing Graphical Models to Measure Systemic Risk in Taiwan*  
-  [[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/), [[More]](https://channokhang.github.io/)  
+- **** Chan, Jason — *Utilizing Graphical Models to Measure Systemic Risk in Taiwan*  
+   
 - **陳怡仁** Chen, Paul — *Enhancing Model Accuracy and Interpretability in FinTech*  
   [[LinkedIn]](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile), [[More]](https://pauljkk.github.io/)  
 - **黃馨霈** Huang, Wendy — *Assessing Value of Risk for Cryptocurrencies*  
