@@ -9,7 +9,7 @@ title: Students
 ## Current Members
 
 
-| Name | Position | MORE|
+| Name | Position | More|
 |----|-------|---|
 |李彥璋 Lee Yen-Chang| Ph.D. student, since 2022/7 ||
 | 陳諾恆 Chan, Jason|M.S. student, since 2024/01 |[[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/), [[Website]](https://channokhang.github.io/) |
@@ -106,7 +106,12 @@ title: Students
 
 ---
 
-## Undergraduate Projects
+## Former B.S. Members
+
+
+| Name | Degree     | More| 
+|----|------|----|
+| 鄭有朋 | <ul><li>B.S., 2024/07</li><li>國立陽明交通大學第一屆智慧創新跨域潛力人才競賽，金融科技組，優等</li><li>Exploring Multifaceted Drivers for Bitcoin Return Analysis</li></ul> |  |
 
 - **鄭有朋** — *Exploring Multifaceted Drivers for Bitcoin Return Analysis*  
   ⭐ 國立陽明交通大學第一屆智慧創新跨域潛力人才競賽, 金融科技組, 優等; Spring 2023 - Fall 2023  
