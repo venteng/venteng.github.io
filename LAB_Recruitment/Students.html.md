@@ -33,8 +33,6 @@ title: Lab Members
 
 ## Former Members
 
-### Department of Information Management and Finance, NYCU
-
 | Name | Degree     | More| 
 |----|------|----|
 | 林威承 |M.S., 2024/12|Co-advised with [Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
