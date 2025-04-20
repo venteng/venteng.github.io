@@ -61,12 +61,12 @@ title: Lab Members
 | 范凱翔 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li></ul> | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | 林睿瑜 | B.S., 2020/07 <ul><li>榮獲 109 年度科技部大專生計畫</li></ul> |  |
 | 陸恭葦 | B.S., 2020/07  |  |
-| 林益嘉 Lin, Yi-Chia (Kelly) | M.S., 2019/06 | |
-| 許至妤 Hsu, Chih-Yu (Emma) | M.S., 2019/06 | |
-| 陳奕翔 Chen, Yi-Xiang (Arikson) | M.S., 2019/07 | |
 | 張尚文 Chang, Shang-Wen | M.S., 2021/08 <ul><li>Teng, Lee, Chang (2020) </li></ul>| Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 趙祥安 Zhao, Xiang-An | M.S., 2020/06 <ul><li>Teng and Zhao (2021)   </li></ul> |Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
-| 黃春僖 Huang, Simon | M.S., 2019/06 |Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
+| 林益嘉 Lin, Yi-Chia (Kelly) | M.S., 2019/07 | |
+| 許至妤 Hsu, Chih-Yu (Emma) | M.S., 2019/07 | |
+| 陳奕翔 Chen, Yi-Xiang (Arikson) | M.S., 2019/07 | |
+| 黃春僖 Huang, Simon | M.S., 2019/07 |Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 葉惠瑄 Yeh, Huei-Hsuan | M.S., 2017/06 | |
 | 應劭玄 Yin, Shao-Hsuan (Jason) | M.S., 2017/06 | |
 | 李宛柔 Lee, Wan-Zoe (Cora) | M.S., 2017/06 | |
