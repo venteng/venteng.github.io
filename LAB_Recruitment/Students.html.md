@@ -54,20 +54,20 @@ title: Lab Members
 | 陳律翔 Chen, Lu-Xiang | M.S., 2022/07 | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 | B.S., 2022/07  |  |
 | 宋佩芩 | B.S., 2022/07  |  |
-| 李育賢 Li, Yu-Hsien (Bill) | M.S., 2020/07 | |
-| 吳哲杭 Wu, Zhe-Hang (Jeff) | M.S., 2020/07 | |
+| 李育賢 Li, Yu-Hsien Bill <br>-[Teng, Lee, Chang (2020)](https://ieeexplore.ieee.org/document/9302638) <br>-[Teng, Lee, Chang (2020)](https://ieeexplore.ieee.org/document/9302638) <br>-[Teng and Lee (2023)](https://link.springer.com/article/10.1007/s42521-023-00076-y)| M.S., 2020/07 | |
+| 吳哲杭 Wu, Zhe-Hang Jeff | M.S., 2020/07 | |
 | 范凱翔 | B.S., 2020/07 <br>-榮獲 109 年度科技部大專生計畫 | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | 林睿瑜 | B.S., 2020/07 <br>-榮獲 109 年度科技部大專生計畫 |  |
 | 陸恭葦 | B.S., 2020/07  |  |
-| 張尚文 Chang, Shang-Wen | M.S., 2021/08 <br>-Teng, Lee, Chang (2020) | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
+| 張尚文 Chang, Shang-Wen | M.S., 2021/08 <br>-[Teng, Lee, Chang (2020)](https://ieeexplore.ieee.org/document/9302638) | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 趙祥安 Zhao, Xiang-An | M.S., 2020/06 <br>-Teng and Zhao (2021)    |Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
-| 林益嘉 Lin, Yi-Chia (Kelly) | M.S., 2019/07 | |
-| 許至妤 Hsu, Chih-Yu (Emma) | M.S., 2019/07 | |
-| 陳奕翔 Chen, Yi-Xiang (Arikson) | M.S., 2019/07 | |
+| 林益嘉 Lin, Yi-Chia Kelly | M.S., 2019/07 | |
+| 許至妤 Hsu, Chih-Yu Emma | M.S., 2019/07 | |
+| 陳奕翔 Chen, Yi-Xiang Arikson | M.S., 2019/07 | |
 | 黃春僖 Huang, Simon | M.S., 2019/07 |Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 葉惠瑄 Yeh, Huei-Hsuan | M.S., 2017/06 | |
-| 應劭玄 Yin, Shao-Hsuan (Jason) | M.S., 2017/06 | |
-| 李宛柔 Lee, Wan-Zoe (Cora) | M.S., 2017/06 | |
+| 應劭玄 Yin, Shao-Hsuan Jason | M.S., 2017/06 | |
+| 李宛柔 Lee, Wan-Zoe Cora | M.S., 2017/06 | |
 | 吳柏辰 Wu, Po-Chen | M.S., 2016/07 | |
 | 江厚德 Chiang, Arron | M.S., 2016/07 | |
 | 林煒紘 Lin, Wei-Hung | M.S., 2015/06 <br>-[Lin, Teng, and Yang (2020)](https://www.worldscientific.com/doi/10.1142/9789811202391_0014?srsltid=AfmBOooTBeDsa58dLYFQDZZzKg8G18rsPELiQ1LpArEyfmfFefInMG4K) | |
