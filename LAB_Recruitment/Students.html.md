@@ -33,9 +33,9 @@ title: Lab Members
 
 ## Former Members
 
-| Name | Degree   | More| 
+| Name | Degree   | More/Co-advised with| 
 |----|------|----|
-| 林威承 |M.S., 2024/12|Co-advised with [Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
+| 林威承 |M.S., 2024/12|[Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
 | 陳彥廷 Chen, Yen-Ting |M.S.F., 2024/07 ||
 | 鄭翔澧 Jheng, Siang-Li | M.S.F., 2024/07 | |
 | 吳旻修 Wu, Min-Hsiu | M.S.F., 2024/07 | |
@@ -49,22 +49,22 @@ title: Lab Members
 | 蔡昕妤  | B.S., 2024/07 <br>-NYCU第一屆智慧創新跨域潛力人才競賽金融科技組優等 |  |
 | 潘俞綺 Pan, Yu-Ci | M.S.F., 2023/07 | |
 | 呂映葇 Lu, Ying-Rou | M.S.F., 2022/07 | |
-| 李亦涵 Lee, I-Han Ian | M.S., 2022/07 <br>-[Teng, Kang, Lee, Bai (2024)](https://doi.org/10.1016/j.irfa.2023.103005) |Co-advised with [Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129) |
-| 張詠淇 Chang, Yung-Chi Tom | M.S., 2022/07 <br>-2022 New Futures 期貨學術與實務交流研討會論文金質獎 <br>-[Chang, Teng, and Härdle (2023)](https://www.taifex.com.tw/cht/10/journalView)   | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
-| 陳律翔 Chen, Lu-Xiang Jay| M.S., 2022/07 | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
+| 李亦涵 Lee, I-Han Ian | M.S., 2022/07 <br>-[Teng, Kang, Lee, Bai (2024)](https://doi.org/10.1016/j.irfa.2023.103005) |[Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129) |
+| 張詠淇 Chang, Yung-Chi Tom | M.S., 2022/07 <br>-2022 New Futures 期貨學術與實務交流研討會論文金質獎 <br>-[Chang, Teng, and Härdle (2023)](https://www.taifex.com.tw/cht/10/journalView)   | [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
+| 陳律翔 Chen, Lu-Xiang Jay| M.S., 2022/07 | [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 Chen, Jasmine | B.S., 2022/07  |  |
 | 宋佩芩 Sung, Sammi | B.S., 2022/07  |  |
 | 李育賢 Li, Yu-Hsien Bill | M.S.F., 2020/07 <br>-[Teng, Lee, Chang (2020)](https://ieeexplore.ieee.org/document/9302638) <br>-[Teng and Lee (2023)](https://link.springer.com/article/10.1007/s42521-023-00076-y)| M.S., 2020/07 | |
 | 吳哲杭 Wu, Zhe-Hang Jeff | M.S.F., 2020/07 | |
-| 范凱翔 Fan, Tom| B.S., 2020/07 <br>-榮獲 109 年度科技部大專生計畫 | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
+| 范凱翔 Fan, Tom| B.S., 2020/07 <br>-榮獲 109 年度科技部大專生計畫 | [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | 林睿瑜 Lin, Phoebe| B.S., 2020/07 <br>-榮獲 109 年度科技部大專生計畫 |  |
 | 陸恭葦 Lu, Lucy| B.S., 2020/07  |  |
-| 張尚文 Chang, Shang-Wen Jonathan | M.S., 2021/08 <br>-[Teng, Lee, Chang (2020)](https://ieeexplore.ieee.org/document/9302638) | Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
-| 趙祥安 Zhao, Xiang-An | M.S., 2020/06 <br>-Teng and Zhao (2021)    |Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
+| 張尚文 Chang, Shang-Wen Jonathan | M.S., 2021/08 <br>-[Teng, Lee, Chang (2020)](https://ieeexplore.ieee.org/document/9302638) | [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
+| 趙祥安 Zhao, Xiang-An | M.S., 2020/06 <br>-Teng and Zhao (2021)    |[Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | 林益嘉 Lin, Yi-Chia Kelly | M.S.F., 2019/07 | |
 | 許至妤 Hsu, Chih-Yu Emma | M.S.F., 2019/07 | |
 | 陳奕翔 Chen, Yi-Xiang Arikson | M.S.F., 2019/07 | |
-| 黃春僖 Huang, Simon | M.S., 2019/07 |Co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
+| 黃春僖 Huang, Simon | M.S., 2019/07 |[Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 葉惠瑄 Yeh, Huei-Hsuan | M.S., 2017/06 | |
 | 應劭玄 Yin, Shao-Hsuan Jason | M.S., 2017/06 | |
 | 李宛柔 Lee, Wan-Zoe Cora | M.S., 2017/06 | |
