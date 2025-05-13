@@ -28,7 +28,7 @@ title: Lab Members
 | 黃德榮 Huang, Deron | E.M.S. student, since 2025/02 |  |
 | 許柏堯 Hsu, Frank | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) |
 | 黃以樂 Huang, Yile | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) |
-| 吳冠霖 Wu, Guan-Lin | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/)](https://guanlinwu1126.github.io/GuanLinWU.github.io/) |
+| 吳冠霖 Wu, Guan-Lin | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) |
 
 
 ## Former Members
