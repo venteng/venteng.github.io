@@ -11,7 +11,7 @@ title: LAB Recruitment
 We are seeking motivated students who are passionate about knowledge, value transparency and reproducibility in scientific research, and exhibit resilience and a positive attitude. Our lab applies advanced quantitative methods — including statistical techniques, machine learning, and AI — to address real-world challenges.
 
 - Curious and driven? Join us in exploring these exciting topics!  
-- Check out the [achievements of our students](https://venteng.github.io/LAB_Recruitment/Students.html)!  
+- Check out the [achievements of our team](https://venteng.github.io/LAB_Recruitment/Students.html)!  
 - Interested in joining? Email me your CV, transcripts, and a short statement of purpose (150 words max).  
 - Want to prepare? Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
 
