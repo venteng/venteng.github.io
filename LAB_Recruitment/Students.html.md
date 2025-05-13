@@ -12,23 +12,23 @@ title: Lab Members
 | Name | Position | More|
 |----|-----------|---|
 |李彥璋 Lee Yen-Chang| Ph.D. student, since 2022/7 ||
-| 陳諾恆 Chan, Jason|M.S. student, since 2024/01 |[[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/), [[Website]](https://channokhang.github.io/) |
-| 陳怡仁 Chen, Paul |M.S. student, since 2024/01| [[LinkedIn]](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile), [[Website]](https://pauljkk.github.io/)  |
-| 黃馨霈 Huang, Wendy | M.S. student, since 2024/01 | [[LinkedIn]](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/), [[Website]](https://hsin456.github.io/) |
-| 施昱全 Shih, James | M.S. student, since 2024/01 | [[LinkedIn]](http://linkedin.com/in/昱全-施-735a5620b), [[Website]](https://shih95286.github.io/) |
-| 吳柏賢 Wu, Howard | M.S. student, since 2024/01 | [[LinkedIn]](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/), [[Website]](https://howardwuwu.github.io/io/IO.html) |
-| 鄭凱鴻 Cheng, Allen | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/kaihong-zheng-66a105355/), [[Website]](https://kaihongzheng.github.io/) |
-| 鄭詠融 Cheng, Martin | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/), [[Website]](https://wdianrdk.github.io/) |
-| 邱瀚奕 Chiou, Elvis | M.S. student, since 2025/02 | [[LinkedIn]](https://pse.is/78kyba), [[Website]](https://elvis0910607.github.io/personalwebsite/self.html) |
-| 蘇家灝 Su, Ben | M.S. student, since 2024/08 | [[LinkedIn]](https://www.linkedin.com/in/ben--soo/), [[Website]](https://ben-soo.github.io/BenSoo/) |
-| 王惠芯 Wang, Chrissy | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/chrissywangxiv/), [[Website]](https://chrissyxiv.github.io/) |
-| 余柔柔 Yu, Mabel | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/mabelrryu/), [[Website]](https://yurourou1998.github.io/mabel.github.io/) |
-| 江文煌 Chiang, Ares | E.M.S. student, since 2024/09 | [[LinkedIn]](https://www.linkedin.com/in/ares-jiang-2a3816354/), [[Website]](https://jiang-wen-hwang.github.io/) |
-| 范艾雯 Fan, Eva | E.M.S. student, since 2024/09 | [[LinkedIn]](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/), [[Website]](https://evan7352.github.io/) |
+| 陳諾恆 Chan, Jason|M.S. student, since 2024/01 |[[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) |
+| 陳怡仁 Chen, Paul |M.S. student, since 2024/01| [[LinkedIn]](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  |
+| 黃馨霈 Huang, Wendy | M.S. student, since 2024/01 | [[LinkedIn]](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) |
+| 施昱全 Shih, James | M.S. student, since 2024/01 | [[LinkedIn]](http://linkedin.com/in/昱全-施-735a5620b) |
+| 吳柏賢 Wu, Howard | M.S. student, since 2024/01 | [[LinkedIn]](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) |
+| 鄭凱鴻 Cheng, Allen | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/kaihong-zheng-66a105355/) |
+| 鄭詠融 Cheng, Martin | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/)|
+| 邱瀚奕 Chiou, Elvis | M.S. student, since 2025/02 | [[LinkedIn]](https://pse.is/78kyba) |
+| 蘇家灝 Su, Ben | M.S. student, since 2024/08 | [[LinkedIn]](https://www.linkedin.com/in/ben--soo/)|
+| 王惠芯 Wang, Chrissy | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/chrissywangxiv/) |
+| 余柔柔 Yu, Mabel | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/mabelrryu/) |
+| 江文煌 Chiang, Ares | E.M.S. student, since 2024/09 | [[LinkedIn]](https://www.linkedin.com/in/ares-jiang-2a3816354/) |
+| 范艾雯 Fan, Eva | E.M.S. student, since 2024/09 | [[LinkedIn]](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) |
 | 黃德榮 Huang, Deron | E.M.S. student, since 2025/02 |  |
-| 許柏堯 Hsu, Frank | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/), [[Website]](https://frankhsu-imf.github.io/) |
-| 黃以樂 Huang, Yile | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/), [[Website]](https://yile0130.github.io/) |
-| 吳冠霖 Wu, Guan-Lin | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/), [[Website]](https://guanlinwu1126.github.io/GuanLinWU.github.io/) |
+| 許柏堯 Hsu, Frank | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) |
+| 黃以樂 Huang, Yile | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) |
+| 吳冠霖 Wu, Guan-Lin | B.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/)](https://guanlinwu1126.github.io/GuanLinWU.github.io/) |
 
 
 ## Former Members
