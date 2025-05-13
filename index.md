@@ -23,11 +23,11 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## 📌 Research Highlights
 
-- Financial Derivatives
-- Credit Scoring
-- Financial Engineering
 - FinTech
-- Statistical Methods and AI. 
+- Credit Scoring
+- Financial Derivatives
+- Financial Engineering
+- Statistical Methods and AI
 
 ---
 
