@@ -9,7 +9,7 @@ title: Lab Members
 ## Current Members
 
 
-| Name | Position | More|
+| Name | Position | More/Co-advised with|
 |----|-----------|---|
 |李彥璋 Lee Yen-Chang| Ph.D. student, since 2022/7 ||
 | 陳諾恆 Chan, Jason|M.S. student, since 2024/01 |[[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) |
@@ -19,7 +19,7 @@ title: Lab Members
 | 吳柏賢 Wu, Howard | M.S. student, since 2024/01 | [[LinkedIn]](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) |
 | 鄭凱鴻 Cheng, Allen | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/kaihong-zheng-66a105355/) |
 | 鄭詠融 Cheng, Martin | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/)|
-| 邱瀚奕 Chiou, Elvis | M.S. student, since 2025/02 | [[LinkedIn]](https://pse.is/78kyba), Co-advised with [Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87) |
+| 邱瀚奕 Chiou, Elvis | M.S. student, since 2025/02 | [[LinkedIn]](https://pse.is/78kyba), [Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87) |
 | 蘇家灝 Su, Ben | M.S. student, since 2024/08 | [[LinkedIn]](https://www.linkedin.com/in/ben--soo/)|
 | 王惠芯 Wang, Chrissy | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/chrissywangxiv/) |
 | 余柔柔 Yu, Mabel | M.S. student, since 2025/02 | [[LinkedIn]](https://www.linkedin.com/in/mabelrryu/) |
