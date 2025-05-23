@@ -14,6 +14,7 @@ title: Thoughts & Insight
 
 ## More
 
+## 來一點數學吧
 - [20250523 康明軒：矩陣乘法到底誰是行誰是列？Granger Causality Network的線性代數觀點](https://hackmd.io/@mhkang/HkIQOF2bxg)
 
 
