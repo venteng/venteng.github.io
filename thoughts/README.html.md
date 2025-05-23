@@ -14,6 +14,10 @@ title: Thoughts & Insight
 
 ## More
 
+- [20250523 康明軒：矩陣乘法到底誰是行誰是列？Granger Causality Network的線性代數觀點](https://hackmd.io/@mhkang/HkIQOF2bxg)
+
+
+
 <!---
 
 - [20240627 南區統計研討會吳建福院士歸納五個研究創新的步驟](https://venteng.github.io/thoughts/20240627_5steps.html)
