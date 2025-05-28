@@ -13,6 +13,9 @@ title: Thoughts & Insight
 - [20250225 鄧惠文/資財系大學畢業，但碩士班想往統計所發展？](https://venteng.github.io/thoughts/20250225_pursuit_stat.html)
 - 20250505 鄧惠文/資財系大學部「教授研究領域說明會」[[YouTube]](https://youtu.be/P4-LKKFHJbE) [[pdf]](https://drive.google.com/file/d/1LsaFgtqkZD5zKxnrCojs5Dbls1fuXJwK/view?usp=sharing)
 - 20250515 鄧惠文/新竹高中數理資優班，數學的奇幻旅程：從大學課堂到金融AI應用 [[YouTube]](https://youtu.be/yIdvhvb_8ZA)[[pdf]](https://drive.google.com/file/d/1Vq419YCp78qPs5gWXVTlasXWDIrBOF32/view?usp=drive_link)
+
+## Special Events
+
 - [20250528_鄧惠文/無限數學科學研究社](https://venteng.github.io/thoughts/20250528_RCMS.md)
 
 ## More
