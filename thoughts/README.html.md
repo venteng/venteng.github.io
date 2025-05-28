@@ -16,7 +16,7 @@ title: Thoughts & Insight
 
 ## Special Events
 
-- [20250528_鄧惠文/無限數學科學研究社](https://venteng.github.io/thoughts/20250528_RCMS.md)
+- [20250528_鄧惠文/無限數學科學研究社](https://venteng.github.io/thoughts/20250528_RCMS.html)
 
 ## More
 
