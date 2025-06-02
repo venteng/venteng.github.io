@@ -19,8 +19,8 @@ title: Thoughts & Insight
 
 ## Selected Talks
 
-- 20250515 鄧惠文/新竹高中數理資優班，數學的奇幻旅程：從大學課堂到金融AI應用 [[YouTube]](https://youtu.be/yIdvhvb_8ZA)[[pdf]](https://drive.google.com/file/d/1Vq419YCp78qPs5gWXVTlasXWDIrBOF32/view?usp=drive_link)
-- 20250602 鄧惠文/國立政治大學統計學系: Financial analytics of inverse BTC options in a stochastic volatility worlds [[pdf]](https://drive.google.com/file/d/1eJuI0a0hCQ3LiHBJ9-pLwe4zYZ7pc7No/view?usp=sharing)
+- 20250515 鄧惠文/新竹高中數理資優班/數學的奇幻旅程：從大學課堂到金融AI應用 [[YouTube]](https://youtu.be/yIdvhvb_8ZA)[[pdf]](https://drive.google.com/file/d/1Vq419YCp78qPs5gWXVTlasXWDIrBOF32/view?usp=drive_link)
+- 20250602 鄧惠文/國立政治大學統計學系/Financial analytics of inverse BTC options in a stochastic volatility worlds [[pdf]](https://drive.google.com/file/d/1eJuI0a0hCQ3LiHBJ9-pLwe4zYZ7pc7No/view?usp=sharing)
 
 <!---
 
