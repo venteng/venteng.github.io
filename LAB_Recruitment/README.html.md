@@ -15,15 +15,15 @@ We are seeking motivated students who are passionate about knowledge, value tran
 ## Curious and driven? Join us in exploring these exciting topics! 
 
 Financial Engineering
-- Financial options pricing and hedging: Cryptocurrencies and Taiwan Futures Market
+- Financial options pricing and hedging: Cryptocurrencies and Taiwan Futures Market (Allen, Elvis)
 - Portfolio mananegement
-- Financial Risk managemet, VaR and ES prediction
-- Mortality rate modeling in actual science
-- Trading strategies
+- Financial Risk managemet: VaR, graphical models (Jason, Martin, Frank) 
+- Mortality rate modeling in actual science (Guan-Lin, Yi-Le)
+- Trading strategies (Ben, Deron, Ares)
   
 FinTech
-- Credit scoring
-- Fraud detection
+- Credit scoring (Mabel, Eva)
+- Fraud detection (Crissy)
 
 
 ## Interested in joining? 
