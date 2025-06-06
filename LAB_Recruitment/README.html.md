@@ -52,9 +52,9 @@ To complete your master’s degree from DIF, you need to pass:
 | Semester      | 1-Fall  | 1-Spring  | 2-Fall  | 2-Spring  |
 |------------|----|----|----|----|
 | ORSTW  |    |  | ✅ |  |
+| PROPOSAL |    |    |   ✅  |   |  
 | POSTER, STSC    |    |    |    |  ✅  |  
-| PROPOSAL/ORAL |    |    |    |  ✅  |  
----
+| ORAL |    |    |    |  ✅  |  
 
 ### DIF Undergraduate Projects
 
