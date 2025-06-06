@@ -36,7 +36,7 @@ Let’s make an impact together!
 
 ## Timeline
 
-### Master’s Thesis
+### DIF Master’s Thesis
 
 We strongly encourage our students to present their research at conferences and participate in thesis competitions. These opportunities allow you to share ideas, gain recognition, and build valuable connections within the academic community.
 
@@ -55,7 +55,7 @@ To complete your master’s degree from DIF, you need to pass:
 | PROPOSAL/ORAL |    |    |    |  ✅  |  
 ---
 
-### Undergraduate Projects
+### DIF Undergraduate Projects
 
 - DIF: 國立陽明交通大學智慧創新跨域潛力人才競賽  
 
