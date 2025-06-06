@@ -15,7 +15,7 @@ We are seeking motivated students who are passionate about knowledge, value tran
 ## Curious and driven? Join us in exploring these exciting topics! 
 
 Financial Engineering
-- Derivatives pricing and hedging for cryptocurrencies and Taiwanese futures market.
+- Financial options pricing and hedging: Cryptocurrencies and Taiwan Futures Market
 - Portfolio mananegement
 - Financial Risk managemet, VaR and ES prediction
 - Mortality rate modeling in actual science
