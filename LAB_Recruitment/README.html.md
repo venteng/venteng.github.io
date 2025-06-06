@@ -26,9 +26,11 @@ FinTech
 - Fraud detection
 
 
-- Want to prepare? Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
+## Interested in joining? 
+
+- Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
 - Check out the [achievements of our team](https://venteng.github.io/LAB_Recruitment/Students.html)!  
-- Interested in joining? Email me your CV, transcripts, and a short statement of purpose (150 words max).  
+- Email me your CV, transcripts, and a short statement of purpose (150 words max).  
 
 Let’s make an impact together!
 
