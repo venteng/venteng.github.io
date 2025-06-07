@@ -28,16 +28,15 @@ FinTech
 
 ## Interested in joining? 
 
+Let’s make an impact together!
 - Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
 - Email me your CV, transcripts, and a short statement of purpose (150 words max).  
-
-Let’s make an impact together!
 
 <!-- - Provide me your information through [Google Forms](https://forms.gle/UQSsDkt4Csvg9UU59). --->
 
 ## Timeline
 
-### DIF Master’s Thesis
+### IMF Master’s Thesis
 
 We strongly encourage our students to present their research at conferences and participate in thesis competitions. These opportunities allow you to share ideas, gain recognition, and build valuable connections within the academic community.
 
@@ -56,13 +55,13 @@ To complete your master’s degree from DIF, you need to pass:
 | POSTER, STSC    |    |    |    |  ✅  |  
 | ORAL |    |    |    |  ✅  |  
 
-### DIF Undergraduate Projects
+### IMF Undergraduate Projects
 
-- DIF: 國立陽明交通大學智慧創新跨域潛力人才競賽  
+- IMF: 國立陽明交通大學智慧創新跨域潛力人才競賽  
 
 | Month      | Spring  | Fall  |
 |------------|----|----|
-| DIF    |    |  ✅  | 
+| IMF    |    |  ✅  | 
 
 
 
