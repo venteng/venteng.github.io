@@ -5,6 +5,8 @@ title: Go to Stat?
 
 # 20250221 資財系大學畢業，但碩士班想往統計所發展？
 
+*Last modified by Huei-Wen Teng on 20250615*
+
 ## Email from 洪🍀瑾
 
 *洪🍀瑾 <hlc.mg11@nycu.edu.tw> 於 2025年2月16日 下午1:07 寫道*
@@ -45,8 +47,11 @@ Hello 🍀瑾
 
 ## 我喜歡數學統計，在大學生涯中有什麼可以參加的嗎？
 
-[中央研究院統計所](https://www.stat.sinica.edu.tw/cht/index.php?)也有一些學生營隊活動可以參考。 
-
+[中央研究院統計所](https://www.stat.sinica.edu.tw/cht/index.php?)暑假有暑期研習營，有一些學生營隊活動可以參考。 
 希望對你有幫助！若有需要聊聊、我們再另外約時間！
+
+## 其他參考資料
+[20220119 ptt/數學＆統計新鮮人面試分享](https://www.ptt.cc/bbs/Soft_Job/M.1642522974.A.EBA.html)
+
 
 
