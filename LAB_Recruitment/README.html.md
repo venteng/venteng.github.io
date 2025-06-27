@@ -14,16 +14,20 @@ We are seeking motivated students who are passionate about knowledge, value tran
   
 ## Curious and driven? Join us in exploring these exciting topics! 
 
-Financial Engineering
+My research spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
+
+### 1. FinTech
+
+- Credit scoring (Mabel, Eva)
+- Fraud detection (Chrissy)
+
+### 2. Financial Engineering
+
 - Financial options pricing and hedging: Cryptocurrencies and Taiwan Futures Market (Allen, Elvis)
 - Portfolio mananegement
 - Financial Risk managemet: VaR, graphical models (Jason, Martin, Frank) 
 - Mortality rate modeling in actual science (Guan-Lin, Yi-Le)
-- Trading strategies (Ben, Deron, Ares)
-  
-FinTech
-- Credit scoring (Mabel, Eva)
-- Fraud detection (Crissy)
+- Trading strategies (Ben, Deron, Ares, Elvis)
 
 
 ## Interested in joining? 
