@@ -14,12 +14,11 @@ We are seeking motivated students who are passionate about knowledge, value tran
 
 - Credit scoring (Mabel, Eva)
 - Fraud detection (Chrissy)
-- Trading strategies (Ben, Deron, Ares, Elvis)
+- Trading strategies and portfolio management (Ben, Deron, Ares, Elvis)
 
 ### 2. Financial Engineering with statistical methods
 
 - Financial Risk managemet: VaR, graphical models (Jason, Martin, Frank, Guan-Lin, Yi-Le) 
-- Portfolio mananegement
 - Financial options pricing and hedging: Cryptocurrencies and Taiwan Futures Market (Allen, Elvis)
 
 ## Interested in joining? 
