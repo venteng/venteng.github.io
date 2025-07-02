@@ -8,27 +8,19 @@ title: LAB Recruitment
 
 ## Join Our Lab!
 
-We are seeking motivated students who are passionate about knowledge, value transparency and reproducibility in scientific research, and exhibit resilience and a positive attitude. Our lab applies advanced quantitative methods address real-world challenges, including:
-- Statistical Techniques.
-- Machine Learnin and AI
-  
-## Curious and driven? Join us in exploring these exciting topics! 
+We are seeking motivated students who are passionate about knowledge, value transparency and reproducibility in scientific research, and exhibit resilience and a positive attitude. Our lab applies advanced quantitative methods address real-world challenges. My research spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
 
-My research spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
-
-### 1. FinTech
+### 1. FinTech with Machine Learning and AI
 
 - Credit scoring (Mabel, Eva)
 - Fraud detection (Chrissy)
-
-### 2. Financial Engineering
-
-- Financial options pricing and hedging: Cryptocurrencies and Taiwan Futures Market (Allen, Elvis)
-- Portfolio mananegement
-- Financial Risk managemet: VaR, graphical models (Jason, Martin, Frank) 
-- Mortality rate modeling in actual science (Guan-Lin, Yi-Le)
 - Trading strategies (Ben, Deron, Ares, Elvis)
 
+### 2. Financial Engineering with statistical methods
+
+- Financial Risk managemet: VaR, graphical models (Jason, Martin, Frank, Guan-Lin, Yi-Le) 
+- Portfolio mananegement
+- Financial options pricing and hedging: Cryptocurrencies and Taiwan Futures Market (Allen, Elvis)
 
 ## Interested in joining? 
 
