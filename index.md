@@ -16,19 +16,17 @@ I am a Professor in the Department of Information Management and Finance at Nati
 📄 SSRN: [378952](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3789459)  
 💻 GitHub: [venteng](https://github.com/venteng)  
 ✉️ Email: venteng@gmail.com  
-
 🔗 [More about me](https://venteng.github.io/bio.html)
+🔗 [CV](https://drive.google.com/file/d/1jiX6srR1sRtwqQJYLYhSiajoYhJhTn2p/view?usp=share_link)
 
 ---
 
 ## 📌 Research Highlights
 
-- FinTech
-- Credit Scoring
-- Financial Derivatives
-- Financial Engineering
-- Statistical Methods and AI
-
+- Statistical Methods
+- Machine Learning and AI
+- FinTech and Financial Engineering
+  
 ---
 
 ## 🎓 Academic Positions
