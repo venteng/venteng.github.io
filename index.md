@@ -15,8 +15,8 @@ I am a Professor in the Department of Information Management and Finance at Nati
 📚 Google Scholar: [HDPf0-IAAAAJ](https://scholar.google.com/citations?user=HDPf0-IAAAAJ&hl=en)  
 📄 SSRN: [378952](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3789459)  
 💻 GitHub: [venteng](https://github.com/venteng)  
-✉️ Email: venteng@gmail.com and hwteng@nycu.edu.tw
-📄 [CV](https://drive.google.com/file/d/1jiX6srR1sRtwqQJYLYhSiajoYhJhTn2p/view?usp=share_link)
+✉️ Email: venteng@gmail.com and hwteng@nycu.edu.tw  
+📄 [CV](https://drive.google.com/file/d/1jiX6srR1sRtwqQJYLYhSiajoYhJhTn2p/view?usp=share_link)  
 🔗 [More about me](https://venteng.github.io/bio.html)  
 
 ---
