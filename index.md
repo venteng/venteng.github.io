@@ -32,14 +32,16 @@ I am a Professor in the Department of Information Management and Finance at Nati
 ## 🎓 Academic Positions
 
 ### National Yang Ming Chiao Tung University ([NYCU](https://www.nycu.edu.tw/))
-- Professor, [Department of Information Management and Finance](https://imf.nctu.edu.tw/) (Aug 2024 - Present)
-- Associate Professor, Department of Information Management and Finance (Feb 2017 - July 2024)
-- Joint Appointment, [Department of Applied Mathematics](https://www.math.nycu.edu.tw/) (Sep 2017 - Present)
-- Joint Appointment, [Institute of Statistics](https://stat.nycu.edu.tw/) (Oct 2024 - Present)
+- [Department of Information Management and Finance](https://imf.nctu.edu.tw/)
+  - Professor (Aug 2024 - Present)
+  - Associate Professor (Feb 2017 - July 2024)
+- Joint Appointment, [Department of Applied Mathematics](https://www.math.nycu.edu.tw/)  (Oct 2024 - Present)
+- Joint Appointment, [Institute of Statistics](https://stat.nycu.edu.tw/) (Sep 2017 - Present)
 
 ### National Central University ([NCU](https://www.ncu.edu.tw/))
-- Associate Professor, [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/) (Aug 2016 - Jan 2017)
-- Assistant Professor, Graduate Institute of Statistics (Aug 2010 - Jul 2016)
+- [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/) 
+  - Associate Professor (Aug 2016 - Jan 2017)
+  - Assistant Professor (Aug 2010 - Jul 2016)
 - Joint Appointment, [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW) (Aug 2016 - Jan 2017)
 
 ### Other Institutions
