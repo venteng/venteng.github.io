@@ -8,6 +8,7 @@ title: Thoughts & Insight
 ## Selected Talks
 
 - 20250823 Qualitative insights meet quantitative forecasts with GPT-4o mini for Taiwan earnings prediction, EcoSta2025, Tokyo, Japan [[slides]](https://drive.google.com/file/d/1ZAxeWx9zljUz3JYjZ8vK4kbGBo9TErvz/view?usp=drive_link)
+- 20250823 Evaluating Tail Risk in Bitcoin Using Stochastic Volatility with Correlated Jump Models under Basel Standards, EcoSta2025, Tokyo, Japan [[slides]](https://drive.google.com/file/d/1vQWP_sUbRMGhWGS2N3a7mIi-IV7c9czM/view?usp=sharing)
 
 <!---
 
