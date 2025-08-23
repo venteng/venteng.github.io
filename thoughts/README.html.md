@@ -5,6 +5,13 @@ title: Thoughts & Insight
 
 # Thoughts & Insights
 
+## Selected Talks
+
+- 20250505 Qualitative insights meet quantitative forecasts with GPT-4o mini for Taiwan earnings prediction, EcoSta2025, Tokyo, Japan [[slides]](https://drive.google.com/file/d/1ZfIQU6QzaxCPwvGFZXdggarIIltyIEsC/view?usp=drive_link)
+
+<!---
+
+
 ## Thoughts
 
 
@@ -23,13 +30,10 @@ title: Thoughts & Insight
 - 20250515 鄧惠文/新竹高中數理資優班/數學的奇幻旅程：從大學課堂到金融AI應用 [[YouTube]](https://youtu.be/yIdvhvb_8ZA)[[pdf]](https://drive.google.com/file/d/1Vq419YCp78qPs5gWXVTlasXWDIrBOF32/view?usp=drive_link)
 - 20250602 鄧惠文/國立政治大學統計學系: Financial analytics of inverse BTC options in a stochastic volatility worlds [[pdf]](https://drive.google.com/file/d/1eJuI0a0hCQ3LiHBJ9-pLwe4zYZ7pc7No/view?usp=sharing)
 
-<!---
+
 
 ## 來一點數學吧
 - [20250523 康明軒：矩陣乘法到底誰是行誰是列？Granger Causality Network的線性代數觀點](https://hackmd.io/@mhkang/HkIQOF2bxg)
-
-
-
 - [20240627 南區統計研討會吳建福院士歸納五個研究創新的步驟](https://venteng.github.io/thoughts/20240627_5steps.html)
 - [20250408 A Practical Guide to AI-Assisted Research in Section 1 Writing](https://venteng.github.io/thoughts/20250408_AI_Research_1.html)
 
