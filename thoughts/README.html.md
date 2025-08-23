@@ -7,7 +7,7 @@ title: Thoughts & Insight
 
 ## Selected Talks
 
-- 20250505 Qualitative insights meet quantitative forecasts with GPT-4o mini for Taiwan earnings prediction, EcoSta2025, Tokyo, Japan [[slides]](https://drive.google.com/file/d/1ZfIQU6QzaxCPwvGFZXdggarIIltyIEsC/view?usp=drive_link)
+- 20250823 Qualitative insights meet quantitative forecasts with GPT-4o mini for Taiwan earnings prediction, EcoSta2025, Tokyo, Japan [[slides]](https://drive.google.com/file/d/1ZfIQU6QzaxCPwvGFZXdggarIIltyIEsC/view?usp=drive_link)
 
 <!---
 
