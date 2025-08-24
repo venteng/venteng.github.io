@@ -70,7 +70,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 ## 📚 Additional Resources
 
 🚀🚀🚀 [Lab Recruitment](https://venteng.github.io/LAB_Recruitment/README.html)  
-🌟 [Lab Members](https://venteng.github.io/LAB_Recruitment/Students.html)  
+🌟🌟🌟 [Lab Members](https://venteng.github.io/LAB_Recruitment/Students.html)  
 📖 [Teaching](https://venteng.github.io/Teaching/README.html)  
 📄 [Publications](https://venteng.github.io/Publication.html)  
 💡 [Thoughts & Insights](https://venteng.github.io/thoughts/README.html)  
