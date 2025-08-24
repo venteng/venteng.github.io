@@ -12,12 +12,14 @@ We are seeking motivated students who are passionate about knowledge, value tran
 
 ### 1. FinTech with Machine Learning and AI
 
+Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications
 - Credit scoring (Mabel, Eva)
 - Fraud detection (Chrissy)
 - Trading strategies and portfolio management (Ben, Deron, Ares, Elvis)
 
 ### 2. Financial Engineering with statistical methods
 
+We specialize in statistical methods, particularly time series and graphical models, wich applications
 - Financial Risk managemet: VaR, graphical models (Jason, Martin, Frank, Guan-Lin, Yi-Le) 
 - Financial options pricing and hedging: Cryptocurrencies and Taiwan Futures Market (Allen, Elvis)
 
