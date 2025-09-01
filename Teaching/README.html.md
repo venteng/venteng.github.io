@@ -7,8 +7,10 @@ title: Teaching
 
 ## Machine Learning and FinTech
 
+- [20250901 Infrastructure Information Collection](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
+
 Course slides
-- [20250901 Syllabus](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
+- [20250901 Syllabus](https://drive.google.com/file/d/17t_c7QzqDsCW9WE_EIE9JI32G4gS_bMN/view?usp=sharing)
 
 GitHUB Repos
 - [202509 GitHUB](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
