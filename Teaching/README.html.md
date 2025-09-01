@@ -11,6 +11,7 @@ title: Teaching
 
 Course slides
 - [20250901 Syllabus](https://drive.google.com/file/d/17t_c7QzqDsCW9WE_EIE9JI32G4gS_bMN/view?usp=sharing)
+- [20250901 Intro to FinTech](https://drive.google.com/file/d/1tc2Nu0UzpeSM9YUVvm_AvK1ZFq1P23bv/view?usp=drive_link)
 
 GitHUB Repos
 - [202509 GitHUB](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
