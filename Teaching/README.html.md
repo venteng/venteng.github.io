@@ -5,6 +5,15 @@ title: Teaching
 
 # Teaching
 
+## Machine Learning and FinTech
+
+[20250901 Syllabus](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
+
+GitHUB Repos
+- [202509 GitHUB](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
+
+
+
 
 ## Statistics
 
@@ -58,7 +67,7 @@ GitHUB Repos
 
 ## Mathematical Statistics
 
-## Machine Learning and FinTech
+
 
 ## Financial Econometrics
 
