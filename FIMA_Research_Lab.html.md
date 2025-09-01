@@ -27,5 +27,3 @@ It serves as a flexible platform for international collaboration, academic publi
 - 📈 Time Series & Graphical Models  
 - 🌱 ESG, Regulation, and Sustainability
 
-
-> *"Bridging statistical rigor with real-world impact — one model at a time."*  
