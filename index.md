@@ -10,7 +10,7 @@ theme: jekyll-theme-cayman  # Change theme if needed
 ## Biography
 ![Huei-Wen Teng](https://i.imgur.com/K3qUn90.jpg){: style="width: 250px; float: right; margin-left: 20px;"}
 
-I am a Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). My research interests encompass Simulation, Financial Statistical Methods, Machine Learning, and AI, with interdisciplinary applications in finance.
+I am a Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). I am the founder and director of the [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html), an independent research initiative in FinTech and statistical modeling.
 
 📚 Google Scholar: [HDPf0-IAAAAJ](https://scholar.google.com/citations?user=HDPf0-IAAAAJ&hl=en)  
 💻 GitHub: [venteng](https://github.com/venteng)  
