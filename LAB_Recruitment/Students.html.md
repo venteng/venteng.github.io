@@ -72,7 +72,7 @@ title: Lab Members
 | 李宛柔 Lee, Wan-Zoe Cora | M.S., 2017/06 | 
 | 吳柏辰 Wu, Po-Chen | M.S., 2016/07 | 
 | 江厚德 Chiang, Arron | M.S., 2016/07 | 
-| 林煒紘 Lin, Wei-Hung | M.S., 2015/06 [(Lin et al2020)](https://www.worldscientific.com/doi/10.1142/9789811202391_0014?srsltid=AfmBOooTBeDsa58dLYFQDZZzKg8G18rsPELiQ1LpArEyfmfFefInMG4K) | 
+| 林煒紘 Lin, Wei-Hung | M.S., 2015/06 [(Lin et al 2020)](https://www.worldscientific.com/doi/10.1142/9789811202391_0014?srsltid=AfmBOooTBeDsa58dLYFQDZZzKg8G18rsPELiQ1LpArEyfmfFefInMG4K) | 
 | 沈睿謙 Shen, Rui-Qian | M.S., 2015/06 | 
 | 楊舒媛 Yang, Shu-Yuang | M.S., 2015/06 | 
 | 王聖翔 Wang, Sheng-Xiang | M.S., 2014/06 [(Lyuu et al 2019)](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196) | 
