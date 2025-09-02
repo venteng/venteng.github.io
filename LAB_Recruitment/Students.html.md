@@ -38,8 +38,8 @@ title: Lab Members
 | 施昱全 Shih, James | M.S.F., 2025/07, [[LinkedIn]](http://linkedin.com/in/昱全-施-735a5620b), [[凱基證券]](https://www.kgi.com.tw/zh-tw/) |
 | 吳柏賢 Wu, Howard | M.S.F., 2025/07, [[LinkedIn]](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/), [[Cmoney (全曜財金)]](https://www.cmoney.com.tw) |
 | 林威承 |M.S., 2024/12, co-advised with [Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
-| 陳彥廷 Chen, Yen-Ting |M.S.F., 2024/07 [[中國信託銀行]](https://www.ctbcbank.com/twrbo/zh_tw/index.html) |
-| 鄭翔澧 Jheng, Siang-Li | M.S.F., 2024/07 [[ASE, Romania]](https://www.google.com/search?client=safari&rls=en&q=institute+of+digital+assets&ie=UTF-8&oe=UTF-8)| 
+| 陳彥廷 Chen, Yen-Ting |M.S.F., 2024/07, [[中國信託銀行]](https://www.ctbcbank.com/twrbo/zh_tw/index.html) |
+| 鄭翔澧 Jheng, Siang-Li | M.S.F., 2024/07, [[ASE, Romania]](https://www.google.com/search?client=safari&rls=en&q=institute+of+digital+assets&ie=UTF-8&oe=UTF-8)| 
 | 吳旻修 Wu, Min-Hsiu | M.S.F., 2024/07 | 
 | 鄭有朋 |B.S., 2024/07   | 
 | 王鳴謙 | B.S., 2024/07  | 
