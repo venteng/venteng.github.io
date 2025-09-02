@@ -81,7 +81,7 @@ title: Lab Members
 | 陳彥勳 Chen, Yen-Hsun | M.S., 2013/06 | 
 | 沈志泰 Shen, Chih-Tai | M.S., 2013/06 | 
 | 吳諭昕 Wu, Yu-Hsin | M.S., 2013/06 | 
-| 陳醇潔 Chen, Chun-Chieh | M.S., 2012/06, [榮獲101年中國統計學社論文獎優等獎](https://www.stat.org.tw/data/operation/歷屆論文獎得獎名單1121207.pdf) ([Teng et al., 2016](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1136077), [Chen et al., 2013](https://www.airitilibrary.com/Article/Detail/05296528-201309-201309020004-201309020004-253-273))| |
+| 陳醇潔 Chen, Chun-Chieh | M.S., 2012/06, [榮獲101年中國統計學社論文獎優等獎](https://www.stat.org.tw/data/operation/歷屆論文獎得獎名單1121207.pdf) [(Teng et al., 2016](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1136077), [Chen et al., 2013)](https://www.airitilibrary.com/Article/Detail/05296528-201309-201309020004-201309020004-253-273)| |
 | 劉家齊 Liu, Chia-Chi | M.S., 2012/06 | |
 | 趙彥茹 Chao, Yen-Ju | M.S., 2012/06 [(Teng et al., 2015)](https://www.tandfonline.com/doi/abs/10.1080/02664763.2014.995609) | |
 | 陳彥鈞 Chen, Yen-Chun | M.S., 2012/06 | |
