@@ -15,9 +15,9 @@ title: Lab Members
 |----|-----------|
 |李彥璋 Lee Yen-Chang| Ph.D. student, since 2022/7 |
 | 陳諾恆 Chan, Jason|M.S.F. student, since 2024/01, [[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) |
-| 鄭凱鴻 Cheng, Allen | M.S. student, since 2025/02, [[LinkedIn]](https://www.linkedin.com/in/kaihong-zheng-66a105355/), co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)  |
-| 鄭詠融 Cheng, Martin | M.S. student, since 2025/02, [[LinkedIn]](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/), co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
-| 邱瀚奕 Chiou, Elvis | M.S. student, since 2025/02, [[LinkedIn]](https://pse.is/78kyba), co-advised with [Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87) |
+| 鄭凱鴻 Cheng, Allen | M.S. student, since 2025/02, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), [[LinkedIn]](https://www.linkedin.com/in/kaihong-zheng-66a105355/)|
+| 鄭詠融 Cheng, Martin | M.S. student, since 2025/02, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), [[LinkedIn]](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) |
+| 邱瀚奕 Chiou, Elvis | M.S. student, since 2025/02, co-advised with [Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87), [[LinkedIn]](https://pse.is/78kyba) |
 | 蘇家灝 Su, Ben | M.S.F. student, since 2024/08, [[LinkedIn]](https://www.linkedin.com/in/ben--soo/)|
 | 王惠芯 Wang, Chrissy | GMBA student, since 2025/02, [[LinkedIn]](https://www.linkedin.com/in/chrissywangxiv/) |
 | 余柔柔 Yu, Mabel | M.S. student, since 2025/02, [[LinkedIn]](https://www.linkedin.com/in/mabelrryu/) |
