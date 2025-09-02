@@ -62,7 +62,7 @@ title: Lab Members
 | 林睿瑜 Lin, Phoebe| B.S., 2020/07 <br>榮獲 109 年度科技部大專生計畫 |  |
 | 陸恭葦 Lu, Lucy| B.S., 2020/07  |  |
 | 張尚文 Chang, Shang-Wen Jonathan | M.S., 2021/08 <br>[Teng, Lee, Chang (2020)](https://ieeexplore.ieee.org/document/9302638) | [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
-| 趙祥安 Zhao, Xiang-An | M.S., 2020/06 [[TSMC]](https://www.tsmc.com/english) <br>-Teng and Zhao (2021)    |[Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
+| 趙祥安 Zhao, Xiang-An | M.S., 2020/06 [[TSMC]](https://www.tsmc.com/english) <br>Teng and Zhao (2021)    |[Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | 林益嘉 Lin, Yi-Chia Kelly | M.S.F., 2019/07 | |
 | 許至妤 Hsu, Chih-Yu Emma | M.S.F., 2019/07 | |
 | 陳奕翔 Chen, Yi-Xiang Arikson | M.S.F., 2019/07 | |
