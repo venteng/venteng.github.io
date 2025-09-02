@@ -33,10 +33,10 @@ title: Lab Members
 
 | Name | Degree   |
 |----|------|
-| 陳怡仁 Chen, Paul |M.S.F., 2025/07 [[富邦人壽]](https://www.fubon.com/life/)| [[LinkedIn]](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  |
-| 黃馨霈 Huang, Wendy | M.S.F., 2025/07 [[復華投信]](https://www.fhtrust.com.tw) | [[LinkedIn]](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) |
-| 施昱全 Shih, James | M.S.F., 2025/07 [[凱基證券]](https://www.kgi.com.tw/zh-tw/) | [[LinkedIn]](http://linkedin.com/in/昱全-施-735a5620b) |
-| 吳柏賢 Wu, Howard | M.S.F., 2025/07 [[Cmoney (全曜財金)]](https://www.cmoney.com.tw) | [[LinkedIn]](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) |
+| 陳怡仁 Chen, Paul |M.S.F., 2025/07, [[LinkedIn]](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile), [[富邦人壽]](https://www.fubon.com/life/)|
+| 黃馨霈 Huang, Wendy | M.S.F., 2025/07, [[LinkedIn]](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/), [[復華投信]](https://www.fhtrust.com.tw)|
+| 施昱全 Shih, James | M.S.F., 2025/07, [[LinkedIn]](http://linkedin.com/in/昱全-施-735a5620b), [[凱基證券]](https://www.kgi.com.tw/zh-tw/) |
+| 吳柏賢 Wu, Howard | M.S.F., 2025/07, [[LinkedIn]](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/). [[Cmoney (全曜財金)]](https://www.cmoney.com.tw) |
 | 林威承 |M.S., 2024/12, co-advised with [Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
 | 陳彥廷 Chen, Yen-Ting |M.S.F., 2024/07 [[CTBC]](https://www.ctbcbank.com/twrbo/zh_tw/index.html) ||
 | 鄭翔澧 Jheng, Siang-Li | M.S.F., 2024/07 [[ASE, Romania]](https://www.google.com/search?client=safari&rls=en&q=institute+of+digital+assets&ie=UTF-8&oe=UTF-8)| |
@@ -51,18 +51,18 @@ title: Lab Members
 | 蔡昕妤  | B.S., 2024/07  |  |
 | 潘俞綺 Pan, Yu-Ci | M.S.F., 2023/07 | |
 | 呂映葇 Lu, Ying-Rou | M.S.F., 2022/07 | |
-| 李亦涵 Lee, I-Han Ian | M.S., 2022/07 [[TSMC]](https://www.tsmc.com/english)<br> [Teng, Kang, Lee, Bai (2024)](https://doi.org/10.1016/j.irfa.2023.103005), co-advised with [Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129) |
-| 張詠淇 Chang, Yung-Chi Tom | M.S., 2022/07 <br>[2022 New Futures 期貨學術與實務交流研討會論文金質獎](https://www.ctee.com.tw/news/20221205700620-431210) <br>[Chang, Teng, and Härdle (2023)](https://www.taifex.com.tw/cht/10/journalView) , co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
+| 李亦涵 Lee, I-Han Ian | M.S., 2022/07, co-advised with [Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129), [Teng, Kang, Lee, Bai (2024)](https://doi.org/10.1016/j.irfa.2023.103005), [[TSMC]](https://www.tsmc.com/english)  |
+| 張詠淇 Chang, Yung-Chi Tom | M.S., 2022/07, , co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), [2022 New Futures 期貨學術與實務交流研討會論文金質獎](https://www.ctee.com.tw/news/20221205700620-431210), [Chang, Teng, and Härdle (2023)](https://www.taifex.com.tw/cht/10/journalView)|
 | 陳律翔 Chen, Lu-Xiang Jay| M.S., 2022/07, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 Chen, Jasmine | B.S., 2022/07  |  
 | 宋佩芩 Sung, Sammi | B.S., 2022/07  |  
-| 李育賢 Li, Yu-Hsien Bill | M.S.F., 2020/07 <br>[Teng, Lee, Chang (2020)](https://ieeexplore.ieee.org/document/9302638) <br>[Teng and Lee (2023)](https://link.springer.com/article/10.1007/s42521-023-00076-y)|  | 
+| 李育賢 Li, Yu-Hsien Bill | M.S.F., 2020/07, [Teng, Lee, Chang (2020)](https://ieeexplore.ieee.org/document/9302638), [Teng and Lee (2023)](https://link.springer.com/article/10.1007/s42521-023-00076-y)|  | 
 | 吳哲杭 Wu, Zhe-Hang Jeff | M.S.F., 2020/07 | |
-| 范凱翔 Fan, Tom| B.S., 2020/07 <br>榮獲 109 年度科技部大專生計畫 | [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
-| 林睿瑜 Lin, Phoebe| B.S., 2020/07 <br>榮獲 109 年度科技部大專生計畫 |  |
+| 范凱翔 Fan, Tom| B.S., 2020/07, 榮獲 109 年度科技部大專生計畫, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
+| 林睿瑜 Lin, Phoebe| B.S., 2020/07, 榮獲 109 年度科技部大專生計畫 |  |
 | 陸恭葦 Lu, Lucy| B.S., 2020/07  |  |
-| 張尚文 Chang, Shang-Wen Jonathan | M.S., 2021/08 <br>[Teng, Lee, Chang (2020)](https://ieeexplore.ieee.org/document/9302638), co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
-| 趙祥安 Zhao, Xiang-An | M.S., 2020/06 [[TSMC]](https://www.tsmc.com/english) <br>Teng and Zhao (2021), co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
+| 張尚文 Chang, Shang-Wen Jonathan | M.S., 2021/08, , co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), [Teng, Lee, Chang (2020)](https://ieeexplore.ieee.org/document/9302638)|
+| 趙祥安 Zhao, Xiang-An | M.S., 2020/06 [[TSMC]](https://www.tsmc.com/english), co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), Teng and Zhao (2021) |
 | 林益嘉 Lin, Yi-Chia Kelly | M.S.F., 2019/07 | |
 | 許至妤 Hsu, Chih-Yu Emma | M.S.F., 2019/07 | |
 | 陳奕翔 Chen, Yi-Xiang Arikson | M.S.F., 2019/07 | |
@@ -72,18 +72,18 @@ title: Lab Members
 | 李宛柔 Lee, Wan-Zoe Cora | M.S., 2017/06 | |
 | 吳柏辰 Wu, Po-Chen | M.S., 2016/07 | |
 | 江厚德 Chiang, Arron | M.S., 2016/07 | |
-| 林煒紘 Lin, Wei-Hung | M.S., 2015/06 <br>[Lin, Teng, and Yang (2020)](https://www.worldscientific.com/doi/10.1142/9789811202391_0014?srsltid=AfmBOooTBeDsa58dLYFQDZZzKg8G18rsPELiQ1LpArEyfmfFefInMG4K) | |
+| 林煒紘 Lin, Wei-Hung | M.S., 2015/06, [Lin, Teng, and Yang (2020)](https://www.worldscientific.com/doi/10.1142/9789811202391_0014?srsltid=AfmBOooTBeDsa58dLYFQDZZzKg8G18rsPELiQ1LpArEyfmfFefInMG4K) | |
 | 沈睿謙 Shen, Rui-Qian | M.S., 2015/06 | |
 | 楊舒媛 Yang, Shu-Yuang | M.S., 2015/06 | |
-| 王聖翔 Wang, Sheng-Xiang | M.S., 2014/06 <br>[Lyuu, Teng, Tseng, and Wang (2019)](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196) | |
-| 曾耀德 Tseng, Yao-Te | M.S., 2014/06 <br>[Lyuu, Teng, Tseng, and Wang (2019)](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196) | |
-| 李宥萱 Lee, Yu-Hsuan | M.S., 2014/06 <br>[Luo, Teng, and Lee (2016)](https://www.degruyterbrill.com/document/doi/10.1515/apjri-2015-0011/html) | |
+| 王聖翔 Wang, Sheng-Xiang | M.S., 2014/06, [Lyuu, Teng, Tseng, and Wang (2019)](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196) | |
+| 曾耀德 Tseng, Yao-Te | M.S., 2014/06, [Lyuu, Teng, Tseng, and Wang (2019)](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196) | |
+| 李宥萱 Lee, Yu-Hsuan | M.S., 2014/06, [Luo, Teng, and Lee (2016)](https://www.degruyterbrill.com/document/doi/10.1515/apjri-2015-0011/html) | |
 | 陳彥勳 Chen, Yen-Hsun | M.S., 2013/06 | |
 | 沈志泰 Shen, Chih-Tai | M.S., 2013/06 | |
 | 吳諭昕 Wu, Yu-Hsin | M.S., 2013/06 | |
-| 陳醇潔 Chen, Chun-Chieh | M.S., 2012/06 <br>100學年度中國統計學社論文獎優等獎 <br>[Teng, Fuh, and Chen (2016)](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1136077) <br>[Chen, Fuh, Teng (2013)](https://www.airitilibrary.com/Article/Detail/05296528-201309-201309020004-201309020004-253-273)| |
+| 陳醇潔 Chen, Chun-Chieh | M.S., 2012/06, 100學年度中國統計學社論文獎優等獎, [Teng, Fuh, and Chen (2016)](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1136077), [Chen, Fuh, Teng (2013)](https://www.airitilibrary.com/Article/Detail/05296528-201309-201309020004-201309020004-253-273)| |
 | 劉家齊 Liu, Chia-Chi | M.S., 2012/06 | |
-| 趙彥茹 Chao, Yen-Ju | M.S., 2012/06 <br>[Teng, Hung, and Chao (2015)](https://www.tandfonline.com/doi/abs/10.1080/02664763.2014.995609) | |
+| 趙彥茹 Chao, Yen-Ju | M.S., 2012/06, [Teng, Hung, and Chao (2015)](https://www.tandfonline.com/doi/abs/10.1080/02664763.2014.995609) | |
 | 陳彥鈞 Chen, Yen-Chun | M.S., 2012/06 | |
 | 劉佑聖 Liu, You-Sheng | M.S., 2011/06 | |
 | 吳嘉洋 Wu, Jia-Yang | M.S., 2011/06 | |
