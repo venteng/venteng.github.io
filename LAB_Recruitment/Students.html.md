@@ -14,19 +14,19 @@ title: Lab Members
 | Name | Position and More |
 |----|-----------|
 |李彥璋 Lee Yen-Chang| Ph.D. student, since 2022/7 |
-| 陳諾恆 Chan, Jason|M.S.F. student, since 2024/01, [[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) |
-| 鄭凱鴻 Cheng, Allen | M.S. student, since 2025/02, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), [[LinkedIn]](https://www.linkedin.com/in/kaihong-zheng-66a105355/)|
-| 鄭詠融 Cheng, Martin | M.S. student, since 2025/02, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), [[LinkedIn]](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) |
-| 邱瀚奕 Chiou, Elvis | M.S. student, since 2025/02, co-advised with [Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87), [[LinkedIn]](https://pse.is/78kyba) |
-| 蘇家灝 Su, Ben | M.S.F. student, since 2024/08, [[LinkedIn]](https://www.linkedin.com/in/ben--soo/)|
-| 王惠芯 Wang, Chrissy | GMBA student, since 2025/02, [[LinkedIn]](https://www.linkedin.com/in/chrissywangxiv/) |
-| 余柔柔 Yu, Mabel | M.S. student, since 2025/02, [[LinkedIn]](https://www.linkedin.com/in/mabelrryu/) |
-| 江文煌 Chiang, Ares | E.M.S.F. student, since 2024/09, [[LinkedIn]](https://www.linkedin.com/in/ares-jiang-2a3816354/) |
-| 范艾雯 Fan, Eva | E.M.S.F. student, since 2024/09, [[LinkedIn]](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) |
+| 陳諾恆 Chan, Jason|M.S.F. student, since 2024/01 [[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) |
+| 鄭凱鴻 Cheng, Allen | M.S. student, since 2025/02, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) [[LinkedIn]](https://www.linkedin.com/in/kaihong-zheng-66a105355/)|
+| 鄭詠融 Cheng, Martin | M.S. student, since 2025/02, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) [[LinkedIn]](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) |
+| 邱瀚奕 Chiou, Elvis | M.S. student, since 2025/02, co-advised with [Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87) [[LinkedIn]](https://pse.is/78kyba) |
+| 蘇家灝 Su, Ben | M.S.F. student, since 2024/08 [[LinkedIn]](https://www.linkedin.com/in/ben--soo/)|
+| 王惠芯 Wang, Chrissy | GMBA student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/chrissywangxiv/) |
+| 余柔柔 Yu, Mabel | M.S. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/mabelrryu/) |
+| 江文煌 Chiang, Ares | E.M.S.F. student, since 2024/09 [[LinkedIn]](https://www.linkedin.com/in/ares-jiang-2a3816354/) |
+| 范艾雯 Fan, Eva | E.M.S.F. student, since 2024/09 [[LinkedIn]](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) |
 | 黃德榮 Huang, Deron | E.M.S.F. student, since 2025/02  |
-| 許柏堯 Hsu, Frank | B.S.F. student, since 2025/02, [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) |
-| 黃以樂 Huang, Yile | B.S. student, since 2025/02, [[LinkedIn]](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) |
-| 吳冠霖 Wu, Guan-Lin | B.S. student, since 2025/02, [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) |
+| 許柏堯 Hsu, Frank | B.S.F. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) |
+| 黃以樂 Huang, Yile | B.S. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) |
+| 吳冠霖 Wu, Guan-Lin | B.S. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) |
 
 
 ## Former Lab Members
@@ -39,7 +39,7 @@ title: Lab Members
 | 吳柏賢 Wu, Howard | M.S.F., 2025/07 [[LinkedIn](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/), [Cmoney (全曜財金)](https://www.cmoney.com.tw)] |
 | 林威承 |M.S., 2024/12, co-advised with [Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
 | 陳彥廷 Chen, Yen-Ting |M.S.F., 2024/07 [[中國信託銀行]](https://www.ctbcbank.com/twrbo/zh_tw/index.html) |
-| 鄭翔澧 Jheng, Siang-Li | M.S.F., 2024/07 [[LinkedIn](https://www.linkedin.com/in/siang-li-jheng-bb3103334/), [ASE, Romania](https://www.google.com/search?client=safari&rls=en&q=institute+of+digital+assets&ie=UTF-8&oe=UTF-8)]| 
+| 鄭翔澧 Jheng, Siang-Li | M.S.F., 2024/07 [[LinkedIn](https://www.linkedin.com/in/siang-li-jheng-bb3103334/), [ASE](https://www.google.com/search?client=safari&rls=en&q=institute+of+digital+assets&ie=UTF-8&oe=UTF-8)]| 
 | 吳旻修 Wu, Min-Hsiu | M.S.F., 2024/07 | 
 | 鄭有朋 |B.S., 2024/07   | 
 | 王鳴謙 | B.S., 2024/07  | 
