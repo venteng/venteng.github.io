@@ -56,13 +56,13 @@ title: Lab Members
 | 陳律翔 Chen, Lu-Xiang Jay| M.S., 2022/07, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 Chen, Jasmine | B.S., 2022/07  |  
 | 宋佩芩 Sung, Sammi | B.S., 2022/07  |  
-| 李育賢 Li, Yu-Hsien Bill | M.S.F., 2020/07 ([Teng et al 2020](https://ieeexplore.ieee.org/document/9302638); [Teng and Lee, 2023](https://link.springer.com/article/10.1007/s42521-023-00076-y))| 
+| 李育賢 Li, Yu-Hsien Bill | M.S.F., 2020/07 ([Teng et al 2020](https://ieeexplore.ieee.org/document/9302638); [Teng & Lee, 2023](https://link.springer.com/article/10.1007/s42521-023-00076-y))| 
 | 吳哲杭 Wu, Zhe-Hang Jeff | M.S.F., 2020/07 |
 | 范凱翔 Fan, Tom| B.S., 2020/07, 榮獲109年度科技部大專生計畫, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | 林睿瑜 Lin, Phoebe| B.S., 2020/07, 榮獲109年度科技部大專生計畫 |
 | 陸恭葦 Lu, Lucy| B.S., 2020/07  |
 | 張尚文 Chang, Shang-Wen Jonathan | M.S., 2021/08, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), [(Teng et al., 2020)](https://ieeexplore.ieee.org/document/9302638)|
-| 趙祥安 Zhao, Xiang-An | M.S., 2020/06, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) (Teng and Zhao, 2021) [[TSMC]](https://www.tsmc.com/english)|
+| 趙祥安 Zhao, Xiang-An | M.S., 2020/06, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) (Teng & Zhao, 2021) [[TSMC]](https://www.tsmc.com/english)|
 | 林益嘉 Lin, Yi-Chia Kelly | M.S.F., 2019/07 |
 | 許至妤 Hsu, Chih-Yu Emma | M.S.F., 2019/07 |
 | 陳奕翔 Chen, Yi-Xiang Arikson | M.S.F., 2019/07 |
