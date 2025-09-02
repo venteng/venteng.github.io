@@ -21,14 +21,6 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ---
 
-## 📌 Research Highlights
-
-- Statistical Methods
-- Machine Learning and AI
-- FinTech and Financial Engineering
-  
----
-
 ## 🎓 Academic Positions
 
 ### National Yang Ming Chiao Tung University ([NYCU](https://www.nycu.edu.tw/))
@@ -61,11 +53,10 @@ I am a Professor in the Department of Information Management and Finance at Nati
 - MBA in Finance (2004)  
 - BS in Mathematics (2001)
 
-<!--
 ### Other Institutions
 
 - Exchange Student, [Johannes Kepler University, Austria](https://www.jku.at) (Aug 1999 - Jan 2000)
--->
+
 ---
 
 ## 📚 Additional Resources
@@ -75,6 +66,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 📖 [Teaching](https://venteng.github.io/Teaching/README.html)  
 📄 [Publications](https://venteng.github.io/Publication.html)  
 💡 [Thoughts & Insights](https://venteng.github.io/thoughts/README.html)  
-🌏 [Map, Food, Smiles](https://venteng.github.io/MFS.html)
+
+<!--🌏 [Map, Food, Smiles](https://venteng.github.io/MFS.html)-->
 
 ---
