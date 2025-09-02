@@ -61,7 +61,7 @@ title: Lab Members
 | 范凱翔 Fan, Tom| B.S., 2020/07, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), 榮獲109年度科技部大專生計畫|
 | 林睿瑜 Lin, Phoebe| B.S., 2020/07, 榮獲109年度科技部大專生計畫 |
 | 陸恭葦 Lu, Lucy| B.S., 2020/07  |
-| 張尚文 Chang, Shang-Wen Jonathan | M.S., 2021/08, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) [(Teng et al., 2020)](https://ieeexplore.ieee.org/document/9302638)|
+| 張尚文 Chang, Shang-Wen Jonathan | M.S., 2021/08, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) [(Teng et al., 2020)](https://ieeexplore.ieee.org/document/9302638) [[LinkedIn](https://www.linkedin.com/in/jonathan-sw-chang/)]|
 | 趙祥安 Zhao, Xiang-An | M.S., 2020/06, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) (Teng & Zhao, 2021) [[TSMC]](https://www.tsmc.com/english)|
 | 林益嘉 Lin, Yi-Chia Kelly | M.S.F., 2019/07 |
 | 許至妤 Hsu, Chih-Yu Emma | M.S.F., 2019/07 |
