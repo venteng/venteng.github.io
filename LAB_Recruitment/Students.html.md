@@ -52,7 +52,7 @@ title: Lab Members
 | 潘俞綺 Pan, Yu-Ci | M.S.F., 2023/07 | |
 | 呂映葇 Lu, Ying-Rou | M.S.F., 2022/07 | |
 | 李亦涵 Lee, I-Han Ian | M.S., 2022/07 [[TSMC]](https://www.tsmc.com/english)<br> [Teng, Kang, Lee, Bai (2024)](https://doi.org/10.1016/j.irfa.2023.103005) |[Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129) |
-| 張詠淇 Chang, Yung-Chi Tom | M.S., 2022/07 <br>2022 New Futures 期貨學術與實務交流研討會論文金質獎 <br>[Chang, Teng, and Härdle (2023)](https://www.taifex.com.tw/cht/10/journalView)   | [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
+| 張詠淇 Chang, Yung-Chi Tom | M.S., 2022/07 <br>[2022 New Futures 期貨學術與實務交流研討會論文金質獎](https://www.ctee.com.tw/news/20221205700620-431210) <br>[Chang, Teng, and Härdle (2023)](https://www.taifex.com.tw/cht/10/journalView)   | [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳律翔 Chen, Lu-Xiang Jay| M.S., 2022/07 | [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 Chen, Jasmine | B.S., 2022/07  |  |
 | 宋佩芩 Sung, Sammi | B.S., 2022/07  |  |
