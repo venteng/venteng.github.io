@@ -3,21 +3,20 @@ layout: default
 title: LAB Recruitment
 ---
 
-
 # TOGETHER, WE GO FAR!
 
 ## Join Our Lab!
 
 We are seeking motivated students who are passionate about knowledge, value transparency and reproducibility in scientific research, and exhibit resilience and a positive attitude. Our lab applies advanced quantitative methods address real-world challenges. My research spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
 
-### 1. FinTech with Machine Learning and AI
+### 1. FinTech with machine learning and AI
 
 Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications
 - Credit scoring (Mabel, Eva)
 - Fraud detection (Chrissy)
 - Trading strategies and portfolio management (Ben, Deron, Ares, Elvis)
 
-### 2. Financial Engineering with statistical methods
+### 2. Financial engineering with time series and graphical models
 
 We specialize in statistical methods, particularly time series and graphical models, wich applications
 - Financial Risk managemet: VaR, graphical models (Jason, Martin, Frank, Guan-Lin, Yi-Le) 
@@ -30,7 +29,7 @@ Let’s make an impact together!
 - Email me your CV, transcripts, and a short statement of purpose (150 words max).  
 
 <!-- - Provide me your information through [Google Forms](https://forms.gle/UQSsDkt4Csvg9UU59). --->
-
+<!--
 ## Timeline
 
 ### IMF Master’s Thesis
@@ -59,6 +58,9 @@ To complete your master’s degree from DIF, you need to pass:
 | Month      | Spring  | Fall  |
 |------------|----|----|
 | IMF    |    |  ✅  | 
+
+
+-->
 
 
 
