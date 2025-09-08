@@ -22,7 +22,7 @@ GitHUB Repos
 
 
 
-## Statistics
+## 9:00 - 16:30 Saturday/biweekly Statistics
 
 <!--
 GitHUB Repos
