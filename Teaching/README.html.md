@@ -5,7 +5,7 @@ title: Teaching
 
 # Teaching
 
-## Machine Learning and FinTech
+## 9:00 - 12:00 Monday: Machine Learning and FinTech
 
 - [20250901 Infrastructure Information Collection](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
 
@@ -16,7 +16,7 @@ Course slides
 GitHUB Repos
 - [202509 GitHUB](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
 
-## Doctoral Seminar
+## 13:20 - 15:30 Monday: Doctoral Seminar
 
 [Google sheet](https://docs.google.com/spreadsheets/d/1vWt0wS3YjwKqmZvUeSWJYbANzNQ-BAOvqdbkihhUY9w/edit?usp=sharing)
 
