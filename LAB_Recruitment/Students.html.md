@@ -27,7 +27,7 @@ title: Lab Members
 | 許柏堯 Hsu, Frank | B.S.F. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) |
 | 黃以樂 Huang, Yile | B.S. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) |
 | 吳冠霖 Wu, Guan-Lin | B.S. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) |
-| 吳隆傑 Wu, Lung-Chieh Jack| MS. student since 2025/08 [[LinkedIn]](www.linkedin.com/in/隆傑-吳-b6206a373)  |
+| 吳隆傑 Wu, Lung-Chieh Jack| M.S. student since 2025/08 [[LinkedIn]](www.linkedin.com/in/隆傑-吳-b6206a373)  |
 | 藍允澤 Lan, Yun-Tse Jeremy| B.S.F. student, since 2025/08 [[LinkedIn]](https://www.linkedin.com/in/%E5%85%81%E6%BE%A4-%E8%97%8D-7a8815312/) | 
 | 馮品維 Feng, Ping-Wei |  B.S.F. student, since 2025/08  [[LinkedIn]](https://www.linkedin.com/in/%E5%93%81%E7%B6%AD-%E9%A6%AE-783536339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)| 
 | 歐佳俞 Ou, Chia-Yu Maeve |  B.S.F. student, since 2025/08  [[LinkedIn]](https://www.linkedin.com/in/chia-yu-ou-5a2ab1325/)|
