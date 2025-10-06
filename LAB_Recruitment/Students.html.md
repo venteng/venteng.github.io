@@ -38,8 +38,8 @@ title: Lab Members
 |----|-----------|
 | [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Jason|M.S.F., 2025/09|
 | [陳怡仁](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) Chen, Paul |M.S.F., 2025/07 [[富邦人壽]](https://www.fubon.com/life/)|
-| [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Wendy | M.S.F., 2025/07 ([Teng et al., 2025](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)) [[復華投信]](https://www.fhtrust.com.tw)|
-| [施昱全]((http://linkedin.com/in/昱全-施-735a5620b)) Shih, James | M.S.F., 2025/07 ([Teng et al., 2025](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)) [[凱基證券]](https://www.kgi.com.tw/zh-tw/)|
+| [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Wendy | M.S.F., 2025/07 [(Teng et al., 2025)](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author) [[復華投信]](https://www.fhtrust.com.tw)|
+| [施昱全]((http://linkedin.com/in/昱全-施-735a5620b)) Shih, James | M.S.F., 2025/07 [(Teng et al., 2025)](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author) [[凱基證券]](https://www.kgi.com.tw/zh-tw/)|
 | [吳柏賢](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) Wu, Howard | M.S.F., 2025/07 [[Cmoney (全曜財金)]](https://www.cmoney.com.tw) |
 | 林威承 |M.S., 2024/12, [co-advised with Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
 | 陳彥廷 Chen, Yen-Ting |M.S.F., 2024/07 [[中國信託銀行]](https://www.ctbcbank.com/twrbo/zh_tw/index.html)|
