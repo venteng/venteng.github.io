@@ -14,7 +14,6 @@ title: Lab Members
 | Name | Position and More |
 |----|-----------|
 |李彥璋 Lee Yen-Chang| Ph.D. student, since 2022/7 |
-| 陳諾恆 Chan, Jason|M.S.F. student, since 2024/01 [[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) |
 | 鄭凱鴻 Cheng, Allen | M.S. student, since 2025/02, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) [[LinkedIn]](https://www.linkedin.com/in/kaihong-zheng-66a105355/)|
 | 鄭詠融 Cheng, Martin | M.S. student, since 2025/02, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) [[LinkedIn]](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) |
 | 邱瀚奕 Chiou, Elvis | M.S. student, since 2025/02, [co-advised with Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87) [[LinkedIn]](https://pse.is/78kyba) |
@@ -37,6 +36,7 @@ title: Lab Members
 
 | Name | Degree and More   |
 |----|-----------|
+| 陳諾恆 Chan, Jason|M.S.F., 2025/09 [[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) |
 | 陳怡仁 Chen, Paul |M.S.F., 2025/07 [[LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile); [富邦人壽](https://www.fubon.com/life/)]|
 | 黃馨霈 Huang, Wendy | M.S.F., 2025/07 [[LinkedIn](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/); [復華投信](https://www.fhtrust.com.tw)]|
 | 施昱全 Shih, James | M.S.F., 2025/07 [[LinkedIn](http://linkedin.com/in/昱全-施-735a5620b); [凱基證券](https://www.kgi.com.tw/zh-tw/)] |
