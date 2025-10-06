@@ -20,13 +20,17 @@ title: Lab Members
 | 邱瀚奕 Chiou, Elvis | M.S. student, since 2025/02, [co-advised with Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87) [[LinkedIn]](https://pse.is/78kyba) |
 | 蘇家灝 Su, Ben | M.S.F. student, since 2024/08 [[LinkedIn]](https://www.linkedin.com/in/ben--soo/)|
 | 王惠芯 Wang, Chrissy | GMBA student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/chrissywangxiv/) |
-| 余柔柔 Yu, Mabel | M.S. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/mabelrryu/) |
+| 余柔柔 Yu, Mabel | M.S.F. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/mabelrryu/) |
 | 江文煌 Chiang, Ares | E.M.S.F. student, since 2024/09 [[LinkedIn]](https://www.linkedin.com/in/ares-jiang-2a3816354/) |
 | 范艾雯 Fan, Eva | E.M.S.F. student, since 2024/09 [[LinkedIn]](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) |
 | 黃德榮 Huang, Deron | E.M.S.F. student, since 2025/02  |
 | 許柏堯 Hsu, Frank | B.S.F. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) |
 | 黃以樂 Huang, Yile | B.S. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) |
 | 吳冠霖 Wu, Guan-Lin | B.S. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) |
+| 吳隆傑 Wu, Lung-Chieh Jack| MS. student since 2025/08 [[LinkedIn]](www.linkedin.com/in/隆傑-吳-b6206a373)  |
+| 藍允澤 Lan, Yun-Tse Jeremy| B.S.F. student, since 2025/08 [[LinkedIn]](https://www.linkedin.com/in/%E5%85%81%E6%BE%A4-%E8%97%8D-7a8815312/) | 
+| 馮品維 Feng, Ping-Wei |  B.S.F. student, since 2025/08  [[LinkedIn]](https://www.linkedin.com/in/%E5%93%81%E7%B6%AD-%E9%A6%AE-783536339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)| 
+| 歐佳俞 Ou, Chia-Yu Maeve |  B.S.F. student, since 2025/08  [[LinkedIn]](https://www.linkedin.com/in/chia-yu-ou-5a2ab1325/)|
 
 
 ## Former Lab Members
