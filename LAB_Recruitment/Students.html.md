@@ -14,7 +14,7 @@ title: Lab Members
 | Name | Position and More |
 |----|-----------|
 |李彥璋 Lee Yen-Chang| Ph.D. student, since 2022/7 |
-| 鄭凱鴻 Cheng, Allen | M.S. student, since 2025/02, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) [[LinkedIn]](https://www.linkedin.com/in/kaihong-zheng-66a105355/)|
+| [鄭凱鴻](https://www.linkedin.com/in/kaihong-zheng-66a105355/) Cheng, Allen | M.S. student, since 2025/02, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | [鄭詠融](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) Cheng, Martin | M.S. student, since 2025/02, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | [邱瀚奕](https://pse.is/78kyba) Chiou, Elvis | M.S. student, since 2025/02, [co-advised with Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87) |
 | [蘇家灝](https://www.linkedin.com/in/ben--soo/) Su, Ben | M.S.F. student, since 2024/08|
@@ -24,12 +24,12 @@ title: Lab Members
 | [范艾雯](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) Fan, Eva | E.M.S.F. student, since 2024/09|
 | 黃德榮 Huang, Deron | E.M.S.F. student, since 2025/02  |
 | [許柏堯](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) Hsu, Frank | B.S.F. student, since 2025/02 |
-| 黃以樂 Huang, Yile | B.S. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) |
-| 吳冠霖 Wu, Guan-Lin | B.S. student, since 2025/02 [[LinkedIn]](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) |
-| 吳隆傑 Wu, Lung-Chieh Jack| M.S. student since 2025/08 [[LinkedIn]](https://www.linkedin.com/in/隆傑-吳-b6206a373/)  |
-| 藍允澤 Lan, Yun-Tse Jeremy| B.S.F. student, since 2025/08 [[LinkedIn]](https://www.linkedin.com/in/%E5%85%81%E6%BE%A4-%E8%97%8D-7a8815312/) | 
-| 馮品維 Feng, Ping-Wei |  B.S.F. student, since 2025/08  [[LinkedIn]](https://www.linkedin.com/in/%E5%93%81%E7%B6%AD-%E9%A6%AE-783536339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)| 
-| 歐佳俞 Ou, Chia-Yu Maeve |  B.S.F. student, since 2025/08  [[LinkedIn]](https://www.linkedin.com/in/chia-yu-ou-5a2ab1325/)|
+| [黃以樂](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) Huang, Yile | B.S. student, since 2025/02|
+| [吳冠霖](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) Wu, Guan-Lin | B.S. student, since 2025/02 |
+| [吳隆傑](https://www.linkedin.com/in/隆傑-吳-b6206a373/) Wu, Lung-Chieh Jack| M.S. student since 2025/08  |
+| [藍允澤](https://www.linkedin.com/in/%E5%85%81%E6%BE%A4-%E8%97%8D-7a8815312/) Lan, Yun-Tse Jeremy| B.S.F. student, since 2025/08 | 
+| [馮品維](https://www.linkedin.com/in/%E5%93%81%E7%B6%AD-%E9%A6%AE-783536339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) Feng, Ping-Wei |  B.S.F. student, since 2025/08| 
+| [歐佳俞](https://www.linkedin.com/in/chia-yu-ou-5a2ab1325/) Ou, Chia-Yu Maeve |  B.S.F. student, since 2025/08|
 
 
 ## Former Lab Members
