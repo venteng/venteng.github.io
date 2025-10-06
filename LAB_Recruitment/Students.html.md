@@ -36,11 +36,11 @@ title: Lab Members
 
 | Name | Degree and More   |
 |----|-----------|
-| 陳諾恆 Chan, Jason|M.S.F., 2025/09 [[LinkedIn]](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) |
-| 陳怡仁 Chen, Paul |M.S.F., 2025/07 [[LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile); [富邦人壽](https://www.fubon.com/life/)]|
-| 黃馨霈 Huang, Wendy | M.S.F., 2025/07 [[LinkedIn](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/); [復華投信](https://www.fhtrust.com.tw)]|
-| 施昱全 Shih, James | M.S.F., 2025/07 [[LinkedIn](http://linkedin.com/in/昱全-施-735a5620b); [凱基證券](https://www.kgi.com.tw/zh-tw/)] |
-| 吳柏賢 Wu, Howard | M.S.F., 2025/07 [[LinkedIn](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/); [Cmoney (全曜財金)](https://www.cmoney.com.tw)] |
+| [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Jason|M.S.F., 2025/09|
+| [陳怡仁](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) Chen, Paul |M.S.F., 2025/07 [[富邦人壽]](https://www.fubon.com/life/)|
+| [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Wendy | M.S.F., 2025/07 [[復華投信]](https://www.fhtrust.com.tw)|
+| [施昱全]((http://linkedin.com/in/昱全-施-735a5620b)) Shih, James | M.S.F., 2025/07 [[凱基證券]](https://www.kgi.com.tw/zh-tw/)|
+| [吳柏賢](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) Wu, Howard | M.S.F., 2025/07 [[Cmoney (全曜財金)]](https://www.cmoney.com.tw) |
 | 林威承 |M.S., 2024/12, [co-advised with Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
 | 陳彥廷 Chen, Yen-Ting |M.S.F., 2024/07 [[中國信託銀行]](https://www.ctbcbank.com/twrbo/zh_tw/index.html) |
 | 鄭翔澧 Jheng, Siang-Li | M.S.F., 2024/07 [[LinkedIn](https://www.linkedin.com/in/siang-li-jheng-bb3103334/); [ASE, Romania](https://www.google.com/search?client=safari&rls=en&q=institute+of+digital+assets&ie=UTF-8&oe=UTF-8)]| 
