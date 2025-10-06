@@ -42,8 +42,8 @@ title: Lab Members
 | [施昱全]((http://linkedin.com/in/昱全-施-735a5620b)) Shih, James | M.S.F., 2025/07 [[凱基證券]](https://www.kgi.com.tw/zh-tw/)|
 | [吳柏賢](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) Wu, Howard | M.S.F., 2025/07 [[Cmoney (全曜財金)]](https://www.cmoney.com.tw) |
 | 林威承 |M.S., 2024/12, [co-advised with Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
-| 陳彥廷 Chen, Yen-Ting |M.S.F., 2024/07 [[中國信託銀行]](https://www.ctbcbank.com/twrbo/zh_tw/index.html) |
-| 鄭翔澧 Jheng, Siang-Li | M.S.F., 2024/07 [[LinkedIn](https://www.linkedin.com/in/siang-li-jheng-bb3103334/); [ASE, Romania](https://www.google.com/search?client=safari&rls=en&q=institute+of+digital+assets&ie=UTF-8&oe=UTF-8)]| 
+| 陳彥廷 Chen, Yen-Ting |M.S.F., 2024/07 [[中國信託銀行]](https://www.ctbcbank.com/twrbo/zh_tw/index.html)|
+| [鄭翔澧](https://www.linkedin.com/in/siang-li-jheng-bb3103334/) Jheng, Siang-Li | M.S.F., 2024/07 [[ASE, Romania]](https://www.google.com/search?client=safari&rls=en&q=institute+of+digital+assets&ie=UTF-8&oe=UTF-8)| 
 | 吳旻修 Wu, Min-Hsiu | M.S.F., 2024/07 | 
 | 鄭有朋 |B.S., 2024/07   | 
 | 王鳴謙 | B.S., 2024/07  | 
@@ -65,7 +65,7 @@ title: Lab Members
 | 范凱翔 Fan, Tom| B.S., 2020/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), 榮獲109年度科技部大專生計畫|
 | 林睿瑜 Lin, Phoebe| B.S., 2020/07, 榮獲109年度科技部大專生計畫 |
 | 陸恭葦 Lu, Lucy| B.S., 2020/07  |
-| 張尚文 Chang, Shang-Wen Jonathan | M.S., 2021/08, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) [(Teng et al., 2020)](https://ieeexplore.ieee.org/document/9302638) [[LinkedIn]](https://www.linkedin.com/in/jonathan-sw-chang/)|
+| [張尚文](https://www.linkedin.com/in/jonathan-sw-chang/) Chang, Shang-Wen Jonathan | M.S., 2021/08, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) [(Teng et al., 2020)](https://ieeexplore.ieee.org/document/9302638) |
 | 趙祥安 Zhao, Xiang-An | M.S., 2020/06, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) (Teng & Zhao, 2021)|
 | 林益嘉 Lin, Yi-Chia Kelly | M.S.F., 2019/07 |
 | 許至妤 Hsu, Chih-Yu Emma | M.S.F., 2019/07 |
