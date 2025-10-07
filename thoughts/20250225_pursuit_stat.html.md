@@ -3,7 +3,7 @@ layout: default
 title: Go to Stat? 
 ---
 
-# 20250221 資財系大學畢業，但碩士班想往統計所發展？
+# 20250221 碩士班想往統計所發展？
 
 *Last modified by Huei-Wen Teng on 20250615*
 
