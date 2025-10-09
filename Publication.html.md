@@ -8,33 +8,33 @@ title: Publication
 
 ## Articles in Refereed Journals
 
-1. **Huei-Wen Teng**, Hsin-Pei Huang, Yu-Chuan Shih. [Tail risk in Bitcoin under the Basel framework](https://authors.elsevier.com/a/1lrFx5VD4KyiZb), *Finance Research Letters*, 86:108528, September 2025
-2. **Huei-Wen Teng**, Ming-Hsuan Kang, I-Han Lee, and Le-Chi Bai. [Bridging accuracy and interpretability: A rescaled cluster-then-predict approach for enhanced credit scoring](https://www.sciencedirect.com/science/article/pii/S1057521923005215). *International Review of Financial Analysis*, 91:103005, January 2024b. (SSCI IF = 8.2, RF: 4/111=3.6%) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4355268) <!--[[GitHub]](https://github.com/venteng/teng2024bridging)  -->
-3. **Huei-Wen Teng**. [Importance sampling for calculating the value-at-risk and expected shortfall of the quadratic portfolio with t-distributed risk factors](https://link.springer.com/article/10.1007/s10614-022-10294-y). *Computational Economics*, 62(3):1125–1154, October 2023.
-4. Yung-Chi Chang, **Huei-Wen Teng**, and Wolfgang Härdle. Stochastic volatility dynamic hedging of the inverse BTC option. *Journal of Futures and Options*, 16(2):1–48, August 2023. 
-5. Le Quoc Tuan, Chih-Yung Lin, and **Huei-Wen Teng**. [Machine learning methods for predicting failures of US commercial bank](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2186353). *Applied Economics Letters*, pages 1–7, May 2023.
-6. **Huei-Wen Teng** and Yu-Hsien Li. [Can deep neural networks outperform Fama-Macbeth regression and other supervised learning approaches in stock returns prediction with asset-pricing factors?](https://link.springer.com/article/10.1007/s42521-023-00076-y) *Digital Finance*, 5(1):149–182, March 2023
-7. **Huei-Wen Teng** and Cheng-Der Fuh. [Simulating false alarm probability in K-distributed sea clutter](https://www.tandfonline.com/doi/full/10.1080/03610918.2020.1757707). *Communications in Statistics-Simulation and Computation*, 51(9):5081–5098, September 2022.
-8. **Huei-Wen Teng** and Ming-Hsuan Kang. [On accelerating Monte Carlo integration using orthogonal projections](https://link.springer.com/article/10.1007/s11009-021-09893-3). *Methodology and Computing in Applied Probability*, 24(2):1143–1168, June 2022.
-9. **Huei-Wen Teng** and Xiang-An Zhao. On pricing quanto options with spherical Monte Carlo simulation. *Journal of Futures and Options*, 14(2):25–82, August 2021.
-10. **Huei-Wen Teng** and Michael Lee. [Estimation procedures of using five alternative machine learning methods for predicting credit card default](https://www.worldscientific.com/doi/10.1142/9789811202391_0101?srsltid=AfmBOoq3lfSGiDIUsufVkcEkn2k1SLf9uPyDebopx5bWwog7KH31npPd). *Review of Pacific Basin Financial Markets and Policies*, 22 (03):1950021, September 2019.
-11. Yuh-Dauh Lyuu, **Huei-Wen Teng**, Yao-Te Tseng, and Sheng-Xiang Wang. [A systematic and efficient simulation scheme for the Greeks of financial derivatives](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196). *Quantitative Finance*, 19(7):1199–1219, January 2019. 
-12. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. [Efficient simulation of value-at-risk under a jump diffusion model: A new method for moderate deviation events](https://link.springer.com/article/10.1007/s10614-017-9654-z). *Computational Economics*, 51(4): 973–990, April 2018.
+1. **Huei-Wen Teng**, Hsin-Pei Huang, Yu-Chuan Shih. [Tail risk in Bitcoin under the Basel framework](https://authors.elsevier.com/a/1lrFx5VD4KyiZb), *Finance Research Letters*, 86:108528, 2025
+2. **Huei-Wen Teng**, Ming-Hsuan Kang, I-Han Lee, and Le-Chi Bai. [Bridging accuracy and interpretability: A rescaled cluster-then-predict approach for enhanced credit scoring](https://www.sciencedirect.com/science/article/pii/S1057521923005215). *International Review of Financial Analysis*, 91:103005, 2024. (SSCI IF = 8.2, RF: 4/111=3.6%) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4355268) <!--[[GitHub]](https://github.com/venteng/teng2024bridging)  -->
+3. **Huei-Wen Teng**. [Importance sampling for calculating the value-at-risk and expected shortfall of the quadratic portfolio with t-distributed risk factors](https://link.springer.com/article/10.1007/s10614-022-10294-y). *Computational Economics*, 62(3):1125–1154, 2023.
+4. Yung-Chi Chang, **Huei-Wen Teng**, and Wolfgang Härdle. Stochastic volatility dynamic hedging of the inverse BTC option. *Journal of Futures and Options*, 16(2):1–48, 2023. 
+5. Le Quoc Tuan, Chih-Yung Lin, and **Huei-Wen Teng**. [Machine learning methods for predicting failures of US commercial bank](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2186353). *Applied Economics Letters*, pages 1–7, 2023.
+6. **Huei-Wen Teng** and Yu-Hsien Li. [Can deep neural networks outperform Fama-Macbeth regression and other supervised learning approaches in stock returns prediction with asset-pricing factors?](https://link.springer.com/article/10.1007/s42521-023-00076-y) *Digital Finance*, 5(1):149–182, 2023
+7. **Huei-Wen Teng** and Cheng-Der Fuh. [Simulating false alarm probability in K-distributed sea clutter](https://www.tandfonline.com/doi/full/10.1080/03610918.2020.1757707). *Communications in Statistics-Simulation and Computation*, 51(9):5081–5098, 2022.
+8. **Huei-Wen Teng** and Ming-Hsuan Kang. [On accelerating Monte Carlo integration using orthogonal projections](https://link.springer.com/article/10.1007/s11009-021-09893-3). *Methodology and Computing in Applied Probability*, 24(2):1143–1168, 2022.
+9. **Huei-Wen Teng** and Xiang-An Zhao. On pricing quanto options with spherical Monte Carlo simulation. *Journal of Futures and Options*, 14(2):25–82, 2021.
+10. **Huei-Wen Teng** and Michael Lee. [Estimation procedures of using five alternative machine learning methods for predicting credit card default](https://www.worldscientific.com/doi/10.1142/9789811202391_0101?srsltid=AfmBOoq3lfSGiDIUsufVkcEkn2k1SLf9uPyDebopx5bWwog7KH31npPd). *Review of Pacific Basin Financial Markets and Policies*, 22 (03):1950021, 2019.
+11. Yuh-Dauh Lyuu, **Huei-Wen Teng**, Yao-Te Tseng, and Sheng-Xiang Wang. [A systematic and efficient simulation scheme for the Greeks of financial derivatives](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196). *Quantitative Finance*, 19(7):1199–1219, 2019. 
+12. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. [Efficient simulation of value-at-risk under a jump diffusion model: A new method for moderate deviation events](https://link.springer.com/article/10.1007/s10614-017-9654-z). *Computational Economics*, 51(4): 973–990, 2018.
 13. **Huei-Wen Teng**, Cheng-Der Fuh, and Chun-Chieh Chen. [On an automatic and optimal importance sampling approach with applications in finance](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1136077). *Quantitative Finance*, 16(8):1259–1271, 2016.
 14. Sanford Luo, **Huei-Wen Teng**, and Yu-Hsuan Lee. Forecasting mortality using imputed data: The case of Taiwan. *Asia-Pacific Journal of Risk and Insurance*, 10(1):1–20, 2016
-15. **Huei-Wen Teng** Ming-Hsuan Kang and Cheng-Der Fuh. On spherical Monte Carlo simulations for multivariate normal probabilities. *Advances in Applied Probability*, 47(3):817–836, 2015.
+15. **Huei-Wen Teng** Ming-Hsuan Kang and Cheng-Der Fuh. On spherical Monte Carlo simulations for multivariate normal probabilities. *Advances in Applied Probability*, 47(3):817–836, 2015
 16. Wolfgang Karl Härdle, Brenda López-Cabrera, and **Huei-Wen Teng**. State price densities implied from weather derivatives. *Insurance: Mathematics and Economics*, 64:106–125, 2015.
-17. **Huei-WenTeng**, Wen-LiangHung,and Yen-JuChao. Bayesian Markov chain Monte Carlo imputation for the transiting exoplanets with an application in clustering analysis. *Journal of Applied Statistics*, 42(5):1120–132, 2015.
-18. Cheng-Der Fuh and **Huei-Wen Teng**. Discussion of “multiscale change point inference" by Frick, Munk and Sieling. *Journal of the Royal Statistical Society: Series B*, 76(3):554–555, 2014.
-19. Chun-Cheih Chen, Cheng-Der Fuh, and **Huei-Wen Teng**. Efficient option pricing with importance sampling. *Journal of the Chinese Statistical Association*, 51(3):253–273, 2013.
-20. Yuh-Dauh Lyuu and **Huei-Wen Teng**. Unbiased and efficient Greeks of financial options. *Finance and Stochastics*, 15(1):141–181, 2011.
-21. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. On-line VWAP trading strategies. *Sequential Analysis*, 29(3):292–310, 2010.
-22. Tze-Chuan Yang, **Huei-Wen Teng**, and Murali Haran. The impacts of social capital on infant mortality in the U.S.: A spatial investigation. *Applied Spatial Analysis and Policy*, 2(3):211–227, 2009.
+17. **Huei-WenTeng**, Wen-LiangHung,and Yen-JuChao. Bayesian Markov chain Monte Carlo imputation for the transiting exoplanets with an application in clustering analysis. *Journal of Applied Statistics*, 42(5):1120–132, 2015
+18. Cheng-Der Fuh and **Huei-Wen Teng**. Discussion of “multiscale change point inference" by Frick, Munk and Sieling. *Journal of the Royal Statistical Society: Series B*, 76(3):554–555, 2014
+19. Chun-Cheih Chen, Cheng-Der Fuh, and **Huei-Wen Teng**. Efficient option pricing with importance sampling. *Journal of the Chinese Statistical Association*, 51(3):253–273, 2013
+20. Yuh-Dauh Lyuu and **Huei-Wen Teng**. Unbiased and efficient Greeks of financial options. *Finance and Stochastics*, 15(1):141–181, 2011
+21. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. On-line VWAP trading strategies. *Sequential Analysis*, 29(3):292–310, 2010
+22. Tze-Chuan Yang, **Huei-Wen Teng**, and Murali Haran. The impacts of social capital on infant mortality in the U.S.: A spatial investigation. *Applied Spatial Analysis and Policy*, 2(3):211–227, 2009
 
 
 ## Articles in Conference Proceedings
-1. **Huei Wen Teng**, Yu-Hsien Li, and Shang-Wen Chang. Machine learning in empirical asset pricing models. In 2020 International Conference on Pervasive Artificial Intelligence (ICPAI), pages 123–129, December 2020
-2. **Huei-Wen Teng**. A spherical Monte Carlo approach for calculating value-at-risk and expected shortfall in financial risk management. In 2017 Winter Simulation Conference (WSC), pages 469–480. IEEE, January 2018
+1. **Huei Wen Teng**, Yu-Hsien Li, and Shang-Wen Chang. Machine learning in empirical asset pricing models. In 2020 International Conference on Pervasive Artificial Intelligence (ICPAI), pages 123–129, 2020
+2. **Huei-Wen Teng**. A spherical Monte Carlo approach for calculating value-at-risk and expected shortfall in financial risk management. In 2017 Winter Simulation Conference (WSC), pages 469–480. IEEE, 2018
 
 ## Articles in Handbooks
 
