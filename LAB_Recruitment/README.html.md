@@ -7,7 +7,7 @@ title: LAB Recruitment
 
 ## Join Our Lab!
 
-In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SCI journals). You can find examples of [previous lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s research led to published papers — a great way to see what’s possible when you commit to excellence.
+In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find examples of [previous lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s research led to published papers — a great way to see what’s possible when you commit to excellence.
 
 We emphasize research that is transparent, reproducible, and contributes meaningfully to the literature.
 
