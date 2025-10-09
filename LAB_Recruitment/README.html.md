@@ -7,7 +7,20 @@ title: LAB Recruitment
 
 ## Join Our Lab!
 
-We are seeking motivated students who are passionate about knowledge, value transparency and reproducibility in scientific research, and exhibit resilience and a positive attitude. Our lab applies advanced quantitative methods address real-world challenges. My research spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
+In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SCI journals). You can find examples of [previous lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s research led to published papers — a great way to see what’s possible when you commit to excellence.
+
+We emphasize research that is transparent, reproducible, and contributes meaningfully to the literature.
+
+We’re looking for students who demonstrate:
+- Passion and curiosity for learning
+- Strong execution and resilience
+- Leadership and teamwork spirit
+- Good presentation and communication skills
+- Solid foundations in math, statistics, machine learning, coding, and finance
+
+If you’re driven, curious, and eager to make your research count — we’d love to work with you.
+
+My research spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
 
 ### 1. FinTech with machine learning and AI
 
