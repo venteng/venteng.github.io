@@ -52,18 +52,18 @@ title: Lab Members
 | 蔡昕妤  | 交大資財 B.S., 2024/07  |
 | 潘俞綺 Pan, Yu-Ci | 交大資財 M.S.F., 2023/07 |
 | 呂映葇 Lu, Ying-Rou | 交大資財 M.S.F., 2022/07 |
-| 李亦涵 Lee, I-Han Ian | 交大數據所 M.S., 2022/07, [co-advised with Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129) [(Teng et al., 2024)](https://doi.org/10.1016/j.irfa.2023.103005) |
+| 李亦涵 Lee, I-Han Ian | 交大數據所 M.S., 2022/07, [co-advised with Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129) [(Teng et al., 2024)](https://doi.org/10.1016/j.irfa.2023.103005) [[tsmc]](https://www.tsmc.com/chinese)|
 | 張詠淇 Chang, Yung-Chi Tom | 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) [(Chang et al., 2023)](https://www.taifex.com.tw/cht/10/journalView)<br> [榮獲2022New Futures期貨學術與實務交流研討會論文金質獎](https://www.ctee.com.tw/news/20221205700620-431210)|
 | 陳律翔 Chen, Lu-Xiang Jay| 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 Chen, Jasmine | 交大資財 B.S., 2022/07  |  
 | 宋佩芩 Sung, Sammi | 交大資財 B.S., 2022/07  |  
 | 李育賢 Li, Yu-Hsien Bill | 交大資財 M.S.F., 2020/07 ([Teng et al 2020](https://ieeexplore.ieee.org/document/9302638); [Teng & Lee, 2023](https://link.springer.com/article/10.1007/s42521-023-00076-y))| 
 | 吳哲杭 Wu, Zhe-Hang Jeff | 交大資財 M.S.F., 2020/07 |
-| 范凱翔 Fan, Tom| 交大應數 B.S., 2020/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), 榮獲109年度科技部大專生計畫|
+| 范凱翔 Fan, Tom| 交大應數 B.S., 2020/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1), 榮獲109年度科技部大專生計畫 [[Stat, Ohio State]](https://stat.osu.edu/people)|
 | 林睿瑜 Lin, Phoebe| 交大資財 B.S., 2020/07, 榮獲109年度科技部大專生計畫 |
 | 陸恭葦 Lu, Lucy| 交大資財 B.S., 2020/07  |
 | [張尚文](https://www.linkedin.com/in/jonathan-sw-chang/) Chang, Shang-Wen Jonathan | 交大應數 M.S., 2021/08, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) [(Teng et al., 2020)](https://ieeexplore.ieee.org/document/9302638) |
-| 趙祥安 Zhao, Xiang-An | 交大應數 M.S., 2020/06, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) (Teng & Zhao, 2021)|
+| 趙祥安 Zhao, Xiang-An | 交大應數 M.S., 2020/06, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) (Teng & Zhao, 2021) [[tsmc]](https://www.tsmc.com/chinese)|
 | 林益嘉 Lin, Yi-Chia Kelly | 交大資財 M.S.F., 2019/07 |
 | 許至妤 Hsu, Chih-Yu Emma | 交大資財 M.S.F., 2019/07 |
 | 陳奕翔 Chen, Yi-Xiang Arikson | 交大資財 M.S.F., 2019/07 |
