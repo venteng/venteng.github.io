@@ -33,7 +33,7 @@ Our lab explores machine learning and AI, emphasizing unsupervised learning, sup
 
 We specialize in statistical methods, particularly time series and graphical models, wich applications
 - Financial Risk managemet: VaR, graphical models (Jason, Martin, Frank, Guan-Lin, Yi-Le) 
-- Financial options pricing and hedging: Cryptocurrencies and Taiwan Futures Market (Allen, Elvis)
+- Financial options pricing, and dynamic hedging: Cryptocurrencies and Taiwan Futures Market (Allen, Elvis)
 
 ## Interested in joining? 
 
