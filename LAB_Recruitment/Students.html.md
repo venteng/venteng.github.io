@@ -8,6 +8,9 @@ title: Lab Members
 
 ## Current Lab Members
 
+### 碩博士生
+
+
 | Name | Position and More |
 |----|-----------|
 |李彥璋 Lee Yen-Chang| 交大資財 Ph.D. student, since 2022/7 |
@@ -18,9 +21,23 @@ title: Lab Members
 | [吳隆傑](https://www.linkedin.com/in/隆傑-吳-b6206a373/) Wu, Lung-Chieh Jack| 交大應數 M.S. student since 2025/08  |
 | [邱瀚奕](https://pse.is/78kyba) Chiou, Elvis | 交大經管 M.S. student, since 2025/02, [co-advised with Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87) |
 | [王惠芯](https://www.linkedin.com/in/chrissywangxiv/) Wang, Chrissy | 交大GMBA GMBA student, since 2025/02|
+
+### 專班碩士生
+
+
+
+| Name | Position and More |
+|----|-----------|
 | [江文煌](https://www.linkedin.com/in/ares-jiang-2a3816354/) Chiang, Ares | 交大資財 E.M.S.F. student, since 2024/09 |
 | [范艾雯](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) 交大資財 Fan, Eva | 交大資財 E.M.S.F. student, since 2024/09|
 | 黃德榮 Huang, Deron | 交大資財 E.M.S.F. student, since 2025/02  |
+
+
+### 大學專題生
+
+
+| Name | Position and More |
+|----|-----------|
 | [許柏堯](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) Hsu, Frank | 交大資財 B.S.F. student, since 2025/02 |
 | [黃以樂](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) Huang, Yile | 交大應數 B.S. student, since 2025/02|
 | [吳冠霖](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) Wu, Guan-Lin | 交大應數 B.S. student, since 2025/02 |
