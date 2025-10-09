@@ -59,10 +59,10 @@ title: Lab Members
 | 陳彥廷 Chen, Yen-Ting |交大資財 M.S.F., 2024/07 [[中國信託銀行]](https://www.ctbcbank.com/twrbo/zh_tw/index.html)|
 | [鄭翔澧](https://www.linkedin.com/in/siang-li-jheng-bb3103334/) Jheng, Siang-Li | 交大資財 M.S.F., 2024/07 [[ASE, Romania]](https://www.google.com/search?client=safari&rls=en&q=institute+of+digital+assets&ie=UTF-8&oe=UTF-8)| 
 | 吳旻修 Wu, Min-Hsiu | 交大資財 M.S.F., 2024/07 | 
-| [鄭有朋](linkedin.com/in/you-peng-zheng) |交大資財 B.S., 2024/07   | 
-| [王鳴謙](linkedin.com/in/ken-wang-b93285201) | 交大資財 B.S., 2024/07  | 
-| [李語涵](linkedin.com/in/yu-han-li-559863258) | 交大資財 B.S., 2024/07  | 
-| [吳珮慈](linkedin.com/in/patty-wu-hii) | 交大資財 B.S., 2024/07  | 
+| [鄭有朋](https://www.linkedin.com/in/you-peng-zheng) |交大資財 B.S., 2024/07   | 
+| [王鳴謙](https://www.linkedin.com/in/ken-wang-b93285201) | 交大資財 B.S., 2024/07  | 
+| [李語涵](https://www.linkedin.com/in/yu-han-li-559863258) | 交大資財 B.S., 2024/07  | 
+| [吳珮慈](https://www.linkedin.com/in/patty-wu-hii) | 交大資財 B.S., 2024/07  | 
 | 許晉 | 交大資財 B.S., 2024/07  |  
 | 陳之怡 | 交大資財 B.S., 2024/07  |  
 | 唐君亞 | 交大資財 B.S., 2024/07  |
