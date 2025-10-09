@@ -60,7 +60,7 @@ title: Lab Members
 | [鄭翔澧](https://www.linkedin.com/in/siang-li-jheng-bb3103334/) Jheng, Siang-Li | 交大資財 M.S.F., 2024/07 [[ASE, Romania]](https://www.google.com/search?client=safari&rls=en&q=institute+of+digital+assets&ie=UTF-8&oe=UTF-8)| 
 | 吳旻修 Wu, Min-Hsiu | 交大資財 M.S.F., 2024/07 | 
 | 鄭有朋 |交大資財 B.S., 2024/07   | 
-| 王鳴謙 | 交大資財 B.S., 2024/07  | 
+| [王鳴謙](linkedin.com/in/ken-wang-b93285201) | 交大資財 B.S., 2024/07  | 
 | 李語涵 | 交大資財 B.S., 2024/07  | 
 | 吳珮慈 | 交大資財 B.S., 2024/07  | 
 | 許晉 | 交大資財 B.S., 2024/07  |  
