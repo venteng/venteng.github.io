@@ -5,12 +5,14 @@ title: Teaching
 
 # Teaching
 
-## 9:00 - 12:00 Monday: Machine Learning and FinTech
+## 202509 
+
+### Machine Learning and FinTech
 
 - [202509 GitHUB REPO](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
 - [20250901 Infrastructure Information Collection](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
-
-## 9:00 - 16:30 Saturday/biweekly Statistics
+  
+### Statistics
 
 - [202509 GitHUB REPO](https://github.com/HWTeng-Teaching/202509-Statistics)
 
