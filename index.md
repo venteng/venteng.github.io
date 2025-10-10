@@ -12,13 +12,13 @@ theme: jekyll-theme-cayman  # Change theme if needed
 
 I am a Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). I am the founder and director of the [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html), an independent research initiative in FinTech and statistical modeling.
 
-✉️ Email: hwteng@nycu.edu.tw
-🚀 [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html)
-📄 [CV](https://drive.google.com/file/d/1jiX6srR1sRtwqQJYLYhSiajoYhJhTn2p/view?usp=share_link)
-📄 [Publications](https://venteng.github.io/Publication.html)  
-🌟 [Lab Members](https://venteng.github.io/LAB_Recruitment/Students.html)  
-🚀 [Lab Recruitment](https://venteng.github.io/LAB_Recruitment/README.html)  
-📖 [Teaching](https://venteng.github.io/Teaching/README.html)  
+✉️ Email: hwteng@nycu.edu.tw<br>
+🚀 [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html)<br>
+📄 [CV](https://drive.google.com/file/d/1jiX6srR1sRtwqQJYLYhSiajoYhJhTn2p/view?usp=share_link)<br>
+📄 [Publications](https://venteng.github.io/Publication.html)<br>
+🌟 [Lab Members](https://venteng.github.io/LAB_Recruitment/Students.html)<br>
+🚀 [Lab Recruitment](https://venteng.github.io/LAB_Recruitment/README.html)<br>
+📖 [Teaching](https://venteng.github.io/Teaching/README.html)<br>
 
 
 <!--🔗 [More about me](https://venteng.github.io/bio.html)  -->
