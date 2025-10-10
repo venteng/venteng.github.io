@@ -9,17 +9,17 @@ title: Teaching
 
 - [202509 GitHUB REPO](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
 - [20250901 Infrastructure Information Collection](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
-  
-## 13:20 - 15:30 Monday: Doctoral Seminar
-
-[Google sheet](https://docs.google.com/spreadsheets/d/1vWt0wS3YjwKqmZvUeSWJYbANzNQ-BAOvqdbkihhUY9w/edit?usp=sharing)
 
 ## 9:00 - 16:30 Saturday/biweekly Statistics
 
-- [202509 GitHUB REPO](https://github.com/HWTeng-Teaching/202509-Stat)
+- [202509 GitHUB REPO](https://github.com/HWTeng-Teaching/202509-Statistics)
 
 
 <!--
+
+## 13:20 - 15:30 Monday: Doctoral Seminar
+[Google sheet](https://docs.google.com/spreadsheets/d/1vWt0wS3YjwKqmZvUeSWJYbANzNQ-BAOvqdbkihhUY9w/edit?usp=sharing)
+
 GitHUB Repos
 - 202309 [GitHUB](https://github.com/HWTeng-Teaching/202309-Statistics.git)
 - 202402 [GitHUB](https://github.com/HWTeng-Teaching/202402-Statistics.git)
