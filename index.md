@@ -62,7 +62,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 ### Other Institutions
 
 - Exchange Student, [Johannes Kepler University, Austria](https://www.jku.at) (Aug 1999 - Jan 2000)
-- The Global Colloquium on Participant-Centered Learning (GloColl), [Harvard Business School, Boston, MA, USA](https://www.exed.hbs.edu) (Summer 2025)
+- The Global Colloquium on Participant-Centered Learning (GloColl), [Harvard Business School](https://www.exed.hbs.edu) (Summer 2025)
 
 
 <!--🌏 [Map, Food, Smiles](https://venteng.github.io/MFS.html)
