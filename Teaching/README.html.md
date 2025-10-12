@@ -22,7 +22,7 @@ title: Teaching
 - [Slides](https://drive.google.com/file/d/1cmgH5Ir5YclNqkOlKStahe8bVtLH2x4_/view?usp=drive_link)
 - [Handout](https://hackmd.io/@hwteng/B1YdfRDTlx)
 - [Colab](https://colab.research.google.com/drive/1Dtcq1xOhxBNxTghqTkua42_HkOrE5IEY?usp=sharing)
-- In-class exercise submission: Share me your Colab Link (make sure it is publicly visible) in the [google sheet](https://colab.research.google.com/drive/1Dtcq1xOhxBNxTghqTkua42_HkOrE5IEY?usp=sharing)
+- In-class exercise submission: Share me your Colab Link (make sure it is publicly visible) in the [google sheet](https://docs.google.com/spreadsheets/d/15x8wEEnIFCpucJtOfQ9X2Y97ahikirP_BwMvf3fFfF0/edit?usp=drive_link)
 
 
 <!--
