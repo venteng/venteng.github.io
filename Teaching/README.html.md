@@ -9,16 +9,17 @@ title: Teaching
 
 ### Machine Learning and FinTech
 
-- [202509 GitHUB REPO](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
-- [20250901 README](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
+- [GitHUB REPO](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
+- [README](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
   
 ### Statistics
 
-- [202509 GitHUB REPO](https://github.com/HWTeng-Teaching/202509-Statistics)
+- [GitHUB REPO](https://github.com/HWTeng-Teaching/202509-Statistics)
+- [README](https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?usp=sharing)
 
 ### Doctoral Seminar
 
-- [202509 README](https://docs.google.com/spreadsheets/d/1vWt0wS3YjwKqmZvUeSWJYbANzNQ-BAOvqdbkihhUY9w/edit?usp=sharing)
+- [README](https://docs.google.com/spreadsheets/d/1vWt0wS3YjwKqmZvUeSWJYbANzNQ-BAOvqdbkihhUY9w/edit?usp=sharing)
 
 
 ### Financial Techonology and Digital Transformation
