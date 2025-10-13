@@ -10,11 +10,15 @@ title: Teaching
 ### Machine Learning and FinTech
 
 - [202509 GitHUB REPO](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
-- [20250901 Infrastructure Information Collection](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
+- [20250901 README](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
   
 ### Statistics
 
 - [202509 GitHUB REPO](https://github.com/HWTeng-Teaching/202509-Statistics)
+
+### Doctoral Seminar
+
+- [202509 README](https://docs.google.com/spreadsheets/d/1vWt0wS3YjwKqmZvUeSWJYbANzNQ-BAOvqdbkihhUY9w/edit?usp=sharing)
 
 
 ### Financial Techonology and Digital Transformation
@@ -22,7 +26,6 @@ title: Teaching
 - [Slides](https://drive.google.com/file/d/1cmgH5Ir5YclNqkOlKStahe8bVtLH2x4_/view?usp=drive_link)
 - [Handout](https://hackmd.io/@hwteng/B1YdfRDTlx)
 - [Colab](https://colab.research.google.com/drive/1Dtcq1xOhxBNxTghqTkua42_HkOrE5IEY?usp=sharing)
-- In-class exercise submission: Share me your Colab Link (make sure it is publicly visible) in the [google sheet](https://docs.google.com/spreadsheets/d/15x8wEEnIFCpucJtOfQ9X2Y97ahikirP_BwMvf3fFfF0/edit?usp=drive_link)
 - [Demo Data](https://drive.google.com/file/d/1-DgygaC-DnCbBdnqrjNPZ0FImfreHeMU/view?usp=sharing)
 
 
