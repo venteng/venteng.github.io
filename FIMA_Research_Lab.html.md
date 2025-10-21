@@ -21,9 +21,15 @@ It serves as a flexible platform for international collaboration, academic publi
 
 ## 🧭 Research Focus
 
-- 📊 Credit Scoring & Explainable AI  
-- 🧠 Machine Learning for Finance  
-- 💰 Digital Assets & Risk Management  
-- 📈 Time Series & Graphical Models  
-- 🌱 ESG, Regulation, and Sustainability
+### 📊 Explainable AI in FinTech
+
+
+  
+### 🧠 Trading
+
+### 📈 BTC and Value-at-Risk
+
+### 💰 ETF and portfolio management  
+### 💰 BTC options: Pricing and Hedging
+### 🌱 ESG, Regulation, and Sustainability
 
