@@ -35,13 +35,12 @@ FIMA Research Lab is an independent, non-commercial research initiative founded 
 - 📄 Evaluating Tail Risk in Bitcoin Using Stochastic Volatility and Correlated Jump Models under Basel Standards (with Wendy and James)<br>
 - 📄  Mapping Risk Contagion through Graphical Models and Early Warning Signals in Taiwan’s Stock Market (with Jason, Frank, Alex, Kuang-Yao)<br>
 
-### 💰 BTC options pricing and hedging
+### 🌱 Statistical modeling in financial derivatives, actual science, and ESG
 
 - 🔧 Financial analytics of inverse BTC options in a stochastic volatility world (with Wolfgang)<br>
 - 🧩 Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
-  
-### 🌱 ESG, regulation, and sustainability
 - 📄 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (wit Howard and Elvis)<br>
+
 
 ## Project Status 
 - 🧩 In preparation 
