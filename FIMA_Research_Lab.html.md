@@ -21,9 +21,10 @@ The lab explores data-driven innovations in FinTech, financial engineering, stat
 - 🧩 Forecasting Realized Volatility with Multi-Agent Architectures (with Elvis)<br>
 - 🧩 A Hybrid Deep Learning–Association Rule Model for Forecasting S&P 500 Sector Returns (with Ben)<br>
 
+
 ### 💰 ETF and portfolio management  
-- 🚀 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Ghomas and Chun-Chen)<br>
 - 🔧 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
+- 🚀 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Ghomas and Chun-Chen)<br>
 
 ### 📊 Explainable AI in FinTech
 
@@ -41,10 +42,9 @@ The lab explores data-driven innovations in FinTech, financial engineering, stat
 - 🔧 Financial analytics of inverse BTC options in a stochastic volatility world (with Wolfgang)<br>
 - 🧩 Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
   
-
-
 ### 🌱 ESG, Regulation, and Sustainability
 - 📄 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (wit Howard and Elvis)<br>
+
   
 ## Project Status 
 - 🧩 In preparation 
