@@ -21,14 +21,18 @@ It serves as a flexible platform for international collaboration, academic publi
 
 ## 🧭 Research Focus
 
-### 📊 Explainable AI in FinTech
+### 📊 Explainable AI: Credit risk and fraud detection
 
-- Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance (with Yenchang)
+- Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance (with Yenchang, Ming-Hsuan)
+- A SHAP-Weighted RFM Framework for Balancing Accuracy and Interpret-ability in Credit Card Fraud Detection (with Crissy)
+- Comprehensive Financial Statement Data and Feature Selection in U.S. Corporate Bankruptcy Prediction (with Mabel)
 
   
 ### 🧠 Trading
 
 - Why Feature Selection Still Matters in Bitcoin Return Forecasting (with Yen-Ting and Yenchang)
+- Forecasting Realized Volatility with Multi-Agent Architectures (with Elvis)
+- A Hybrid Deep Learning–Association Rule Model for Forecasting S&P 500 Sector Returns (with Ben)
 
 
 ### 📈 Market risk management
@@ -45,6 +49,7 @@ It serves as a flexible platform for international collaboration, academic publi
 ### 💰 BTC options: Pricing and Hedging
 
 - Financial analytics of inverse BTC options in a stochastic volatility world (with Wolfgang)<br>
+- Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
   
 
 
