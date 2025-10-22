@@ -20,7 +20,6 @@ FIMA Research Lab is an independent, non-commercial research initiative founded 
 - 🧩 Forecasting Realized Volatility with Multi-Agent Architectures (with Elvis)<br>
 - 🧩 A Hybrid Deep Learning–Association Rule Model for Forecasting S&P 500 Sector Returns (with Ben)<br>
 
-
 ### 💰 ETF and portfolio management  
 - 🔧 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
 - 🚀 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Ghomas and Chun-Chen)<br>
@@ -36,12 +35,12 @@ FIMA Research Lab is an independent, non-commercial research initiative founded 
 - 📄 Evaluating Tail Risk in Bitcoin Using Stochastic Volatility and Correlated Jump Models under Basel Standards (with Wendy and James)<br>
 - 📄  Mapping Risk Contagion through Graphical Models and Early Warning Signals in Taiwan’s Stock Market (with Jason, Frank, Alex, Kuang-Yao)<br>
 
-### 💰 BTC options: Pricing and Hedging
+### 💰 BTC options pricing and hedging
 
 - 🔧 Financial analytics of inverse BTC options in a stochastic volatility world (with Wolfgang)<br>
 - 🧩 Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
   
-### 🌱 ESG, Regulation, and Sustainability
+### 🌱 ESG, regulation, and sustainability
 - 📄 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (wit Howard and Elvis)<br>
 
   
