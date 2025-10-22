@@ -20,15 +20,16 @@ FIMA Research Lab is an independent, non-commercial research initiative founded 
 - 🧩 Forecasting Realized Volatility with Multi-Agent Architectures (with Elvis)<br>
 - 🧩 A Hybrid Deep Learning–Association Rule Model for Forecasting S&P 500 Sector Returns (with Ben)<br>
 
-### 💰 ETF and portfolio management  
-- 🔧 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
-- 🚀 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Ghomas and Chun-Chen)<br>
 
 ### 📊 Explainable AI in FinTech
 
 - 📄 Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance (with Paul, Yenchang, Ming-Hsuan)<br>
 - 🧩 A SHAP-Weighted RFM Framework for Balancing Accuracy and Interpret-ability in Credit Card Fraud Detection (with Crissy)<br>
 - 🧩 Comprehensive Financial Statement Data and Feature Selection in U.S. Corporate Bankruptcy Prediction (with Mabel)<br>
+
+### 💰 ETF and portfolio management  
+- 🔧 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
+- 🚀 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Ghomas and Chun-Chen)<br>
 
 ### 📈 Market risk management
 - 🚀 Financial Risk Meters in Taiwan's High-Cap Sectors (with Siang-Li and Wolfgang)<br>
