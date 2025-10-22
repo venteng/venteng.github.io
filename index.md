@@ -18,6 +18,8 @@ I am a Professor in the Department of Information Management and Finance at Nati
 📚 [Publications](https://venteng.github.io/Publication.html)<br>
 🌟 [Team](https://venteng.github.io/LAB_Recruitment/Students.html)<br>
 🚀 [Join Our Lab](https://venteng.github.io/LAB_Recruitment/README.html)<br>
+💡 [Thoughts & Insights](https://venteng.github.io/thoughts/README.html)  <br>
+
 
 <!-- -->
 <!--🔗 [More about me](https://venteng.github.io/bio.html)  -->
@@ -66,7 +68,6 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 <!--🌏 [Map, Food, Smiles](https://venteng.github.io/MFS.html)
 
-💡 [Thoughts & Insights](https://venteng.github.io/thoughts/README.html)  
 
 ## 📚 Additional Resources
 
