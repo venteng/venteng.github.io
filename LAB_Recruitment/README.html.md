@@ -32,7 +32,7 @@ Let’s make an impact together!
 Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revision in progress
 
 
-### 🧠 Trading and portfolio management
+### 📊 Trading and portfolio management
 
 #### Trading
 
@@ -45,10 +45,10 @@ Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revi
 - 🔧 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
 - 🚀 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Ghomas and Chun-Chen)<br>
 
-
-### 📊 Explainable AI in FinTech
+### 🧠 Explainable AI in FinTech
 
 #### Credit risk management
+
 - 📄 Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance (with Paul, Yenchang, Ming-Hsuan)<br>
 - 🧩 Comprehensive Financial Statement Data and Feature Selection in U.S. Corporate Bankruptcy Prediction (with Mabel)<br>
 
@@ -56,9 +56,7 @@ Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revi
 
 - 🧩 A SHAP-Weighted RFM Framework for Balancing Accuracy and Interpret-ability in Credit Card Fraud Detection (with Crissy)<br>
 
-
-
-### 🌱 Statistical modeling in market risk, financial derivatives, and ESG
+### 🌱 Statistical modeling in market risk and financial engineering
 
 #### Market risk management 
 - 🚀 Financial Risk Meters in Taiwan's High-Cap Sectors (with Siang-Li and Wolfgang)<br>
