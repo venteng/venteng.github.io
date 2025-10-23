@@ -8,11 +8,11 @@ title: FIMA Research Lab
 Finance ∙ Intelligence ∙ Math ∙ Analytics  
 _A global academic research initiative led by Prof. Huei-Wen Teng_
 
-## 🎯 About the Lab
+## 🎯 About US
 
-FIMA Research Lab is an independent, non-commercial research initiative founded by Prof. Huei-Wen Teng, full professor at National Yang Ming Chiao Tung University, Taiwan, since August 2010. Our lab explores data-driven innovations in FinTech, financial engineering, statistical modeling, and digital asset regulation. It serves as a flexible platform for international collaboration, academic publishing, and mentoring in the era of AI-driven finance. If you are interested in exploring the intric value of data and exploit the interdiscipline knoweledge in math, statistics, and finance, welcome to contact us. 
+FIMA Research Lab is an independent research initiative founded in October 2010 by Prof. Huei-Wen Teng, a full professor at National Yang Ming Chiao Tung University, Taiwan. We are passionate about driving data-driven innovations in FinTech, financial engineering, statistical modeling, and digital asset regulation. As a dynamic platform for international collaboration, academic publishing, and mentoring in AI-powered finance, we also bring abundant consulting expertise to real-world challenges. We are eager to partner with industry leaders, startups, and organizations to co-create practical solutions that unlock the intrinsic value of data through interdisciplinary knowledge in math, statistics, and finance. If you're ready to explore transformative opportunities together, we welcome your contact—let's collaborate!
 
-## 🧭 Research Focus
+## 🧭 Focus
 
 ### Trading
 
