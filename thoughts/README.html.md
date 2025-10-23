@@ -8,7 +8,7 @@ title: Thoughts & Insight
 *Last update by Huei-Wen Teng 20250823*
 
 ## Selected Talks
-- 20251022 Tail risk in Bitcoin under the Basel framework, 國立高雄大學統計學研究所 [[slides]](https://drive.google.com/file/d/1IKuwNygiKKgrziHF6waLzjldj5LICL20/view?usp=drive_link)
+- 20251022 Tail risk in Bitcoin under the Basel framework, 國立高雄大學統計學研究所 [[slides]] (https://drive.google.com/file/d/1IKuwNygiKKgrziHF6waLzjldj5LICL20/view?usp=drive_link) [[photo]](https://statsite.nuk.edu.tw/p/403-1037-2215.php?Lang=zh-tw)
 - 20250823 Qualitative insights meet quantitative forecasts with GPT-4o mini for Taiwan earnings prediction, EcoSta2025, Tokyo, Japan [[slides]](https://drive.google.com/file/d/1ZAxeWx9zljUz3JYjZ8vK4kbGBo9TErvz/view?usp=drive_link)
 - 20250823 Evaluating Tail Risk in Bitcoin  Using Stochastic Volatility with Correlated Jump Models under Basel Standards, EcoSta2025, Tokyo, Japan [[slides]](https://drive.google.com/file/d/1oGIWcj1rssclBjGcHosyaBNulz7Q32wi/view?usp=sharing)
 
