@@ -7,24 +7,18 @@ title: LAB Recruitment
 
 ## Join Our Lab!
 
-In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find examples of currrent and previous [lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s theses or projects, led to published papers — a great way to see what’s possible when you commit to excellence.
+In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find examples of currrent and previous [lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s theses or projects led to published papers — a great way to see what’s possible when you commit to excellence.
 
-We emphasize research that is transparent, reproducible, and contributes meaningfully to the literature and society.
-
-We’re looking for students who demonstrate:
+We emphasize research that is transparent, reproducible, and contributes meaningfully to the literature and society. And, we’re looking for students who demonstrate:
 - Passion and curiosity for learning
 - Strong execution and resilience
 - Leadership and teamwork spirit
 - Good presentation and communication skills
 - Solid foundations in math, statistics, machine learning, coding, and finance
 
-If you’re driven, curious, and eager to make your research count — we’d love to work with you. 
-
-My research spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
-
+If you’re driven, curious, and eager to make your research count — we’d love to work with you. The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
 1. FinTech with machine learning and AI: Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications in FinTech
-
-2. Financial engineering with time series and graphical models: We specialize in statistical methods, particularly time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
+2. Financial engineering with statistical models: We specialize in time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
 
 ## Interested in joining? 
 
@@ -33,7 +27,7 @@ Let’s make an impact together!
 - Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
 
 
-## Ongoing projects
+## Ongoing research projects
 
 Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revision in progress
 
@@ -80,6 +74,7 @@ Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revi
 ##### ESG-related derivatives 
 
 - 📄 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (wit Howard and Elvis)<br>
+
 
 
 
