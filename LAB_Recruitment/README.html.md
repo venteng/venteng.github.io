@@ -7,9 +7,9 @@ title: LAB Recruitment
 
 ## Join Our Lab!
 
-In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find examples of [previous lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s research led to published papers — a great way to see what’s possible when you commit to excellence.
+In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find examples of currrent and previous [lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s theses or projects, led to published papers — a great way to see what’s possible when you commit to excellence.
 
-We emphasize research that is transparent, reproducible, and contributes meaningfully to the literature.
+We emphasize research that is transparent, reproducible, and contributes meaningfully to the literature and society.
 
 We’re looking for students who demonstrate:
 - Passion and curiosity for learning
@@ -18,28 +18,50 @@ We’re looking for students who demonstrate:
 - Good presentation and communication skills
 - Solid foundations in math, statistics, machine learning, coding, and finance
 
-If you’re driven, curious, and eager to make your research count — we’d love to work with you.
+If you’re driven, curious, and eager to make your research count — we’d love to work with you. 
 
 My research spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
 
-### 1. FinTech with machine learning and AI
+1. FinTech with machine learning and AI: Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications in FinTech
 
-Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications
-- Credit scoring (Mabel, Eva)
-- Fraud detection (Chrissy)
-- Trading strategies and portfolio management (Ben, Deron, Ares, Elvis)
-
-### 2. Financial engineering with time series and graphical models
-
-We specialize in statistical methods, particularly time series and graphical models, wich applications
-- Financial Risk managemet: VaR, graphical models (Jason, Martin, Frank, Guan-Lin, Yi-Le) 
-- Financial options pricing, and dynamic hedging: Cryptocurrencies and Taiwan Futures Market (Allen, Elvis)
+2. Financial engineering with time series and graphical models: We specialize in statistical methods, particularly time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
 
 ## Interested in joining? 
 
 Let’s make an impact together!
 - Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
 - Email me your CV, transcripts, and a short statement of purpose (150 words max).  
+
+
+## Ongoing projects
+
+Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revision in progress
+
+
+### 🧠 Trading and portfolio management
+- 🔧 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
+- 🚀 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Ghomas and Chun-Chen)<br>
+- 🚀 Why Feature Selection Still Matters in Bitcoin Return Forecasting (with Yen-Ting and Yenchang )<br>
+- 🧩 Forecasting Realized Volatility with Multi-Agent Architectures (with Elvis)<br>
+- 🧩 A Hybrid Deep Learning–Association Rule Model for Forecasting S&P 500 Sector Returns (with Ben)<br>
+
+
+### 📊 Explainable AI in FinTech
+- 📄 Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance (with Paul, Yenchang, Ming-Hsuan)<br>
+- 🧩 A SHAP-Weighted RFM Framework for Balancing Accuracy and Interpret-ability in Credit Card Fraud Detection (with Crissy)<br>
+- 🧩 Comprehensive Financial Statement Data and Feature Selection in U.S. Corporate Bankruptcy Prediction (with Mabel)<br>
+
+
+### 🌱 Statistical modeling in market risk, financial derivatives, actual science, and ESG
+- 🔧 Financial analytics of inverse BTC options in a stochastic volatility world (with Wolfgang)<br>
+- 🚀 Financial Risk Meters in Taiwan's High-Cap Sectors (with Siang-Li and Wolfgang)<br>
+- 📄 Evaluating Tail Risk in Bitcoin Using Stochastic Volatility and Correlated Jump Models under Basel Standards (with Wendy and James)<br>
+- 📄  Mapping Risk Contagion through Graphical Models and Early Warning Signals in Taiwan’s Stock Market (with Jason, Frank, Alex, Kuang-Yao)<br>
+- 📄 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (wit Howard and Elvis)<br>
+- 🧩 Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
+
+
+
 
 <!-- - Provide me your information through [Google Forms](https://forms.gle/UQSsDkt4Csvg9UU59). --->
 <!--
