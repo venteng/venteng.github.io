@@ -7,11 +7,6 @@ title: Teaching
 
 ## 202509 
 
-### Machine Learning and FinTech
-
-- [GitHUB REPO](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
-- [README](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
-  
 ### Statistics
 
 - [GitHUB REPO](https://github.com/HWTeng-Teaching/202509-Statistics)
@@ -29,6 +24,16 @@ title: Teaching
 - [Colab](https://colab.research.google.com/drive/1Dtcq1xOhxBNxTghqTkua42_HkOrE5IEY?usp=sharing)
 - [Demo Data](https://drive.google.com/file/d/1-DgygaC-DnCbBdnqrjNPZ0FImfreHeMU/view?usp=sharing)
 
+
+### Machine Learning and FinTech
+
+- [GitHUB REPO](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
+- [README](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
+  
+#### Tips in preparing a manuscript?
+
+<!--
+1.---> 
 
 <!--
 
