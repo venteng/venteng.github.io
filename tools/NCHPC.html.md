@@ -12,25 +12,26 @@ theme: jekyll-theme-cayman  # Change theme if needed
 
 
 ## 以個人為單位註冊帳號
-1. 先至國網中心官網(https://www.nchc.org.tw/)，下滑至計算資源服務網，左側點選前往申請。![](https://i.imgur.com/iJJ9uoF.png)
-4. 右上角點選註冊，並填寫完註冊資料，完成註冊流程。主機帳號可自行設定，方便記憶就好，後續也可查詢。![](https://i.imgur.com/rICrBRg.jpg)
-5. 發送"會員帳號(即註冊的email)"給鄧老師，鄧老師會將每人的帳號登錄至計畫內，並分派資源額度
-6. 使用[TWCC服務](https://www.twcc.ai/)執行python jupyter，請參考[開發型容器的使用說明](https://man.twcc.ai/@twccdocs/doc-ccs-main-zh/https%3A%2F%2Fman.twcc.ai%2F%40twccdocs%2Fguide-ccs-create-zh)
+1. 先至國網中心官網 [https://www.nchc.org.tw/](https://www.nchc.org.tw/)，下滑至計算資源服務網，左側點選前往申請。
+   ![](https://i.imgur.com/iJJ9uoF.png)
+2. 右上角點選註冊，並填寫完註冊資料，完成註冊流程。主機帳號可自行設定，方便記憶就好，後續也可查詢。![](https://i.imgur.com/rICrBRg.jpg)
+3. 發送"會員帳號(即註冊的email)"給鄧老師，鄧老師會將每人的帳號登錄至計畫內，並分派資源額度
+4. 使用[TWCC服務](https://www.twcc.ai/)執行python jupyter，請參考[開發型容器的使用說明](https://man.twcc.ai/@twccdocs/doc-ccs-main-zh/https%3A%2F%2Fman.twcc.ai%2F%40twccdocs%2Fguide-ccs-create-zh)
     * 除非同學確定要跑的運算量非常大，否則在建立容器的時候，建議先選取最基本的配備，以節省被分配到的子錢包額度
     * <font color="#f00">建立容器後，即刻開始依照時數收費，請不需要使用的時候，**刪除容器**。可以先建立複本，下次要建立容器比較快。</font>
-7. 進入jupyter介面後，若無法上傳檔案(下圖upload處)，請參考以下步驟。若上傳成功，請直接跳至第9點
+5. 進入jupyter介面後，若無法上傳檔案(下圖upload處)，請參考以下步驟。若上傳成功，請直接跳至第9點
 ![](https://i.imgur.com/BZorUk7.png)
 
-8. 下載[WinSCP](https://winscp.net/eng/download.php)。開啟後，將遠端登入資訊依序填入。資訊請至TWCC內的「開發行容器詳細資料」找尋。依照下二圖範例填入。
+6. 下載[WinSCP](https://winscp.net/eng/download.php)。開啟後，將遠端登入資訊依序填入。資訊請至TWCC內的「開發行容器詳細資料」找尋。依照下二圖範例填入。
 ![](https://i.imgur.com/Y015GpU.png)
 ![](https://i.imgur.com/3yGW6NZ.png)
-9. 填入主機密碼
+7. 填入主機密碼
 ![](https://i.imgur.com/oge6DDs.png)
 
-10. 挑選/work或/home上傳資料，下圖以/work為例，直接將檔案從左邊的個人電腦目錄拖移至右側的遠端/work/(主機帳號)目錄即可。
+8. 挑選/work或/home上傳資料，下圖以/work為例，直接將檔案從左邊的個人電腦目錄拖移至右側的遠端/work/(主機帳號)目錄即可。
 ![](https://i.imgur.com/n4zvCU5.png)
 
-11. 上傳成功後，回至jupyter重新整理，並讀取資料進行分析。以上傳至主機帳號為i309554038、目錄為work為例來讀取資料。
+9. 上傳成功後，回至jupyter重新整理，並讀取資料進行分析。以上傳至主機帳號為i309554038、目錄為work為例來讀取資料。
 ![](https://i.imgur.com/VSEN9Lz.png)
 
 
