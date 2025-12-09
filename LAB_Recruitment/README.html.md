@@ -17,8 +17,13 @@ We emphasize research that is transparent, reproducible, and contributes meaning
 - Solid foundations in math, statistics, machine learning, coding, and finance
 
 If you’re driven, curious, and eager to make your research count — we’d love to work with you. The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
-1. FinTech with machine learning and AI: Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications in FinTech
-2. Financial engineering with statistical models: We specialize in time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
+
+### 1. FinTech with machine learning and AI
+
+Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications in FinTech
+
+### 2. Financial engineering with statistical models
+We specialize in time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
 
 ## Interested in joining? 
 
