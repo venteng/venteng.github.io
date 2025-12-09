@@ -7,7 +7,7 @@ title: LAB Recruitment
 
 ## Join Our Lab!
 
-In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find examples of currrent and previous [lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s theses or projects led to published papers — a great way to see what’s possible when you commit to excellence.
+In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find our [lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s theses or projects led to published papers — a great way to see what’s possible when you commit to excellence.
 
 We emphasize research that is transparent, reproducible, and contributes meaningfully to the literature and society. And, we’re looking for students who demonstrate:
 - Passion and curiosity for learning
@@ -25,7 +25,7 @@ If you’re driven, curious, and eager to make your research count — we’d lo
 Let’s make an impact together!
 - 📧 [Email me](mailto:hwteng@nycu.edu.tw) your CV, transcripts, and a short statement of purpose (150 words max).  
 - Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
-
+- My introduction on 20251210 [Slides](https://drive.google.com/file/d/1CJfwP95p_Lb-KbkoDI1wDC1zmmP7j4Zy/view?usp=sharing)
 
 ## Ongoing research projects
 
