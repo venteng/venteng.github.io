@@ -25,7 +25,7 @@ If you’re driven, curious, and eager to make your research count — we’d lo
 Let’s make an impact together!
 - 📧 [Email me](mailto:hwteng@nycu.edu.tw) your CV, transcripts, and a short statement of purpose (150 words max).  
 - Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
-- My introduction on 20251210 [Slides](https://drive.google.com/file/d/1CJfwP95p_Lb-KbkoDI1wDC1zmmP7j4Zy/view?usp=sharing)
+- My introduction on 20251210 [[Slides]](https://drive.google.com/file/d/1CJfwP95p_Lb-KbkoDI1wDC1zmmP7j4Zy/view?usp=sharing)
 
 ## Ongoing research projects
 
