@@ -30,7 +30,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## 🎓 Academic Positions
 
-### National Yang Ming Chiao Tung University ([NYCU](https://www.nycu.edu.tw/))
+### National Yang Ming Chiao Tung University [(NYCU)](https://www.nycu.edu.tw/)
 - [Department of Information Management and Finance](https://imf.nctu.edu.tw/)
   - Professor (Aug 2024 - Present)
   - Associate Professor (Feb 2017 - July 2024)
@@ -38,16 +38,16 @@ I am a Professor in the Department of Information Management and Finance at Nati
 - Joint Appointment, [Department of Applied Mathematics](https://www.math.nycu.edu.tw/)  (Oct 2024 - Present)
 
 
-### National Central University ([NCU](https://www.ncu.edu.tw/))
+### National Central University [(NCU)](https://www.ncu.edu.tw/)
 - [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/) 
   - Associate Professor (Aug 2016 - Jan 2017)
   - Assistant Professor (Aug 2010 - Jul 2016)
 - Joint Appointment, [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW) (Aug 2016 - Jan 2017)
 
-### IDA Institute of Digital Assets [(IDA)](https://ida.ase.ro)
+### IDA Institute of Digital Assets, Romania [(IDA)](https://ida.ase.ro)
 - Experienced Researcher (2024 - Present)
 
-### [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en), Germany
+### Humboldt-Universität zu Berlin, Germany [(HU-berlin)](https://www.hu-berlin.de/en)
 - Visiting Scholar,  (2011, 2012, 2023)
 
 ---
