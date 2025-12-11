@@ -54,11 +54,11 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## 🎓 Education
 
-### The Pennsylvania State University ([PSU](https://www.psu.edu/))
+### The Pennsylvania State University [(PSU)](https://www.psu.edu/)
 
 - Ph.D. in Statistics (2010)  
 
-### National Taiwan University ([NTU](https://www.ntu.edu.tw/))
+### National Taiwan University [(NTU)](https://www.ntu.edu.tw/)
 - MBA in Finance (2004)  
 - BS in Mathematics (2001)
 
