@@ -48,7 +48,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 - Experienced Researcher (2024 - Present)
 
 ### Humboldt-Universität zu Berlin, Germany [(HU-berlin)](https://www.hu-berlin.de/en)
-- Visiting Scholar,  (2011, 2012, 2023)
+- Visiting Scholar (2011, 2012, 2023)
 
 ---
 
