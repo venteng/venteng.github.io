@@ -62,11 +62,11 @@ I am a Professor in the Department of Information Management and Finance at Nati
 - MBA in Finance (2004)  
 - BS in Mathematics (2001)
 
-### Other Institutions
+### Johannes Kepler University, Austria [(JKU)](https://www.jku.at) 
+- Exchange Student (Aug 1999 - Jan 2000)
 
-- Exchange Student, [Johannes Kepler University, Austria](https://www.jku.at) (Aug 1999 - Jan 2000)
-- The Global Colloquium on Participant-Centered Learning (GloColl), [Harvard Business School](https://www.exed.hbs.edu) (Summer 2025)
-
+### Harvard Business School, Harvard University [(HBS)](https://www.exed.hbs.edu)
+- The Global Colloquium on Participant-Centered Learning (GloColl) (Summer 2025, Winter 2026)
 
 <!--🌏 [Map, Food, Smiles](https://venteng.github.io/MFS.html)
 
