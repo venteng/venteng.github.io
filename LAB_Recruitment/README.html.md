@@ -31,6 +31,7 @@ Let’s make an impact together!
 - 📧 [Email me](mailto:hwteng@nycu.edu.tw) your CV, transcripts, and a short statement of purpose (150 words max).  
 - Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
 - Welcome, Prospective Students info session (Dec 10, 2025) [[Slides]](https://drive.google.com/file/d/1CJfwP95p_Lb-KbkoDI1wDC1zmmP7j4Zy/view?usp=sharing)
+- If you are from a different department, we encourage you to review the suggested [course plan](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5997&serno=b1153a31-aa1c-46a2-8205-b611f9cffa7c) to help build a solid foundation in finance.
 
 ## Ongoing research projects
 
