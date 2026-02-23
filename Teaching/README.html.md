@@ -11,8 +11,9 @@ title: Teaching
 
 #### Google Sheet
 
+- [202602](https://docs.google.com/spreadsheets/d/1rQHM7CxNcuFiEzJQjNFsadMA3_9VvDoxx0XZo_PNWjA/edit?usp=sharing)
+
 - [202509](https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?usp=sharing)
-- [202602](https://docs.google.com/spreadsheets/d/1rQHM7CxNcuFiEzJQjNFsadMA3_9VvDoxx0XZo_PNWjA/edit?gid=5558771#gid=5558771)
 
 #### Course GitHUB repo
 
