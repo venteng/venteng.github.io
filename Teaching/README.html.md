@@ -9,8 +9,18 @@ title: Teaching
 
 ### Statistics
 
-- [GitHUB REPO](https://github.com/HWTeng-Teaching/202509-Statistics)
-- [README](https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?usp=sharing)
+#### Google Sheet
+
+- [202509](https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?usp=sharing)
+- [202602](https://docs.google.com/spreadsheets/d/1rQHM7CxNcuFiEzJQjNFsadMA3_9VvDoxx0XZo_PNWjA/edit?gid=5558771#gid=5558771)
+
+#### Course GitHUB repo
+
+- [202602-Statistics-II](https://github.com/HWTeng-Teaching/202602-Statistics-II)
+- [202509 GitHUB REPO](https://github.com/HWTeng-Teaching/202509-Statistics)
+
+
+
 
 ### Doctoral Seminar
 
