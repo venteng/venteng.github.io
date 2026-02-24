@@ -14,7 +14,7 @@ title: Teaching
 ## 202602 Financial Econometrics 
 
 - [README](https://docs.google.com/spreadsheets/d/11dnaqGcwTLfOKtzMXv_O04w4Q6hsRoMJqmsYdCNh6Sg/edit?usp=sharing)
-- [Financial Econometrics](https://github.com/HWTeng-Teaching/Financial_Econometrics)
+- [Financial Econometrics](https://github.com/HWTeng-Teaching/Financial-Econometrics)
 - [202602-Financial-Econometrics](https://github.com/HWTeng-Teaching/202602-Financial-Econometrics)
 
 
