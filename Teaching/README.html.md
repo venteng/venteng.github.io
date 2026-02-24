@@ -5,30 +5,25 @@ title: Teaching
 
 # Teaching
 
-## 202509 
+## 202602 Statistics
 
-### Statistics
-
-#### Google Sheet
-
-- [202602](https://docs.google.com/spreadsheets/d/1rQHM7CxNcuFiEzJQjNFsadMA3_9VvDoxx0XZo_PNWjA/edit?usp=sharing)
-
-- [202509](https://docs.google.com/spreadsheets/d/1-UFyabcTQTQ9ZaXoXk9rYrOnwDxJEAOYwu1l0E4ezAQ/edit?usp=sharing)
-
-#### Course GitHUB repo
-
+- [README](https://docs.google.com/spreadsheets/d/1rQHM7CxNcuFiEzJQjNFsadMA3_9VvDoxx0XZo_PNWjA/edit?usp=sharing)
+- [Statistics](https://github.com/HWTeng-Teaching/Statistics)
 - [202602-Statistics-II](https://github.com/HWTeng-Teaching/202602-Statistics-II)
-- [202509 GitHUB REPO](https://github.com/HWTeng-Teaching/202509-Statistics)
+
+## 202602 Financial Econometrics 
+
+- [README](https://docs.google.com/spreadsheets/d/11dnaqGcwTLfOKtzMXv_O04w4Q6hsRoMJqmsYdCNh6Sg/edit?usp=sharing)
+- [Financial Econometrics](https://github.com/HWTeng-Teaching/Financial Econometrics)
+- [202602-Financial-Econometrics](https://github.com/HWTeng-Teaching/202602-Financial-Econometrics)
 
 
-
-
-### Doctoral Seminar
+## 202509 Doctoral Seminar
 
 - [README](https://docs.google.com/spreadsheets/d/1vWt0wS3YjwKqmZvUeSWJYbANzNQ-BAOvqdbkihhUY9w/edit?usp=sharing)
 
 
-### Financial Techonology and Digital Transformation
+### 202509 Financial Techonology and Digital Transformation
 
 - [Slides](https://drive.google.com/file/d/1cmgH5Ir5YclNqkOlKStahe8bVtLH2x4_/view?usp=drive_link)
 - [Handout](https://hackmd.io/@hwteng/B1YdfRDTlx)
@@ -36,7 +31,7 @@ title: Teaching
 - [Demo Data](https://drive.google.com/file/d/1-DgygaC-DnCbBdnqrjNPZ0FImfreHeMU/view?usp=sharing)
 
 
-### Machine Learning and FinTech
+### 202509 Machine Learning and FinTech
 
 - [GitHUB REPO](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
 - [README](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
@@ -92,16 +87,5 @@ GitHUB Repos
 | 32    | C15.6 Friedman Fr test             | 10:45    | [YouTube](https://youtu.be/AOdqN03sHVQ)    |
 | 33    | C15.7 無母數排序統計量               | 19:33    | [YouTube](https://youtu.be/1uRgV5Ace1M)    |
 
-
-
-
-
-
-
-## Mathematical Statistics
-
-
-
-## Financial Econometrics
 
 -->
