@@ -17,16 +17,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 🎓 [Teaching](https://venteng.github.io/Teaching/README.html)<br>
 📚 [Publications](https://venteng.github.io/Publication.html)<br>
 🌟 [Lab Members](https://venteng.github.io/LAB_Recruitment/Students.html)<br>
-🚀 [Join Our Lab](https://venteng.github.io/LAB_Recruitment/README.html)<br>
-💡 [Thoughts & Insights](https://venteng.github.io/thoughts/README.html)  <br>
 
-
-<!-- -->
-<!--🔗 [More about me](https://venteng.github.io/bio.html)  -->
-<!-- 📚 Google Scholar: [HDPf0-IAAAAJ](https://scholar.google.com/citations?user=HDPf0-IAAAAJ&hl=en)  -->
-<!--📄 SSRN: [378952](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3789459)  -->
-
----
 
 ## 🎓 Academic Positions
 
@@ -67,15 +58,5 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ### Harvard Business School [(HBS)](https://www.exed.hbs.edu)
 - The Global Colloquium on Participant-Centered Learning (GloColl) (Summer 2025, Winter 2026)
-
-<!--🌏 [Map, Food, Smiles](https://venteng.github.io/MFS.html)
-
-
-## 📚 Additional Resources
-
-
--->
-
-
 
 ---
