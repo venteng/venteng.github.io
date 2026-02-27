@@ -33,16 +33,10 @@ Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revi
 
 ### Explainable AI & FinTech
 
-#### Credit risk management
 
 - 📄 Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance (with Paul, Yenchang, Ming-Hsuan)<br>
 - 🧩 Comprehensive Financial Statement Data and Feature Selection in U.S. Corporate Bankruptcy Prediction (with Mabel)<br>
-
-#### Fraud detection
-
 - 🧩 A SHAP-Weighted RFM Framework for Balancing Accuracy and Interpret-ability in Credit Card Fraud Detection (with Crissy)<br>
-
-
 
 ### Financial market risk management
 
@@ -53,15 +47,9 @@ Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revi
 
 ### Financial options pricing and hedging
 
-##### Bitcoin options 
 - 🔧 Financial analytics of inverse BTC options in a stochastic volatility world (with Wolfgang)<br>
 - 🧩 Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
-
-##### ESG-related derivatives 
-
 - 📄 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (wit Howard and Elvis)<br>
-
-
 
 ## 🚀 Join Our Lab 
 
