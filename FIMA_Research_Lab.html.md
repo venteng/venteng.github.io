@@ -73,9 +73,8 @@ Our lab explores machine learning and AI, emphasizing unsupervised learning, sup
 ### 2. Financial engineering with statistical models
 We specialize in time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
 
-### Interested in joining? 
+### Interested in joining? Let’s make an impact together!
 
-Let’s make an impact together!
 - 📧 [Email me](mailto:hwteng@nycu.edu.tw) your (1) CV, (2) transcripts, and (3) a short statement of purpose (150 words max).  
 - Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
 - Welcome, Prospective Students info session (Dec 10, 2025) [[Slides]](https://drive.google.com/file/d/1CJfwP95p_Lb-KbkoDI1wDC1zmmP7j4Zy/view?usp=sharing)
