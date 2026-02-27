@@ -9,7 +9,7 @@ title: FIMA Research Lab
 Finance ∙ Intelligence ∙ Math ∙ Analytics  
 _A global academic research initiative led by Prof. Huei-Wen Teng_
 
-## 🌟 Innovate with Us: 
+## 🌟 Innovate with Us
 
 FIMA Research Lab is an independent research initiative founded in October 2010 by Prof. Huei-Wen Teng, a full professor at National Yang Ming Chiao Tung University, Taiwan. We are passionate about driving data-driven innovations in FinTech, financial engineering, statistical modeling, and digital asset regulation. As a dynamic platform for international collaboration, academic publishing, and mentoring in AI-powered finance, we also bring abundant consulting expertise to real-world challenges. 
 
@@ -25,16 +25,12 @@ Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revi
 - 🧩 Forecasting Realized Volatility with Multi-Agent Architectures (with Elvis)<br>
 - 🧩 A Hybrid Deep Learning–Association Rule Model for Forecasting S&P 500 Sector Returns (with Ben)<br>
 
-
 ### Portfolio management
-
 
 - 🔧 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
 - 🚀 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Ghomas and Chun-Chen)<br>
 
-
 ### Explainable AI & FinTech
-
 
 - 📄 Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance (with Paul, Yenchang, Ming-Hsuan)<br>
 - 🧩 Comprehensive Financial Statement Data and Feature Selection in U.S. Corporate Bankruptcy Prediction (with Mabel)<br>
@@ -46,7 +42,6 @@ Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revi
 - 📄 Evaluating Tail Risk in Bitcoin Using Stochastic Volatility and Correlated Jump Models under Basel Standards (with Wendy and James)<br>
 - 📄  Mapping Risk Contagion through Graphical Models and Early Warning Signals in Taiwan’s Stock Market (with Jason, Frank, Alex, Kuang-Yao)<br>
 
-
 ### Financial options pricing and hedging
 
 - 🔧 Financial analytics of inverse BTC options in a stochastic volatility world (with Wolfgang)<br>
@@ -55,9 +50,7 @@ Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revi
 
 ## 🚀 Join Our Lab 
 
-If you’re driven, curious, and eager to make your research count — we’d love to work with you. The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
-
-In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find our [lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s theses or projects led to published papers — a great way to see what’s possible when you commit to excellence.
+If you’re driven, curious, and eager to make your research count — we’d love to work with you. In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find our [lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s theses or projects led to published papers — a great way to see what’s possible when you commit to excellence.
 
 We emphasize research that is transparent, reproducible, and contributes meaningfully to the literature and society. And, we’re looking for students who demonstrate:
 - Passion and curiosity for learning
@@ -66,12 +59,10 @@ We emphasize research that is transparent, reproducible, and contributes meaning
 - Good presentation and communication skills
 - Solid foundations in math, statistics, machine learning, coding, and finance
 
-### 1. FinTech with machine learning and AI
+The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
 
-Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications in FinTech
-
-### 2. Financial engineering with statistical models
-We specialize in time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
+1. FinTech with machine learning and AI: Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications in FinTech
+2. Financial engineering with statistical models: We specialize in time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
 
 ### Interested in joining? Let’s make an impact together!
 
