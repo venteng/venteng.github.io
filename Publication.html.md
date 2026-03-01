@@ -24,8 +24,7 @@ title: Publication
 2. **Huei-Wen Teng**, Hsin-Pei Huang, Yu-Chuan Shih. Tail risk in Bitcoin under the Basel framework, *Finance Research Letters*, 86:108528, 2025. (SSCI IF=6.8 RF: 12/241 = 4.9%) [[PDF]](https://drive.google.com/file/d/1ntG3Oc6PbzhoiXy3zyPd-2bsZtogFe1M/view?usp=sharing)
 3. **Huei-Wen Teng**. [Importance sampling for calculating the value-at-risk and expected shortfall of the quadratic portfolio with t-distributed risk factors](https://link.springer.com/article/10.1007/s10614-022-10294-y). *Computational Economics*, 62(3):1125–1154, 2023. [[PDF]](https://drive.google.com/file/d/1flOXOpdu38xScD-pvZRIBOZOmKJs96wW/view?usp=sharing)
 4. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. [Efficient simulation of value-at-risk under a jump diffusion model: A new method for moderate deviation events](https://link.springer.com/article/10.1007/s10614-017-9654-z). *Computational Economics*, 51(4): 973–990, 2018. [[PDF]](https://drive.google.com/file/d/1y70psLd2Tx5GWUKXeSepll6H2iBntAtZ/view?usp=sharing)
-5. Cheng-Der Fuh and **Huei-Wen Teng**. Discussion of “multiscale change point inference" by Frick, Munk and Sieling. *Journal of the Royal Statistical Society: Series B*, 76(3):554–555, 2014.
-6. **Huei-Wen Teng**. A spherical Monte Carlo approach for calculating value-at-risk and expected shortfall in financial risk management. In 2017 Winter Simulation Conference (WSC), pages 469–480. IEEE, 2018.
+5. **Huei-Wen Teng**. A spherical Monte Carlo approach for calculating value-at-risk and expected shortfall in financial risk management. In 2017 Winter Simulation Conference (WSC), pages 469–480. IEEE, 2018.
 
 ## 4. Financial Derivatives Pricing
 
