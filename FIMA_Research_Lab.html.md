@@ -46,8 +46,9 @@ Project Status
 ### Financial Derivatives Pricing
 
 - 🔧 Financial analytics of inverse BTC options in a stochastic volatility world (with Wolfgang)<br>
-- 🧩 Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
 - 📄 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (wit Howard and Elvis)<br>
+- 🧩 Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
+
 
 ## Join Our Lab 
 
