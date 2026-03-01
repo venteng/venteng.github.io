@@ -41,9 +41,9 @@ title: Publication
 ## 5. Miscellaneous
 
 
-1. Sanford Luo, **Huei-Wen Teng**, and Yu-Hsuan Lee. Forecasting mortality using imputed data: The case of Taiwan. *Asia-Pacific Journal of Risk and Insurance*, 10(1):1–20, 2016. [[PDF]](https://drive.google.com/file/d/1--lMP1BGF2BCr_DgXtJkbB6XA3xo_4TY/view?usp=sharing)
-2. **Huei-Wen Teng** Ming-Hsuan Kang and Cheng-Der Fuh. On spherical Monte Carlo simulations for multivariate normal probabilities. *Advances in Applied Probability*, 47(3):817–836, 2015. [[PDF]](https://drive.google.com/file/d/17bO_9ILA6rNcm75ScpIwbt-TpxbfymB_/view?usp=sharing)
-3. **Huei-Wen Teng** and Cheng-Der Fuh. [Simulating false alarm probability in K-distributed sea clutter](https://www.tandfonline.com/doi/full/10.1080/03610918.2020.1757707). *Communications in Statistics-Simulation and Computation*, 51(9):5081–5098, 2022. [[PDF]](https://drive.google.com/file/d/1XRiL36bENSOGzal_IpApo8X_I5b55m6O/view?usp=sharing)
+1. **Huei-Wen Teng** and Cheng-Der Fuh. [Simulating false alarm probability in K-distributed sea clutter](https://www.tandfonline.com/doi/full/10.1080/03610918.2020.1757707). *Communications in Statistics-Simulation and Computation*, 51(9):5081–5098, 2022. [[PDF]](https://drive.google.com/file/d/1XRiL36bENSOGzal_IpApo8X_I5b55m6O/view?usp=sharing)
+2. Sanford Luo, **Huei-Wen Teng**, and Yu-Hsuan Lee. Forecasting mortality using imputed data: The case of Taiwan. *Asia-Pacific Journal of Risk and Insurance*, 10(1):1–20, 2016. [[PDF]](https://drive.google.com/file/d/1--lMP1BGF2BCr_DgXtJkbB6XA3xo_4TY/view?usp=sharing)
+3. **Huei-Wen Teng** Ming-Hsuan Kang and Cheng-Der Fuh. On spherical Monte Carlo simulations for multivariate normal probabilities. *Advances in Applied Probability*, 47(3):817–836, 2015. [[PDF]](https://drive.google.com/file/d/17bO_9ILA6rNcm75ScpIwbt-TpxbfymB_/view?usp=sharing)
 4. **Huei-Wen Teng**, Wen-Liang Hung,and Yen-Ju Chao. Bayesian Markov chain Monte Carlo imputation for the transiting exoplanets with an application in clustering analysis. *Journal of Applied Statistics*, 42(5):1120–132, 2015. [[PDF]](https://drive.google.com/file/d/10FvS8xNt1Cp9ia0RoAtAZdWkaSSLe-FA/view?usp=sharing)
 5. Tze-Chuan Yang, **Huei-Wen Teng**, and Murali Haran. The impacts of social capital on infant mortality in the U.S.: A spatial investigation. *Applied Spatial Analysis and Policy*, 2(3):211–227, 2009. [[PDF]](https://drive.google.com/file/d/1aBrss8mtOs4q2Wf6dSdg_y9Zu36SqrTP/view?usp=sharing)
 
