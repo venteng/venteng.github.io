@@ -9,26 +9,19 @@ title: FIMA Research Lab
 Finance ∙ Intelligence ∙ Math ∙ Analytics  
 _A global academic research initiative led by Prof. Huei-Wen Teng_
 
-## 🌟 Innovate with Us
+## Innovate with Us
 
 FIMA Research Lab is an independent research initiative founded in October 2010 by Prof. Huei-Wen Teng, a full professor at National Yang Ming Chiao Tung University, Taiwan. We are passionate about driving data-driven innovations in FinTech, financial engineering, statistical modeling, and digital asset regulation. As a dynamic platform for international collaboration, academic publishing, and mentoring in AI-powered finance, we also bring abundant consulting expertise to real-world challenges. 
 
 We are eager to partner with industry leaders, startups, and organizations to co-create practical solutions that unlock the intrinsic value of data through interdisciplinary knowledge in math, statistics, and finance. If you're ready to explore transformative opportunities together, we welcome your contact—let's collaborate!
 
-## 🧭 Ongoing research projects
+## Ongoing Research Projects
 
-Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revision in progress
-
-### Trading
-
-- 🔧 Why Feature Selection Still Matters in Bitcoin Return Forecasting (with Yen-Ting and YC )<br>
-- 🧩 Forecasting Realized Volatility with Multi-Agent Architectures (with Elvis)<br>
-- 🧩 A Hybrid Deep Learning–Association Rule Model for Forecasting S&P 500 Sector Returns (with Ben)<br>
-
-### Portfolio management
-
-- 🔧 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
-- 🔧 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Chuen-Chun, Wei-Cheng, and Yen-Ming)<br>
+Project Status
+- 🧩 In preparation
+- 📄 Working paper
+- 🚀 Submitted
+- 🔧 Revision in progress
 
 ### Explainable AI & FinTech
 - 🔧 AI Act Compliance in Credit Scoring: Reconciling Interpretability and Accuracy via Quadratic Terms and powershap (with Hung-Ying, Heng-Shiu, Mark, YC)
@@ -37,18 +30,26 @@ Project Status: 🧩 In preparation 📄 Working paper 🚀 Submitted  🔧 Revi
 - 🧩 A SHAP-Weighted RFM Framework for Balancing Accuracy and Interpret-ability in Credit Card Fraud Detection (with Chrissy)<br>
 - 🧩 An Empirical Study of RFM and Domain-Driven Feature Engineering for Credit Card Fraud Detection (with Andy, Alvin, Chrissy)<br>
 
-### Financial market risk management
+### Trading & Portfolio Management 
+
+- 🔧 Why Feature Selection Still Matters in Bitcoin Return Forecasting (with Yen-Ting and YC )<br>
+- 🔧 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
+- 🔧 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Chuen-Chun, Wei-Cheng, and Yen-Ming)<br>
+- 🧩 Forecasting Realized Volatility with Multi-Agent Architectures (with Elvis)<br>
+- 🧩 A Hybrid Deep Learning–Association Rule Model for Forecasting S&P 500 Sector Returns (with Ben)<br>
+
+### Financial Market Risk Management
 
 - 🚀 Financial Risk Meters in Taiwan's High-Cap Sectors (with Siang-Li and Wolfgang)<br>
 - 📄  Mapping Risk Contagion through Graphical Models and Early Warning Signals in Taiwan’s Stock Market (with Jason, Frank, Alex, Kuang-Yao)<br>
 
-### Financial options pricing and hedging
+### Financial Derivatives Pricing
 
 - 🔧 Financial analytics of inverse BTC options in a stochastic volatility world (with Wolfgang)<br>
 - 🧩 Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
 - 📄 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (wit Howard and Elvis)<br>
 
-## 🚀 Join Our Lab 
+## Join Our Lab 
 
 If you’re driven, curious, and eager to make your research count — we’d love to work with you. In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find our [lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s theses or projects led to published papers — a great way to see what’s possible when you commit to excellence.
 
