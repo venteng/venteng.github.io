@@ -68,6 +68,6 @@ The research of our lab spans several key areas, with Lab Members actively colla
 
 ### Interested in joining? Let’s make an impact together!
 
-- 📧 [Email me](mailto:hwteng@nycu.edu.tw) your (1) CV, (2) transcripts, and (3) a short statement of purpose (150 words max).  
+- [Email me](mailto:hwteng@nycu.edu.tw) your (1) CV, (2) transcripts, and (3) a short statement of purpose (150 words max).  
 - Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
 - If you are from a different department, we encourage you to review the suggested [course plan](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5997&serno=b1153a31-aa1c-46a2-8205-b611f9cffa7c) to help build a solid foundation in finance.
