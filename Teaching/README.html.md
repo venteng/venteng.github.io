@@ -5,26 +5,43 @@ title: Teaching
 
 # Teaching
 
+
+- [Statistics (English)](https://github.com/HWTeng-Teaching/Statistics)
+- [Financial Econometrics (English)](https://github.com/HWTeng-Teaching/Financial-Econometrics)
+- [Machine Learning & FinTech (English)](https://github.com/HWTeng-Teaching/ML-FinTech)
+
 ## 202602 Statistics
+
 - [README](https://docs.google.com/spreadsheets/d/1rQHM7CxNcuFiEzJQjNFsadMA3_9VvDoxx0XZo_PNWjA/edit?usp=sharing)
-- [Statistics](https://github.com/HWTeng-Teaching/Statistics)
 - [202602-Statistics-II](https://github.com/HWTeng-Teaching/202602-Statistics-II)
 
 ### 助教課 
-
 - Tuesday: 1730 - 1930 地點 A-315
 - Wednesday: 1730 - 1930 地點 A-315
+
+### HW0302
+
+- C10S01Q13-Q15
+- C10S02Q20
+- C10S02Q30
+- C10S02Q35
+- C10S03Q7
+- C10S03Q8
+- C10S03Q12
+
+### HW0309
+- C10S03Q17
+- 
 
 ## 202602 Financial Econometrics 
 
 - [README](https://docs.google.com/spreadsheets/d/11dnaqGcwTLfOKtzMXv_O04w4Q6hsRoMJqmsYdCNh6Sg/edit?usp=sharing)
-- [Financial Econometrics](https://github.com/HWTeng-Teaching/Financial-Econometrics)
 - [202602-Financial-Econometrics](https://github.com/HWTeng-Teaching/202602-Financial-Econometrics)
 
-  
-#### Tips in preparing a manuscript?
 
 <!--
+  
+#### Tips in preparing a manuscript?
 
 
 ## 202509 Machine Learning and FinTech
