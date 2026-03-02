@@ -6,23 +6,31 @@ title: Teaching
 # Teaching
 
 ## 202602 Statistics
-
 - [README](https://docs.google.com/spreadsheets/d/1rQHM7CxNcuFiEzJQjNFsadMA3_9VvDoxx0XZo_PNWjA/edit?usp=sharing)
 - [Statistics](https://github.com/HWTeng-Teaching/Statistics)
 - [202602-Statistics-II](https://github.com/HWTeng-Teaching/202602-Statistics-II)
 
-助教課 
+### 助教課 
 
-Tuesday: 1730 - 1930 地點 A-315
-
-
-Wednesday: 1730 - 1930 地點 A-315
+- Tuesday: 1730 - 1930 地點 A-315
+- Wednesday: 1730 - 1930 地點 A-315
 
 ## 202602 Financial Econometrics 
 
 - [README](https://docs.google.com/spreadsheets/d/11dnaqGcwTLfOKtzMXv_O04w4Q6hsRoMJqmsYdCNh6Sg/edit?usp=sharing)
 - [Financial Econometrics](https://github.com/HWTeng-Teaching/Financial-Econometrics)
 - [202602-Financial-Econometrics](https://github.com/HWTeng-Teaching/202602-Financial-Econometrics)
+
+  
+#### Tips in preparing a manuscript?
+
+<!--
+
+
+## 202509 Machine Learning and FinTech
+
+- [GitHUB REPO](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
+- [README](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
 
 
 ## 202509 Doctoral Seminar
@@ -38,14 +46,6 @@ Wednesday: 1730 - 1930 地點 A-315
 - [Demo Data](https://drive.google.com/file/d/1-DgygaC-DnCbBdnqrjNPZ0FImfreHeMU/view?usp=sharing)
 
 
-### 202509 Machine Learning and FinTech
-
-- [GitHUB REPO](https://github.com/HWTeng-Teaching/202509-ML-FinTech)
-- [README](https://docs.google.com/spreadsheets/d/16vZL97FUH8cIE6eOh08TlufchqXW_5yMxyUyCmUBQvk/edit?usp=drive_link)
-  
-#### Tips in preparing a manuscript?
-
-<!--
 1.---> 
 
 <!--
