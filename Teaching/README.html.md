@@ -19,6 +19,14 @@ title: Teaching
 - Tuesday: 1730 - 1930 地點 A-315
 - Wednesday: 1730 - 1930 地點 A-315
 
+
+### Homework Assignments
+
+For example: C10S01Q13 means Question 13 of Section 10.1. 
+C: Chapter
+S: Section
+Q: question 
+
 ### HW0302
 
 - C10S01Q13-Q15
