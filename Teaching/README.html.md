@@ -6,9 +6,9 @@ title: Teaching
 # Teaching
 
 
-- [Statistics (English)](https://github.com/HWTeng-Teaching/Statistics)
-- [Financial Econometrics (English)](https://github.com/HWTeng-Teaching/Financial-Econometrics)
-- [Machine Learning & FinTech (English)](https://github.com/HWTeng-Teaching/ML-FinTech)
+- [Statistics (Lectured in English)](https://github.com/HWTeng-Teaching/Statistics)
+- [Financial Econometrics (Lectured in English)](https://github.com/HWTeng-Teaching/Financial-Econometrics)
+- [Machine Learning & FinTech (Lectured in English)](https://github.com/HWTeng-Teaching/ML-FinTech)
 
 ## 202602 Statistics
 
