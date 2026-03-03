@@ -12,8 +12,13 @@ title: Teaching
 
 ## 202602 Statistics
 
-- [README: 1) Grading, 2) Weekly plan, 3) Survival Tips, 4) Cold Calls, 5) HW](https://docs.google.com/spreadsheets/d/1rQHM7CxNcuFiEzJQjNFsadMA3_9VvDoxx0XZo_PNWjA/edit?usp=sharing)
 - [202602-Statistics-II](https://github.com/HWTeng-Teaching/202602-Statistics-II)
+- [README](https://docs.google.com/spreadsheets/d/1rQHM7CxNcuFiEzJQjNFsadMA3_9VvDoxx0XZo_PNWjA/edit?usp=sharing)
+  1. Grading
+  2. Weekly plan
+  3. Survival Tips
+  4. Cold Calls
+  5. Homework Assignments
 
 ### 助教課 
 - Tuesday: 1730 - 1930 地點 A-315
