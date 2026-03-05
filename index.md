@@ -12,10 +12,11 @@ theme: jekyll-theme-cayman  # Change theme if needed
 
 I am a Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). I am the founder and director of the [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html), an independent research initiative in FinTech and statistical modeling.
 
-✉️ Contact: hwteng@nycu.edu.tw<br>
 🎓 [Teaching](https://venteng.github.io/Teaching/README.html)<br>
 📚 [Publications](https://venteng.github.io/Publication.html)<br>
-🌟 [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html) & [Lab Members](https://venteng.github.io/LAB_Recruitment/Students.html)<br>
+🌟 [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html)<br>  
+🧑‍🎓 [Lab Members](https://venteng.github.io/LAB_Recruitment/Students.html)<br>
+✉️ Contact: hwteng@nycu.edu.tw<br>
 
 
 ## 🎓 Academic Positions
