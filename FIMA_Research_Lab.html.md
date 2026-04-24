@@ -15,6 +15,11 @@ FIMA Research Lab is an independent research initiative founded in October 2010 
 
 We are eager to partner with industry leaders, startups, and organizations to co-create practical solutions that unlock the intrinsic value of data through interdisciplinary knowledge in math, statistics, and finance. If you're ready to explore transformative opportunities together, we welcome your contact—let's collaborate!
 
+
+## Talks
+
+- 20260424 [Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility](), 三系演講課, NCCU.  
+
 ## Ongoing Research Projects
 
 Project Status
