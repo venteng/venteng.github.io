@@ -18,7 +18,7 @@ We are eager to partner with industry leaders, startups, and organizations to co
 
 ## Talks
 
-- 20260424 [Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility](), 三系演講課, NCCU.  
+- 20260424 [Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility](https://drive.google.com/file/d/1s6G4wdECemHxHYuVPwcrFmlppIIQ1Tv9/view?usp=drive_link), 三系演講課, NCCU.  
 
 ## Ongoing Research Projects
 
