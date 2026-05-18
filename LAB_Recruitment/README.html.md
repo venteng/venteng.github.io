@@ -9,16 +9,7 @@ title: LAB Recruitment
 
 In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find our [lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s theses or projects led to published papers — a great way to see what’s possible when you commit to excellence.
 
-We emphasize research that is transparent, reproducible, and contributes meaningfully to the literature and society. And, we’re looking for students who demonstrate:
-- Passion and curiosity for learning
-- Strong execution and resilience
-- Leadership and teamwork spirit
-- Good presentation and communication skills
-- Solid foundations in math, statistics, machine learning, coding, and finance
-
-If you’re driven, curious, and eager to make your research count — we’d love to work with you. The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
-
-
+---
 ## What we value
 
 This isn't a list of rules. It's a description of the lab we're trying to be together.
@@ -46,6 +37,9 @@ The students who get the strongest letters from me share a pattern. They ask bef
 If you're not sure where you stand, ask me directly. I'll tell you, privately and honestly. Knowing in month 4 gives you time to change course; finding out in month 11 doesn't.
 
 ---
+
+If you’re driven, curious, and eager to make your research count — we’d love to work with you. The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
+
 
 ### 1. FinTech with machine learning and AI
 
