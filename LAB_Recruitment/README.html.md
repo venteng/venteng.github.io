@@ -25,6 +25,12 @@ Our lab explores machine learning and AI, emphasizing unsupervised learning, sup
 ### 2. Financial engineering with statistical models
 We specialize in time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
 
+## Before submitting your application
+
+I will give you project scores seriously based on your progress. Your 
+2. For the first semester, you have to finish Introduction, Literature Review, Data, and Research Design.
+3. In the second semeseter, you have to finish the empirical analysis and finish the first draft of the manuscript. 
+
 ## Interested in joining? 
 
 Let’s make an impact together!
