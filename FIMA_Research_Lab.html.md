@@ -54,18 +54,42 @@ Project Status
 - 📄 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (wit Howard and Elvis)<br>
 - 🧩 Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
 
+---
 
 ## Join Our Lab 
 
 If you’re driven, curious, and eager to make your research count — we’d love to work with you. In our lab, you will be trained to write a high-quality master’s thesis with the potential to become a journal publication (preferably in SCIE or SSCI journals). You can find our [lab members](https://venteng.github.io/LAB_Recruitment/Students.html) whose master’s theses or projects led to published papers — a great way to see what’s possible when you commit to excellence.
 
-We emphasize research that is transparent, reproducible, and contributes meaningfully to the literature and society. And, we’re looking for students who demonstrate:
-- Passion and curiosity for learning
-- Strong execution and resilience
-- Leadership and teamwork spirit
-- Good presentation and communication skills
-- Solid foundations in math, statistics, machine learning, coding, and finance
 
+
+---
+## What we value
+
+This isn't a list of rules. It's a description of the lab we're trying to be together.
+
+- Passion. The first step to exceeding yourself is wanting to.
+- Resilience. Negative feedback is information, not a verdict. Every paper here has been criticized, including mine.
+- Time management. Research is built by breaking big questions into small doable pieces. Half the degree is learning this.
+- Leadership. At some point you'll need to bring co-authors, juniors, and reviewers along with you. Practice in lab meetings.
+- Presentation. Oral presentation is the first signal others use to evaluate you. We rehearse it weekly because it matters.
+- Core knowledge. Math, statistics, coding, finance. No shortcuts. The lab supports you while you do the work.
+
+If you're wondering whether you have "enough" of these to belong here — you do, otherwise I wouldn't have admitted you. The question is whether you'll grow them. I'll help.
+
+---
+### Internships vs. lab work
+
+I know the job market is competitive, and I know many of you are doing internships. I'm not asking you to drop yours. But you need to understand a structural fact:
+
+Internships and lab work are separate accounts. Time spent on one does not count as progress on the other. When your stage gate slips because you were busy at an internship, that's a real cost on the lab side, regardless of how good a reason you had.
+
+And the part students often discover too late: if I cannot see your research ownership, I will not write you a recommendation letter. This isn't a punishment. A letter from me is valuable to you because it describes specific things I've observed about your research thinking — how you frame problems, handle being stuck, respond to feedback, what you produced when no one was forcing you to. Without that material, the letter would be empty, and an empty letter doesn't help you.
+
+The students who get the strongest letters from me share a pattern. They ask before they're stuck for a week. They push back when my suggestion doesn't fit their data. They propose, they don't just execute. They show up with messy work-in-progress, not polished slides. They tell me when their progress is slipping, before I notice.
+
+If you're not sure where you stand, ask me directly. I'll tell you, privately and honestly. Knowing in month 4 gives you time to change course; finding out in month 11 doesn't.
+
+---
 The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
 
 1. FinTech with machine learning and AI: Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications in FinTech
