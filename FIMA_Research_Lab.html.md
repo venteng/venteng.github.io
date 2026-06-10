@@ -19,8 +19,9 @@ We are eager to partner with industry leaders, startups, and organizations to co
 ## Talks
 
 - [Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility](https://drive.google.com/file/d/1EMv6KFuvwVQ6ayOhfgCO1BglxnPTsbh0/view?usp=sharing)
-  - 20260424 國立政治大學管理學院，三系演講課.
-  - 20260529 國立台灣大學，資料科學學程.   
+  - 20260319 國立清華大學計量財務金融學系
+  - 20260424 國立政治大學管理學院，金融、國貿、財管三系學術演講.
+  - 20260529 國立台灣大學資料科學學位學程
 - [Financial analytics of inverse BTC options in a stochastic volatility world](https://drive.google.com/file/d/1SInCNYfEkuj62dolDctsGkae4PZ8CCQl/view?usp=drive_link)
   - 20260606 2026 AIDA Conference, Bucharest University of Economics Studies, Romania
 
