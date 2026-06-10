@@ -23,7 +23,7 @@ We are eager to partner with industry leaders, startups, and organizations to co
   - 20260424 國立政治大學管理學院，金融、國貿、財管三系學術演講.
   - 20260529 國立台灣大學資料科學學位學程
 - [Financial analytics of inverse BTC options in a stochastic volatility world](https://drive.google.com/file/d/1SInCNYfEkuj62dolDctsGkae4PZ8CCQl/view?usp=drive_link)
-  - 20260606 [2026 AIDA Conference, Bucharest University of Economics Studies, Romania](https://www.theida.net/aida-conf/)
+  - 20260606 [2026 AIDA Conference](https://www.theida.net/aida-conf/), Bucharest University of Economics Studies, Romania
 
 ## Ongoing Research Projects
 
