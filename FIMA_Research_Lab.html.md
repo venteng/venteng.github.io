@@ -15,8 +15,7 @@ FIMA Research Lab is an independent research initiative founded in October 2010 
 
 We are eager to partner with industry leaders, startups, and organizations to co-create practical solutions that unlock the intrinsic value of data through interdisciplinary knowledge in math, statistics, and finance. If you're ready to explore transformative opportunities together, we welcome your contact—let's collaborate!
 
-
-## Talks
+## Recent talks
 
 - [Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility](https://drive.google.com/file/d/1EMv6KFuvwVQ6ayOhfgCO1BglxnPTsbh0/view?usp=sharing)
   - 20260319 國立清華大學計量財務金融學系
@@ -24,6 +23,18 @@ We are eager to partner with industry leaders, startups, and organizations to co
   - 20260529 國立台灣大學資料科學學位學程
 - [Financial analytics of inverse BTC options in a stochastic volatility world](https://drive.google.com/file/d/1SInCNYfEkuj62dolDctsGkae4PZ8CCQl/view?usp=drive_link)
   - 20260606 [2026 AIDA Conference](https://www.theida.net/aida-conf/), Bucharest University of Economics Studies, Romania
+
+## Interested in joining? Let’s make an impact together!
+
+The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
+
+1. FinTech with machine learning and AI: Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications in FinTech
+
+2. Financial engineering with statistical models: We specialize in time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
+
+- [Email me](mailto:hwteng@nycu.edu.tw) your (1) CV, (2) transcripts, and (3) a short statement of purpose (150 words max).  
+- Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
+- If you are from a different department, we encourage you to review the suggested [course plan](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5997&serno=b1153a31-aa1c-46a2-8205-b611f9cffa7c) to help build a solid foundation in finance.
 
 ## Ongoing Research Projects
 
@@ -58,17 +69,3 @@ Project Status
 - 🔧 Financial analytics of inverse BTC options in a stochastic volatility world (with Wolfgang)<br>
 - 📄 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (wit Howard and Elvis)<br>
 - 🧩 Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
-
-
-### Interested in joining? Let’s make an impact together!
-
-The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
-
-1. FinTech with machine learning and AI: Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications in FinTech
-
-2. Financial engineering with statistical models: We specialize in time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
-
-
-- [Email me](mailto:hwteng@nycu.edu.tw) your (1) CV, (2) transcripts, and (3) a short statement of purpose (150 words max).  
-- Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
-- If you are from a different department, we encourage you to review the suggested [course plan](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5997&serno=b1153a31-aa1c-46a2-8205-b611f9cffa7c) to help build a solid foundation in finance.
