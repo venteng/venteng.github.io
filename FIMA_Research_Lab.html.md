@@ -27,7 +27,7 @@ We are eager to partner with industry leaders, startups, and organizations to co
   - 20260612 [Quantitative Finance Conference 2026](https://quantitative-finance-conference-2026.pages.dev), 10–12 June 2026, Singapore
 Center for Quantitative Finance, National University of Singapore
   - 20260626 [35th South Taiwan Statistics Conference](https://stsc35.stat.ncku.edu.tw), June 25 - 26, 2026, Department of Statistics and Data Science, National Cheng Kung University, Tainan City
-  - 20261101 [Digital Finance for Supervision](https://digital-ai-finance.github.io/digital-finance-supervision/), MSCA DIGITAL Network Workshop at the European Central Bank, Nov 30, 2026, European Central Bank, Frankfurt am Main, Germany
+  - 20261130 [Digital Finance for Supervision](https://digital-ai-finance.github.io/digital-finance-supervision/), MSCA DIGITAL Network Workshop at the European Central Bank, Nov 30, 2026, European Central Bank, Frankfurt am Main, Germany
 
 ## Interested in joining? Let’s make an impact together!
 
