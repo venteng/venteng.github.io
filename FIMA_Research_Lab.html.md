@@ -19,7 +19,7 @@ The research of our lab spans several key areas, with Lab Members actively colla
 2. Financial engineering with statistical models: We specialize in financial market wealth and risk management, and pricing and hedging financial derivatives.
  
 
-## Invited talks
+## Recent invited talks
 
 - [Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility](https://drive.google.com/file/d/1EMv6KFuvwVQ6ayOhfgCO1BglxnPTsbh0/view?usp=sharing)
   - Mar 19, 2026 National Tsing Hua University, Department of Quantitative Finance
