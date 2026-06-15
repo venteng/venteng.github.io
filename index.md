@@ -39,7 +39,8 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## Visiting & Affiliated Appointments
 
-### IDA Institute of Digital Assets, Romania [(IDA)](https://ida.ase.ro)
+### IDA Institute of Digital Assets [(IDA)](https://ida.ase.ro), The Bucharest University of Economic Studies: ASE Bucuresti
+, Romania
 - Experienced Researcher (2024 - Present)
 
 ### Humboldt-Universität zu Berlin, Germany [(HU-berlin)](https://www.hu-berlin.de/en)
