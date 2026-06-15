@@ -19,7 +19,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 ✉️ hwteng@nycu.edu.tw<br>
 
 
-## 🎓 Academic Positions
+## Academic Positions
 
 ### National Yang Ming Chiao Tung University [(NYCU)](https://www.nycu.edu.tw/)
 - [Department of Information Management and Finance](https://imf.nctu.edu.tw/)
@@ -35,6 +35,10 @@ I am a Professor in the Department of Information Management and Finance at Nati
   - Assistant Professor (Aug 2010 - Jul 2016)
 - Joint Appointment, [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW) (Aug 2016 - Jan 2017)
 
+---
+
+## Visiting & Affiliated Appointments
+
 ### IDA Institute of Digital Assets, Romania [(IDA)](https://ida.ase.ro)
 - Experienced Researcher (2024 - Present)
 
@@ -43,7 +47,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ---
 
-## 🎓 Education
+## Education
 
 ### The Pennsylvania State University [(PSU)](https://www.psu.edu/)
 
@@ -58,7 +62,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ---
 
-## 🏅 Professional Development
+## Professional Development
 
 ### Oxford EMI Training ([Oxford EMI](https://www.oxfordemi.co.uk))
 - English Medium Instruction (EMI) Certificate for University Lecturers (June 2024)
