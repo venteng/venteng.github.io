@@ -14,6 +14,11 @@ FIMA Research Lab is an independent research initiative founded in October 2010 
 
 We're a hub for international collaboration, academic publishing, and mentoring in AI-powered finance, and we bring hands-on consulting experience to real-world problems. We'd love to team up with industry leaders, startups, and organizations to build solutions grounded in math, statistics, and finance. If that sounds like you, get in touch—let's collaborate!
 
+The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
+1. FinTech with machine learning and AI: Our lab explores machine learning and AI with applications in profitable-trading strategies and FinTech
+2. Financial engineering with statistical models: We specialize in financial market wealth and risk management, and pricing and hedging financial derivatives.
+ 
+
 ## Invited talks
 
 - [Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility](https://drive.google.com/file/d/1EMv6KFuvwVQ6ayOhfgCO1BglxnPTsbh0/view?usp=sharing)
@@ -30,15 +35,9 @@ Center for Quantitative Finance, National University of Singapore
 
 ## Interested in joining? Let’s make an impact together!
 
-The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
-
-1. FinTech with machine learning and AI: Our lab explores machine learning and AI with applications in profitable-trading strategies and FinTech
-
-2. Financial engineering with statistical models: We specialize in financial market wealth and risk management, and pricing and hedging financial derivatives. 
-
-- [Email me](mailto:hwteng@nycu.edu.tw) your (1) CV, (2) transcripts, and (3) a short statement of purpose (150 words max).  
-- Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
-- If you are from a different department, we encourage you to review the suggested [course plan](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5997&serno=b1153a31-aa1c-46a2-8205-b611f9cffa7c) to help build a solid foundation in finance.
+1. [Email me](mailto:hwteng@nycu.edu.tw) your (1) CV, (2) transcripts, and (3) a short statement of purpose (150 words max).  
+2. Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
+3. If you are from a different department, we encourage you to review the suggested [course plan](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5997&serno=b1153a31-aa1c-46a2-8205-b611f9cffa7c) to help build a solid foundation in finance.
 
 ## Ongoing Research Projects
 
