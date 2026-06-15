@@ -21,7 +21,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## Academic Positions
 
-### National Yang Ming Chiao Tung University [(NYCU)](https://www.nycu.edu.tw/)
+### [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)
 - [Department of Information Management and Finance](https://imf.nctu.edu.tw/)
   - Professor (Aug 2024 - Present)
   - Associate Professor (Feb 2017 - July 2024)
@@ -29,7 +29,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 - Joint Appointment, [Department of Applied Mathematics](https://www.math.nycu.edu.tw/)  (Oct 2024 - Present)
 
 
-### National Central University [(NCU)](https://www.ncu.edu.tw/)
+### [National Central University](https://www.ncu.edu.tw/)
 - [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/) 
   - Associate Professor (Aug 2016 - Jan 2017)
   - Assistant Professor (Aug 2010 - Jul 2016)
@@ -39,25 +39,25 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## Visiting & Affiliated Appointments
 
-### IDA Institute of Digital Assets [(IDA)](https://ida.ase.ro), The Bucharest University of Economic Studies, Romania
+### [IDA Institute of Digital Assets](https://ida.ase.ro), The Bucharest University of Economic Studies, Romania
 - Experienced Researcher (2024 - Present)
 
-### Humboldt-Universität zu Berlin, Germany [(HU-berlin)](https://www.hu-berlin.de/en)
+### [Humboldt-Universität zu Berlin, Germany](https://www.hu-berlin.de/en)
 - Visiting Scholar (Summer 2011, Summer 2012, Summer 2023)
 
 ---
 
 ## Education
 
-### The Pennsylvania State University [(PSU)](https://www.psu.edu/)
+### [The Pennsylvania State University](https://www.psu.edu/)
 
 - Ph.D. in Statistics (2010)  
 
-### National Taiwan University [(NTU)](https://www.ntu.edu.tw/)
-- MBA in Finance (2004)  
-- BS in Mathematics (2001)
+### [National Taiwan University](https://www.ntu.edu.tw/)
+- MBA in [Finance](https://finance.ntu.edu.tw) (2004)
+- BS in [Mathematics](https://math.ntu.edu.tw) (2001)
 
-### Johannes Kepler University, Austria [(JKU)](https://www.jku.at) 
+### [Johannes Kepler University, Austria](https://www.jku.at) 
 - Exchange Student (Aug 1999 - Jan 2000)
 
 ---
