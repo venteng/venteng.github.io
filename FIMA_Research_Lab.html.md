@@ -51,7 +51,7 @@ Project Status
 - 🔧 Revision in progress
 
 ### Explainable AI & FinTech
-- 🔧 AI Act Compliance in Credit Scoring: Reconciling Interpretability and Accuracy via Quadratic Terms and powershap (with Hung-Ying, Heng-Shiu, Mark, YC)
+
 - 📄 Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance (with Paul, Yenchang, Ming-Hsuan)<br>
 - 🧩 Comprehensive Financial Statement Data and Feature Selection in U.S. Corporate Bankruptcy Prediction (with Mabel)<br>
 - 🧩 A SHAP-Weighted RFM Framework for Balancing Accuracy and Interpret-ability in Credit Card Fraud Detection (with Chrissy)<br>
@@ -60,8 +60,8 @@ Project Status
 ### Trading & Portfolio Management 
 
 - 🔧 Why Feature Selection Still Matters in Bitcoin Return Forecasting (with Yen-Ting and YC )<br>
-- 🔧 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
 - 🔧 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Chuen-Chun, Wei-Cheng, and Yen-Ming)<br>
+- 🚀 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
 - 🧩 Forecasting Realized Volatility with Multi-Agent Architectures (with Elvis)<br>
 - 🧩 A Hybrid Deep Learning–Association Rule Model for Forecasting S&P 500 Sector Returns (with Ben)<br>
 
