@@ -34,9 +34,9 @@ Center for Quantitative Finance, National University of Singapore
 
 The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
 
-1. FinTech with machine learning and AI: Our lab explores machine learning and AI, emphasizing unsupervised learning, supervised learning, and large language models (LLMs), with applications in FinTech
+1. FinTech with machine learning and AI: Our lab explores machine learning and AI with applications in profitable-trading strategies and FinTech
 
-2. Financial engineering with statistical models: We specialize in time series and graphical models, with applications in financial market risk management, and pricing and hedging financial derivatives. 
+2. Financial engineering with statistical models: We specialize in financial market wealth and risk management, and pricing and hedging financial derivatives. 
 
 - [Email me](mailto:hwteng@nycu.edu.tw) your (1) CV, (2) transcripts, and (3) a short statement of purpose (150 words max).  
 - Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended but not required.  
