@@ -14,19 +14,19 @@ FIMA Research Lab is an independent research initiative founded in October 2010 
 
 We're a hub for international collaboration, academic publishing, and mentoring in AI-powered finance, and we bring hands-on consulting experience to real-world problems. We'd love to team up with industry leaders, startups, and organizations to build solutions grounded in math, statistics, and finance. If that sounds like you, get in touch—let's collaborate!
 
-## Recent talks
+## Invited talks
 
 - [Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility](https://drive.google.com/file/d/1EMv6KFuvwVQ6ayOhfgCO1BglxnPTsbh0/view?usp=sharing)
-  - 20260319 國立清華大學計量財務金融學系
-  - 20260424 國立政治大學管理學院，金融、國貿、財管三系學術演講.
-  - 20260529 國立台灣大學資料科學學位學程
+  - Mar 19, 2026 National Tsing Hua University, Department of Quantitative Finance
+  - Apr 24, 2026 National Chengchi University, College of Commerce (joint seminar of the Finance, International Business, and Money & Banking departments)
+  - May 29, 2026  National Taiwan University, Data Science Degree Program
 - [Financial analytics of inverse BTC options in a stochastic volatility world](https://drive.google.com/file/d/1SInCNYfEkuj62dolDctsGkae4PZ8CCQl/view?usp=drive_link)
-  - 20260606 [2026 AIDA Conference](https://www.theida.net/aida-conf/), Bucharest University of Economics Studies, Romania
+  - Jun 6, 2026 [2026 AIDA Conference](https://www.theida.net/aida-conf/), Bucharest University of Economics Studies, Romania
 - [Trading BTC with robust pricing kernels](https://drive.google.com/file/d/12QAMMeezgmZWwRrfbLIYFSsUjZEQklvZ/view?usp=sharing)
-  - 20260612 [Quantitative Finance Conference 2026](https://quantitative-finance-conference-2026.pages.dev), 10–12 June 2026, Singapore
+  - Jun 12, 2026 [Quantitative Finance Conference 2026](https://quantitative-finance-conference-2026.pages.dev), 10–12 June 2026, Singapore
 Center for Quantitative Finance, National University of Singapore
-  - 20260626 [35th South Taiwan Statistics Conference](https://stsc35.stat.ncku.edu.tw), June 25 - 26, 2026, Department of Statistics and Data Science, National Cheng Kung University, Tainan City
-  - 20261130 [Digital Finance for Supervision](https://digital-ai-finance.github.io/digital-finance-supervision/), MSCA DIGITAL Network Workshop at the European Central Bank, Nov 30, 2026, European Central Bank, Frankfurt am Main, Germany
+  - Jun 26, 2026 [35th South Taiwan Statistics Conference](https://stsc35.stat.ncku.edu.tw), June 25 - 26, 2026, Department of Statistics and Data Science, National Cheng Kung University, Tainan City
+  - Nov 30, 2026 [Digital Finance for Supervision](https://digital-ai-finance.github.io/digital-finance-supervision/), MSCA DIGITAL Network Workshop at the European Central Bank, Nov 30, 2026, European Central Bank, Frankfurt am Main, Germany
 
 ## Interested in joining? Let’s make an impact together!
 
