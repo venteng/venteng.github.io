@@ -62,7 +62,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ### Oxford EMI Training ([Oxford EMI](https://www.oxfordemi.co.uk))
 - English Medium Instruction (EMI) Certificate for University Lecturers (June 2024)
-- 
+
 ### Harvard Business School [(HBS)](https://www.exed.hbs.edu)
 - The Global Colloquium on Participant-Centered Learning (GloColl) (Summer 2025, Winter 2026)
 
