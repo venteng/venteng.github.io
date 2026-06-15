@@ -42,11 +42,7 @@ The research of our lab spans several key areas, with Lab Members actively colla
 
 ## Ongoing Research Projects
 
-Project Status
-- 🧩 In preparation
-- 📄 Working paper
-- 🚀 Submitted
-- 🔧 Revision in progress
+Project Status:  🧩 In preparation 📄 Working paper 🚀 Submitted 🔧 Revision in progress
 
 ### Explainable AI & FinTech
 
