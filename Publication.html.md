@@ -8,7 +8,7 @@ title: Publication
 ## 1. xAI & FinTech
 
 1. Hung-Yin Chen, Henghsiu Tsai, PingHan Chen, **Huei-Wen Teng**. AI Act Compliance in Credit Scoring: Reconciling
-Interpretability and Accuracy via Quadratic Terms and powershap. To appear at [*Applied Economics Letters*](https://drive.google.com/file/d/19srFx-bEoBUVXPLZLSZ0Lpe_XccwiyRu/view?usp=sharing).
+Interpretability and Accuracy via Quadratic Terms and powershap. To appear at [*Applied Economics Letters*](https://drive.google.com/file/d/19srFx-bEoBUVXPLZLSZ0Lpe_XccwiyRu/view?usp=sharing), 2026.
 
 1. **Huei-Wen Teng**, Ming-Hsuan Kang, I-Han Lee, and Le-Chi Bai. Bridging accuracy and interpretability: A rescaled cluster-then-predict approach for enhanced credit scoring. [*International Review of Financial Analysis*](https://www.sciencedirect.com/science/article/pii/S1057521923005215), 91:103005, 2024. (SSCI IF = 8.2, RF: 4/111=3.6%) [[PDF]](https://drive.google.com/file/d/1SJQy5ez4ZxAX0cSXlNQ3C12EPWNI_d01/view?usp=sharing) <!--[[GitHub]](https://github.com/venteng/teng2024bridging)  -->
 2. Le Quoc Tuan, Chih-Yung Lin, and **Huei-Wen Teng**. Machine learning methods for predicting failures of US commercial bank. [*Applied Economics Letters*](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2186353), pages 1–7, 2023. [[PDF]](https://drive.google.com/file/d/1S1w3IYgIpzqOKk7a-beVzadGd7x32OgX/view?usp=sharing)
