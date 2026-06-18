@@ -16,10 +16,15 @@ Interpretability and Accuracy via Quadratic Terms and powershap. To appear at *A
 
 ## 2. Trading and Portfolio Management
 
-1. **Huei-Wen Teng** and Yu-Hsien Li. Can deep neural networks outperform Fama-Macbeth regression and other supervised learning approaches in stock returns prediction with asset-pricing factors? [*Digital Finance*](https://link.springer.com/article/10.1007/s42521-023-00076-y), 5(1):149–182, 2023. [[PDF]](https://drive.google.com/file/d/1TG0dP7BN3NfIyRo2lLmaLnf4Pe2Xzs_B/view?usp=sharing)
-2. **Huei Wen Teng**, Yu-Hsien Li, and Shang-Wen Chang. Machine learning in empirical asset pricing models. In 2020 International Conference on Pervasive Artificial Intelligence (ICPAI), pages 123–129, 2020. [[PDF]](https://drive.google.com/file/d/1voBxpX5MPVUR5vnabrUhR_QOWsV1Gp0U/view?usp=sharing)
-3. Wei-Hung Lin, **Huei-Wen Teng**, and Chi-Chun Yang. A heteroskedastic Black-Litterman portfolio optimization model with views derived from a predictive regression. In Cheng Few Lee and John Lee, editors, Handbook of Financial Econometrics, Mathematics, Statistics, and Machine Learning, volume 1, chapter 14, pages 563–581. World Scientific, Hackensack, NJ, 2020.
-4. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. On-line VWAP trading strategies. *Sequential Analysis*, 29(3):292–310, 2010. [[PDF]](https://drive.google.com/file/d/1BFxUeyDwLSPwOQI1-Ut6L3IrhrO3YlYV/view?usp=sharing) 
+1. **Huei-Wen Teng**, Yu-Chuan Shih, and Ming-Hsuan Kang. Qualitative insights meet quantitative
+forecasts with GPT-4o mini for Taiwan earnings prediction, 2025d. Forthcoming at *Journal of the
+Chinese Statistical Association*
+2. Yu-Jiu Chen, Chen-Yen Hsieh, **Huei-Wen Teng**, Ming-Che Hu, and Alex YiHou Huang. Risk parity
+strategies with risk factors, 2025. Forthcoming at *Journal of Risk* (SSCI IF 0.5, 203/242=83.9%)
+3. **Huei-Wen Teng** and Yu-Hsien Li. Can deep neural networks outperform Fama-Macbeth regression and other supervised learning approaches in stock returns prediction with asset-pricing factors? [*Digital Finance*](https://link.springer.com/article/10.1007/s42521-023-00076-y), 5(1):149–182, 2023. [[PDF]](https://drive.google.com/file/d/1TG0dP7BN3NfIyRo2lLmaLnf4Pe2Xzs_B/view?usp=sharing)
+4. **Huei Wen Teng**, Yu-Hsien Li, and Shang-Wen Chang. Machine learning in empirical asset pricing models. In 2020 International Conference on Pervasive Artificial Intelligence (ICPAI), pages 123–129, 2020. [[PDF]](https://drive.google.com/file/d/1voBxpX5MPVUR5vnabrUhR_QOWsV1Gp0U/view?usp=sharing)
+5. Wei-Hung Lin, **Huei-Wen Teng**, and Chi-Chun Yang. A heteroskedastic Black-Litterman portfolio optimization model with views derived from a predictive regression. In Cheng Few Lee and John Lee, editors, Handbook of Financial Econometrics, Mathematics, Statistics, and Machine Learning, volume 1, chapter 14, pages 563–581. World Scientific, Hackensack, NJ, 2020.
+6. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. On-line VWAP trading strategies. *Sequential Analysis*, 29(3):292–310, 2010. [[PDF]](https://drive.google.com/file/d/1BFxUeyDwLSPwOQI1-Ut6L3IrhrO3YlYV/view?usp=sharing) 
 
 ## 3. Financial Market Risk Management 
 
