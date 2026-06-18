@@ -21,13 +21,13 @@ The research of our lab spans several key areas, with Lab Members actively colla
 
 ## Recent invited talks
 
-- [Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility](https://drive.google.com/file/d/1EMv6KFuvwVQ6ayOhfgCO1BglxnPTsbh0/view?usp=sharing)
+- Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility [(slides)](https://drive.google.com/file/d/1EMv6KFuvwVQ6ayOhfgCO1BglxnPTsbh0/view?usp=sharing)
   - Mar 19, 2026 National Tsing Hua University, Department of Quantitative Finance
   - Apr 24, 2026 National Chengchi University, College of Commerce (joint seminar of the Finance, International Business, and Money & Banking departments)
   - May 29, 2026  National Taiwan University, Data Science Degree Program
-- [Financial analytics of inverse BTC options in a stochastic volatility world](https://drive.google.com/file/d/1SInCNYfEkuj62dolDctsGkae4PZ8CCQl/view?usp=drive_link)
+- Financial analytics of inverse BTC options in a stochastic volatility world [(slides)](https://drive.google.com/file/d/1SInCNYfEkuj62dolDctsGkae4PZ8CCQl/view?usp=drive_link)
   - Jun 6, 2026 [2026 AIDA Conference](https://www.theida.net/aida-conf/), Bucharest University of Economics Studies, Romania
-- [Trading BTC with robust pricing kernels](https://drive.google.com/file/d/12QAMMeezgmZWwRrfbLIYFSsUjZEQklvZ/view?usp=sharing)
+- Trading BTC with robust pricing kernels [(slides)](https://drive.google.com/file/d/12QAMMeezgmZWwRrfbLIYFSsUjZEQklvZ/view?usp=sharing)
   - Jun 12, 2026 [Quantitative Finance Conference 2026](https://quantitative-finance-conference-2026.pages.dev), 10–12 June 2026, Singapore
 Center for Quantitative Finance, National University of Singapore
   - Jun 26, 2026 [35th South Taiwan Statistics Conference](https://stsc35.stat.ncku.edu.tw), June 25 - 26, 2026, Department of Statistics and Data Science, National Cheng Kung University, Tainan City
