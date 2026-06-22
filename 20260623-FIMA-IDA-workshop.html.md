@@ -15,9 +15,7 @@ digital assets, FinTech, and AI.
 
 **Date:** June 23, 2026 (Tuesday)<br>
 **Venue:** M402, NYCU <br>
-**Lunch:** 義早早午餐 (12:20) <br>
-
-**Local organizer**: Tiffany
+**Local organizer**: Tiffany<br>
 **Local committee**: Claire, Nick, Jack
 
 ### Session 1 — Chair: Jack
@@ -29,7 +27,7 @@ digital assets, FinTech, and AI.
 | | 20 | Elvis | Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility |
 | | 20 | Chrissy | An Explainable and Cost-Sensitive Human-in-the-Loop Framework for Credit Card Fraud Detection |
 
-## Break — 11:02 (8 min)
+**Break — 11:02**
 
 ### Session 2 — Chair: Claire
 
@@ -38,7 +36,7 @@ digital assets, FinTech, and AI.
 | 11:10 | 20 | David Jheng ² | FINDER-LLM: Financial Anomaly Detection and Recognition using Large Language Models |
 | | 20 | Jeremy, David, Maeve | Machine Learning for S&P 500 Excess Return Forecasting: A Walk-Forward Pipeline with Multiple-Testing Robustness |
 
-**Lunch — 12:30**
+**Lunch — 12:20 ** 義早早午餐
 
 ---
 
