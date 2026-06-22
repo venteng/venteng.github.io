@@ -36,7 +36,7 @@ digital assets, FinTech, and AI.
 | 11:10 | 20 | David Jheng ² | FINDER-LLM: Financial Anomaly Detection and Recognition using Large Language Models |
 | | 20 | Jeremy, David, Maeve | Machine Learning for S&P 500 Excess Return Forecasting: A Walk-Forward Pipeline with Multiple-Testing Robustness |
 
-**Lunch — 12:20 ** 義早早午餐
+**Lunch — 12:20** 義早早午餐
 
 ---
 
