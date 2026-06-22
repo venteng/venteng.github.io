@@ -17,7 +17,7 @@ digital assets, FinTech, and AI.
 **Venue:** M402, NYCU <br>
 **Lunch:** 義早早午餐 (12:20) <br>
 
-### Local organizer: Tiffany
+### Local committee: Tiffany, Claire, Nick, Jack
 
 ### Session 1 — Chair: Jack
 
