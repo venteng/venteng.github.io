@@ -1,4 +1,9 @@
-## FIMA–IDA Workshop 2026
+--- 
+layout: default
+title: FIMA–IDA Workshop 2026
+--- 
+
+# FIMA–IDA Workshop 2026
 
 *June 23, 2026 · NYCU*
 
@@ -10,7 +15,7 @@ digital assets, FinTech, and AI.
 
 **Date:** June 23, 2026 (Tuesday)
 **Venue:** M402, NYCU
-**Lunch:** 義早早午餐 (12:30)
+**Lunch:** 義早早午餐 (12:20)
 **Local organizer:** Tiffany
 
 ### Session 1 — Chair: Jack
