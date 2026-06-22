@@ -13,10 +13,11 @@ and Prof. Teng's long-standing network with the IDA Institute of Digital Assets
 and the MSCA program. The workshop centers on interdisciplinary research across
 digital assets, FinTech, and AI.
 
-**Date:** June 23, 2026 (Tuesday)
-**Venue:** M402, NYCU
-**Lunch:** 義早早午餐 (12:20)
-**Local organizer:** Tiffany
+**Date:** June 23, 2026 (Tuesday)<br>
+**Venue:** M402, NYCU <br>
+**Lunch:** 義早早午餐 (12:20) <br>
+
+### Local organizer: Tiffany
 
 ### Session 1 — Chair: Jack
 
@@ -27,7 +28,7 @@ digital assets, FinTech, and AI.
 | | 20 | Elvis | Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility |
 | | 20 | Chrissy | An Explainable and Cost-Sensitive Human-in-the-Loop Framework for Credit Card Fraud Detection |
 
-**Break — 11:02 (8 min)**
+## Break — 11:02 (8 min)
 
 ### Session 2 — Chair: Claire
 
@@ -40,5 +41,5 @@ digital assets, FinTech, and AI.
 
 ---
 
-¹ Owen Chaffard, Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)
+¹ Owen Chaffard, Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)<br>
 ² David Jheng, IDA, Bucharest University of Economic Studies
