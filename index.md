@@ -16,6 +16,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 🧑‍🎓 [Lab Members](https://venteng.github.io/LAB_Recruitment/Students.html)<br>
 📚 [Publications](https://venteng.github.io/Publication.html)<br>
 🌟 [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html)<br>
+🍀 [20260623 FIMA-IDA workshop]( https://github.com/venteng/venteng.github.io/blob/main/20260623-FIMA-IDA-workshop.html)
 ✉️ hwteng@nycu.edu.tw<br>
 
 
