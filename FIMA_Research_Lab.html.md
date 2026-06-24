@@ -19,7 +19,7 @@ The research of our lab spans several key areas, with Lab Members actively colla
 2. Financial engineering with statistical models: We specialize in financial market wealth and risk management, and pricing and hedging financial derivatives.
  
 
-## Recent invited talks
+## Recent invited talks and event
 
 - Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility [[slides]](https://drive.google.com/file/d/1EMv6KFuvwVQ6ayOhfgCO1BglxnPTsbh0/view?usp=sharing)
   - Mar 19, 2026 National Tsing Hua University, Department of Quantitative Finance
@@ -31,7 +31,10 @@ The research of our lab spans several key areas, with Lab Members actively colla
   - Jun 12, 2026 [Quantitative Finance Conference 2026](https://quantitative-finance-conference-2026.pages.dev), 10–12 June 2026, Singapore
 Center for Quantitative Finance, National University of Singapore
   - Jun 26, 2026 [35th South Taiwan Statistics Conference](https://stsc35.stat.ncku.edu.tw), June 25 - 26, 2026, Department of Statistics and Data Science, National Cheng Kung University, Tainan City
-  - Nov 30, 2026 [Digital Finance for Supervision](https://digital-ai-finance.github.io/digital-finance-supervision/), MSCA DIGITAL Network Workshop at the European Central Bank, Nov 30, 2026, European Central Bank, Frankfurt am Main, Germany
+  - Nov 30, 2026 [Digital Finance for Supervision](https://digital-ai-finance.github.io/digital-finance-supervision/), MSCA DIGITAL Network Workshop at the European Central Bank, Nov 30, 2026, European Central Bank, Frankfurt am Main, Germany<br>
+- 🍀 [20260623 FIMA-IDA workshop](https://venteng.github.io/20260623-FIMA-IDA-workshop.html)<br> 
+
+
 
 ## Interested in joining? Let’s make an impact together!
 
