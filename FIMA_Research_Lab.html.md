@@ -32,7 +32,7 @@ The research of our lab spans several key areas, with Lab Members actively colla
 Center for Quantitative Finance, National University of Singapore
   - Jun 26, 2026 [35th South Taiwan Statistics Conference](https://stsc35.stat.ncku.edu.tw), June 25 - 26, 2026, Department of Statistics and Data Science, National Cheng Kung University, Tainan City
   - Nov 30, 2026 [Digital Finance for Supervision](https://digital-ai-finance.github.io/digital-finance-supervision/), MSCA DIGITAL Network Workshop at the European Central Bank, Nov 30, 2026, European Central Bank, Frankfurt am Main, Germany<br>
-- 🍀 [20260623 FIMA-IDA workshop](https://venteng.github.io/20260623-FIMA-IDA-workshop.html)<br> 
+- 🍀 Jun 23, 2026 [FIMA-IDA workshop](https://venteng.github.io/20260623-FIMA-IDA-workshop.html)<br> 
 
 
 
