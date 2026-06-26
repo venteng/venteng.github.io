@@ -84,13 +84,13 @@ Project Status:  🧩 In preparation 📄 Working paper 🚀 Submitted 🔧 Revi
 | Name | Degree and More   |
 |----|-----------|
 | [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Jason|交大資財 M.S.F., 2025/09|
-| [陳怡仁](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) Chen, Paul |交大資財 M.S.F., 2025/07 [[富邦人壽]](https://www.fubon.com/life/)|
-| [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Hsin-Pei Wendy | 交大資財 M.S.F., 2025/07 [(Teng et al., 2025)](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author) [[復華投信]](https://www.fhtrust.com.tw)|
-| [施昱全](http://linkedin.com/in/昱全-施-735a5620b) Shih, Yu-Chuan  James| 交大資財 M.S.F., 2025/07 [(Teng et al., 2025)](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author) [[凱基證券]](https://www.kgi.com.tw/zh-tw/)|
-| [吳柏賢](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) Wu, Howard | 交大資財 M.S.F., 2025/07 [[Cmoney (全曜財金)]](https://www.cmoney.com.tw) |
+| [陳怡仁](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) Chen, Paul |交大資財 M.S.F., 2025/07 |
+| [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Hsin-Pei Wendy | 交大資財 M.S.F., 2025/07 [(Teng et al., 2025)](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)|
+| [施昱全](http://linkedin.com/in/昱全-施-735a5620b) Shih, Yu-Chuan  James| 交大資財 M.S.F., 2025/07 [(Teng et al., 2025)](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)|
+| [吳柏賢](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) Wu, Howard | 交大資財 M.S.F., 2025/07 |
 | 林威承 |交大工管 M.S., 2024/12, [co-advised with Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
-| 陳彥廷 Chen, Yen-Ting |交大資財 M.S.F., 2024/07 [[中國信託銀行]](https://www.ctbcbank.com/twrbo/zh_tw/index.html)|
-| [鄭翔澧](https://www.linkedin.com/in/siang-li-jheng-bb3103334/) Jheng, Siang-Li | 交大資財 M.S.F., 2024/07 [[ASE, Romania]](https://www.google.com/search?client=safari&rls=en&q=institute+of+digital+assets&ie=UTF-8&oe=UTF-8)| 
+| 陳彥廷 Chen, Yen-Ting |交大資財 M.S.F., 2024/07|
+| [鄭翔澧](https://www.linkedin.com/in/siang-li-jheng-bb3103334/) Jheng, Siang-Li | 交大資財 M.S.F., 2024/07| 
 | 吳旻修 Wu, Min-Hsiu | 交大資財 M.S.F., 2024/07 | 
 | [鄭有朋](https://www.linkedin.com/in/you-peng-zheng) |交大資財 B.S., 2024/07   | 
 | [王鳴謙](https://www.linkedin.com/in/ken-wang-b93285201) | 交大資財 B.S., 2024/07  | 
@@ -102,14 +102,14 @@ Project Status:  🧩 In preparation 📄 Working paper 🚀 Submitted 🔧 Revi
 | 蔡昕妤  | 交大資財 B.S., 2024/07  |
 | 潘俞綺 Pan, Yu-Ci | 交大資財 M.S.F., 2023/07 |
 | 呂映葇 Lu, Ying-Rou | 交大資財 M.S.F., 2022/07 |
-| 李亦涵 Lee, I-Han Ian | 交大數據所 M.S., 2022/07, [co-advised with Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)<br> [(Teng et al., 2024)](https://doi.org/10.1016/j.irfa.2023.103005) <br> [[tsmc]](https://www.tsmc.com/chinese)|
+| 李亦涵 Lee, I-Han Ian | 交大數據所 M.S., 2022/07, [co-advised with Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)<br> [(Teng et al., 2024)](https://doi.org/10.1016/j.irfa.2023.103005) <br> |
 | 張詠淇 Chang, Yung-Chi Tom | 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br> [(Chang et al., 2023)](https://www.taifex.com.tw/cht/10/journalView)<br> [榮獲2022New Futures期貨學術與實務交流研討會論文金質獎](https://www.ctee.com.tw/news/20221205700620-431210)|
 | 陳律翔 Chen, Lu-Xiang Jay| 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 Chen, Jasmine | 交大資財 B.S., 2022/07  |  
 | 宋佩芩 Sung, Sammi | 交大資財 B.S., 2022/07  |  
 | 李育賢 Li, Yu-Hsien Bill | 交大資財 M.S.F., 2020/07<br> ([Teng et al 2020](https://ieeexplore.ieee.org/document/9302638); [Teng & Lee, 2023](https://link.springer.com/article/10.1007/s42521-023-00076-y))| 
 | 吳哲杭 Wu, Zhe-Hang Jeff | 交大資財 M.S.F., 2020/07 |
-| 范凱翔 Fan, Tom| 交大應數 B.S., 2020/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br> 榮獲109年度科技部大專生計畫 <br> [[Stat, Ohio State]](https://stat.osu.edu/people)|
+| 范凱翔 Fan, Tom| 交大應數 B.S., 2020/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br> 榮獲109年度科技部大專生計畫 <br> |
 | 林睿瑜 Lin, Phoebe| 交大資財 B.S., 2020/07, 榮獲109年度科技部大專生計畫 |
 | 陸恭葦 Lu, Lucy| 交大資財 B.S., 2020/07  |
 | [張尚文](https://www.linkedin.com/in/jonathan-sw-chang/) Chang, Shang-Wen Jonathan | 交大應數 M.S., 2021/08, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br> [(Teng et al., 2020)](https://ieeexplore.ieee.org/document/9302638) |
