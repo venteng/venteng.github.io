@@ -11,7 +11,12 @@ I teach quantitative courses at NYCU that bridge statistics, finance, and machin
 
 | Course | Level |
 |----|----|
+| Statistics | Executive Master's Program |
 | Statistics (II) | Undergraduate (EMI) |
 | Financial Econometrics | Graduate (EMI) |
 | Machine Learning & FinTech | Graduate (EMI) |
 | Mathematical Statistics | Undergraduate (EMI) |
+
+---
+
+🏠 [Back Home](https://venteng.github.io)

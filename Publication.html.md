@@ -9,7 +9,7 @@ title: Publication
 
 1. Hung-Yin Chen, Henghsiu Tsai, PingHan Chen, **Huei-Wen Teng**. AI Act Compliance in Credit Scoring: Reconciling
 Interpretability and Accuracy via Quadratic Terms and powershap. To appear at *Applied Economics Letters*, 2026. [[PDF]](https://drive.google.com/file/d/19srFx-bEoBUVXPLZLSZ0Lpe_XccwiyRu/view?usp=sharing)
-2. **Huei-Wen Teng**, Ming-Hsuan Kang, I-Han Lee, and Le-Chi Bai. Bridging accuracy and interpretability: A rescaled cluster-then-predict approach for enhanced credit scoring. [*International Review of Financial Analysis*](https://www.sciencedirect.com/science/article/pii/S1057521923005215), 91:103005, 2024. (SSCI IF = 8.2, RF: 4/111=3.6%) [[PDF]](https://drive.google.com/file/d/1SJQy5ez4ZxAX0cSXlNQ3C12EPWNI_d01/view?usp=sharing) <!--[[GitHub]](https://github.com/venteng/teng2024bridging)  -->
+2. **Huei-Wen Teng**, Ming-Hsuan Kang, I-Han Lee, and Le-Chi Bai. Bridging accuracy and interpretability: A rescaled cluster-then-predict approach for enhanced credit scoring. [*International Review of Financial Analysis*](https://www.sciencedirect.com/science/article/pii/S1057521923005215), 91:103005, 2024. (SSCI IF = 8.2, RF: 4/111=3.6%) [[PDF]](https://drive.google.com/file/d/1SJQy5ez4ZxAX0cSXlNQ3C12EPWNI_d01/view?usp=sharing)
 3. Le Quoc Tuan, Chih-Yung Lin, and **Huei-Wen Teng**. Machine learning methods for predicting failures of US commercial bank. [*Applied Economics Letters*](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2186353), pages 1–7, 2023. [[PDF]](https://drive.google.com/file/d/1S1w3IYgIpzqOKk7a-beVzadGd7x32OgX/view?usp=sharing)
 4. **Huei-Wen Teng** and Michael Lee. Estimation procedures of using five alternative machine learning methods for predicting credit card default. [*Review of Pacific Basin Financial Markets and Policies*](https://www.worldscientific.com/doi/10.1142/9789811202391_0101?srsltid=AfmBOoq3lfSGiDIUsufVkcEkn2k1SLf9uPyDebopx5bWwog7KH31npPd), 22 (03):1950021, 2019. [[PDF]](https://drive.google.com/file/d/138QHjTtMKEOBBNp4IF9lACBdqJZk9TRW/view?usp=sharing)
 
@@ -53,15 +53,6 @@ strategies with risk factors, 2025. Forthcoming at *Journal of Risk* (SSCI IF 0.
 4. **Huei-Wen Teng**, Wen-Liang Hung,and Yen-Ju Chao. Bayesian Markov chain Monte Carlo imputation for the transiting exoplanets with an application in clustering analysis. *Journal of Applied Statistics*, 42(5):1120–132, 2015. [[PDF]](https://drive.google.com/file/d/10FvS8xNt1Cp9ia0RoAtAZdWkaSSLe-FA/view?usp=sharing)
 5. Tze-Chuan Yang, **Huei-Wen Teng**, and Murali Haran. The impacts of social capital on infant mortality in the U.S.: A spatial investigation. *Applied Spatial Analysis and Policy*, 2(3):211–227, 2009. [[PDF]](https://drive.google.com/file/d/1aBrss8mtOs4q2Wf6dSdg_y9Zu36SqrTP/view?usp=sharing)
 
+---
 
-<!-- This is my comment 
-## Submitted Papers
-1. **Huei-Wen Teng**, Wolfgang K Härdle, Jörg Osterrieder, and et al. Mitigating digital asset risks. 2024a. Revised and resubmitted to Financial Innovation, doi = 10.2139/ssrn.4594467
-2. **Huei-Wen Teng** and Wolfgang K Härdle. Financial analytics of inverse BTC options in a stochastic volatility world. January 2024b. Under revision at Journal of Financial Econometrics, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238213), [[GitHub]](https://github.com/venteng/Deribit_inverse_BTC_options)
-3. **Huei-Wen Teng** and Yenchang Lee. Integrating explainable ai with polynomial analytics to enhance credit scoring model compliance. February 2024. Submitted to International Review of Economics & Finance
-4. **Huei-Wen Teng**, Meng-Jou Lu, Matúš Horváth, and Wolfgang Karl Härdle. Which risk do crypto index investments have? Submitted to Global Finance Journal, 2024c
-5. Yen-Ting Chen, Yenchang Lee, and **Huei-Wen Teng**. Unveiling key drivers of bitcoin returns: A machine learning approach with dynamic variable selection. Manuscript In Progress, 2024
-
-
--->
-
+🏠 [Back Home](https://venteng.github.io)

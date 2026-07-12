@@ -61,8 +61,8 @@ title: Lab Members
 |----|-----------|
 | [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Jason|交大資財 M.S.F., 2025/09|
 | [陳怡仁](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) Chen, Paul |交大資財 M.S.F., 2025/07 |
-| [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Hsin-Pei Wendy | 交大資財 M.S.F., 2025/07<br>📄 [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)|
-| [施昱全](http://linkedin.com/in/昱全-施-735a5620b) Shih, Yu-Chuan  James| 交大資財 M.S.F., 2025/07<br>📄 [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)<br>📄 [Teng et al. (2026), *Journal of the Chinese Statistical Association*, forthcoming](https://drive.google.com/file/d/1dkJIEoORZuszQ1QKR161o4RsECYjtU_1/view?usp=drive_link)|
+| [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Hsin-Pei Wendy | 交大資財 M.S.F., 2025/07<br>⭐ [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)|
+| [施昱全](http://linkedin.com/in/昱全-施-735a5620b) Shih, Yu-Chuan  James| 交大資財 M.S.F., 2025/07<br>⭐ [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)<br>⭐ [Teng et al. (2026), *Journal of the Chinese Statistical Association*, forthcoming](https://drive.google.com/file/d/1dkJIEoORZuszQ1QKR161o4RsECYjtU_1/view?usp=drive_link)|
 | [吳柏賢](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) Wu, Howard | 交大資財 M.S.F., 2025/07 |
 | 林威承 |交大工管 M.S., 2024/12, [co-advised with Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
 | 陳彥廷 Chen, Yen-Ting |交大資財 M.S.F., 2024/07|
@@ -78,18 +78,18 @@ title: Lab Members
 | 蔡昕妤  | 交大資財 B.S., 2024/07  |
 | 潘俞綺 Pan, Yu-Ci | 交大資財 M.S.F., 2023/07 |
 | 呂映葇 Lu, Ying-Rou | 交大資財 M.S.F., 2022/07 |
-| 李亦涵 Lee, I-Han Ian | 交大數據所 M.S., 2022/07, [co-advised with Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)<br> 📄 [Teng et al. (2024), *International Review of Financial Analysis*](https://doi.org/10.1016/j.irfa.2023.103005)|
-| 張詠淇 Chang, Yung-Chi Tom | 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>📄 [Chang et al. (2023), *Journal of Futures and Options*](https://www.taifex.com.tw/cht/10/journalView)<br>🏆 [2022 New Futures 期貨學術與實務交流研討會論文金質獎](https://www.ctee.com.tw/news/20221205700620-431210)|
+| 李亦涵 Lee, I-Han Ian | 交大數據所 M.S., 2022/07, [co-advised with Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)<br> ⭐ [Teng et al. (2024), *International Review of Financial Analysis*](https://doi.org/10.1016/j.irfa.2023.103005)|
+| 張詠淇 Chang, Yung-Chi Tom | 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>⭐ [Chang et al. (2023), *Journal of Futures and Options*](https://www.taifex.com.tw/cht/10/journalView)<br>🏆 [2022 New Futures 期貨學術與實務交流研討會論文金質獎](https://www.ctee.com.tw/news/20221205700620-431210)|
 | 陳律翔 Chen, Lu-Xiang Jay| 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 Chen, Jasmine | 交大資財 B.S., 2022/07  |  
 | 宋佩芩 Sung, Sammi | 交大資財 B.S., 2022/07  |  
-| [張尚文](https://www.linkedin.com/in/jonathan-sw-chang/) Chang, Shang-Wen Jonathan | 交大應數 M.S., 2021/08, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>📄 [Teng et al. (2020), *ICPAI*](https://ieeexplore.ieee.org/document/9302638)|
-| 李育賢 Li, Yu-Hsien Bill | 交大資財 M.S.F., 2020/07<br>📄 [Teng et al. (2020), *ICPAI*](https://ieeexplore.ieee.org/document/9302638)<br>📄 [Teng & Lee (2023), *Digital Finance*](https://link.springer.com/article/10.1007/s42521-023-00076-y)| 
+| [張尚文](https://www.linkedin.com/in/jonathan-sw-chang/) Chang, Shang-Wen Jonathan | 交大應數 M.S., 2021/08, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>⭐ [Teng et al. (2020), *ICPAI*](https://ieeexplore.ieee.org/document/9302638)|
+| 李育賢 Li, Yu-Hsien Bill | 交大資財 M.S.F., 2020/07<br>⭐ [Teng et al. (2020), *ICPAI*](https://ieeexplore.ieee.org/document/9302638)<br>⭐ [Teng & Lee (2023), *Digital Finance*](https://link.springer.com/article/10.1007/s42521-023-00076-y)| 
 | 吳哲杭 Wu, Zhe-Hang Jeff | 交大資財 M.S.F., 2020/07 |
 | 范凱翔 Fan, Tom| 交大應數 B.S., 2020/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>🏆 榮獲109年度科技部大專生計畫|
 | 林睿瑜 Lin, Phoebe| 交大資財 B.S., 2020/07<br>🏆 榮獲109年度科技部大專生計畫|
 | 陸恭葦 Lu, Lucy| 交大資財 B.S., 2020/07  |
-| 趙祥安 Zhao, Xiang-An | 交大應數 M.S., 2020/06, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>📄 [Teng & Zhao (2021), *Journal of Futures and Options*](https://www.taifex.com.tw/cht/10/journalView)|
+| 趙祥安 Zhao, Xiang-An | 交大應數 M.S., 2020/06, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>⭐ [Teng & Zhao (2021), *Journal of Futures and Options*](https://www.taifex.com.tw/cht/10/journalView)|
 | 林益嘉 Lin, Yi-Chia Kelly | 交大資財 M.S.F., 2019/07 |
 | 許至妤 Hsu, Chih-Yu Emma | 交大資財 M.S.F., 2019/07 |
 | 陳奕翔 Chen, Yi-Xiang Arikson | 交大資財 M.S.F., 2019/07 |
@@ -99,18 +99,22 @@ title: Lab Members
 | 李宛柔 Lee, Wan-Zoe Cora | 中大統計 M.S., 2017/06 | 
 | 吳柏辰 Wu, Po-Chen | 中大統計 M.S., 2016/07 | 
 | 江厚德 Chiang, Arron | 中大統計 M.S., 2016/07 | 
-| 林煒紘 Lin, Wei-Hung | 中大統計 M.S., 2015/06<br>📄 [Lin et al. (2020), *Handbook of Financial Econometrics, Mathematics, Statistics, and Machine Learning*](https://www.worldscientific.com/doi/10.1142/9789811202391_0014?srsltid=AfmBOooTBeDsa58dLYFQDZZzKg8G18rsPELiQ1LpArEyfmfFefInMG4K)| 
+| 林煒紘 Lin, Wei-Hung | 中大統計 M.S., 2015/06<br>⭐ [Lin et al. (2020), *Handbook of Financial Econometrics, Mathematics, Statistics, and Machine Learning*](https://www.worldscientific.com/doi/10.1142/9789811202391_0014?srsltid=AfmBOooTBeDsa58dLYFQDZZzKg8G18rsPELiQ1LpArEyfmfFefInMG4K)| 
 | 沈睿謙 Shen, Rui-Qian | 中大統計 M.S., 2015/06 | 
 | 楊舒媛 Yang, Shu-Yuang | 中大統計 M.S., 2015/06 | 
-| 王聖翔 Wang, Sheng-Xiang | 中大統計 M.S., 2014/06<br>📄 [Lyuu et al. (2019), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196)| 
-| 曾耀德 Tseng, Yao-Te | 中大統計 M.S., 2014/06<br>📄 [Lyuu et al. (2019), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196)| 
-| 李宥萱 Lee, Yu-Hsuan | 中大統計 M.S., 2014/06<br>📄 [Luo et al. (2016), *Asia-Pacific Journal of Risk and Insurance*](https://www.degruyterbrill.com/document/doi/10.1515/apjri-2015-0011/html)|
+| 王聖翔 Wang, Sheng-Xiang | 中大統計 M.S., 2014/06<br>⭐ [Lyuu et al. (2019), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196)| 
+| 曾耀德 Tseng, Yao-Te | 中大統計 M.S., 2014/06<br>⭐ [Lyuu et al. (2019), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196)| 
+| 李宥萱 Lee, Yu-Hsuan | 中大統計 M.S., 2014/06<br>⭐ [Luo et al. (2016), *Asia-Pacific Journal of Risk and Insurance*](https://www.degruyterbrill.com/document/doi/10.1515/apjri-2015-0011/html)|
 | 陳彥勳 Chen, Yen-Hsun | 中大統計 M.S., 2013/06 | 
 | 沈志泰 Shen, Chih-Tai | 中大統計 M.S., 2013/06 | 
 | 吳諭昕 Wu, Yu-Hsin | 中大統計 M.S., 2013/06 | 
-| 陳醇潔 Chen, Chun-Chieh | 中大統計 M.S., 2012/06<br>📄 [Teng et al. (2016), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1136077)<br>📄 [Chen et al. (2013), *Journal of the Chinese Statistical Association*](https://www.airitilibrary.com/Article/Detail/05296528-201309-201309020004-201309020004-253-273)<br>🏆 [榮獲101年中國統計學社論文獎優等獎](https://www.stat.org.tw/data/operation/歷屆論文獎得獎名單1121207.pdf)|
+| 陳醇潔 Chen, Chun-Chieh | 中大統計 M.S., 2012/06<br>⭐ [Teng et al. (2016), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1136077)<br>⭐ [Chen et al. (2013), *Journal of the Chinese Statistical Association*](https://www.airitilibrary.com/Article/Detail/05296528-201309-201309020004-201309020004-253-273)<br>🏆 [榮獲101年中國統計學社論文獎優等獎](https://www.stat.org.tw/data/operation/歷屆論文獎得獎名單1121207.pdf)|
 | 劉家齊 Liu, Chia-Chi | 中大統計 M.S., 2012/06 |
-| 趙彥茹 Chao, Yen-Ju | 中大統計 M.S., 2012/06<br>📄 [Teng et al. (2015), *Journal of Applied Statistics*](https://www.tandfonline.com/doi/abs/10.1080/02664763.2014.995609)|
+| 趙彥茹 Chao, Yen-Ju | 中大統計 M.S., 2012/06<br>⭐ [Teng et al. (2015), *Journal of Applied Statistics*](https://www.tandfonline.com/doi/abs/10.1080/02664763.2014.995609)|
 | 陳彥鈞 Chen, Yen-Chun | 中大統計 M.S., 2012/06 | 
 | 劉佑聖 Liu, You-Sheng | 中大統計 M.S., 2011/06 | 
 | 吳嘉洋 Wu, Jia-Yang | 中大統計 M.S., 2011/06 |
+
+---
+
+🏠 [Back Home](https://venteng.github.io)

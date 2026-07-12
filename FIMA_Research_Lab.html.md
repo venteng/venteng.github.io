@@ -34,3 +34,7 @@ The research of our lab spans several key areas, with Lab Members actively colla
 - **May 29, 2026** — *Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility* [[slides]](https://drive.google.com/file/d/1EMv6KFuvwVQ6ayOhfgCO1BglxnPTsbh0/view?usp=sharing), Data Science Degree Program, National Taiwan University
 - **Apr 24, 2026** — *Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility* [[slides]](https://drive.google.com/file/d/1EMv6KFuvwVQ6ayOhfgCO1BglxnPTsbh0/view?usp=sharing), College of Commerce joint seminar (Finance, International Business, and Money & Banking), National Chengchi University
 - **Mar 19, 2026** — *Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility* [[slides]](https://drive.google.com/file/d/1EMv6KFuvwVQ6ayOhfgCO1BglxnPTsbh0/view?usp=sharing), Department of Quantitative Finance, National Tsing Hua University
+
+---
+
+🏠 [Back Home](https://venteng.github.io)

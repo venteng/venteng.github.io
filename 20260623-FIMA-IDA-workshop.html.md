@@ -39,3 +39,7 @@ digital assets, FinTech, and AI.
 
 ¹ Owen Chaffard, Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)<br>
 ² David Jheng, IDA, Bucharest University of Economic Studies
+
+---
+
+🏠 [Back Home](https://venteng.github.io)
