@@ -7,7 +7,7 @@ title: Lab Members
 
 ## Interested in joining? Let’s make an impact together!
 
-1. Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended.  
+1. Enrolling in my *Machine Learning & FinTech* course is a great way to build relevant skills for our research — it’s highly recommended.  
 2. If you are from a different department, we encourage you to review the suggested [course plan](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5997&serno=b1153a31-aa1c-46a2-8205-b611f9cffa7c) to help build a solid foundation in finance.
 
 ## Research Pillars
