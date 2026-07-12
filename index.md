@@ -47,7 +47,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## Education
 
-- Ph.D. in Statistics, [The Pennsylvania State University](https://www.psu.edu/) (2010)
+- Ph.D. in [Statistics](https://stat.psu.edu), [The Pennsylvania State University](https://www.psu.edu/) (2010)
 - MBA in [Finance](https://finance.ntu.edu.tw), [National Taiwan University](https://www.ntu.edu.tw/) (2004)
 - BS in [Mathematics](https://math.ntu.edu.tw), National Taiwan University (2001)
 - Exchange Student, [Johannes Kepler University](https://www.jku.at), Austria (Aug 1999 – Jan 2000)
