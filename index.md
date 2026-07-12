@@ -19,14 +19,6 @@ I am a Professor in the Department of Information Management and Finance at Nati
 ✉️ hwteng@nycu.edu.tw<br>
 
 
-## News
-
-- **Nov 30, 2026** (upcoming) — Invited talk at *Digital Finance for Supervision*, MSCA DIGITAL Network Workshop, European Central Bank, Frankfurt
-- **Jun 23, 2026** — Hosted the [FIMA–IDA Workshop 2026](https://venteng.github.io/20260623-FIMA-IDA-workshop.html) at NYCU
-- **2026** — "AI Act Compliance in Credit Scoring" to appear at *Applied Economics Letters*
-- **2026** — "Digital assets: risks, regulations, mitigation" published in *Financial Innovation*, 12(1)
-- **2025** — "Tail risk in Bitcoin under the Basel framework" published in *Finance Research Letters*
-
 ## Academic Positions
 
 **[National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)**
