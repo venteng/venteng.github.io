@@ -20,13 +20,13 @@ Our research spans four pillars, with lab members actively collaborating on ongo
 3. **Financial Market Risk Management** — tail risk and digital asset regulation
 4. **Financial Derivatives Pricing** — Monte Carlo simulation and cryptocurrency options
 
-## Interested in joining? Let’s make an impact together!
+## Interested in Joining? Let’s Make an Impact Together!
 
 1. Enrolling in my *Machine Learning & FinTech* course is a great way to build relevant skills for our research — it’s highly recommended.  
 2. If you are from a different department, we encourage you to review the suggested [course plan](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5997&serno=b1153a31-aa1c-46a2-8205-b611f9cffa7c) to help build a solid foundation in finance.
 3. Email me! ✉️ [hwteng@nycu.edu.tw](mailto:hwteng@nycu.edu.tw)
 
-## Invited talks and events
+## Invited Talks and Events
 
 ### Upcoming
 

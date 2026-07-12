@@ -5,7 +5,7 @@ title: Lab Members
 
 # Lab Members
 
-## Current Lab Members 
+## Current Lab Members
 
 ### 碩博士生
 

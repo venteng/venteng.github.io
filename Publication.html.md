@@ -3,9 +3,9 @@ layout: default
 title: Publication
 --- 
 
-# Selected Publication
+# Selected Publications
 
-## 1. xAI & FinTech
+## 1. Explainable AI & FinTech
 
 1. Hung-Yin Chen, Henghsiu Tsai, PingHan Chen, **Huei-Wen Teng**. AI Act Compliance in Credit Scoring: Reconciling
 Interpretability and Accuracy via Quadratic Terms and powershap. To appear at *Applied Economics Letters*, 2026. [[PDF]](https://drive.google.com/file/d/19srFx-bEoBUVXPLZLSZ0Lpe_XccwiyRu/view?usp=sharing)
@@ -13,7 +13,7 @@ Interpretability and Accuracy via Quadratic Terms and powershap. To appear at *A
 3. Le Quoc Tuan, Chih-Yung Lin, and **Huei-Wen Teng**. Machine learning methods for predicting failures of US commercial bank. [*Applied Economics Letters*](https://www.tandfonline.com/doi/full/10.1080/13504851.2023.2186353), pages 1–7, 2023. [[PDF]](https://drive.google.com/file/d/1S1w3IYgIpzqOKk7a-beVzadGd7x32OgX/view?usp=sharing)
 4. **Huei-Wen Teng** and Michael Lee. Estimation procedures of using five alternative machine learning methods for predicting credit card default. [*Review of Pacific Basin Financial Markets and Policies*](https://www.worldscientific.com/doi/10.1142/9789811202391_0101?srsltid=AfmBOoq3lfSGiDIUsufVkcEkn2k1SLf9uPyDebopx5bWwog7KH31npPd), 22 (03):1950021, 2019. [[PDF]](https://drive.google.com/file/d/138QHjTtMKEOBBNp4IF9lACBdqJZk9TRW/view?usp=sharing)
 
-## 2. Trading and Portfolio Management
+## 2. Trading & Portfolio Management
 
 1. **Huei-Wen Teng**, Yu-Chuan Shih, and Ming-Hsuan Kang. Qualitative insights meet quantitative
 forecasts with GPT-4o mini for Taiwan earnings prediction, 2026. Forthcoming at *Journal of the
@@ -25,7 +25,7 @@ strategies with risk factors, 2025. Forthcoming at *Journal of Risk* (SSCI IF 0.
 5. Wei-Hung Lin, **Huei-Wen Teng**, and Chi-Chun Yang. A heteroskedastic Black-Litterman portfolio optimization model with views derived from a predictive regression. In Cheng Few Lee and John Lee, editors, Handbook of Financial Econometrics, Mathematics, Statistics, and Machine Learning, volume 1, chapter 14, pages 563–581. World Scientific, Hackensack, NJ, 2020.
 6. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. On-line VWAP trading strategies. *Sequential Analysis*, 29(3):292–310, 2010. [[PDF]](https://drive.google.com/file/d/1BFxUeyDwLSPwOQI1-Ut6L3IrhrO3YlYV/view?usp=sharing) 
 
-## 3. Financial Market Risk Management 
+## 3. Financial Market Risk Management
 
 1. **Huei-Wen Teng**, Wolfgang Karl Härdle, Joerg Osterrieder, Daniel Pele, et al. Digital assets: risks, regulations, mitigation. [*Financial Innovation*](https://link.springer.com/article/10.1186/s40854-025-00848-y), 12(1), 2026. (SSCI IF = 7.2, RF: 9/242 = 3.7%) [[PDF]](https://drive.google.com/file/d/1GPkribfMMFEA_tysFaCEglpOWMvzpYYO/view?usp=sharing)
 2. **Huei-Wen Teng**, Hsin-Pei Huang, Yu-Chuan Shih. Tail risk in Bitcoin under the Basel framework, *Finance Research Letters*, 86:108528, 2025. (SSCI IF = 6.9, RF: 12/242 = 4.9%) [[PDF]](https://drive.google.com/file/d/1ntG3Oc6PbzhoiXy3zyPd-2bsZtogFe1M/view?usp=sharing)
