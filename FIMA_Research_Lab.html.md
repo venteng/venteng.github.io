@@ -10,14 +10,22 @@ _A global academic research initiative led by Prof. Huei-Wen Teng_
 
 ## Innovate with Us
 
-FIMA Research Lab is a research initiative founded in October 2010 by Prof. Huei-Wen Teng, a full professor at National Yang Ming Chiao Tung University, Taiwan. We work at the intersection of FinTech, financial engineering, statistical modeling, and digital asset regulation, turning data into practical, evidence-based ideas.
+FIMA Research Lab (Finance ∙ Intelligence ∙ Math ∙ Analytics) is a research initiative founded in 2024 by Prof. Huei-Wen Teng of National Yang Ming Chiao Tung University, Taiwan, as she moved into a new stage of her career. The lab brings together two decades of her research in statistics, financial engineering, and FinTech, turning data into practical, evidence-based ideas.
 
-We're a hub for international collaboration, academic publishing, and mentoring in AI-powered finance, and we bring hands-on consulting experience to real-world problems. We'd love to team up with industry leaders, startups, and organizations to build solutions grounded in math, statistics, and finance. If that sounds like you, get in touch—let's collaborate!
+We're a hub for international collaboration, academic publishing, and mentoring in AI-powered finance, and we bring hands-on consulting experience to real-world problems. We'd love to team up with industry leaders, startups, and organizations to build solutions grounded in math, statistics, and finance. If that sounds like you, get in touch — let's collaborate!
 
-The research of our lab spans several key areas, with Lab Members actively collaborating on ongoing projects across these domains.
-1. FinTech with machine learning and AI: Our lab explores machine learning and AI with applications in profitable-trading strategies and FinTech
-2. Financial engineering with statistical models: We specialize in financial market wealth and risk management, and pricing and hedging financial derivatives.
- 
+Our research spans four pillars, with lab members actively collaborating on ongoing projects across these domains:
+
+1. **Explainable AI & FinTech** — machine learning for credit scoring and default prediction
+2. **Trading & Portfolio Management** — empirical asset pricing with machine learning
+3. **Financial Market Risk Management** — tail risk and digital asset regulation
+4. **Financial Derivatives Pricing** — Monte Carlo simulation and cryptocurrency options
+
+## Interested in joining? Let’s make an impact together!
+
+1. Enrolling in my *Machine Learning & FinTech* course is a great way to build relevant skills for our research — it’s highly recommended.  
+2. If you are from a different department, we encourage you to review the suggested [course plan](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5997&serno=b1153a31-aa1c-46a2-8205-b611f9cffa7c) to help build a solid foundation in finance.
+3. Email me! ✉️ [hwteng@nycu.edu.tw](mailto:hwteng@nycu.edu.tw)
 
 ## Invited talks and events
 
