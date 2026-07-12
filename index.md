@@ -29,53 +29,30 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## Academic Positions
 
-### [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)
-- [Department of Information Management and Finance](https://imf.nycu.edu.tw/)
-  - Professor (Aug 2024 - Present)
-  - Associate Professor (Feb 2017 - July 2024)
-- Joint Appointment, [Institute of Statistics](https://stat.nycu.edu.tw/) (Aug 2017 - Present)
-- Joint Appointment, [Department of Applied Mathematics](https://www.math.nycu.edu.tw/)  (Oct 2024 - Present)
+**[National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)**
+- Professor, [Dept. of Information Management and Finance](https://imf.nycu.edu.tw/) (Aug 2024 – Present)
+- Associate Professor, Dept. of Information Management and Finance (Feb 2017 – Jul 2024)
+- Joint Appointment, [Institute of Statistics](https://stat.nycu.edu.tw/) (Aug 2017 – Present)
+- Joint Appointment, [Department of Applied Mathematics](https://www.math.nycu.edu.tw/) (Oct 2024 – Present)
 
-
-### [National Central University](https://www.ncu.edu.tw/)
-- [Graduate Institute of Statistics](http://www.stat.ncu.edu.tw/) 
-  - Associate Professor (Aug 2016 - Jan 2017)
-  - Assistant Professor (Aug 2010 - Jul 2016)
-- Joint Appointment, [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW) (Aug 2016 - Jan 2017)
-
----
+**[National Central University](https://www.ncu.edu.tw/)**
+- Associate Professor, Graduate Institute of Statistics (Aug 2016 – Jan 2017)
+- Assistant Professor, Graduate Institute of Statistics (Aug 2010 – Jul 2016)
+- Joint Appointment, Department of Finance (Aug 2016 – Jan 2017)
 
 ## Visiting & Affiliated Appointments
 
-### [IDA Institute of Digital Assets](https://ida.ase.ro), The Bucharest University of Economic Studies, Romania
-- Experienced Researcher (2024 - Present)
-
-### [Humboldt-Universität zu Berlin, Germany](https://www.hu-berlin.de/en)
-- Visiting Scholar (Summer 2011, Summer 2012, Summer 2023)
-
----
+- Experienced Researcher, [IDA Institute of Digital Assets](https://ida.ase.ro), Bucharest University of Economic Studies, Romania (2024 – Present)
+- Visiting Scholar, [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en), Germany (Summers 2011, 2012, 2023)
 
 ## Education
 
-### [The Pennsylvania State University](https://www.psu.edu/)
-
-- Ph.D. in Statistics (2010)  
-
-### [National Taiwan University](https://www.ntu.edu.tw/)
-- MBA in [Finance](https://finance.ntu.edu.tw) (2004)
-- BS in [Mathematics](https://math.ntu.edu.tw) (2001)
-
-### [Johannes Kepler University, Austria](https://www.jku.at) 
-- Exchange Student (Aug 1999 - Jan 2000)
-
----
+- Ph.D. in Statistics, [The Pennsylvania State University](https://www.psu.edu/) (2010)
+- MBA in [Finance](https://finance.ntu.edu.tw), [National Taiwan University](https://www.ntu.edu.tw/) (2004)
+- BS in [Mathematics](https://math.ntu.edu.tw), National Taiwan University (2001)
+- Exchange Student, [Johannes Kepler University](https://www.jku.at), Austria (Aug 1999 – Jan 2000)
 
 ## Professional Development
 
-### [Oxford EMI Training](https://www.oxfordemi.co.uk)
-- English Medium Instruction (EMI) Certificate for University Lecturers (June 2024)
-
-### [Harvard Business School](https://www.exed.hbs.edu)
-- The Global Colloquium on Participant-Centered Learning (GloColl) (Summer 2025, Winter 2026)
-
----
+- English Medium Instruction (EMI) Certificate for University Lecturers, [Oxford EMI Training](https://www.oxfordemi.co.uk) (Jun 2024)
+- The Global Colloquium on Participant-Centered Learning (GloColl), [Harvard Business School](https://www.exed.hbs.edu) (Summer 2025, Winter 2026)
