@@ -10,36 +10,12 @@ title: Lab Members
 1. Enrolling in my [Machine Learning & FinTech](https://github.com/HWTeng-Teaching/202409-ML-FinTech) course is a great way to build relevant skills for our research — it’s highly recommended.  
 2. If you are from a different department, we encourage you to review the suggested [course plan](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=5997&serno=b1153a31-aa1c-46a2-8205-b611f9cffa7c) to help build a solid foundation in finance.
 
-## Ongoing Research Projects
+## Research Pillars
 
-Project Status:  🧩 In preparation 📄 Working paper 🚀 Submitted 🔧 Revision in progress
-
-### Explainable AI & FinTech
-
-- 📄 Integrating Explainable AI with Polynomial Analytics to Enhance Credit Scoring Model Compliance (with Paul, Yenchang, Ming-Hsuan)<br>
-- 🧩 Comprehensive Financial Statement Data and Feature Selection in U.S. Corporate Bankruptcy Prediction (with Mabel)<br>
-- 🧩 A SHAP-Weighted RFM Framework for Balancing Accuracy and Interpret-ability in Credit Card Fraud Detection (with Chrissy)<br>
-- 🧩 An Empirical Study of RFM and Domain-Driven Feature Engineering for Credit Card Fraud Detection (with Andy, Alvin, Chrissy)<br>
-
-### Trading & Portfolio Management 
-
-- 🔧 Why Feature Selection Still Matters in Bitcoin Return Forecasting (with Yen-Ting and YC )<br>
-- 🔧 Cardinality-Constrained Portfolio Optimization for Cryptocurrency-Index-Tracking Exchange-Traded Funds Using a Black-Litterman Model with Machine Learning (with Chuen-Chun, Wei-Cheng, and Yen-Ming)<br>
-- 🚀 Which risk do crypto index investments have? (with Meng-Jou and Matúš)
-- 🧩 Forecasting Realized Volatility with Multi-Agent Architectures (with Elvis)<br>
-- 🧩 A Hybrid Deep Learning–Association Rule Model for Forecasting S&P 500 Sector Returns (with Ben)<br>
-
-### Financial Market Risk Management
-
-- 🚀 Financial Risk Meters in Taiwan's High-Cap Sectors (with Siang-Li and Wolfgang)<br>
-- 📄  Mapping Risk Contagion through Graphical Models and Early Warning Signals in Taiwan’s Stock Market (with Jason, Frank, Alex, Kuang-Yao)<br>
-
-### Financial Derivatives Pricing
-
-- 🔧 Financial analytics of inverse BTC options in a stochastic volatility world (with Wolfgang)<br>
-- 📄 Enhancing Financial Resilience in Taiwan’s Green Energy Sector: ESG-Focused Contract Redesign and Risk Mitigation (wit Howard and Elvis)<br>
-- 🧩 Bitcoin Option Greeks in the Stochastic Volatility World (with Allen and Tom)<br>
-
+1. **Explainable AI & FinTech** — machine learning for credit scoring and default prediction
+2. **Trading & Portfolio Management** — empirical asset pricing with machine learning
+3. **Financial Market Risk Management** — tail risk and digital asset regulation
+4. **Financial Derivatives Pricing** — Monte Carlo simulation and cryptocurrency options
 
 ## Current Lab Members 
 
@@ -62,7 +38,7 @@ Project Status:  🧩 In preparation 📄 Working paper 🚀 Submitted 🔧 Revi
 | Name | Position and More |
 |----|-----------|
 | [江文煌](https://www.linkedin.com/in/ares-jiang-2a3816354/) Chiang, Ares | 交大資財 E.M.S.F. student, since 2024/09 |
-| [范艾雯](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) 交大資財 Fan, Eva | 交大資財 E.M.S.F. student, since 2024/09|
+| [范艾雯](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) Fan, Eva | 交大資財 E.M.S.F. student, since 2024/09|
 | 黃德榮 Huang, Deron | 交大資財 E.M.S.F. student, since 2025/02  |
 
 
@@ -85,8 +61,8 @@ Project Status:  🧩 In preparation 📄 Working paper 🚀 Submitted 🔧 Revi
 |----|-----------|
 | [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Jason|交大資財 M.S.F., 2025/09|
 | [陳怡仁](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) Chen, Paul |交大資財 M.S.F., 2025/07 |
-| [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Hsin-Pei Wendy | 交大資財 M.S.F., 2025/07 [(Teng et al., 2025)](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)|
-| [施昱全](http://linkedin.com/in/昱全-施-735a5620b) Shih, Yu-Chuan  James| 交大資財 M.S.F., 2025/07 [(Teng et al., 2025)](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)|
+| [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Hsin-Pei Wendy | 交大資財 M.S.F., 2025/07<br>📄 [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)|
+| [施昱全](http://linkedin.com/in/昱全-施-735a5620b) Shih, Yu-Chuan  James| 交大資財 M.S.F., 2025/07<br>📄 [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)<br>📄 [Teng et al. (2026), *Journal of the Chinese Statistical Association*, forthcoming](https://drive.google.com/file/d/1dkJIEoORZuszQ1QKR161o4RsECYjtU_1/view?usp=drive_link)|
 | [吳柏賢](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) Wu, Howard | 交大資財 M.S.F., 2025/07 |
 | 林威承 |交大工管 M.S., 2024/12, [co-advised with Prof. Chun-Chen Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
 | 陳彥廷 Chen, Yen-Ting |交大資財 M.S.F., 2024/07|
@@ -102,18 +78,18 @@ Project Status:  🧩 In preparation 📄 Working paper 🚀 Submitted 🔧 Revi
 | 蔡昕妤  | 交大資財 B.S., 2024/07  |
 | 潘俞綺 Pan, Yu-Ci | 交大資財 M.S.F., 2023/07 |
 | 呂映葇 Lu, Ying-Rou | 交大資財 M.S.F., 2022/07 |
-| 李亦涵 Lee, I-Han Ian | 交大數據所 M.S., 2022/07, [co-advised with Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)<br> [(Teng et al., 2024)](https://doi.org/10.1016/j.irfa.2023.103005) <br> |
-| 張詠淇 Chang, Yung-Chi Tom | 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br> [(Chang et al., 2023)](https://www.taifex.com.tw/cht/10/journalView)<br> [榮獲2022New Futures期貨學術與實務交流研討會論文金質獎](https://www.ctee.com.tw/news/20221205700620-431210)|
+| 李亦涵 Lee, I-Han Ian | 交大數據所 M.S., 2022/07, [co-advised with Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)<br> 📄 [Teng et al. (2024), *International Review of Financial Analysis*](https://doi.org/10.1016/j.irfa.2023.103005)|
+| 張詠淇 Chang, Yung-Chi Tom | 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>📄 [Chang et al. (2023), *Journal of Futures and Options*](https://www.taifex.com.tw/cht/10/journalView)<br>🏆 [2022 New Futures 期貨學術與實務交流研討會論文金質獎](https://www.ctee.com.tw/news/20221205700620-431210)|
 | 陳律翔 Chen, Lu-Xiang Jay| 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
 | 陳品蓁 Chen, Jasmine | 交大資財 B.S., 2022/07  |  
 | 宋佩芩 Sung, Sammi | 交大資財 B.S., 2022/07  |  
-| 李育賢 Li, Yu-Hsien Bill | 交大資財 M.S.F., 2020/07<br> ([Teng et al 2020](https://ieeexplore.ieee.org/document/9302638); [Teng & Lee, 2023](https://link.springer.com/article/10.1007/s42521-023-00076-y))| 
+| [張尚文](https://www.linkedin.com/in/jonathan-sw-chang/) Chang, Shang-Wen Jonathan | 交大應數 M.S., 2021/08, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>📄 [Teng et al. (2020), *ICPAI*](https://ieeexplore.ieee.org/document/9302638)|
+| 李育賢 Li, Yu-Hsien Bill | 交大資財 M.S.F., 2020/07<br>📄 [Teng et al. (2020), *ICPAI*](https://ieeexplore.ieee.org/document/9302638)<br>📄 [Teng & Lee (2023), *Digital Finance*](https://link.springer.com/article/10.1007/s42521-023-00076-y)| 
 | 吳哲杭 Wu, Zhe-Hang Jeff | 交大資財 M.S.F., 2020/07 |
-| 范凱翔 Fan, Tom| 交大應數 B.S., 2020/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br> 榮獲109年度科技部大專生計畫 <br> |
-| 林睿瑜 Lin, Phoebe| 交大資財 B.S., 2020/07, 榮獲109年度科技部大專生計畫 |
+| 范凱翔 Fan, Tom| 交大應數 B.S., 2020/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>🏆 榮獲109年度科技部大專生計畫|
+| 林睿瑜 Lin, Phoebe| 交大資財 B.S., 2020/07<br>🏆 榮獲109年度科技部大專生計畫|
 | 陸恭葦 Lu, Lucy| 交大資財 B.S., 2020/07  |
-| [張尚文](https://www.linkedin.com/in/jonathan-sw-chang/) Chang, Shang-Wen Jonathan | 交大應數 M.S., 2021/08, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br> [(Teng et al., 2020)](https://ieeexplore.ieee.org/document/9302638) |
-| 趙祥安 Zhao, Xiang-An | 交大應數 M.S., 2020/06, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br> (Teng & Zhao, 2021)<br> [[tsmc]](https://www.tsmc.com/chinese)|
+| 趙祥安 Zhao, Xiang-An | 交大應數 M.S., 2020/06, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>📄 [Teng & Zhao (2021), *Journal of Futures and Options*](https://www.taifex.com.tw/cht/10/journalView)|
 | 林益嘉 Lin, Yi-Chia Kelly | 交大資財 M.S.F., 2019/07 |
 | 許至妤 Hsu, Chih-Yu Emma | 交大資財 M.S.F., 2019/07 |
 | 陳奕翔 Chen, Yi-Xiang Arikson | 交大資財 M.S.F., 2019/07 |
@@ -123,18 +99,18 @@ Project Status:  🧩 In preparation 📄 Working paper 🚀 Submitted 🔧 Revi
 | 李宛柔 Lee, Wan-Zoe Cora | 中大統計 M.S., 2017/06 | 
 | 吳柏辰 Wu, Po-Chen | 中大統計 M.S., 2016/07 | 
 | 江厚德 Chiang, Arron | 中大統計 M.S., 2016/07 | 
-| 林煒紘 Lin, Wei-Hung | 中大統計 M.S., 2015/06 [(Lin et al., 2020)](https://www.worldscientific.com/doi/10.1142/9789811202391_0014?srsltid=AfmBOooTBeDsa58dLYFQDZZzKg8G18rsPELiQ1LpArEyfmfFefInMG4K) | 
+| 林煒紘 Lin, Wei-Hung | 中大統計 M.S., 2015/06<br>📄 [Lin et al. (2020), *Handbook of Financial Econometrics, Mathematics, Statistics, and Machine Learning*](https://www.worldscientific.com/doi/10.1142/9789811202391_0014?srsltid=AfmBOooTBeDsa58dLYFQDZZzKg8G18rsPELiQ1LpArEyfmfFefInMG4K)| 
 | 沈睿謙 Shen, Rui-Qian | 中大統計 M.S., 2015/06 | 
 | 楊舒媛 Yang, Shu-Yuang | 中大統計 M.S., 2015/06 | 
-| 王聖翔 Wang, Sheng-Xiang | 中大統計 M.S., 2014/06 [(Lyuu et al., 2019)](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196) | 
-| 曾耀德 Tseng, Yao-Te | 中大統計 M.S., 2014/06 [(Lyuu et al., 2019)](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196) | 
-| 李宥萱 Lee, Yu-Hsuan | 中大統計 M.S., 2014/06 [(Luo et al., 2016)](https://www.degruyterbrill.com/document/doi/10.1515/apjri-2015-0011/html)  |
+| 王聖翔 Wang, Sheng-Xiang | 中大統計 M.S., 2014/06<br>📄 [Lyuu et al. (2019), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196)| 
+| 曾耀德 Tseng, Yao-Te | 中大統計 M.S., 2014/06<br>📄 [Lyuu et al. (2019), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196)| 
+| 李宥萱 Lee, Yu-Hsuan | 中大統計 M.S., 2014/06<br>📄 [Luo et al. (2016), *Asia-Pacific Journal of Risk and Insurance*](https://www.degruyterbrill.com/document/doi/10.1515/apjri-2015-0011/html)|
 | 陳彥勳 Chen, Yen-Hsun | 中大統計 M.S., 2013/06 | 
 | 沈志泰 Shen, Chih-Tai | 中大統計 M.S., 2013/06 | 
 | 吳諭昕 Wu, Yu-Hsin | 中大統計 M.S., 2013/06 | 
-| 陳醇潔 Chen, Chun-Chieh | 中大統計 M.S., 2012/06<br> [(Teng et al., 2016](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1136077), [Chen et al., 2013)](https://www.airitilibrary.com/Article/Detail/05296528-201309-201309020004-201309020004-253-273)<br> [榮獲101年中國統計學社論文獎優等獎](https://www.stat.org.tw/data/operation/歷屆論文獎得獎名單1121207.pdf) |
+| 陳醇潔 Chen, Chun-Chieh | 中大統計 M.S., 2012/06<br>📄 [Teng et al. (2016), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1136077)<br>📄 [Chen et al. (2013), *Journal of the Chinese Statistical Association*](https://www.airitilibrary.com/Article/Detail/05296528-201309-201309020004-201309020004-253-273)<br>🏆 [榮獲101年中國統計學社論文獎優等獎](https://www.stat.org.tw/data/operation/歷屆論文獎得獎名單1121207.pdf)|
 | 劉家齊 Liu, Chia-Chi | 中大統計 M.S., 2012/06 |
-| 趙彥茹 Chao, Yen-Ju | 中大統計 M.S., 2012/06 <br> [(Teng et al., 2015)](https://www.tandfonline.com/doi/abs/10.1080/02664763.2014.995609) |
+| 趙彥茹 Chao, Yen-Ju | 中大統計 M.S., 2012/06<br>📄 [Teng et al. (2015), *Journal of Applied Statistics*](https://www.tandfonline.com/doi/abs/10.1080/02664763.2014.995609)|
 | 陳彥鈞 Chen, Yen-Chun | 中大統計 M.S., 2012/06 | 
 | 劉佑聖 Liu, You-Sheng | 中大統計 M.S., 2011/06 | 
 | 吳嘉洋 Wu, Jia-Yang | 中大統計 M.S., 2011/06 |

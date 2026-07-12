@@ -16,7 +16,7 @@ Interpretability and Accuracy via Quadratic Terms and powershap. To appear at *A
 ## 2. Trading and Portfolio Management
 
 1. **Huei-Wen Teng**, Yu-Chuan Shih, and Ming-Hsuan Kang. Qualitative insights meet quantitative
-forecasts with GPT-4o mini for Taiwan earnings prediction, 2025d. Forthcoming at *Journal of the
+forecasts with GPT-4o mini for Taiwan earnings prediction, 2026. Forthcoming at *Journal of the
 Chinese Statistical Association*
 2. Yu-Jiu Chen, Chen-Yen Hsieh, **Huei-Wen Teng**, Ming-Che Hu, and Alex YiHou Huang. Risk parity
 strategies with risk factors, 2025. Forthcoming at *Journal of Risk* (SSCI IF 0.5, 203/242=83.9%)
@@ -27,8 +27,8 @@ strategies with risk factors, 2025. Forthcoming at *Journal of Risk* (SSCI IF 0.
 
 ## 3. Financial Market Risk Management 
 
-1. **Huei-Wen Teng**, Wolfgang Karl Härdle, Joerg Osterrieder, Daniel Pele, et al. Digital Assets: Risks, Regulations, Mitigation, Forthcoming at [*Financial Innovation*](https://link.springer.com/article/10.1186/s40854-025-00848-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260209&utm_content=10.1186%2Fs40854-025-00848-y), 2025. (SSCI IF = 7.2, RF: 9/241= 3.7%) [[PDF]](https://drive.google.com/file/d/1GPkribfMMFEA_tysFaCEglpOWMvzpYYO/view?usp=sharing)
-2. **Huei-Wen Teng**, Hsin-Pei Huang, Yu-Chuan Shih. Tail risk in Bitcoin under the Basel framework, *Finance Research Letters*, 86:108528, 2025. (SSCI IF=6.8 RF: 12/241 = 4.9%) [[PDF]](https://drive.google.com/file/d/1ntG3Oc6PbzhoiXy3zyPd-2bsZtogFe1M/view?usp=sharing)
+1. **Huei-Wen Teng**, Wolfgang Karl Härdle, Joerg Osterrieder, Daniel Pele, et al. Digital assets: risks, regulations, mitigation. [*Financial Innovation*](https://link.springer.com/article/10.1186/s40854-025-00848-y), 12(1), 2026. (SSCI IF = 7.2, RF: 9/242 = 3.7%) [[PDF]](https://drive.google.com/file/d/1GPkribfMMFEA_tysFaCEglpOWMvzpYYO/view?usp=sharing)
+2. **Huei-Wen Teng**, Hsin-Pei Huang, Yu-Chuan Shih. Tail risk in Bitcoin under the Basel framework, *Finance Research Letters*, 86:108528, 2025. (SSCI IF = 6.9, RF: 12/242 = 4.9%) [[PDF]](https://drive.google.com/file/d/1ntG3Oc6PbzhoiXy3zyPd-2bsZtogFe1M/view?usp=sharing)
 3. **Huei-Wen Teng**. [Importance sampling for calculating the value-at-risk and expected shortfall of the quadratic portfolio with t-distributed risk factors](https://link.springer.com/article/10.1007/s10614-022-10294-y). *Computational Economics*, 62(3):1125–1154, 2023. [[PDF]](https://drive.google.com/file/d/1flOXOpdu38xScD-pvZRIBOZOmKJs96wW/view?usp=sharing)
 4. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. [Efficient simulation of value-at-risk under a jump diffusion model: A new method for moderate deviation events](https://link.springer.com/article/10.1007/s10614-017-9654-z). *Computational Economics*, 51(4): 973–990, 2018. [[PDF]](https://drive.google.com/file/d/1y70psLd2Tx5GWUKXeSepll6H2iBntAtZ/view?usp=sharing)
 5. **Huei-Wen Teng**. A spherical Monte Carlo approach for calculating value-at-risk and expected shortfall in financial risk management. In 2017 Winter Simulation Conference (WSC), pages 469–480. IEEE, 2018.

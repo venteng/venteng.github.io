@@ -2,29 +2,38 @@
 title: "Huei-Wen Teng 鄧惠文"
 author: "Huei-Wen Teng"
 description: "Professor at National Yang Ming Chiao Tung University"
-theme: jekyll-theme-cayman  # Change theme if needed
 ---
 
 # Huei-Wen Teng 鄧惠文
 
 ## Biography
-![Huei-Wen Teng](https://i.imgur.com/K3qUn90.jpg){: style="width: 250px; float: right; margin-left: 20px;"}
+![Huei-Wen Teng](assets/HWTeng.jpg){: style="width: 250px; float: right; margin-left: 20px;"}
 
 I am a Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). I am the founder and director of the [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html), a research initiative in FinTech and statistical modeling.
 
 🌟 [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html)<br>
 📚 [Publications](https://venteng.github.io/Publication.html)<br>
-🧑‍🎓 [Lab Members](https://venteng.github.io/LAB_Recruitment/Students.html)<br>
+🧑‍🎓 [Lab Members](https://venteng.github.io/Students.html)<br>
+📖 [Teaching](https://venteng.github.io/Teaching.html)<br>
+🔗 [Google Scholar](https://scholar.google.com/citations?user=HDPf0-IAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-3651-9934) · [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3789459) · [GitHub](https://github.com/venteng)<br>
 ✉️ hwteng@nycu.edu.tw<br>
 
+
+## News
+
+- **Nov 30, 2026** (upcoming) — Invited talk at *Digital Finance for Supervision*, MSCA DIGITAL Network Workshop, European Central Bank, Frankfurt
+- **Jun 23, 2026** — Hosted the [FIMA–IDA Workshop 2026](https://venteng.github.io/20260623-FIMA-IDA-workshop.html) at NYCU
+- **2026** — "AI Act Compliance in Credit Scoring" to appear at *Applied Economics Letters*
+- **2026** — "Digital assets: risks, regulations, mitigation" published in *Financial Innovation*, 12(1)
+- **2025** — "Tail risk in Bitcoin under the Basel framework" published in *Finance Research Letters*
 
 ## Academic Positions
 
 ### [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/)
-- [Department of Information Management and Finance](https://imf.nctu.edu.tw/)
+- [Department of Information Management and Finance](https://imf.nycu.edu.tw/)
   - Professor (Aug 2024 - Present)
   - Associate Professor (Feb 2017 - July 2024)
-- Joint Appointment, [Institute of Statistics](https://stat.nycu.edu.tw/) (Sep 2017 - Present)
+- Joint Appointment, [Institute of Statistics](https://stat.nycu.edu.tw/) (Aug 2017 - Present)
 - Joint Appointment, [Department of Applied Mathematics](https://www.math.nycu.edu.tw/)  (Oct 2024 - Present)
 
 
