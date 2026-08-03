@@ -12,7 +12,6 @@ title: Lab Members
 | Name | Position and More |
 |----|-----------|
 |李彥璋 Lee Yen-Chang| 交大資財 Ph.D. student, since 2022/7 |
-| [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Nok Hang Jason | 交大 Ph.D. student, since 2025/08 |
 | 張哲睿 Jerry | 交大 Ph.D. student, since 2026/02 |
 
 ### 碩士生
@@ -66,7 +65,7 @@ title: Lab Members
 
 | Name | Degree and More   |
 |----|-----------|
-| [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Nok Hang Jason|交大資財 M.S.F., 2025/09; now Ph.D. student in the lab|
+| [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Nok Hang Jason|交大資財 M.S.F., 2025/09|
 | [陳怡仁](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) Chen, Paul |交大資財 M.S.F., 2025/07 |
 | [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Hsin-Pei Wendy | 交大資財 M.S.F., 2025/07<br>⭐ [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)|
 | [施昱全](http://linkedin.com/in/昱全-施-735a5620b) Shih, Yu-Chuan  James| 交大資財 M.S.F., 2025/07<br>⭐ [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)<br>⭐ [Teng et al. (2026), *Journal of the Chinese Statistical Association*, forthcoming](https://drive.google.com/file/d/1dkJIEoORZuszQ1QKR161o4RsECYjtU_1/view?usp=drive_link)|
