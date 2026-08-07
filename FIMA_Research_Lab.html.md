@@ -32,7 +32,7 @@ Our research spans four pillars, with lab members actively collaborating on ongo
 
 - **Nov 30, 2026** — *Trading BTC with robust pricing kernels* [[slides]](https://drive.google.com/file/d/12QAMMeezgmZWwRrfbLIYFSsUjZEQklvZ/view?usp=sharing) at [Digital Finance for Supervision](https://digital-ai-finance.github.io/digital-finance-supervision/), MSCA DIGITAL Network Workshop, European Central Bank, Frankfurt am Main, Germany
 
--- **Aug 8, 2026** - [cava link](https://canva.link/gcztl2ilru7kn80)
+-- **Aug 8, 2026** - EcoStat 2026, Kyoto, Japan [cava link](https://canva.link/gcztl2ilru7kn80)
 
 ### Recent
 
