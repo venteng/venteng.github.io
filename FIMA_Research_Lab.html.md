@@ -32,6 +32,8 @@ Our research spans four pillars, with lab members actively collaborating on ongo
 
 - **Nov 30, 2026** — *Trading BTC with robust pricing kernels* [[slides]](https://drive.google.com/file/d/12QAMMeezgmZWwRrfbLIYFSsUjZEQklvZ/view?usp=sharing) at [Digital Finance for Supervision](https://digital-ai-finance.github.io/digital-finance-supervision/), MSCA DIGITAL Network Workshop, European Central Bank, Frankfurt am Main, Germany
 
+-- **Aug 8, 2026** - [cava link](https://canva.link/gcztl2ilru7kn80)
+
 ### Recent
 
 - **Jun 26, 2026** — *Trading BTC with robust pricing kernels* [[slides]](https://drive.google.com/file/d/12QAMMeezgmZWwRrfbLIYFSsUjZEQklvZ/view?usp=sharing) at the [35th South Taiwan Statistics Conference](https://stsc35.stat.ncku.edu.tw), Department of Statistics and Data Science, National Cheng Kung University, Tainan
