@@ -28,9 +28,9 @@ I am a Professor in the Department of Information Management and Finance at Nati
 - Joint Appointment, [Department of Applied Mathematics](https://www.math.nycu.edu.tw/) (Oct 2024 – Present)
 
 **[National Central University](https://www.ncu.edu.tw/)**
-- Associate Professor, Graduate Institute of Statistics (Aug 2016 – Jan 2017)
+- Associate Professor, [Graduate Institute of Statistics](https://www.stat.ncu.edu.tw) (Aug 2016 – Jan 2017)
 - Assistant Professor, Graduate Institute of Statistics (Aug 2010 – Jul 2016)
-- Joint Appointment, Department of Finance (Aug 2016 – Jan 2017)
+- Joint Appointment, [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW) (Aug 2016 – Jan 2017)
 
 ## Visiting & Affiliated Appointments
 
