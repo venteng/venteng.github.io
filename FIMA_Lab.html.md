@@ -21,6 +21,8 @@ Our research spans four pillars, with lab members actively collaborating on ongo
 
 - [A Walk-Forward Evaluation Protocol for Machine-Learning Market Timing: Multiple-Testing Deflation of a 120-Strategy S\&P 500 Grid](https://claude.ai/artifact/PGp6RYZa9RveRXcpx5RTqH) by YUN-TSE LAN, PING-WEI FENG, CHIA-YU OU, and HUEI-WEN TENG
 
+- [Taiwan 0050 ETF Universe](https://penny-1213.github.io/Dash_board_2/) by 
+
 
 ### 3. **Financial Market Risk Management** — tail risk and digital asset regulation
 
