@@ -19,7 +19,7 @@ Our research spans four pillars, with lab members actively collaborating on ongo
 
 ### 2. **Trading & Portfolio Management** — empirical asset pricing with machine learning
 
-- [A Walk-Forward Evaluation Protocol for Machine-Learning Market Timing: Multiple-Testing Deflation of a 120-Strategy S\&P 500 Grid](https://claude.ai/artifact/PGp6RYZa9RveRXcpx5RTqH) by YUN-TSE LAN, PING-WEI FENG, CHIA-YU OU, and HUEI-WEN TENG
+- [A Walk-Forward Evaluation Protocol for Machine-Learning Market Timing: Multiple-Testing Deflation of a 120-Strategy S\&P 500 Grid](https://claude.ai/artifact/PGp6RYZa9RveRXcpx5RTqH) by Yun-Tse Lan, Ping-Wei Feng, Chia-Yu Ou, and Huei-Wen Teng
 
 - [Taiwan 0050 ETF Universe](https://penny-1213.github.io/Dash_board_2/) by 
 
