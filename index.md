@@ -9,9 +9,9 @@ description: "Professor at National Yang Ming Chiao Tung University"
 ## Biography
 ![Huei-Wen Teng](assets/HWTeng.jpg){: style="width: 250px; float: right; margin-left: 20px;"}
 
-I am a Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). I am the founder and director of the FIMA Research Lab, a research initiative in FinTech and statistical modeling.
+I am a Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). I am the founder and director of the FIMA Lab, a research initiative in FinTech and statistical modeling.
 
-🌟 [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html)<br>
+🌟 [FIMA Lab](https://venteng.github.io/FIMA_Lab.html)<br>
 📚 [Publications](https://venteng.github.io/Publication.html)<br>
 🧑‍🎓 [Lab Members](https://venteng.github.io/Students.html)<br>
 📖 [Teaching](https://venteng.github.io/Teaching.html)<br>
