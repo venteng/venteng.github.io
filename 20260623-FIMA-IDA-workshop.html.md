@@ -8,7 +8,7 @@ title: FIMA–IDA Workshop 2026
 *June 23, 2026 · NYCU*
 
 The FIMA–IDA Workshop on June 23, 2026 is a warm and engaging gathering that
-brings together the [FIMA Research Lab](https://venteng.github.io/FIMA_Research_Lab.html)
+brings together the [FIMA Lab](https://venteng.github.io/FIMA_Lab.html)
 and Prof. Teng's long-standing network with the IDA Institute of Digital Assets
 and the MSCA program. The workshop centers on interdisciplinary research across
 digital assets, FinTech, and AI.
