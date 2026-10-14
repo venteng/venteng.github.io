@@ -29,9 +29,6 @@ My research spans four threads: explainable AI and FinTech (machine learning for
 - Joint Appointment, [Institute of Statistics](https://stat.nycu.edu.tw/) (Aug 2017 – Present)
 - Associate Professor, Dept. of Information Management and Finance (Feb 2017 – Jul 2024)
 
-**[FIMA Lab](https://venteng.github.io/FIMA_Lab.html)** (Finance · Intelligence · Math · Analytics)
-- Founder and Director (2024 – Present)
-
 **[National Central University](https://www.ncu.edu.tw/)**
 - Associate Professor, [Graduate Institute of Statistics](https://www.stat.ncu.edu.tw) (Aug 2016 – Jan 2017)
 - Joint Appointment, [Department of Finance](https://fm.mgt.ncu.edu.tw/zh-TW) (Aug 2016 – Jan 2017)
