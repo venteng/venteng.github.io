@@ -18,8 +18,6 @@ My research spans four threads: explainable AI and FinTech (machine learning for
 🧑‍🎓 [Lab Members](https://venteng.github.io/Students.html)<br>
 📖 [Teaching](https://venteng.github.io/Teaching.html)<br>
 🔗 [Google Scholar](https://scholar.google.com/citations?user=HDPf0-IAAAAJ&hl=en)<br>
-🆔 [ORCID](https://orcid.org/0000-0002-3651-9934)<br>
-📄 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3789459)<br>
 ✉️ hwteng@nycu.edu.tw<br>
 
 
