@@ -14,23 +14,23 @@ title: Publication
 
 ## 2. Trading & Portfolio Management
 
-1. **Huei-Wen Teng**, Yu-Chuan Shih, and Ming-Hsuan Kang. Qualitative insights meet quantitative forecasts with GPT-4o mini for Taiwan earnings prediction. *Journal of the Chinese Statistical Association*, 64:417–450, 2026.
-2. Yu-Jui Chen, Chen-Yen Hsieh, **Huei-Wen Teng**, Ming-Che Hu, and Alex YiHou Huang. Risk parity strategies with risk factors. [*Journal of Risk*](https://doi.org/10.21314/JOR.2025.006), 27(5):1–27, 2025.
-3. **Huei-Wen Teng**. Comparisons between the Markowitz Model and the Black-Litterman Model. In [*Handbook of Investment Analysis, Portfolio Management, and Financial Derivatives*](https://doi.org/10.1142/9789811269943_0085), volume 3, chapter 85, pages 2727–2749. World Scientific, Singapore, 2024.
-4. **Huei-Wen Teng** and Yu-Hsien Li. Can deep neural networks outperform Fama-MacBeth regression and other supervised learning approaches in stock returns prediction with asset-pricing factors? [*Digital Finance*](https://doi.org/10.1007/s42521-023-00076-y), 5(1):149–182, 2023.
-5. **Huei Wen Teng**, Yu-Hsien Li, and Shang-Wen Chang. Machine Learning in Empirical Asset Pricing Models. In [*2020 International Conference on Pervasive Artificial Intelligence (ICPAI)*](https://doi.org/10.1109/ICPAI51961.2020.00030), pages 123–129. IEEE, 2020.
-6. Wei-Hung Lin, **Huei-Wen Teng**, and Chi-Chun Yang. A heteroskedastic Black-Litterman portfolio optimization model with views derived from a predictive regression. In [*Handbook of Financial Econometrics, Mathematics, Statistics, and Machine Learning*](https://doi.org/10.1142/9789811202391_0014), edited by Cheng Few Lee and John Lee, volume 1, chapter 14, pages 563–581. World Scientific, Hackensack, NJ, 2020.
-7. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. On-Line VWAP trading strategies. [*Sequential Analysis*](https://doi.org/10.1080/07474946.2010.487431), 29(3):292–310, 2010.
+1. **Huei-Wen Teng** and Han-Yi Chiou. Forecasting Intraday Bitcoin Volatility: Do Financial News Embeddings Add Value Beyond Market Microstructure? *Finance Research Letters*, 2026. [[pdf]](https://venteng.github.io/papers/teng2026forecasting-AAM.pdf)
+2. **Huei-Wen Teng**, Yu-Chuan Shih, and Ming-Hsuan Kang. Qualitative insights meet quantitative forecasts with GPT-4o mini for Taiwan earnings prediction. *Journal of the Chinese Statistical Association*, 64:417–450, 2026.
+3. Yu-Jui Chen, Chen-Yen Hsieh, **Huei-Wen Teng**, Ming-Che Hu, and Alex YiHou Huang. Risk parity strategies with risk factors. [*Journal of Risk*](https://doi.org/10.21314/JOR.2025.006), 27(5):1–27, 2025.
+4. **Huei-Wen Teng**. Comparisons between the Markowitz Model and the Black-Litterman Model. In [*Handbook of Investment Analysis, Portfolio Management, and Financial Derivatives*](https://doi.org/10.1142/9789811269943_0085), volume 3, chapter 85, pages 2727–2749. World Scientific, Singapore, 2024.
+5. **Huei-Wen Teng** and Yu-Hsien Li. Can deep neural networks outperform Fama-MacBeth regression and other supervised learning approaches in stock returns prediction with asset-pricing factors? [*Digital Finance*](https://doi.org/10.1007/s42521-023-00076-y), 5(1):149–182, 2023.
+6. **Huei Wen Teng**, Yu-Hsien Li, and Shang-Wen Chang. Machine Learning in Empirical Asset Pricing Models. In [*2020 International Conference on Pervasive Artificial Intelligence (ICPAI)*](https://doi.org/10.1109/ICPAI51961.2020.00030), pages 123–129. IEEE, 2020.
+7. Wei-Hung Lin, **Huei-Wen Teng**, and Chi-Chun Yang. A heteroskedastic Black-Litterman portfolio optimization model with views derived from a predictive regression. In [*Handbook of Financial Econometrics, Mathematics, Statistics, and Machine Learning*](https://doi.org/10.1142/9789811202391_0014), edited by Cheng Few Lee and John Lee, volume 1, chapter 14, pages 563–581. World Scientific, Hackensack, NJ, 2020.
+8. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. On-Line VWAP trading strategies. [*Sequential Analysis*](https://doi.org/10.1080/07474946.2010.487431), 29(3):292–310, 2010.
 
 ## 3. Financial Market Risk Management
 
-1. **Huei-Wen Teng** and Han-Yi Chiou. Forecasting Intraday Bitcoin Volatility: Do Financial News Embeddings Add Value Beyond Market Microstructure? *Finance Research Letters*, 2026. [[accepted manuscript]](https://venteng.github.io/papers/teng2026forecasting-AAM.pdf)
-2. **Huei-Wen Teng**, Wolfgang K Härdle, Jörg Osterrieder, Daniel Traian Pele, et al. Digital assets: risks, regulations, mitigation. [*Financial Innovation*](https://doi.org/10.1186/s40854-025-00848-y), 12(1):65, 2026.
-3. Ioana Florina Coita, Marcos R. Machado, et al. (with **Huei-Wen Teng**). Taxonomy of fraud types in alternative finance using hybrid systematic review. [*International Journal of Information Management Data Insights*](https://doi.org/10.1016/j.jjimei.2026.100435), 6(2):100435, 2026.
-4. **Huei-Wen Teng**, Hsin-Pei Huang, and Yu-Chuan Shih. Tail risk in Bitcoin under the Basel framework. [*Finance Research Letters*](https://doi.org/10.1016/j.frl.2025.108528), 86:108528, 2025.
-5. **Huei-Wen Teng**. Importance Sampling for Calculating the Value-at-Risk and Expected Shortfall of the Quadratic Portfolio with t-Distributed Risk Factors. [*Computational Economics*](https://doi.org/10.1007/s10614-022-10294-y), 62(3):1125–1154, 2023.
-6. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. Efficient simulation of value-at-risk under a jump diffusion model: A new method for moderate deviation events. [*Computational Economics*](https://doi.org/10.1007/s10614-017-9654-z), 51(4):973–990, 2018.
-7. **Huei-Wen Teng**. A spherical Monte Carlo approach for calculating value-at-risk and expected shortfall in financial risk management. In [*2017 Winter Simulation Conference (WSC)*](https://doi.org/10.1109/WSC.2017.8247808), pages 469–480. IEEE, 2017.
+1. **Huei-Wen Teng**, Wolfgang K Härdle, Jörg Osterrieder, Daniel Traian Pele, et al. Digital assets: risks, regulations, mitigation. [*Financial Innovation*](https://doi.org/10.1186/s40854-025-00848-y), 12(1):65, 2026.
+2. Ioana Florina Coita, Marcos R. Machado, et al. (with **Huei-Wen Teng**). Taxonomy of fraud types in alternative finance using hybrid systematic review. [*International Journal of Information Management Data Insights*](https://doi.org/10.1016/j.jjimei.2026.100435), 6(2):100435, 2026.
+3. **Huei-Wen Teng**, Hsin-Pei Huang, and Yu-Chuan Shih. Tail risk in Bitcoin under the Basel framework. [*Finance Research Letters*](https://doi.org/10.1016/j.frl.2025.108528), 86:108528, 2025.
+4. **Huei-Wen Teng**. Importance Sampling for Calculating the Value-at-Risk and Expected Shortfall of the Quadratic Portfolio with t-Distributed Risk Factors. [*Computational Economics*](https://doi.org/10.1007/s10614-022-10294-y), 62(3):1125–1154, 2023.
+5. Cheng-Der Fuh, **Huei-Wen Teng**, and Ren-Her Wang. Efficient simulation of value-at-risk under a jump diffusion model: A new method for moderate deviation events. [*Computational Economics*](https://doi.org/10.1007/s10614-017-9654-z), 51(4):973–990, 2018.
+6. **Huei-Wen Teng**. A spherical Monte Carlo approach for calculating value-at-risk and expected shortfall in financial risk management. In [*2017 Winter Simulation Conference (WSC)*](https://doi.org/10.1109/WSC.2017.8247808), pages 469–480. IEEE, 2017.
 
 ## 4. Financial Derivatives Pricing
 
