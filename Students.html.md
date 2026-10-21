@@ -18,12 +18,9 @@ title: Lab Members
 
 | Name | Position and More |
 |----|-----------|
-| [蘇家灝](https://www.linkedin.com/in/ben--soo/) Su, Ben | 交大資財 M.S.F. student, since 2024/08|
-| [余柔柔](https://www.linkedin.com/in/mabelrryu/) Yu, Mabel | 交大資財 M.S.F. student, since 2025/02 |
 | [鄭凱鴻](https://www.linkedin.com/in/kaihong-zheng-66a105355/) Cheng, Allen | 交大應數 M.S. student, since 2025/02, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | [鄭詠融](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) Cheng, Martin | 交大應數 M.S. student, since 2025/02, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | [邱翰奕](https://pse.is/78kyba) Chiou, Elvis | 交大經管 M.S. student, since 2025/02, [co-advised with Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87)<br>⭐ Teng and Chiou (2026), *Finance Research Letters*, accepted<br>🏆 2026 第19屆崇越論文大賞 佳作論文獎 (台灣管理學會) |
-| [王惠芯](https://www.linkedin.com/in/chrissywangxiv/) Wang, Chrissy | 交大GMBA GMBA student, since 2025/02|
 | [吳隆傑](https://www.linkedin.com/in/隆傑-吳-b6206a373/) Wu, Lung-Chieh Jack| 交大應數 M.S. student, since 2025/07  |
 | 彭甫詔 Jimmy | 交大資財 M.S. student, since 2026/01 |
 | 陳之怡 Claire | 交大資財 M.S. student, since 2026/01 |
@@ -64,6 +61,9 @@ title: Lab Members
 
 | Name | Degree and More   |
 |----|-----------|
+| [王惠芯](https://www.linkedin.com/in/chrissywangxiv/) Wang, Chrissy | 交大GMBA, 2026/08 |
+| [蘇家灝](https://www.linkedin.com/in/ben--soo/) Su, Ben | 交大資財 M.S.F., 2026/06<br>⭐ [Teng and Soo (2026), SSRN working paper](https://doi.org/10.2139/ssrn.6723299) |
+| [余柔柔](https://www.linkedin.com/in/mabelrryu/) Yu, Mabel | 交大資財 M.S.F., 2026/06 |
 | [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Nok Hang Jason|交大資財 M.S.F., 2025/09|
 | [陳怡仁](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) Chen, Paul |交大資財 M.S.F., 2025/07 |
 | [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Hsin-Pei Wendy | 交大資財 M.S.F., 2025/07<br>⭐ [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)|
