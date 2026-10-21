@@ -63,7 +63,7 @@ title: Lab Members
 |----|-----------|
 | [王惠芯](https://www.linkedin.com/in/chrissywangxiv/) Wang, Chrissy | 交大GMBA, 2026/08 |
 | [蘇家灝](https://www.linkedin.com/in/ben--soo/) Su, Ben | 交大資財 M.S.F., 2026/06<br>⭐ [Teng and Soo (2026), SSRN working paper](https://doi.org/10.2139/ssrn.6723299) |
-| [余柔柔](https://www.linkedin.com/in/mabelrryu/) Yu, Mabel | 交大資財 M.S.F., 2026/06 |
+| [余柔柔](https://www.linkedin.com/in/mabelrryu/) Yu, Mabel | 交大資財 M.S.F., 2026/08 |
 | [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Nok Hang Jason|交大資財 M.S.F., 2025/09|
 | [陳怡仁](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) Chen, Paul |交大資財 M.S.F., 2025/07 |
 | [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Hsin-Pei Wendy | 交大資財 M.S.F., 2025/07<br>⭐ [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)|
