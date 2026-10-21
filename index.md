@@ -18,6 +18,7 @@ My research spans four threads. **Explainable AI and FinTech**: credit-scoring a
 🧑‍🎓 [Lab Members](https://venteng.github.io/Students.html)<br>
 📖 [Teaching](https://venteng.github.io/Teaching.html)<br>
 🔗 [Google Scholar](https://scholar.google.com/citations?user=HDPf0-IAAAAJ&hl=en)<br>
+📄 [CV (PDF)](https://venteng.github.io/HWTeng-CV.pdf)<br>
 ✉️ hwteng@nycu.edu.tw<br>
 
 
