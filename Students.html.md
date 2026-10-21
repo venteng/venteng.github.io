@@ -22,11 +22,10 @@ title: Lab Members
 | [余柔柔](https://www.linkedin.com/in/mabelrryu/) Yu, Mabel | 交大資財 M.S.F. student, since 2025/02 |
 | [鄭凱鴻](https://www.linkedin.com/in/kaihong-zheng-66a105355/) Cheng, Allen | 交大應數 M.S. student, since 2025/02, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
 | [鄭詠融](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) Cheng, Martin | 交大應數 M.S. student, since 2025/02, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
-| [邱瀚奕](https://pse.is/78kyba) Chiou, Elvis | 交大經管 M.S. student, since 2025/02, [co-advised with Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87) |
+| [邱翰奕](https://pse.is/78kyba) Chiou, Elvis | 交大經管 M.S. student, since 2025/02, [co-advised with Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87)<br>⭐ Teng and Chiou (2026), *Finance Research Letters*, accepted<br>🏆 2026 第19屆崇越論文大賞 佳作論文獎 (台灣管理學會) |
 | [王惠芯](https://www.linkedin.com/in/chrissywangxiv/) Wang, Chrissy | 交大GMBA GMBA student, since 2025/02|
 | [吳隆傑](https://www.linkedin.com/in/隆傑-吳-b6206a373/) Wu, Lung-Chieh Jack| 交大應數 M.S. student, since 2025/07  |
 | 彭甫詔 Jimmy | 交大資財 M.S. student, since 2026/01 |
-| 曾柏齡 Bernie | 交大資財 M.S. student, since 2026/01 |
 | 陳之怡 Claire | 交大資財 M.S. student, since 2026/01 |
 | 連鈞宥 Tiffany | 交大資財 M.S. student, since 2026/01 |
 | 陳俊錡 Nick | 交大資財 M.S. student, since 2026/01 |
