@@ -62,7 +62,7 @@ title: Lab Members
 |----|-----------|
 | [邱翰奕](https://pse.is/78kyba) Chiou, Elvis | 交大經管 M.S., 2026/07, [co-advised with Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87)<br>⭐ Teng and Chiou (2026), *Finance Research Letters*, accepted<br>🏆 2026 第19屆崇越論文大賞 佳作論文獎 (台灣管理學會) |
 | [王惠芯](https://www.linkedin.com/in/chrissywangxiv/) Wang, Chrissy | 交大GMBA, 2026/08 |
-| [蘇家灝](https://www.linkedin.com/in/ben--soo/) Su, Ben | 交大資財 M.S.F., 2026/06<br>⭐ [Teng and Soo (2026), SSRN working paper](https://doi.org/10.2139/ssrn.6723299) |
+| [蘇家灝](https://www.linkedin.com/in/ben--soo/) Su, Ben | 交大資財 M.S.F., 2026/06 |
 | [余柔柔](https://www.linkedin.com/in/mabelrryu/) Yu, Mabel | 交大資財 M.S.F., 2026/07 |
 | [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Nok Hang Jason|交大資財 M.S.F., 2025/09|
 | [陳怡仁](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) Chen, Paul |交大資財 M.S.F., 2025/07 |
