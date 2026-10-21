@@ -11,7 +11,7 @@ description: "Professor at National Yang Ming Chiao Tung University"
 
 I am a Professor in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). I lead the [FIMA Lab](https://venteng.github.io/FIMA_Lab.html) (Finance · Intelligence · Math · Analytics), an academic research lab in FinTech and statistical modeling.
 
-My research spans four threads: explainable AI and FinTech (machine learning for credit scoring and default prediction); trading and portfolio management (empirical asset pricing with machine learning); financial market risk management (tail risk and digital asset regulation); and financial derivatives pricing (Monte Carlo simulation and cryptocurrency options).
+My research spans four threads. **Explainable AI and FinTech**: credit-scoring and default-prediction models that keep machine-learning accuracy while staying transparent enough for banks and regulators. **Trading and portfolio management**: forecasting stock returns, earnings and Bitcoin volatility from market data and text, and building portfolios on those forecasts. **Financial market risk management**: tail risk, Value-at-Risk and expected shortfall for Basel capital, and the regulation of digital assets. **Financial derivatives pricing**: Monte Carlo methods for pricing and hedging options, including cryptocurrency options.
 
 🌟 [FIMA Lab](https://venteng.github.io/FIMA_Lab.html)<br>
 📚 [Publications](https://venteng.github.io/Publication.html)<br>
