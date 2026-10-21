@@ -27,7 +27,7 @@ My research spans four threads. **Explainable AI and FinTech**: credit-scoring a
 - **Industry research projects** — [E.Sun Commercial Bank](https://www.esunbank.com), data analytics in finance (2018 – 2021) · Synergies Intelligent Systems, robo-advisors in portfolio management (2016 – 2017) · Liu & Partners Law Office, anti-money-laundering name-checking (2020)
 - **Patents** — portfolio risk measurement: 評估投資組合風險指標方法及投資組合評估裝置, TW I765347 (granted); *Method for evaluating risk measures for portfolio and portfolio evaluating device*, US 17/447,060 (pending) · financial product pricing: 金融商品定價系統以及金融商品定價方法, TW I534737 (granted)
 - **Recognition** — [2022 New Futures 論文金質獎](https://ctee.com.tw/news/futures/768782.html), Taiwan Futures Exchange and 工商時報 · Best Paper Award, 31st PBFEAM (2023)
-- Open to joint work with banks, asset managers and fintechs on credit scoring, portfolio management, crypto-asset risk, and derivatives pricing and hedging — ✉️ hwteng@nycu.edu.tw
+- **Bring me a problem** in credit scoring, portfolio management, crypto-asset risk, or derivatives hedging — ✉️ hwteng@nycu.edu.tw
 
 ## Academic Positions
 
