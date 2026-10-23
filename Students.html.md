@@ -26,6 +26,7 @@ title: Lab Members
 | 連鈞宥 Tiffany | 交大資財 M.S. student, since 2026/01 |
 | 陳俊錡 Nick | 交大資財 M.S. student, since 2026/01 |
 | 廖承灝 Bill | 交大資財 M.S. student, since 2026/01 |
+| 許晉 Hsu, Chris | 交大應數 M.S. student, since 2025/09 |
 
 ### 專班碩士生
 
