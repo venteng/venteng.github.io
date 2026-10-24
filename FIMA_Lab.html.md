@@ -15,7 +15,7 @@ We're a hub for international collaboration, academic publishing, and mentoring 
 
 Our research spans four pillars, with lab members actively collaborating on ongoing projects across these domains. Selected publications are listed under each pillar; the full list is in the [CV (pdf)](https://venteng.github.io/HWTeng-CV-public.pdf).
 
-<!-- publications:begin — generated from 2-canonical/HWTeng.bib by 1-materials/ref-generate-publication-page.py; do not edit by hand -->
+<!-- publications:begin — generated from 02-canonical/HWTeng.bib by 01-materials/ref-generate-publication-page.py; do not edit by hand -->
 ### 1. **Explainable AI & FinTech** — machine learning for credit scoring and default prediction
 
 Credit-scoring and default-prediction models that keep machine-learning accuracy while staying transparent enough for banks and regulators.
