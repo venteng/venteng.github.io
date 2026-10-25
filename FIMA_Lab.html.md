@@ -7,13 +7,9 @@ title: FIMA Lab
 
 Finance ∙ Intelligence ∙ Math ∙ Analytics
 
-*FIMA Lab is a research initiative founded in 2010 by Prof. Huei-Wen Teng of National Yang Ming Chiao Tung University, Taiwan, as she moved into a new stage of her career. The lab brings together her research in statistics, machine learning, financial engineering, and FinTech, turning data into practical, evidence-based ideas.*
+Welcome to FIMA Lab. Founded by Prof. Huei-Wen Teng in 2010 and now based at National Yang Ming Chiao Tung University, Taiwan, we bring together statistics, machine learning, financial engineering, and FinTech to turn data into practical, evidence-based answers. We publish with collaborators around the world, mentor students, and work with industry on real problems. Researchers, students, and companies are all welcome. Get in touch at [hwteng@nycu.edu.tw](mailto:hwteng@nycu.edu.tw).
 
-## Innovate with Us
-
-We're a hub for international collaboration, academic publishing, and mentoring in AI-powered finance, and we bring hands-on consulting experience to real-world problems. We'd love to team up with industry leaders, startups, and organizations to build solutions grounded in math, statistics, and finance. If that sounds like you, get in touch — let's collaborate!
-
-Our research spans four pillars, with lab members actively collaborating on ongoing projects across these domains. Selected publications are listed under each pillar.
+Our research spans four pillars, and lab members collaborate across them. Selected publications are listed under each pillar.
 
 <!-- publications:begin — generated from 02-canonical/HWTeng.bib by 01-materials/ref-generate-publication-page.py; do not edit by hand -->
 ### 1. **Explainable AI & FinTech** — machine learning for credit scoring and default prediction
