@@ -13,7 +13,7 @@ Finance ∙ Intelligence ∙ Math ∙ Analytics
 
 We're a hub for international collaboration, academic publishing, and mentoring in AI-powered finance, and we bring hands-on consulting experience to real-world problems. We'd love to team up with industry leaders, startups, and organizations to build solutions grounded in math, statistics, and finance. If that sounds like you, get in touch — let's collaborate!
 
-Our research spans four pillars, with lab members actively collaborating on ongoing projects across these domains. Selected publications are listed under each pillar; the full list is in the [CV (pdf)](https://venteng.github.io/HWTeng-CV-public.pdf).
+Our research spans four pillars, with lab members actively collaborating on ongoing projects across these domains. Selected publications are listed under each pillar.
 
 <!-- publications:begin — generated from 02-canonical/HWTeng.bib by 01-materials/ref-generate-publication-page.py; do not edit by hand -->
 ### 1. **Explainable AI & FinTech** — machine learning for credit scoring and default prediction
