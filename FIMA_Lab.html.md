@@ -25,7 +25,7 @@ Credit-scoring and default-prediction models that keep machine-learning accuracy
 
 Forecasting stock returns, earnings and Bitcoin volatility from market data and text, and building portfolios on those forecasts.
 
-1. **Huei-Wen Teng** and Han-Yi Chiou. Forecasting Intraday Bitcoin Volatility: Do Financial News Embeddings Add Value Beyond Market Microstructure? *Finance Research Letters*, 2026. [[pdf]](https://venteng.github.io/papers/teng2026forecasting-AAM.pdf)
+1. **Huei-Wen Teng** and Han-Yi Chiou. Forecasting Intraday Bitcoin Volatility: Do Financial News Embeddings Add Value Beyond Market Microstructure? [*Finance Research Letters*](https://doi.org/10.1016/j.frl.2026.110976), 114:110976, 2026. [[pdf]](https://venteng.github.io/papers/teng2026forecasting-AAM.pdf)
 2. **Huei-Wen Teng**, Yu-Chuan Shih, and Ming-Hsuan Kang. Qualitative insights meet quantitative forecasts with GPT-4o mini for Taiwan earnings prediction. *Journal of the Chinese Statistical Association*, 64:417–450, 2026. [[pdf]](https://venteng.github.io/papers/teng2026qualitative-AAM.pdf)
 3. Yu-Jui Chen, Chen-Yen Hsieh, **Huei-Wen Teng**, Ming-Che Hu, and Alex YiHou Huang. Risk parity strategies with risk factors. [*Journal of Risk*](https://doi.org/10.21314/JOR.2025.006), 27(5):1–27, 2025.
 4. **Huei-Wen Teng**. Comparisons between the Markowitz Model and the Black-Litterman Model. In [*Handbook of Investment Analysis, Portfolio Management, and Financial Derivatives*](https://doi.org/10.1142/9789811269943_0085), volume 3, chapter 85, pages 2727–2749. World Scientific, Singapore, 2024.
