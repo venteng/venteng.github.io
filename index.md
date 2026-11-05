@@ -19,7 +19,7 @@ I am a Professor in the Department of Information Management and Finance at Nati
 
 ## Industry Collaboration & Patents
 
-- **Patents** — portfolio risk measurement: 評估投資組合風險指標方法及投資組合評估裝置, TW I765347 (granted); *Method for evaluating risk measures for portfolio and portfolio evaluating device*, US 17/447,060 (pending) · financial product pricing: 金融商品定價系統以及金融商品定價方法, TW I534737 (granted)
+- **Patents** — portfolio risk measurement: 評估投資組合風險指標方法及投資組合評估裝置, TW I765347 (granted) · financial product pricing: 金融商品定價系統以及金融商品定價方法, TW I534737 (granted)
 - **Bring me a problem** in credit scoring, portfolio management, crypto-asset risk, or derivatives hedging — ✉️ hwteng@nycu.edu.tw
 
 ## Academic Positions
