@@ -14,7 +14,7 @@ title: Lab Members
 
 ### Ph.D. Students
 
-1. Yen-Chang Lee — Information Management and Finance, since Feb 2023
+1. Yen-Chang Lee — Information Management and Finance, since Feb 2023, co-advised with [Prof. Min-Teh Yu](https://qf.site.nthu.edu.tw/p/405-1366-220485,c5738.php?Lang=zh-tw) (National Tsing Hua University)
 2. Che-Jui Chang (Jerry) — Information Management and Finance, since Feb 2026
 
 ### Master's Students
