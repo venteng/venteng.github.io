@@ -4,7 +4,7 @@ title: Lab Members
 ---
 
 <!-- topbar:begin — written by 01-materials/ref_site_topbar.py; do not edit by hand -->
-<div style="position:fixed;top:10px;left:10px;z-index:1000;display:flex;gap:8px;font-size:14px;"><a href="https://venteng.github.io" style="background:#fff;color:#155799;padding:6px 12px;border-radius:6px;font-weight:600;text-decoration:none;box-shadow:0 1px 4px rgba(0,0,0,.35);">🏠 Home</a></div>
+<div style="position:fixed;top:10px;left:10px;z-index:1000;display:flex;gap:8px;font-size:14px;"><a href="https://venteng.github.io/Students-zh.html" style="background:#fff;color:#155799;padding:6px 12px;border-radius:6px;font-weight:600;text-decoration:none;box-shadow:0 1px 4px rgba(0,0,0,.35);">中文</a><a href="https://venteng.github.io" style="background:#fff;color:#155799;padding:6px 12px;border-radius:6px;font-weight:600;text-decoration:none;box-shadow:0 1px 4px rgba(0,0,0,.35);">🏠 Home</a></div>
 <style>.page-header{padding-top:3.75rem !important;}</style>
 <!-- topbar:end -->
 
@@ -12,119 +12,176 @@ title: Lab Members
 
 ## Current Lab Members
 
-### 博士生
+### Ph.D. Students
 
-| Name | Position and More |
-|----|-----------|
-|李彥璋 Lee Yen-Chang| 交大資財 Ph.D. student, since 2022/7 |
-| 張哲睿 Jerry | 交大 Ph.D. student, since 2026/02 |
+1. Yen-Chang Lee — Information Management and Finance, since Jul 2022
+2. Che-Jui Chang (Jerry) — since Feb 2026
 
-### 碩士生
+### Master's Students
 
-| Name | Position and More |
-|----|-----------|
-| [鄭凱鴻](https://www.linkedin.com/in/kaihong-zheng-66a105355/) Cheng, Allen | 交大應數 M.S. student, since 2025/02, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
-| [鄭詠融](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) Cheng, Martin | 交大應數 M.S. student, since 2025/02, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1) |
-| [吳隆傑](https://www.linkedin.com/in/隆傑-吳-b6206a373/) Wu, Lung-Chieh Jack| 交大應數 M.S. student, since 2025/07  |
-| 彭甫詔 Jimmy | 交大資財 M.S. student, since 2026/01 |
-| 陳之怡 Claire | 交大資財 M.S. student, since 2026/01 |
-| 連鈞宥 Tiffany | 交大資財 M.S. student, since 2026/01 |
-| 陳俊錡 Nick | 交大資財 M.S. student, since 2026/01 |
-| 廖承灝 Bill | 交大資財 M.S. student, since 2026/01 |
-| 許晉 Hsu, Chris | 交大應數 M.S. student, since 2025/09 |
+1. [Allen Cheng](https://www.linkedin.com/in/kaihong-zheng-66a105355/) — Applied Mathematics, since Feb 2025, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)
+2. [Martin Cheng](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) — Applied Mathematics, since Feb 2025, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)
+3. [Lung-Chieh Wu (Jack)](https://www.linkedin.com/in/隆傑-吳-b6206a373/) — Applied Mathematics, since Jul 2025
+4. Chin Hsu (Chris) — Applied Mathematics, since Sep 2025
+5. Fu-Chao Peng (Jimmy) — Information Management and Finance, since Jan 2026
+6. Jhih-Yi Chen (Claire) — Information Management and Finance, since Jan 2026
+7. Chun-Yu Lien (Tiffany) — Information Management and Finance, since Jan 2026
+8. Jun-Qi Chen (Nick) — Information Management and Finance, since Jan 2026
+9. Cheng-Hao Liao (Bill) — Information Management and Finance, since Jan 2026
 
-### 專班碩士生
+### Executive Master's Students (E.M.S.F.)
 
-| Name | Position and More |
-|----|-----------|
-| [江文煌](https://www.linkedin.com/in/ares-jiang-2a3816354/) Chiang, Ares | 交大資財 E.M.S.F. student, since 2024/09 |
-| [范艾雯](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) Fan, Eva | 交大資財 E.M.S.F. student, since 2024/09|
-| 黃德榮 Huang, Deron | 交大資財 E.M.S.F. student, since 2025/02  |
-| 陳峻毅 Ian | 交大資財 E.M.S.F. student, since 2026/01 |
+1. [Ares Chiang](https://www.linkedin.com/in/ares-jiang-2a3816354/) — since Sep 2024
+2. [Eva Fan](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) — since Sep 2024
+3. Deron Huang — since Feb 2025
+4. Jiun-Yi Chen (Ian) — since Jan 2026
 
+### Undergraduate Research Students
 
-### 大學專題生
-
-
-| Name | Position and More |
-|----|-----------|
-| [許柏堯](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) Hsu, Frank | 交大資財 B.S.F. student, since 2025/02 |
-| [黃以樂](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) Huang, Yile | 交大應數 B.S. student, since 2025/02|
-| [吳冠霖](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) Wu, Guan-Lin | 交大應數 B.S. student, since 2025/02 |
-| [藍允澤](https://www.linkedin.com/in/%E5%85%81%E6%BE%A4-%E8%97%8D-7a8815312/)  Lan, Yun-Tse Jeremy| 交大資財 B.S.F. student, since 2025/08 |
-| [馮品維](https://www.linkedin.com/in/%E5%93%81%E7%B6%AD-%E9%A6%AE-783536339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) Feng, Ping-Wei David |  交大資財 B.S.F. student, since 2025/08|
-| [歐佳俞](https://www.linkedin.com/in/chia-yu-ou-5a2ab1325/) Ou, Chia-Yu Maeve |  交大資財 B.S.F. student, since 2025/08|
-| 施又睿 Ariel | 專題生, since 2026/01 |
-| 宮珮媛 Penny | 專題生, since 2026/02 |
-| 湯以箴 Jenna | 專題生, since 2026/02 |
-| 徐嘉謙 Chien | 專題生, since 2026/02 |
-| 王冠築 Candice | 專題生, since 2026/02 |
-| 林羿辰 Alvin | 專題生, since 2026/03 |
-
+1. [Frank Hsu](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) — Information Management and Finance, since Feb 2025
+2. [Yile Huang](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) — Applied Mathematics, since Feb 2025
+3. [Guan-Lin Wu](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) — Applied Mathematics, since Feb 2025
+4. [Yun-Tse Lan (Jeremy)](https://www.linkedin.com/in/%E5%85%81%E6%BE%A4-%E8%97%8D-7a8815312/) — Information Management and Finance, since Aug 2025
+5. [Ping-Wei Feng (David)](https://www.linkedin.com/in/%E5%93%81%E7%B6%AD-%E9%A6%AE-783536339) — Information Management and Finance, since Aug 2025
+6. [Chia-Yu Ou (Maeve)](https://www.linkedin.com/in/chia-yu-ou-5a2ab1325/) — Information Management and Finance, since Aug 2025
+7. You-Ruei Shih (Ariel) — since Jan 2026
+8. Penny Kung — since Feb 2026
+9. Yi-Chen Tang (Jenna) — since Feb 2026
+10. Chia-Chien Hsu (Chien) — since Feb 2026
+11. Kuan-Chu Wang (Candice) — since Feb 2026
+12. Yi-Chen Lin (Alvin) — since Mar 2026
 
 ## Former Lab Members
 
-| Name | Degree and More   |
-|----|-----------|
-| [邱翰奕](https://pse.is/78kyba) Chiou, Elvis | 交大經管 M.S., 2026/07, [co-advised with Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87)<br>⭐ Teng and Chiou (2026), *Finance Research Letters*<br>🏆 2026 第19屆崇越論文大賞 佳作論文獎 (台灣管理學會) |
-| [王惠芯](https://www.linkedin.com/in/chrissywangxiv/) Wang, Chrissy | 交大GMBA, 2026/08 |
-| [蘇家灝](https://www.linkedin.com/in/ben--soo/) Su, Ben | 交大資財 M.S.F., 2026/06 |
-| [余柔柔](https://www.linkedin.com/in/mabelrryu/) Yu, Mabel | 交大資財 M.S.F., 2026/07 |
-| [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) Chan, Nok Hang Jason|交大資財 M.S.F., 2025/09|
-| [陳怡仁](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) Chen, Paul |交大資財 M.S.F., 2025/07 |
-| [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) Huang, Hsin-Pei Wendy | 交大資財 M.S.F., 2025/07<br>⭐ [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)|
-| [施昱全](http://linkedin.com/in/昱全-施-735a5620b) Shih, Yu-Chuan  James| 交大資財 M.S.F., 2025/07<br>⭐ [Teng et al. (2025), *Finance Research Letters*](https://www.sciencedirect.com/science/article/pii/S1544612325017829?dgcid=author)<br>⭐ [Teng et al. (2026), *Journal of the Chinese Statistical Association*, forthcoming](https://drive.google.com/file/d/1dkJIEoORZuszQ1QKR161o4RsECYjtU_1/view?usp=drive_link)|
-| [吳柏賢](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) Wu, Howard | 交大資財 M.S.F., 2025/07 |
-| 林威承 Lin, Wei-Cheng |交大工管 M.S., 2024/12, [co-advised with Prof. Chun-Cheng Lin](https://cclin321.iem.nycu.edu.tw/林春成)|
-| 陳彥廷 Chen, Yen-Ting |交大資財 M.S.F., 2024/07|
-| [鄭翔澧](https://www.linkedin.com/in/siang-li-jheng-bb3103334/) Jheng, Siang-Li | 交大資財 M.S.F., 2024/07|
-| 吳旻修 Wu, Min-Hsiu | 交大資財 M.S.F., 2024/07 |
-| [鄭有朋](https://www.linkedin.com/in/you-peng-zheng) Zheng, You-Peng |交大資財 B.S., 2024/07   |
-| [王鳴謙](https://www.linkedin.com/in/ken-wang-b93285201) Wang, Ken | 交大資財 B.S., 2024/07  |
-| [李語涵](https://www.linkedin.com/in/yu-han-li-559863258) Li, Yu-Han | 交大資財 B.S., 2024/07  |
-| [吳珮慈](https://www.linkedin.com/in/patty-wu-hii) Wu, Patty | 交大資財 B.S., 2024/07  |
-| 許晉 Hsu, Chris | 交大資財 B.S., 2024/07  |
-| 陳之怡 Chen, Claire | 交大資財 B.S., 2024/07; now M.S. student in the lab  |
-| 唐君亞 | 交大資財 B.S., 2024/07  |
-| 蔡昕妤  | 交大資財 B.S., 2024/07  |
-| 潘俞綺 Pan, Yu-Ci | 交大資財 M.S.F., 2023/07 |
-| 呂映葇 Lu, Ying-Rou | 交大資財 M.S.F., 2022/07 |
-| 李亦涵 Lee, I-Han Ian | 交大數據所 M.S., 2022/07, [co-advised with Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)<br> ⭐ [Teng et al. (2024), *International Review of Financial Analysis*](https://doi.org/10.1016/j.irfa.2023.103005)|
-| 張詠淇 Chang, Yung-Chi Tom | 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>⭐ [Chang et al. (2023), *Journal of Futures and Options*](https://www.taifex.com.tw/cht/10/journalView)<br>🏆 [2022 New Futures 期貨學術與實務交流研討會論文金質獎](https://www.ctee.com.tw/news/20221205700620-431210)|
-| 陳律翔 Chen, Lu-Xiang Jay| 交大應數 M.S., 2022/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
-| 陳品蓁 Chen, Jasmine | 交大資財 B.S., 2022/07  |
-| 宋佩芩 Sung, Sammi | 交大資財 B.S., 2022/07  |
-| [張尚文](https://www.linkedin.com/in/jonathan-sw-chang/) Chang, Shang-Wen Jonathan | 交大應數 M.S., 2021/08, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>⭐ [Teng et al. (2020), *ICPAI*](https://ieeexplore.ieee.org/document/9302638)|
-| 李育賢 Li, Yu-Hsien Bill | 交大資財 M.S.F., 2020/07<br>⭐ [Teng et al. (2020), *ICPAI*](https://ieeexplore.ieee.org/document/9302638)<br>⭐ [Teng & Lee (2023), *Digital Finance*](https://link.springer.com/article/10.1007/s42521-023-00076-y)|
-| 吳哲杭 Wu, Zhe-Hang Jeff | 交大資財 M.S.F., 2020/07 |
-| 范凱翔 Fan, Tom| 交大應數 B.S., 2020/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>🏆 榮獲109年度科技部大專生計畫|
-| 林睿瑜 Lin, Phoebe| 交大資財 B.S., 2020/07<br>🏆 榮獲109年度科技部大專生計畫|
-| 陸恭葦 Lu, Lucy| 交大資財 B.S., 2020/07  |
-| 趙祥安 Zhao, Xiang-An | 交大應數 M.S., 2020/06, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>⭐ [Teng & Zhao (2021), *Journal of Futures and Options*](https://www.taifex.com.tw/cht/10/journalView)|
-| 林益嘉 Lin, Yi-Chia Kelly | 交大資財 M.S.F., 2019/07 |
-| 許至妤 Hsu, Chih-Yu Emma | 交大資財 M.S.F., 2019/07 |
-| 陳奕翔 Chen, Yi-Xiang Arikson | 交大資財 M.S.F., 2019/07 |
-| 黃春僖 Huang, Simon | 交大應數 M.S., 2019/07, [co-advised with Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)|
-| 葉惠瑄 Yeh, Huei-Hsuan | 中大統計 M.S., 2017/06 |
-| 應劭玄 Yin, Shao-Hsuan Jason | 中大統計 M.S., 2017/06 |
-| 李宛柔 Lee, Wan-Zoe Cora | 中大統計 M.S., 2017/06 |
-| 吳柏辰 Wu, Po-Chen | 中大統計 M.S., 2016/07 |
-| 江厚德 Chiang, Arron | 中大統計 M.S., 2016/07 |
-| 林煒紘 Lin, Wei-Hung | 中大統計 M.S., 2015/06<br>⭐ [Lin et al. (2020), *Handbook of Financial Econometrics, Mathematics, Statistics, and Machine Learning*](https://www.worldscientific.com/doi/10.1142/9789811202391_0014?srsltid=AfmBOooTBeDsa58dLYFQDZZzKg8G18rsPELiQ1LpArEyfmfFefInMG4K)|
-| 沈睿謙 Shen, Rui-Qian | 中大統計 M.S., 2015/06 |
-| 楊舒媛 Yang, Shu-Yuang | 中大統計 M.S., 2015/06 |
-| 王聖翔 Wang, Sheng-Xiang | 中大統計 M.S., 2014/06<br>⭐ [Lyuu et al. (2019), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196)|
-| 曾耀德 Tseng, Yao-Te | 中大統計 M.S., 2014/06<br>⭐ [Lyuu et al. (2019), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2018.1562196)|
-| 李宥萱 Lee, Yu-Hsuan | 中大統計 M.S., 2014/06<br>⭐ [Luo et al. (2016), *Asia-Pacific Journal of Risk and Insurance*](https://www.degruyterbrill.com/document/doi/10.1515/apjri-2015-0011/html)|
-| 陳彥勳 Chen, Yen-Hsun | 中大統計 M.S., 2013/06 |
-| 沈志泰 Shen, Chih-Tai | 中大統計 M.S., 2013/06 |
-| 吳諭昕 Wu, Yu-Hsin | 中大統計 M.S., 2013/06 |
-| 陳醇潔 Chen, Chun-Chieh | 中大統計 M.S., 2012/06<br>⭐ [Teng et al. (2016), *Quantitative Finance*](https://www.tandfonline.com/doi/full/10.1080/14697688.2015.1136077)<br>⭐ [Chen et al. (2013), *Journal of the Chinese Statistical Association*](https://www.airitilibrary.com/Article/Detail/05296528-201309-201309020004-201309020004-253-273)<br>🏆 [榮獲101年中國統計學社論文獎優等獎](https://www.stat.org.tw/data/operation/歷屆論文獎得獎名單1121207.pdf)|
-| 劉家齊 Liu, Chia-Chi | 中大統計 M.S., 2012/06 |
-| 趙彥茹 Chao, Yen-Ju | 中大統計 M.S., 2012/06<br>⭐ [Teng et al. (2015), *Journal of Applied Statistics*](https://www.tandfonline.com/doi/abs/10.1080/02664763.2014.995609)|
-| 陳彥鈞 Chen, Yen-Chun | 中大統計 M.S., 2012/06 |
-| 劉佑聖 Liu, You-Sheng | 中大統計 M.S., 2011/06 |
-| 吳嘉洋 Wu, Jia-Yang | 中大統計 M.S., 2011/06 |
+### Master's Theses, National Yang Ming Chiao Tung University
+
+1. [Han-Yi Chiou (Elvis)](https://pse.is/78kyba) — M.B.A., Institute of Business and Management, Jul 2026, co-advised with [Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87)<br>
+   *Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility*<br>
+   ⭐ [Teng and Chiou (2026), *Finance Research Letters*](https://doi.org/10.1016/j.frl.2026.110976)<br>
+   🏆 2026 19th Topco Thesis Award, Honorable Mention (Taiwan Academy of Management)
+2. [Chrissy Wang](https://www.linkedin.com/in/chrissywangxiv/) — GMBA, Aug 2026<br>
+   *An Explainable and Cost-Sensitive Human-in-the-Loop Framework for Credit Card Fraud Detection*
+3. [Ka-Ho Soo (Ben)](https://www.linkedin.com/in/ben--soo/) — M.S., Information Management and Finance, Jun 2026<br>
+   *Hybrid Deep Learning and Association Rule Framework of Stock Prediction for Individual Investor*
+4. [Rou-Rou Yu (Mabel)](https://www.linkedin.com/in/mabelrryu/) — M.S., Information Management and Finance, Jul 2026<br>
+   *News Embeddings, UMAP Compression, and Corporate Credit Rating Prediction: A Multimodal Approach*
+5. [Nok Hang Chan (Jason)](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) — M.S., Information Management and Finance, Jul 2025<br>
+   *Mapping Risk Contagion through Graphical Models and Early Warning Signals in Taiwan's Stock Market*
+6. Yi-Jen Chen (Paul) — M.S., Information Management and Finance, Jul 2025<br>
+   *Bridging Interpretability and Performance: Augmented Features and PowerSHAP for Credit Default Prediction*
+7. [Hsin-Pei Huang (Wendy)](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) — M.S., Information Management and Finance, Jun 2025<br>
+   *Evaluating Tail Risk in Bitcoin Using Stochastic Volatility and Jump Models under Basel Standards*<br>
+   ⭐ [Teng et al. (2025), *Finance Research Letters*](https://doi.org/10.1016/j.frl.2025.108528)
+8. [Yu-Chuan Shih (James)](http://linkedin.com/in/昱全-施-735a5620b) — M.S., Information Management and Finance, Jun 2025<br>
+   *Qualitative Insights Meet Quantitative Forecasts with GPT-4o Mini for Taiwan Earnings Prediction*<br>
+   ⭐ [Teng et al. (2025), *Finance Research Letters*](https://doi.org/10.1016/j.frl.2025.108528)<br>
+   ⭐ [Teng et al. (2026), *Journal of the Chinese Statistical Association*](https://venteng.github.io/papers/teng2026qualitative-AAM.pdf)
+9. [Po-Hsien Wu (Howard)](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) — M.S., Information Management and Finance, Jun 2025<br>
+   *Redesigning Solar Contracts to Unlock Long-Term ESG Investment*
+10. Wei-Cheng Lin — M.S., Industrial Engineering and Management, Dec 2024, co-advised with [Prof. Chun-Cheng Lin](https://cclin321.iem.nycu.edu.tw/林春成)<br>
+    *Particle Swarm Optimization for Cardinality-Constrained Portfolio Optimization in Cryptocurrency Index Tracking*
+11. Yen-Ting Chen — M.S., Information Management and Finance, Jul 2024<br>
+    *Exploring Multifaceted Drivers for Bitcoin Return Analysis*
+12. [Siang-Li Jheng](https://www.linkedin.com/in/siang-li-jheng-bb3103334/) — M.S., Information Management and Finance, Jul 2024<br>
+    *Financial Risk Meters in Taiwan's High-Cap Sectors*
+13. Min-Hsiu Wu — M.S., Information Management and Finance, Jul 2024<br>
+    *Applying Reinforcement Learning for Trading in the Taiwan Stock Market and Bitcoin*
+14. Yu-Ci Pan — M.S., Information Management and Finance, Jul 2023<br>
+    *On BTC Option Pricing Kernels: Pre- and Post-Pandemic Analysis*
+15. Yung-Chi Chang (Tom) — M.S., Applied Mathematics, Aug 2022, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
+    *Pricing and Hedging Inverse BTC Options with Heston's Stochastic Volatility Model*<br>
+    ⭐ [Chang et al. (2023), *Journal of Futures and Options*](https://doi.org/10.2139/ssrn.4271856)<br>
+    🏆 [2022 New Futures Conference, Gold Award for Best Paper](https://www.ctee.com.tw/news/20221205700620-431210)
+16. Lu-Xiang Chen (Jay) — M.S., Applied Mathematics, Aug 2022, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
+    *Global Portfolio Management with the Black-Litterman Model Using Stocks in Taiwan and the US Markets*
+17. I-Han Lee (Ian) — M.S., Institute of Data Science and Engineering, Aug 2022, co-advised with [Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)<br>
+    *Cluster-then-Predict for Binary Classification with Imbalance Problem: Applications of Credit Scoring Models*<br>
+    ⭐ [Teng et al. (2024), *International Review of Financial Analysis*](https://doi.org/10.1016/j.irfa.2023.103005)
+18. Ying-Rou Lu — M.S., Information Management and Finance, Aug 2022<br>
+    *Empirical Analysis for Gold Options in Taiwan Futures Exchange*
+19. [Shang-Wen Chang (Jonathan)](https://www.linkedin.com/in/jonathan-sw-chang/) — M.S., Applied Mathematics, Aug 2021, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
+    *Maximum Likelihood Estimate of L-Isotropic Multivariate Normal Distributions and Its Applications*<br>
+    ⭐ [Teng et al. (2020), *ICPAI*](https://doi.org/10.1109/ICPAI51961.2020.00030)
+20. Yu-Hsien Li (Bill) — M.S., Information Management and Finance, Jun 2020<br>
+    *An Empirical Comparison between Traditional Methods and Machine Learning in Asset Pricing Models*<br>
+    ⭐ [Teng et al. (2020), *ICPAI*](https://doi.org/10.1109/ICPAI51961.2020.00030)<br>
+    ⭐ [Teng and Li (2023), *Digital Finance*](https://doi.org/10.1007/s42521-023-00076-y)
+21. Zhe-Hang Wu (Jeff) — M.S., Information Management and Finance, Jun 2020<br>
+    *An Empirical Comparison of Multivariate GARCH Models with a Portfolio Management Application for the A-Share in Shanghai Stock Exchange*
+22. Xiang-An Zhao — M.S., Applied Mathematics, Jun 2020, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
+    *An Empirical Comparison between the Heston Stochastic Volatility Model and the NGARCH Model in Pricing Quanto Options*<br>
+    ⭐ [Teng and Zhao (2021), *Journal of Futures and Options*](https://doi.org/10.6935/JFO.202108_14%282%29.0002)
+23. Yi-Xiang Chen (Arikson) — M.S., Information Management and Finance, Jul 2019<br>
+    *On Boosting Methods in Machine Learning with Applications in Delinquency Prediction for Credit Risk Management*
+24. Yi-Chia Lin (Kelly) — M.S., Information Management and Finance, Jun 2019<br>
+    *Deep Time-Series Feature Extraction in Credit Scoring Models*
+25. Chih-Yu Hsu (Emma) — M.S., Information Management and Finance, Jun 2019<br>
+    *An Empirical Investigation on Estimations of VaR in Financial Risk Management Based on Basel Accords*
+26. Chun-Xi Huang (Simon) — M.S., Applied Mathematics, Jun 2019, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
+    *Large Portfolio Management with Clustering Techniques*
+
+### Master's Theses, Graduate Institute of Statistics, National Central University
+
+1. Huei-Hsuan Yeh — Jun 2017<br>
+   *A Multivariate Markov Switching Model for Portfolio Optimization*
+2. Shao-Hsuan Yin (Jason) — Jun 2017<br>
+   *Portfolio Allocation with Regime Switching Models*
+3. Wan-Zoe Lee (Cora) — Jun 2017<br>
+   *A Dynamic Rebalancing Strategy for Portfolio Allocation*
+4. Po-Chen Wu — Jul 2016<br>
+   *Simulating Average Run Lengths of a Copula-Based Control Chart with the Use of Control Variates*
+5. Arron Chiang — Jul 2016<br>
+   *An Empirical Comparison of Various Approaches in Calculating Value at Risk*
+6. Wei-Hung Lin — Jun 2015<br>
+   *Asset Allocation Based on the Black-Litterman and GARCH Models*<br>
+   ⭐ [Lin et al. (2020), *Handbook of Financial Econometrics, Mathematics, Statistics, and Machine Learning*](https://doi.org/10.1142/9789811202391_0014)
+7. Rui-Qian Shen — Jun 2015<br>
+   *Comparisons of Dynamic Hedging of Financial Options Using Different Volatility Estimators under the Black-Scholes Model*
+8. Shu-Yuang Yang — Jun 2015<br>
+   *Modelling the VIX Index and Hedging the S&P 500 Futures Using VIX Options*
+9. Sheng-Xiang Wang — Jun 2014<br>
+   *A Direct Method for Calculating Greeks under Some Lévy Processes*<br>
+   ⭐ [Lyuu et al. (2019), *Quantitative Finance*](https://doi.org/10.1080/14697688.2018.1562196)
+10. Yao-Te Tseng — Jun 2014<br>
+    *Sensitivity Analysis of Credit Derivatives*<br>
+    ⭐ [Lyuu et al. (2019), *Quantitative Finance*](https://doi.org/10.1080/14697688.2018.1562196)
+11. Yu-Hsuan Lee — Jun 2014<br>
+    *Improved Mortality Forecasting Using Augmented Data*<br>
+    ⭐ [Luo et al. (2016), *Asia-Pacific Journal of Risk and Insurance*](https://doi.org/10.1515/apjri-2015-0011)
+12. Yen-Hsun Chen — Jun 2013<br>
+    *Structure Learning for Hierarchical Archimedean Copulas*
+13. Chih-Tai Shen — Jun 2013<br>
+    *Estimating Intensity Processes from Credit Default Swaps*
+14. Yu-Hsin Wu — Jun 2013<br>
+    *Calibrating the State Price Densities Using TAIEX Options*
+15. Chun-Chieh Chen — Jun 2012<br>
+    *Efficient Option Pricing with Importance Sampling*<br>
+    ⭐ [Teng et al. (2016), *Quantitative Finance*](https://doi.org/10.1080/14697688.2015.1136077)<br>
+    ⭐ [Chen et al. (2013), *Journal of the Chinese Statistical Association*](https://www.airitilibrary.com/Article/Detail/05296528-201309-201309020004-201309020004-253-273)<br>
+    🏆 [Excellent Paper Award, Chinese Statistical Association, 2012](https://www.stat.org.tw/data/operation/歷屆論文獎得獎名單1121207.pdf)
+16. Chia-Chi Liu — Jun 2012<br>
+    *On Pricing Credit Default Swaps*
+17. Yen-Ju Chao — Jun 2012<br>
+    *Bayesian Imputation with an Application to Mass-Period Functions of Extrasolar Planets*<br>
+    ⭐ [Teng et al. (2015), *Journal of Applied Statistics*](https://doi.org/10.1080/02664763.2014.995609)
+18. Yen-Chun Chen — Jun 2012<br>
+    *Copula-Based Weather Data Forecasting*
+19. You-Sheng Liu — Jun 2011<br>
+    *Portfolio Selection Based on Copula Models with Applications in Taiwan Stock Market*
+20. Jia-Yang Wu — Jun 2011<br>
+    *Copula-Based Time Series with Applications to Unemployment Rates Modeling*
+
+### Undergraduate Research Projects, National Yang Ming Chiao Tung University
+
+1. [You-Peng Zheng](https://www.linkedin.com/in/you-peng-zheng), [Ken Wang](https://www.linkedin.com/in/ken-wang-b93285201), [Yu-Han Li](https://www.linkedin.com/in/yu-han-li-559863258), [Patty Wu](https://www.linkedin.com/in/patty-wu-hii), Chin Hsu (Chris) — B.S., Information Management and Finance, Jul 2024<br>
+   *Exploring Multifaceted Drivers for Bitcoin Return Analysis*
+2. Jhih-Yi Chen (Claire), Jessie Tang, Cindy Tsai — B.S., Information Management and Finance, Jul 2024<br>
+   *Financial Risk Measures for Taiwan's High-Cap Electronics and Financial Sectors*
+3. Jasmine Chen, Sammi Sung — B.S., Information Management and Finance, Jul 2022<br>
+   *Statistical Modeling for the Exchange Rate between NTD and USD*
+4. Tom Fan (Applied Mathematics, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)), Phoebe Lin, Lucy Lu — B.S., Jul 2020<br>
+   *Time Series Forecasting in Credit Scoring Model*<br>
+   🏆 NSTC undergraduate research grant to Phoebe Lin (MOST109-2813-C-009-069-H)
 
 ---
 

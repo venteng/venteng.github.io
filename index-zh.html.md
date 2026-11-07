@@ -18,15 +18,14 @@ description: "國立陽明交通大學 教授"
 
 🌟 [FIMA Lab](https://venteng.github.io/FIMA_Lab-zh.html)<br>
 📚 [論文列表 Publications](https://venteng.github.io/Publication.html)<br>
-🧑‍🎓 [實驗室成員 Lab Members](https://venteng.github.io/Students.html)<br>
-📖 [教學 Teaching](https://venteng.github.io/Teaching.html)<br>
+🧑‍🎓 [實驗室成員](https://venteng.github.io/Students-zh.html)<br>
+📖 [教學](https://venteng.github.io/Teaching-zh.html)<br>
 ✉️ hwteng@nycu.edu.tw<br>
 
 
-## 產學合作與專利
+## 產學合作
 
-- **專利** — 投資組合風險衡量：評估投資組合風險指標方法及投資組合評估裝置，中華民國發明專利第 I765347 號（已獲證）· 金融商品定價：金融商品定價系統以及金融商品定價方法，中華民國發明專利第 I534737 號（已獲證）
-- **帶著您的問題來找我**：信用評分、投資組合管理、加密資產風險、衍生性金融商品避險 — ✉️ hwteng@nycu.edu.tw
+**帶著您的問題來找我**：信用評分、投資組合管理、加密資產風險、衍生性金融商品避險 — ✉️ hwteng@nycu.edu.tw
 
 ## 學術經歷
 
