@@ -16,21 +16,21 @@ Welcome to FIMA Lab. Founded by Prof. Huei-Wen Teng in 2010 and now based at Nat
 
 Our research spans four pillars, and lab members collaborate across them.
 
-### 1. **Explainable AI & FinTech** — machine learning for credit scoring and default prediction
+### 1. **Explainable AI & FinTech**
 
-Credit-scoring and default-prediction models that keep machine-learning accuracy while staying transparent enough for banks and regulators.
+We build credit-scoring and default-prediction models that keep machine-learning accuracy yet stay transparent for banks and regulators. Related work: interpretable cluster-then-predict credit scoring ([IRFA 2024](https://doi.org/10.1016/j.irfa.2023.103005)), AI Act–compliant scoring ([AEL 2026](https://doi.org/10.1080/13504851.2026.2710263)), and US bank-failure prediction ([AEL 2024](https://doi.org/10.1080/13504851.2023.2186353)).
 
-### 2. **Trading & Portfolio Management** — empirical asset pricing with machine learning
+### 2. **Trading & Portfolio Management**
 
-Forecasting stock returns, earnings and Bitcoin volatility from market data and text, and building portfolios on those forecasts.
+We forecast stock returns, earnings and Bitcoin volatility from market data and text, and build portfolios on those forecasts. Related work: news embeddings for intraday Bitcoin volatility ([FRL 2026](https://doi.org/10.1016/j.frl.2026.110976)), GPT-4o mini for Taiwan earnings (JCSA 2026), and risk-parity strategies with risk factors ([Journal of Risk 2025](https://doi.org/10.21314/JOR.2025.006)).
 
-### 3. **Financial Market Risk Management** — tail risk and digital asset regulation
+### 3. **Financial Market Risk Management**
 
-Tail risk, Value-at-Risk and expected shortfall for Basel capital, and the regulation of digital assets.
+We measure tail risk, Value-at-Risk and expected shortfall, for Basel capital, and study how digital assets are regulated. Related work: Bitcoin tail risk under Basel ([FRL 2025](https://doi.org/10.1016/j.frl.2025.108528)), digital-asset risks and regulation ([Financial Innovation 2026](https://doi.org/10.1186/s40854-025-00848-y)), and importance sampling for portfolio risk ([Computational Economics 2023](https://doi.org/10.1007/s10614-022-10294-y)).
 
-### 4. **Financial Derivatives Pricing** — Monte Carlo simulation and cryptocurrency options
+### 4. **Financial Derivatives Pricing**
 
-Monte Carlo methods for pricing and hedging options, including cryptocurrency options.
+We design faster, more accurate Monte Carlo methods to price and hedge options, including cryptocurrency options. Related work: unbiased Greeks ([Finance and Stochastics 2011](https://doi.org/10.1007/s00780-010-0137-5)), optimal importance sampling ([Quantitative Finance 2016](https://doi.org/10.1080/14697688.2015.1136077)), and stochastic-volatility hedging of Deribit BTC options (Journal of Futures and Options 2023).
 
 📚 Our publications: [Publications](https://venteng.github.io/Publication.html)
 
