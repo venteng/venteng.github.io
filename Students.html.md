@@ -14,13 +14,13 @@ title: Lab Members
 
 ### Ph.D. Students
 
-1. Yen-Chang Lee — Information Management and Finance, since Jul 2022
-2. Che-Jui Chang (Jerry) — since Feb 2026
+1. Yen-Chang Lee — Information Management and Finance, since Feb 2023
+2. Che-Jui Chang (Jerry) — Information Management and Finance, since Feb 2026
 
 ### Master's Students
 
-1. [Allen Cheng](https://www.linkedin.com/in/kaihong-zheng-66a105355/) — Applied Mathematics, since Feb 2025, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)
-2. [Martin Cheng](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) — Applied Mathematics, since Feb 2025, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)
+1. [Kai-Hung Cheng (Allen)](https://www.linkedin.com/in/kaihong-zheng-66a105355/) — Applied Mathematics, since Feb 2025, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)
+2. [Yung-Jung Cheng (Martin)](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) — Applied Mathematics, since Feb 2025, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)
 3. [Lung-Chieh Wu (Jack)](https://www.linkedin.com/in/隆傑-吳-b6206a373/) — Applied Mathematics, since Jul 2025
 4. Chin Hsu (Chris) — Applied Mathematics, since Sep 2025
 5. Fu-Chao Peng (Jimmy) — Information Management and Finance, since Jan 2026
@@ -28,28 +28,21 @@ title: Lab Members
 7. Chun-Yu Lien (Tiffany) — Information Management and Finance, since Jan 2026
 8. Jun-Qi Chen (Nick) — Information Management and Finance, since Jan 2026
 9. Cheng-Hao Liao (Bill) — Information Management and Finance, since Jan 2026
+10. Tran Minh Khoi (Michael) — Information Management and Finance, since Oct 2026
 
 ### Executive Master's Students (E.M.S.F.)
 
-1. [Ares Chiang](https://www.linkedin.com/in/ares-jiang-2a3816354/) — since Sep 2024
-2. [Eva Fan](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) — since Sep 2024
-3. Deron Huang — since Feb 2025
+1. [Ares Chiang](https://www.linkedin.com/in/ares-jiang-2a3816354/) — since Dec 2024
+2. [Eva Fan](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) — since Dec 2024
+3. Deron Huang — since Dec 2024
 4. Jiun-Yi Chen (Ian) — since Jan 2026
 
 ### Undergraduate Research Students
 
-1. [Frank Hsu](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) — Information Management and Finance, since Feb 2025
-2. [Yile Huang](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) — Applied Mathematics, since Feb 2025
-3. [Guan-Lin Wu](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) — Applied Mathematics, since Feb 2025
-4. [Yun-Tse Lan (Jeremy)](https://www.linkedin.com/in/%E5%85%81%E6%BE%A4-%E8%97%8D-7a8815312/) — Information Management and Finance, since Aug 2025
-5. [Ping-Wei Feng (David)](https://www.linkedin.com/in/%E5%93%81%E7%B6%AD-%E9%A6%AE-783536339) — Information Management and Finance, since Aug 2025
-6. [Chia-Yu Ou (Maeve)](https://www.linkedin.com/in/chia-yu-ou-5a2ab1325/) — Information Management and Finance, since Aug 2025
-7. You-Ruei Shih (Ariel) — since Jan 2026
-8. Penny Kung — since Feb 2026
-9. Yi-Chen Tang (Jenna) — since Feb 2026
-10. Chia-Chien Hsu (Chien) — since Feb 2026
-11. Kuan-Chu Wang (Candice) — since Feb 2026
-12. Yi-Chen Lin (Alvin) — since Mar 2026
+1. Penny Kung — Information Management and Finance, since Feb 2026
+2. Yi-Chen Tang (Jenna) — Information Management and Finance, since Feb 2026
+3. Chia-Chien Hsu (Chien) — Information Management and Finance, since Feb 2026
+4. Kuan-Chu Wang (Candice) — Information Management and Finance, since Feb 2026
 
 ## Former Lab Members
 
@@ -59,7 +52,7 @@ title: Lab Members
    *Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility*<br>
    ⭐ [Teng and Chiou (2026), *Finance Research Letters*](https://doi.org/10.1016/j.frl.2026.110976)<br>
    🏆 2026 19th Topco Thesis Award, Honorable Mention (Taiwan Academy of Management)
-2. [Chrissy Wang](https://www.linkedin.com/in/chrissywangxiv/) — GMBA, Aug 2026<br>
+2. [Hui-Hsin Wang (Chrissy)](https://www.linkedin.com/in/chrissywangxiv/) — GMBA, Aug 2026<br>
    *An Explainable and Cost-Sensitive Human-in-the-Loop Framework for Credit Card Fraud Detection*
 3. [Ka-Ho Soo (Ben)](https://www.linkedin.com/in/ben--soo/) — M.S., Information Management and Finance, Jun 2026<br>
    *Hybrid Deep Learning and Association Rule Framework of Stock Prediction for Individual Investor*
@@ -173,15 +166,20 @@ title: Lab Members
 
 ### Undergraduate Research Projects, National Yang Ming Chiao Tung University
 
-1. [You-Peng Zheng](https://www.linkedin.com/in/you-peng-zheng), [Ken Wang](https://www.linkedin.com/in/ken-wang-b93285201), [Yu-Han Li](https://www.linkedin.com/in/yu-han-li-559863258), [Patty Wu](https://www.linkedin.com/in/patty-wu-hii), Chin Hsu (Chris) — B.S., Information Management and Finance, Jul 2024<br>
+1. [Yun-Tse Lan (Jeremy)](https://www.linkedin.com/in/%E5%85%81%E6%BE%A4-%E8%97%8D-7a8815312/), [Ping-Wei Feng](https://www.linkedin.com/in/%E5%93%81%E7%B6%AD-%E9%A6%AE-783536339), [Chia-Yu Ou (Maeve)](https://www.linkedin.com/in/chia-yu-ou-5a2ab1325/) — Information Management and Finance, Aug 2025 – Jan 2026<br>
+   *A Walk-Forward Evaluation Protocol for Machine-Learning Market Timing: Multiple-Testing Deflation of a 120-Strategy S&P 500 Grid*
+2. [Frank Hsu](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) (Information Management and Finance), [Yile Huang](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/), [Guan-Lin Wu](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) (Applied Mathematics) — Dec 2024 – Jan 2026
+3. You-Ruei Shih (Ariel) — Jan 2026
+4. Yi-Chen Lin (Alvin) — 2026
+5. [You-Peng Zheng](https://www.linkedin.com/in/you-peng-zheng), [Ken Wang](https://www.linkedin.com/in/ken-wang-b93285201), [Yu-Han Li](https://www.linkedin.com/in/yu-han-li-559863258), [Patty Wu](https://www.linkedin.com/in/patty-wu-hii), Chin Hsu (Chris) — B.S., Information Management and Finance, Jul 2024<br>
    *Exploring Multifaceted Drivers for Bitcoin Return Analysis*
-2. Jhih-Yi Chen (Claire), Jessie Tang, Cindy Tsai — B.S., Information Management and Finance, Jul 2024<br>
+6. Jhih-Yi Chen (Claire), Jessie Tang, Cindy Tsai — B.S., Information Management and Finance, Jul 2024<br>
    *Financial Risk Measures for Taiwan's High-Cap Electronics and Financial Sectors*
-3. Jasmine Chen, Sammi Sung — B.S., Information Management and Finance, Jul 2022<br>
+7. Jasmine Chen, Sammi Sung — B.S., Information Management and Finance, Jul 2022<br>
    *Statistical Modeling for the Exchange Rate between NTD and USD*
-4. Tom Fan (Applied Mathematics, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)), Phoebe Lin, Lucy Lu — B.S., Jul 2020<br>
+8. Tom Fan (Applied Mathematics, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)), Phoebe Lin, Lucy Lu — B.S., Jul 2020<br>
    *Time Series Forecasting in Credit Scoring Model*<br>
-   🏆 NSTC undergraduate research grant to Phoebe Lin (MOST109-2813-C-009-069-H)
+   🏆 MOST undergraduate research grants: Phoebe Lin (MOST109-2813-C-009-069-H); Tom Fan (MOST109-2813-C-009-060-M, supervised by Prof. Ming-Hsuan Kang)
 
 ---
 

@@ -14,8 +14,8 @@ title: 實驗室成員
 
 ### 博士生
 
-1. 李彥璋 — 資訊管理與財務金融學系，2022 年 7 月起
-2. 張哲睿 — 2026 年 2 月起
+1. 李彥璋 — 資訊管理與財務金融學系，2023 年 2 月起
+2. 張哲睿 — 資訊管理與財務金融學系，2026 年 2 月起
 
 ### 碩士生
 
@@ -28,28 +28,21 @@ title: 實驗室成員
 7. 連鈞宥 — 資訊管理與財務金融學系，2026 年 1 月起
 8. 陳俊錡 — 資訊管理與財務金融學系，2026 年 1 月起
 9. 廖承灝 — 資訊管理與財務金融學系，2026 年 1 月起
+10. 陳明魁 — 資訊管理與財務金融學系，2026 年 10 月起
 
 ### 碩士在職專班
 
-1. [江文煌](https://www.linkedin.com/in/ares-jiang-2a3816354/) — 2024 年 9 月起
-2. [范艾雯](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) — 2024 年 9 月起
-3. 黃德榮 — 2025 年 2 月起
+1. [江文煌](https://www.linkedin.com/in/ares-jiang-2a3816354/) — 2024 年 12 月起
+2. [范艾雯](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) — 2024 年 12 月起
+3. 黃德榮 — 2024 年 12 月起
 4. 陳峻毅 — 2026 年 1 月起
 
 ### 大學部專題生
 
-1. [許柏堯](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) — 資訊管理與財務金融學系，2025 年 2 月起
-2. [黃以樂](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/) — 應用數學系，2025 年 2 月起
-3. [吳冠霖](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) — 應用數學系，2025 年 2 月起
-4. [藍允澤](https://www.linkedin.com/in/%E5%85%81%E6%BE%A4-%E8%97%8D-7a8815312/) — 資訊管理與財務金融學系，2025 年 8 月起
-5. [馮品維](https://www.linkedin.com/in/%E5%93%81%E7%B6%AD-%E9%A6%AE-783536339) — 資訊管理與財務金融學系，2025 年 8 月起
-6. [歐佳俞](https://www.linkedin.com/in/chia-yu-ou-5a2ab1325/) — 資訊管理與財務金融學系，2025 年 8 月起
-7. 施又睿 — 2026 年 1 月起
-8. 宮珮媛 — 2026 年 2 月起
-9. 湯以箴 — 2026 年 2 月起
-10. 徐嘉謙 — 2026 年 2 月起
-11. 王冠築 — 2026 年 2 月起
-12. 林羿辰 — 2026 年 3 月起
+1. 宮珮媛 — 資訊管理與財務金融學系，2026 年 2 月起
+2. 湯以箴 — 資訊管理與財務金融學系，2026 年 2 月起
+3. 徐嘉謙 — 資訊管理與財務金融學系，2026 年 2 月起
+4. 王冠築 — 資訊管理與財務金融學系，2026 年 2 月起
 
 ## 已畢業成員
 
@@ -59,7 +52,7 @@ title: 實驗室成員
    《用於預測比特幣已實現波動率之跨注意力多模態循環神經網路》<br>
    ⭐ [鄧惠文、邱翰奕（2026），*Finance Research Letters*](https://doi.org/10.1016/j.frl.2026.110976)<br>
    🏆 2026 第 19 屆崇越論文大賞 佳作論文獎（台灣管理學會）
-2. [王惠芯](https://www.linkedin.com/in/chrissywangxiv/) — GMBA 碩士，2026 年 8 月<br>
+2. [王惠芯](https://www.linkedin.com/in/chrissywangxiv/) — 企業管理碩士學位學程（GMBA）碩士，2026 年 8 月<br>
    《人機決策之可解釋與成本敏感信用卡盜刷偵測框架》
 3. [蘇家灝](https://www.linkedin.com/in/ben--soo/) — 資訊管理與財務金融學系 碩士，2026 年 6 月<br>
    《Hybrid Deep Learning and Association Rule Framework of Stock Prediction for Individual Investor》
@@ -175,15 +168,19 @@ title: 實驗室成員
 
 ### 大學部專題研究，國立陽明交通大學
 
-1. [鄭有朋](https://www.linkedin.com/in/you-peng-zheng)、[王鳴謙](https://www.linkedin.com/in/ken-wang-b93285201)、[李語涵](https://www.linkedin.com/in/yu-han-li-559863258)、[吳珮慈](https://www.linkedin.com/in/patty-wu-hii)、許晉 — 資訊管理與財務金融學系，2024 年 7 月畢業<br>
+1. [藍允澤](https://www.linkedin.com/in/%E5%85%81%E6%BE%A4-%E8%97%8D-7a8815312/)、[馮品維](https://www.linkedin.com/in/%E5%93%81%E7%B6%AD-%E9%A6%AE-783536339)、[歐佳俞](https://www.linkedin.com/in/chia-yu-ou-5a2ab1325/) — 資訊管理與財務金融學系，2025 年 8 月至 2026 年 1 月
+2. [許柏堯](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/)（資訊管理與財務金融學系）、[黃以樂](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/)、[吳冠霖](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/)（應用數學系） — 2024 年 12 月至 2026 年 1 月
+3. 施又睿 — 2026 年 1 月
+4. 林羿辰 — 2026 年
+5. [鄭有朋](https://www.linkedin.com/in/you-peng-zheng)、[王鳴謙](https://www.linkedin.com/in/ken-wang-b93285201)、[李語涵](https://www.linkedin.com/in/yu-han-li-559863258)、[吳珮慈](https://www.linkedin.com/in/patty-wu-hii)、許晉 — 資訊管理與財務金融學系，2024 年 7 月畢業<br>
    《探索比特幣回報分析的多面向驅動因素》
-2. 陳之怡、唐君亞、蔡昕妤 — 資訊管理與財務金融學系，2024 年 7 月畢業<br>
+6. 陳之怡、唐君亞、蔡昕妤 — 資訊管理與財務金融學系，2024 年 7 月畢業<br>
    《台灣高市值電子與金融行業的金融風險計量指標》
-3. 陳品蓁、宋佩芩 — 資訊管理與財務金融學系，2022 年 7 月畢業<br>
+7. 陳品蓁、宋佩芩 — 資訊管理與財務金融學系，2022 年 7 月畢業<br>
    《新台幣兌美元匯率的統計建模》
-4. 范凱翔（應用數學系，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導）、林睿瑜、陸恭葦 — 2020 年 7 月畢業<br>
+8. 范凱翔（應用數學系，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導）、林睿瑜、陸恭葦 — 2020 年 7 月畢業<br>
    《信用評分模型中的時間序列預測》<br>
-   🏆 林睿瑜榮獲 109 年度科技部大專生研究計畫（MOST109-2813-C-009-069-H）
+   🏆 109 年度科技部大專生研究計畫：林睿瑜（MOST109-2813-C-009-069-H）；范凱翔（MOST109-2813-C-009-060-M，康明軒教授指導）
 
 ---
 
