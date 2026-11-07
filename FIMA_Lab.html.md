@@ -22,7 +22,7 @@ We build credit-scoring and default-prediction models that keep machine-learning
 
 ### 2. **Trading & Portfolio Management**
 
-We forecast stock returns, earnings and Bitcoin volatility from market data and text, and build portfolios on those forecasts. Related work: news embeddings for intraday Bitcoin volatility ([FRL 2026](https://doi.org/10.1016/j.frl.2026.110976)), GPT-4o mini for Taiwan earnings (JCSA 2026), and risk-parity strategies with risk factors ([Journal of Risk 2025](https://doi.org/10.21314/JOR.2025.006)).
+We forecast stock returns, earnings and Bitcoin volatility from market data and text, and build portfolios on those forecasts. Related work: news embeddings for intraday Bitcoin volatility ([FRL 2026](https://doi.org/10.1016/j.frl.2026.110976)), GPT-4o mini for Taiwan earnings ([JCSA 2026](https://doi.org/10.2139/ssrn.5312509)), and risk-parity strategies with risk factors ([Journal of Risk 2025](https://doi.org/10.21314/JOR.2025.006)).
 
 ### 3. **Financial Market Risk Management**
 
@@ -30,7 +30,7 @@ We measure tail risk, Value-at-Risk and expected shortfall, for Basel capital, a
 
 ### 4. **Financial Derivatives Pricing**
 
-We design faster, more accurate Monte Carlo methods to price and hedge options, including cryptocurrency options. Related work: unbiased Greeks ([Finance and Stochastics 2011](https://doi.org/10.1007/s00780-010-0137-5)), optimal importance sampling ([Quantitative Finance 2016](https://doi.org/10.1080/14697688.2015.1136077)), and stochastic-volatility hedging of Deribit BTC options (Journal of Futures and Options 2023).
+We design faster, more accurate Monte Carlo methods to price and hedge options, including cryptocurrency options. Related work: unbiased Greeks ([Finance and Stochastics 2011](https://doi.org/10.1007/s00780-010-0137-5)), optimal importance sampling ([Quantitative Finance 2016](https://doi.org/10.1080/14697688.2015.1136077)), and stochastic-volatility hedging of Deribit BTC options ([Journal of Futures and Options 2023](https://doi.org/10.2139/ssrn.4271856)).
 
 📚 Our publications: [Publications](https://venteng.github.io/Publication.html)
 
