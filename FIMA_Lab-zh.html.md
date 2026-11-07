@@ -32,7 +32,7 @@ Finance ∙ Intelligence ∙ Math ∙ Analytics
 
 我們設計更快、更準確的蒙地卡羅方法，為選擇權定價與避險，包括加密貨幣選擇權。相關研究：不偏的避險參數 Greeks（[Finance and Stochastics 2011](https://doi.org/10.1007/s00780-010-0137-5)）、最適重要性抽樣（[Quantitative Finance 2016](https://doi.org/10.1080/14697688.2015.1136077)）、Deribit 比特幣選擇權的隨機波動度避險（[期貨與選擇權學刊 2023](https://doi.org/10.2139/ssrn.4271856)）。
 
-📚 研究成果：[論文列表 Publications](https://venteng.github.io/Publication.html)
+📚 研究成果：[論文列表](https://venteng.github.io/Publication.html)
 
 ## 想加入我們？一起創造影響力！
 

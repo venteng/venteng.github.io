@@ -17,7 +17,7 @@ description: "國立陽明交通大學 教授"
 我是國立陽明交通大學資訊管理與財務金融學系教授，主持 [FIMA Lab](https://venteng.github.io/FIMA_Lab-zh.html)（Finance · Intelligence · Math · Analytics），一個以金融科技與統計建模為主的學術研究實驗室。
 
 🌟 [FIMA Lab](https://venteng.github.io/FIMA_Lab-zh.html)<br>
-📚 [論文列表 Publications](https://venteng.github.io/Publication.html)<br>
+📚 [論文列表](https://venteng.github.io/Publication.html)<br>
 🧑‍🎓 [實驗室成員](https://venteng.github.io/Students-zh.html)<br>
 📖 [教學](https://venteng.github.io/Teaching-zh.html)<br>
 ✉️ hwteng@nycu.edu.tw<br>
