@@ -30,15 +30,16 @@ title: Lab Members
 9. Cheng-Hao Liao (Bill) — Information Management and Finance, since Jan 2026
 10. Tran Minh Khoi (Michael) — Information Management and Finance, since Oct 2026
 
-### Executive Master's Students (E.M.S.F.)
+### Executive Master's Students
 
-1. [Wen-Hwang Jiang (Ares)](https://www.linkedin.com/in/ares-jiang-2a3816354/) — since Dec 2024
-2. Deron Huang — since Dec 2024
-3. Jiun-Yi Chen (Ian) — since Jan 2026
+1. Chih-Chuan Yang (Swordfish) — Statistics, since Sep 2022
+2. [Wen-Hwang Jiang (Ares)](https://www.linkedin.com/in/ares-jiang-2a3816354/) — Finance, since Dec 2024
+3. Te-Jung Huang (Deron) — Finance, since Dec 2024
+4. Jiun-Yi Chen (Ian) — Finance, since Jan 2026
 
 ### Undergraduate Research Students
 
-1. Penny Kung — Information Management and Finance, since Feb 2026
+1. Pei-Yuan Kung (Penny) — Information Management and Finance, since Feb 2026
 2. Yi-Chen Tang (Jenna) — Information Management and Finance, since Feb 2026
 3. Chia-Chien Hsu (Chien) — Information Management and Finance, since Feb 2026
 4. Kuan-Chu Wang (Candice) — Information Management and Finance, since Feb 2026
