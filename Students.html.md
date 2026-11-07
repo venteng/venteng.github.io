@@ -22,11 +22,11 @@ title: Lab Members
 1. [Kai-Hung Cheng (Allen)](https://www.linkedin.com/in/kaihong-zheng-66a105355/) — Applied Mathematics, since Feb 2025, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)
 2. [Yung-Jung Cheng (Martin)](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) — Applied Mathematics, since Feb 2025, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)
 3. [Lung-Chieh Wu (Jack)](https://www.linkedin.com/in/隆傑-吳-b6206a373/) — Applied Mathematics, since Jul 2025
-4. Chin Hsu (Chris) — Applied Mathematics, since Sep 2025
+4. Chin Hsu (Chris) — Applied Mathematics, since Sep 2025, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)
 5. Fu-Chao Peng (Jimmy) — Information Management and Finance, since Jan 2026
-6. Jhih-Yi Chen (Claire) — Information Management and Finance, since Jan 2026
-7. Chun-Yu Lien (Tiffany) — Information Management and Finance, since Jan 2026
-8. Jun-Qi Chen (Nick) — Information Management and Finance, since Jan 2026
+6. Jhih-Yi Chen (Claire) — Information Management and Finance, since Jan 2026, co-advised with [Prof. Chih-Yung Lin](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)
+7. Chun-Yu Lien (Tiffany) — Information Management and Finance, since Jan 2026, co-advised with [Prof. Chih-Yung Lin](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)
+8. Jun-Qi Chen (Nick) — Information Management and Finance, since Jan 2026, co-advised with [Prof. Shih-Yu Tsai](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20419&serno=bc92c6c7-c4a7-40b4-aa31-6025a945ee8a) and [Prof. Chih-Yung Lin](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)
 9. Cheng-Hao Liao (Bill) — Information Management and Finance, since Jan 2026
 10. Tran Minh Khoi (Michael) — Information Management and Finance, since Oct 2026
 

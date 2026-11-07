@@ -22,11 +22,11 @@ title: 實驗室成員
 1. [鄭凱鴻](https://www.linkedin.com/in/kaihong-zheng-66a105355/) — 應用數學系，2025 年 2 月起，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導
 2. [鄭詠融](https://www.linkedin.com/in/yung-jung-cheng-8242a913a/) — 應用數學系，2025 年 2 月起，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導
 3. [吳隆傑](https://www.linkedin.com/in/隆傑-吳-b6206a373/) — 應用數學系，2025 年 7 月起
-4. 許晉 — 應用數學系，2025 年 9 月起
+4. 許晉 — 應用數學系，2025 年 9 月起，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導
 5. 彭甫詔 — 資訊管理與財務金融學系，2026 年 1 月起
-6. 陳之怡 — 資訊管理與財務金融學系，2026 年 1 月起
-7. 連鈞宥 — 資訊管理與財務金融學系，2026 年 1 月起
-8. 陳俊錡 — 資訊管理與財務金融學系，2026 年 1 月起
+6. 陳之怡 — 資訊管理與財務金融學系，2026 年 1 月起，與[林智勇教授](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)共同指導
+7. 連鈞宥 — 資訊管理與財務金融學系，2026 年 1 月起，與[林智勇教授](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)共同指導
+8. 陳俊錡 — 資訊管理與財務金融學系，2026 年 1 月起，與[蔡詩妤教授](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20419&serno=bc92c6c7-c4a7-40b4-aa31-6025a945ee8a)、[林智勇教授](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)共同指導
 9. 廖承灝 — 資訊管理與財務金融學系，2026 年 1 月起
 10. 陳明魁 — 資訊管理與財務金融學系，2026 年 10 月起
 
