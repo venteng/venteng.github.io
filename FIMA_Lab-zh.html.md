@@ -22,7 +22,7 @@ Finance ∙ Intelligence ∙ Math ∙ Analytics
 
 ### 2. **交易與投資組合管理**
 
-我們從市場資料與文字預測股票報酬、公司盈餘與比特幣波動度，並據以建構投資組合。相關研究：以新聞向量預測比特幣日內波動度（[FRL 2026](https://doi.org/10.1016/j.frl.2026.110976)）、以 GPT-4o mini 預測台灣公司盈餘（[JCSA 2026](https://doi.org/10.2139/ssrn.5312509)）、結合風險因子的風險平價策略（[Journal of Risk 2025](https://doi.org/10.21314/JOR.2025.006)）。
+我們從市場資料與文字預測股票報酬、公司盈餘與比特幣波動度，並據以建構投資組合。相關研究：以新聞向量預測比特幣日內波動度（[FRL 2026](https://doi.org/10.1016/j.frl.2026.110976)）、以 GPT-4o mini 預測台灣公司盈餘（[JCSA 2026](https://venteng.github.io/papers/teng2026qualitative-AAM.pdf)）、結合風險因子的風險平價策略（[Journal of Risk 2025](https://doi.org/10.21314/JOR.2025.006)）。
 
 ### 3. **金融市場風險管理**
 

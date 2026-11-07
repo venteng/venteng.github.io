@@ -22,7 +22,7 @@ We build credit-scoring and default-prediction models that keep machine-learning
 
 ### 2. **Trading & Portfolio Management**
 
-We forecast stock returns, earnings and Bitcoin volatility from market data and text, and build portfolios on those forecasts. Related work: news embeddings for intraday Bitcoin volatility ([FRL 2026](https://doi.org/10.1016/j.frl.2026.110976)), GPT-4o mini for Taiwan earnings ([JCSA 2026](https://doi.org/10.2139/ssrn.5312509)), and risk-parity strategies with risk factors ([Journal of Risk 2025](https://doi.org/10.21314/JOR.2025.006)).
+We forecast stock returns, earnings and Bitcoin volatility from market data and text, and build portfolios on those forecasts. Related work: news embeddings for intraday Bitcoin volatility ([FRL 2026](https://doi.org/10.1016/j.frl.2026.110976)), GPT-4o mini for Taiwan earnings ([JCSA 2026](https://venteng.github.io/papers/teng2026qualitative-AAM.pdf)), and risk-parity strategies with risk factors ([Journal of Risk 2025](https://doi.org/10.21314/JOR.2025.006)).
 
 ### 3. **Financial Market Risk Management**
 
