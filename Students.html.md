@@ -32,10 +32,9 @@ title: Lab Members
 
 ### Executive Master's Students (E.M.S.F.)
 
-1. [Ares Chiang](https://www.linkedin.com/in/ares-jiang-2a3816354/) — since Dec 2024
-2. [Eva Fan](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) — since Dec 2024
-3. Deron Huang — since Dec 2024
-4. Jiun-Yi Chen (Ian) — since Jan 2026
+1. [Wen-Hwang Jiang (Ares)](https://www.linkedin.com/in/ares-jiang-2a3816354/) — since Dec 2024
+2. Deron Huang — since Dec 2024
+3. Jiun-Yi Chen (Ian) — since Jan 2026
 
 ### Undergraduate Research Students
 
@@ -51,66 +50,68 @@ title: Lab Members
 1. [Han-Yi Chiou (Elvis)](https://pse.is/78kyba) — M.B.A., Institute of Business and Management, Jul 2026, co-advised with [Prof. Hui-Min Chung](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20406&serno=12bdf62b-e769-4e7f-8154-72a2c13b1a87)<br>
    *Cross-Attentive Multimodal RNNs for Forecasting Bitcoin Realized Volatility*<br>
    ⭐ [Teng and Chiou (2026), *Finance Research Letters*](https://doi.org/10.1016/j.frl.2026.110976)<br>
-   🏆 2026 19th Topco Thesis Award, Honorable Mention (Taiwan Academy of Management)
+   🏆 2026 19th Topco Thesis Award, Honorable Mention (Taiwan Management Institute)
 2. [Hui-Hsin Wang (Chrissy)](https://www.linkedin.com/in/chrissywangxiv/) — GMBA, Aug 2026<br>
    *An Explainable and Cost-Sensitive Human-in-the-Loop Framework for Credit Card Fraud Detection*
-3. [Ka-Ho Soo (Ben)](https://www.linkedin.com/in/ben--soo/) — M.S., Information Management and Finance, Jun 2026<br>
+3. [Ai-Wen Fan (Eva)](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) — Executive M.S., Degree Program of Finance, College of Management, Aug 2026<br>
+   *The Impact of Climate Transition Risk on Credit Risk in Taiwan's Banking Sector: Evidence from Carbon-Intensive Industry Lending*
+4. [Ka-Ho Soo (Ben)](https://www.linkedin.com/in/ben--soo/) — M.S., Information Management and Finance, Jun 2026<br>
    *Hybrid Deep Learning and Association Rule Framework of Stock Prediction for Individual Investor*
-4. [Rou-Rou Yu (Mabel)](https://www.linkedin.com/in/mabelrryu/) — M.S., Information Management and Finance, Jul 2026<br>
+5. [Rou-Rou Yu (Mabel)](https://www.linkedin.com/in/mabelrryu/) — M.S., Information Management and Finance, Jul 2026<br>
    *News Embeddings, UMAP Compression, and Corporate Credit Rating Prediction: A Multimodal Approach*
-5. [Nok Hang Chan (Jason)](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) — M.S., Information Management and Finance, Jul 2025<br>
+6. [Nok Hang Chan (Jason)](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) — M.S., Information Management and Finance, Jul 2025<br>
    *Mapping Risk Contagion through Graphical Models and Early Warning Signals in Taiwan's Stock Market*
-6. Yi-Jen Chen (Paul) — M.S., Information Management and Finance, Jul 2025<br>
+7. Yi-Jen Chen (Paul) — M.S., Information Management and Finance, Jul 2025<br>
    *Bridging Interpretability and Performance: Augmented Features and PowerSHAP for Credit Default Prediction*
-7. [Hsin-Pei Huang (Wendy)](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) — M.S., Information Management and Finance, Jun 2025<br>
+8. [Hsin-Pei Huang (Wendy)](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) — M.S., Information Management and Finance, Jun 2025<br>
    *Evaluating Tail Risk in Bitcoin Using Stochastic Volatility and Jump Models under Basel Standards*<br>
    ⭐ [Teng et al. (2025), *Finance Research Letters*](https://doi.org/10.1016/j.frl.2025.108528)
-8. [Yu-Chuan Shih (James)](http://linkedin.com/in/昱全-施-735a5620b) — M.S., Information Management and Finance, Jun 2025<br>
+9. [Yu-Chuan Shih (James)](http://linkedin.com/in/昱全-施-735a5620b) — M.S., Information Management and Finance, Jun 2025<br>
    *Qualitative Insights Meet Quantitative Forecasts with GPT-4o Mini for Taiwan Earnings Prediction*<br>
    ⭐ [Teng et al. (2025), *Finance Research Letters*](https://doi.org/10.1016/j.frl.2025.108528)<br>
    ⭐ [Teng et al. (2026), *Journal of the Chinese Statistical Association*](https://venteng.github.io/papers/teng2026qualitative-AAM.pdf)
-9. [Po-Hsien Wu (Howard)](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) — M.S., Information Management and Finance, Jun 2025<br>
+10. [Po-Hsien Wu (Howard)](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) — M.S., Information Management and Finance, Jun 2025<br>
    *Redesigning Solar Contracts to Unlock Long-Term ESG Investment*
-10. Wei-Cheng Lin — M.S., Industrial Engineering and Management, Dec 2024, co-advised with [Prof. Chun-Cheng Lin](https://cclin321.iem.nycu.edu.tw/林春成)<br>
+11. Wei-Cheng Lin — M.S., Industrial Engineering and Management, Dec 2024, co-advised with [Prof. Chun-Cheng Lin](https://cclin321.iem.nycu.edu.tw/林春成)<br>
     *Particle Swarm Optimization for Cardinality-Constrained Portfolio Optimization in Cryptocurrency Index Tracking*
-11. Yen-Ting Chen — M.S., Information Management and Finance, Jul 2024<br>
+12. Yen-Ting Chen — M.S., Information Management and Finance, Jul 2024<br>
     *Exploring Multifaceted Drivers for Bitcoin Return Analysis*
-12. [Siang-Li Jheng](https://www.linkedin.com/in/siang-li-jheng-bb3103334/) — M.S., Information Management and Finance, Jul 2024<br>
+13. [Siang-Li Jheng](https://www.linkedin.com/in/siang-li-jheng-bb3103334/) — M.S., Information Management and Finance, Jul 2024<br>
     *Financial Risk Meters in Taiwan's High-Cap Sectors*
-13. Min-Hsiu Wu — M.S., Information Management and Finance, Jul 2024<br>
+14. Min-Hsiu Wu — M.S., Information Management and Finance, Jul 2024<br>
     *Applying Reinforcement Learning for Trading in the Taiwan Stock Market and Bitcoin*
-14. Yu-Ci Pan — M.S., Information Management and Finance, Jul 2023<br>
+15. Yu-Ci Pan — M.S., Information Management and Finance, Jul 2023<br>
     *On BTC Option Pricing Kernels: Pre- and Post-Pandemic Analysis*
-15. Yung-Chi Chang (Tom) — M.S., Applied Mathematics, Aug 2022, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
+16. Yung-Chi Chang (Tom) — M.S., Applied Mathematics, Aug 2022, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
     *Pricing and Hedging Inverse BTC Options with Heston's Stochastic Volatility Model*<br>
     ⭐ [Chang et al. (2023), *Journal of Futures and Options*](https://doi.org/10.2139/ssrn.4271856)<br>
-    🏆 [2022 New Futures Conference, Gold Award for Best Paper](https://www.ctee.com.tw/news/20221205700620-431210)
-16. Lu-Xiang Chen (Jay) — M.S., Applied Mathematics, Aug 2022, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
+    🏆 [2022 New Futures Gold Award (Taiwan Futures Exchange and Commercial Times)](https://www.ctee.com.tw/news/20221205700620-431210)
+17. Lu-Xiang Chen (Jay) — M.S., Applied Mathematics, Aug 2022, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
     *Global Portfolio Management with the Black-Litterman Model Using Stocks in Taiwan and the US Markets*
-17. I-Han Lee (Ian) — M.S., Institute of Data Science and Engineering, Aug 2022, co-advised with [Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)<br>
+18. I-Han Lee (Ian) — M.S., Institute of Data Science and Engineering, Aug 2022, co-advised with [Prof. Chu-Lan Kao](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)<br>
     *Cluster-then-Predict for Binary Classification with Imbalance Problem: Applications of Credit Scoring Models*<br>
     ⭐ [Teng et al. (2024), *International Review of Financial Analysis*](https://doi.org/10.1016/j.irfa.2023.103005)
-18. Ying-Rou Lu — M.S., Information Management and Finance, Aug 2022<br>
+19. Ying-Rou Lu — M.S., Information Management and Finance, Aug 2022<br>
     *Empirical Analysis for Gold Options in Taiwan Futures Exchange*
-19. [Shang-Wen Chang (Jonathan)](https://www.linkedin.com/in/jonathan-sw-chang/) — M.S., Applied Mathematics, Aug 2021, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
+20. [Shang-Wen Chang (Jonathan)](https://www.linkedin.com/in/jonathan-sw-chang/) — M.S., Applied Mathematics, Aug 2021, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
     *Maximum Likelihood Estimate of L-Isotropic Multivariate Normal Distributions and Its Applications*<br>
     ⭐ [Teng et al. (2020), *ICPAI*](https://doi.org/10.1109/ICPAI51961.2020.00030)
-20. Yu-Hsien Li (Bill) — M.S., Information Management and Finance, Jun 2020<br>
+21. Yu-Hsien Li (Bill) — M.S., Information Management and Finance, Jun 2020<br>
     *An Empirical Comparison between Traditional Methods and Machine Learning in Asset Pricing Models*<br>
     ⭐ [Teng et al. (2020), *ICPAI*](https://doi.org/10.1109/ICPAI51961.2020.00030)<br>
     ⭐ [Teng and Li (2023), *Digital Finance*](https://doi.org/10.1007/s42521-023-00076-y)
-21. Zhe-Hang Wu (Jeff) — M.S., Information Management and Finance, Jun 2020<br>
+22. Zhe-Hang Wu (Jeff) — M.S., Information Management and Finance, Jun 2020<br>
     *An Empirical Comparison of Multivariate GARCH Models with a Portfolio Management Application for the A-Share in Shanghai Stock Exchange*
-22. Xiang-An Zhao — M.S., Applied Mathematics, Jun 2020, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
+23. Xiang-An Zhao — M.S., Applied Mathematics, Jun 2020, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
     *An Empirical Comparison between the Heston Stochastic Volatility Model and the NGARCH Model in Pricing Quanto Options*<br>
     ⭐ [Teng and Zhao (2021), *Journal of Futures and Options*](https://doi.org/10.6935/JFO.202108_14%282%29.0002)
-23. Yi-Xiang Chen (Arikson) — M.S., Information Management and Finance, Jul 2019<br>
+24. Yi-Xiang Chen (Arikson) — M.S., Information Management and Finance, Jul 2019<br>
     *On Boosting Methods in Machine Learning with Applications in Delinquency Prediction for Credit Risk Management*
-24. Yi-Chia Lin (Kelly) — M.S., Information Management and Finance, Jun 2019<br>
+25. Yi-Chia Lin (Kelly) — M.S., Information Management and Finance, Jun 2019<br>
     *Deep Time-Series Feature Extraction in Credit Scoring Models*
-25. Chih-Yu Hsu (Emma) — M.S., Information Management and Finance, Jun 2019<br>
+26. Chih-Yu Hsu (Emma) — M.S., Information Management and Finance, Jun 2019<br>
     *An Empirical Investigation on Estimations of VaR in Financial Risk Management Based on Basel Accords*
-26. Chun-Xi Huang (Simon) — M.S., Applied Mathematics, Jun 2019, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
+27. Chun-Xi Huang (Simon) — M.S., Applied Mathematics, Jun 2019, co-advised with [Prof. Ming-Hsuan Kang](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)<br>
     *Large Portfolio Management with Clustering Techniques*
 
 ### Master's Theses, Graduate Institute of Statistics, National Central University
@@ -170,7 +171,7 @@ title: Lab Members
    *A Walk-Forward Evaluation Protocol for Machine-Learning Market Timing: Multiple-Testing Deflation of a 120-Strategy S&P 500 Grid*
 2. [Frank Hsu](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/) (Information Management and Finance), [Yile Huang](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/), [Guan-Lin Wu](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/) (Applied Mathematics) — Dec 2024 – Jan 2026
 3. You-Ruei Shih (Ariel) — Jan 2026
-4. Yi-Chen Lin (Alvin) — 2026
+4. Yi-Chen Lin (Alvin) — Sep 2025 – Jan 2026
 5. [You-Peng Zheng](https://www.linkedin.com/in/you-peng-zheng), [Ken Wang](https://www.linkedin.com/in/ken-wang-b93285201), [Yu-Han Li](https://www.linkedin.com/in/yu-han-li-559863258), [Patty Wu](https://www.linkedin.com/in/patty-wu-hii), Chin Hsu (Chris) — B.S., Information Management and Finance, Jul 2024<br>
    *Exploring Multifaceted Drivers for Bitcoin Return Analysis*
 6. Jhih-Yi Chen (Claire), Jessie Tang, Cindy Tsai — B.S., Information Management and Finance, Jul 2024<br>

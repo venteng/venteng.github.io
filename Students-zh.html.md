@@ -33,9 +33,8 @@ title: 實驗室成員
 ### 碩士在職專班
 
 1. [江文煌](https://www.linkedin.com/in/ares-jiang-2a3816354/) — 2024 年 12 月起
-2. [范艾雯](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) — 2024 年 12 月起
-3. 黃德榮 — 2024 年 12 月起
-4. 陳峻毅 — 2026 年 1 月起
+2. 黃德榮 — 2024 年 12 月起
+3. 陳峻毅 — 2026 年 1 月起
 
 ### 大學部專題生
 
@@ -54,63 +53,65 @@ title: 實驗室成員
    🏆 2026 第 19 屆崇越論文大賞 佳作論文獎（台灣管理學會）
 2. [王惠芯](https://www.linkedin.com/in/chrissywangxiv/) — 企業管理碩士學位學程（GMBA）碩士，2026 年 8 月<br>
    《人機決策之可解釋與成本敏感信用卡盜刷偵測框架》
-3. [蘇家灝](https://www.linkedin.com/in/ben--soo/) — 資訊管理與財務金融學系 碩士，2026 年 6 月<br>
+3. [范艾雯](https://www.linkedin.com/in/%E8%89%BE%E9%9B%AF-%E8%8C%83-b87380289/) — 管理學院財務金融學程 碩士，2026 年 8 月<br>
+   《氣候轉型風險對台灣銀行業信用風險之影響來自高碳排產業授信的實證研究》
+4. [蘇家灝](https://www.linkedin.com/in/ben--soo/) — 資訊管理與財務金融學系 碩士，2026 年 6 月<br>
    《Hybrid Deep Learning and Association Rule Framework of Stock Prediction for Individual Investor》
-4. [余柔柔](https://www.linkedin.com/in/mabelrryu/) — 資訊管理與財務金融學系 碩士，2026 年 7 月<br>
+5. [余柔柔](https://www.linkedin.com/in/mabelrryu/) — 資訊管理與財務金融學系 碩士，2026 年 7 月<br>
    《新聞嵌入、UMAP 壓縮與企業信用評等預測：一種多模態方法》
-5. [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) — 資訊管理與財務金融學系 碩士，2025 年 7 月<br>
+6. [陳諾恆](https://www.linkedin.com/in/%E8%AB%BE%E6%81%86-%E9%99%B3-83965a326/) — 資訊管理與財務金融學系 碩士，2025 年 7 月<br>
    《透過圖模型繪製台灣股市風險傳染及其預警信號》
-6. 陳怡仁 — 資訊管理與財務金融學系 碩士，2025 年 7 月<br>
+7. 陳怡仁 — 資訊管理與財務金融學系 碩士，2025 年 7 月<br>
    《融合可解釋性與效能之信用違約預測：增強特徵與 PowerSHAP 方法》
-7. [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) — 資訊管理與財務金融學系 碩士，2025 年 6 月<br>
+8. [黃馨霈](https://www.linkedin.com/in/%E9%A6%A8%E9%9C%88-%E9%BB%83-11b46426b/) — 資訊管理與財務金融學系 碩士，2025 年 6 月<br>
    《基於巴塞爾協議之比特幣風險分析：隨機波動與跳躍擴散模型的應用》<br>
    ⭐ [鄧惠文等（2025），*Finance Research Letters*](https://doi.org/10.1016/j.frl.2025.108528)
-8. [施昱全](http://linkedin.com/in/昱全-施-735a5620b) — 資訊管理與財務金融學系 碩士，2025 年 6 月<br>
+9. [施昱全](http://linkedin.com/in/昱全-施-735a5620b) — 資訊管理與財務金融學系 碩士，2025 年 6 月<br>
    《質化洞察與量化預測：GPT-4o Mini 預測台灣企業盈餘》<br>
    ⭐ [鄧惠文等（2025），*Finance Research Letters*](https://doi.org/10.1016/j.frl.2025.108528)<br>
    ⭐ [鄧惠文等（2026），*Journal of the Chinese Statistical Association*](https://venteng.github.io/papers/teng2026qualitative-AAM.pdf)
-9. [吳柏賢](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) — 資訊管理與財務金融學系 碩士，2025 年 6 月<br>
+10. [吳柏賢](https://www.linkedin.com/in/%E6%9F%8F%E8%B3%A2-%E5%90%B3-b1298a325/) — 資訊管理與財務金融學系 碩士，2025 年 6 月<br>
    《重新設計太陽能契約以釋放長期 ESG 投資潛力》
-10. 林威承 — 工業工程與管理學系 碩士，2024 年 12 月，與[林春成教授](https://cclin321.iem.nycu.edu.tw/林春成)共同指導<br>
+11. 林威承 — 工業工程與管理學系 碩士，2024 年 12 月，與[林春成教授](https://cclin321.iem.nycu.edu.tw/林春成)共同指導<br>
     《以粒子群優化法求解用於加密貨幣指數追蹤之基數限制投資組合最佳化問題》
-11. 陳彥廷 — 資訊管理與財務金融學系 碩士，2024 年 7 月<br>
+12. 陳彥廷 — 資訊管理與財務金融學系 碩士，2024 年 7 月<br>
     《探索比特幣報酬的多方面驅動因素分析》
-12. [鄭翔澧](https://www.linkedin.com/in/siang-li-jheng-bb3103334/) — 資訊管理與財務金融學系 碩士，2024 年 7 月<br>
+13. [鄭翔澧](https://www.linkedin.com/in/siang-li-jheng-bb3103334/) — 資訊管理與財務金融學系 碩士，2024 年 7 月<br>
     《臺灣高市值產業的金融風險指標》
-13. 吳旻修 — 資訊管理與財務金融學系 碩士，2024 年 7 月<br>
+14. 吳旻修 — 資訊管理與財務金融學系 碩士，2024 年 7 月<br>
     《應用強化學習於台灣股票市場與比特幣交易》
-14. 潘俞綺 — 財務金融研究所 碩士，2023 年 7 月<br>
+15. 潘俞綺 — 財務金融研究所 碩士，2023 年 7 月<br>
     《估計比特幣選擇權之定價核：新冠疫情前後分析》
-15. 張詠淇 — 應用數學系 碩士，2022 年 8 月，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導<br>
+16. 張詠淇 — 應用數學系 碩士，2022 年 8 月，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導<br>
     《利用 Heston 隨機波動率模型進行比特幣倒數型選擇權的定價與避險》<br>
     ⭐ [張詠淇等（2023），期貨與選擇權學刊](https://doi.org/10.2139/ssrn.4271856)<br>
     🏆 [2022 New Futures 期貨學術與實務交流研討會 論文金質獎](https://www.ctee.com.tw/news/20221205700620-431210)
-16. 陳律翔 — 應用數學系 碩士，2022 年 8 月，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導<br>
+17. 陳律翔 — 應用數學系 碩士，2022 年 8 月，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導<br>
     《全球資產管理利用 Black-Litterman 模型於臺灣美國股票市場》
-17. 李亦涵 — 數據科學與工程研究所 碩士，2022 年 8 月，與[高竹嵐教授](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)共同指導<br>
+18. 李亦涵 — 數據科學與工程研究所 碩士，2022 年 8 月，與[高竹嵐教授](https://stat.nycu.edu.tw/zh_tw/members/teacher/高竹嵐-16291129)共同指導<br>
     《分群後分類方法於二元分類不平衡問題：應用於信用評分模型》<br>
     ⭐ [鄧惠文等（2024），*International Review of Financial Analysis*](https://doi.org/10.1016/j.irfa.2023.103005)
-18. 呂映葇 — 財務金融研究所 碩士，2022 年 8 月<br>
+19. 呂映葇 — 財務金融研究所 碩士，2022 年 8 月<br>
     《台灣期交所黃金選擇權的實證分析》
-19. [張尚文](https://www.linkedin.com/in/jonathan-sw-chang/) — 應用數學系 碩士，2021 年 8 月，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導<br>
+20. [張尚文](https://www.linkedin.com/in/jonathan-sw-chang/) — 應用數學系 碩士，2021 年 8 月，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導<br>
     《L-各向同性多維常態分佈之最大概似估計與其應用》<br>
     ⭐ [鄧惠文等（2020），*ICPAI*](https://doi.org/10.1109/ICPAI51961.2020.00030)
-20. 李育賢 — 財務金融研究所 碩士，2020 年 6 月<br>
+21. 李育賢 — 財務金融研究所 碩士，2020 年 6 月<br>
     《傳統方法與機器學習在資產定價上的實證比較》<br>
     ⭐ [鄧惠文等（2020），*ICPAI*](https://doi.org/10.1109/ICPAI51961.2020.00030)<br>
     ⭐ [鄧惠文、李育賢（2023），*Digital Finance*](https://doi.org/10.1007/s42521-023-00076-y)
-21. 吳哲杭 — 財務金融研究所 碩士，2020 年 6 月<br>
+22. 吳哲杭 — 財務金融研究所 碩士，2020 年 6 月<br>
     《多元 GARCH 模型與投資組合管理在上海證交所 A 股的實證比較》
-22. 趙祥安 — 應用數學系 碩士，2020 年 6 月，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導<br>
+23. 趙祥安 — 應用數學系 碩士，2020 年 6 月，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導<br>
     《Heston 隨機波動率模型與 NGARCH 選擇權定價模型在匯率連動選擇權上之實證比較》<br>
     ⭐ [鄧惠文、趙祥安（2021），期貨與選擇權學刊](https://doi.org/10.6935/JFO.202108_14%282%29.0002)
-23. 陳奕翔 — 財務金融研究所 碩士，2019 年 7 月<br>
+24. 陳奕翔 — 財務金融研究所 碩士，2019 年 7 月<br>
     《機器學習中的 Boosting 方法及其在信用風險管理違約預測中的應用》
-24. 林益嘉 — 財務金融研究所 碩士，2019 年 6 月<br>
+25. 林益嘉 — 財務金融研究所 碩士，2019 年 6 月<br>
     《基於深度學習之時間序列因子於信用評級模型》
-25. 許至妤 — 財務金融研究所 碩士，2019 年 6 月<br>
+26. 許至妤 — 財務金融研究所 碩士，2019 年 6 月<br>
     《基於巴塞爾協議在金融風險管理中 VaR 估計的實證研究》
-26. 黃春僖 — 應用數學系 碩士，2019 年 6 月，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導<br>
+27. 黃春僖 — 應用數學系 碩士，2019 年 6 月，與[康明軒教授](https://www.math.nycu.edu.tw/faculty/faculty_content.php?S_ID=82&SC_ID=1)共同指導<br>
     《分群技術在大型資產配置的應用》
 
 ### 碩士論文，國立中央大學統計研究所
@@ -171,7 +172,7 @@ title: 實驗室成員
 1. [藍允澤](https://www.linkedin.com/in/%E5%85%81%E6%BE%A4-%E8%97%8D-7a8815312/)、[馮品維](https://www.linkedin.com/in/%E5%93%81%E7%B6%AD-%E9%A6%AE-783536339)、[歐佳俞](https://www.linkedin.com/in/chia-yu-ou-5a2ab1325/) — 資訊管理與財務金融學系，2025 年 8 月至 2026 年 1 月
 2. [許柏堯](https://www.linkedin.com/in/pyhsu-%E8%A8%B1-405a73327/)（資訊管理與財務金融學系）、[黃以樂](https://www.linkedin.com/in/%E4%BB%A5%E6%A8%82-%E9%BB%83-780a01355/)、[吳冠霖](https://www.linkedin.com/in/%E5%86%A0%E9%9C%96-%E5%90%B3-ab3760346/)（應用數學系） — 2024 年 12 月至 2026 年 1 月
 3. 施又睿 — 2026 年 1 月
-4. 林羿辰 — 2026 年
+4. 林羿辰 — 2025 年 9 月至 2026 年 1 月
 5. [鄭有朋](https://www.linkedin.com/in/you-peng-zheng)、[王鳴謙](https://www.linkedin.com/in/ken-wang-b93285201)、[李語涵](https://www.linkedin.com/in/yu-han-li-559863258)、[吳珮慈](https://www.linkedin.com/in/patty-wu-hii)、許晉 — 資訊管理與財務金融學系，2024 年 7 月畢業<br>
    《探索比特幣回報分析的多面向驅動因素》
 6. 陳之怡、唐君亞、蔡昕妤 — 資訊管理與財務金融學系，2024 年 7 月畢業<br>
