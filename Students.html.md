@@ -26,7 +26,7 @@ title: Lab Members
 5. Fu-Chao Peng (Jimmy) — Information Management and Finance, since Jan 2026
 6. Jhih-Yi Chen (Claire) — Information Management and Finance, since Jan 2026, co-advised with [Prof. Chih-Yung Lin](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)
 7. Chun-Yu Lien (Tiffany) — Information Management and Finance, since Jan 2026, co-advised with [Prof. Chih-Yung Lin](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)
-8. Jun-Qi Chen (Nick) — Information Management and Finance, since Jan 2026, co-advised with [Prof. Shih-Yu Tsai](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20419&serno=bc92c6c7-c4a7-40b4-aa31-6025a945ee8a) and [Prof. Chih-Yung Lin](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)
+8. Jun-Qi Chen (Nick) — Information Management and Finance, since Jan 2026, co-advised with [Prof. Shih-Yu Tsai](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20419&serno=bc92c6c7-c4a7-40b4-aa31-6025a945ee8a)
 9. Cheng-Hao Liao (Bill) — Information Management and Finance, since Jan 2026
 10. Tran Minh Khoi (Michael) — Information Management and Finance, since Oct 2026
 

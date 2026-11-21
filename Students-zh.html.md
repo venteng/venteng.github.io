@@ -26,7 +26,7 @@ title: 實驗室成員
 5. 彭甫詔 — 資訊管理與財務金融學系，2026 年 1 月起
 6. 陳之怡 — 資訊管理與財務金融學系，2026 年 1 月起，與[林智勇教授](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)共同指導
 7. 連鈞宥 — 資訊管理與財務金融學系，2026 年 1 月起，與[林智勇教授](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)共同指導
-8. 陳俊錡 — 資訊管理與財務金融學系，2026 年 1 月起，與[蔡詩妤教授](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20419&serno=bc92c6c7-c4a7-40b4-aa31-6025a945ee8a)、[林智勇教授](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20414&serno=e9f25b42-d7d9-4efe-90ac-ceb2f4dd36fd)共同指導
+8. 陳俊錡 — 資訊管理與財務金融學系，2026 年 1 月起，與[蔡詩妤教授](https://imf.nycu.edu.tw/imf/ch/app/artwebsite/view?module=artwebsite&id=20419&serno=bc92c6c7-c4a7-40b4-aa31-6025a945ee8a)共同指導
 9. 廖承灝 — 資訊管理與財務金融學系，2026 年 1 月起
 10. 陳明魁 — 資訊管理與財務金融學系，2026 年 10 月起
 
